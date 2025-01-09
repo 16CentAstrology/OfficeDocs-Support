@@ -6,7 +6,6 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CI 113240
   - CSSTroubleshoot
@@ -16,7 +15,7 @@ appliesto:
   - Azure Active Directory
   - Azure
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Effect on customer websites and Microsoft services and products in Chrome version 80 or later

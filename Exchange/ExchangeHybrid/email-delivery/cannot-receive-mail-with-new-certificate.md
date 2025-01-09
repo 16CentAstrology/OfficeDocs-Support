@@ -1,16 +1,16 @@
 ---
 title: Can't receive mail if installing new certificate
 description: Describes an issue in which you don't receive mail and the STARTTLS command is missing on a hybrid server after you install a new certificate. Provides a solution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Mail Flow
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: trudolf
+ms.reviewer: trudolf, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2016 Enterprise Edition
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Can't receive mail in a hybrid environment after you install a new certificate on the server
 

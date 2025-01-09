@@ -5,14 +5,15 @@ author: helenclu
 manager: dcscontentpm
 search.appverid: 
   - MET150
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:App Bar and Navigation\Other
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "Couldn't connect to the catalog server for this app" error when you click a guest link to a SharePoint Online item

@@ -1,14 +1,14 @@
 ---
 title: Emails aren't delivered to all recipients
 description: Describes an issue in which email messages that are sent to a Dynamic Distribution Group aren't delivered to all recipients. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.reviewer: arindamt
+ms.reviewer: arindamt, v-six
 ms.custom: 
+  - sap:Mail Flow\Need Help with Configuring Mailflow, Mail routing (Connectors, Domains)
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -16,7 +16,7 @@ search.appverid:
 appliesto: 
   - Exchange Server 2016 Standard Edition
   - Exchange Server 2016 Enterprise Edition
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Email messages sent to a Dynamic Distribution Group aren't delivered to all recipients
 

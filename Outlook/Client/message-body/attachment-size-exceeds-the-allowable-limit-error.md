@@ -1,13 +1,13 @@
 ---
 title: Attachment size exceeds the allowable limit error
 description: Describes the circumstances surrounding an error that occurs when you add a large attachment to an email message in Outlook. Provides a resolution.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Data Protection and Security\Attachment administration and control
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: sercast
@@ -18,7 +18,7 @@ appliesto:
   - Outlook 2013
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Attachment size exceeds the allowable limit error when you add a large attachment to an email message in Outlook
 

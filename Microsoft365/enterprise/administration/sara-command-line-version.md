@@ -6,7 +6,6 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CI 148047
   - CSSTroubleshoot
@@ -15,12 +14,12 @@ ms.reviewer: gregmans; zebamehdi; meerak
 appliesto: 
   - Microsoft 365
 search.appverid: MET150
-ms.date: 10/26/2022
+ms.date: 03/14/2024
 ---
 # Enterprise version of Microsoft Support and Recovery Assistant
 
 > [!NOTE]  
-> This article is for Microsoft 365 administrators only. For help to diagnose and fix issues that affect Microsoft Office, Microsoft 365, or Microsoft Outlook on your computer, see [About the Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_Home).
+> This article is for Microsoft 365 administrators only. For help to diagnose and fix issues that affect Microsoft Office, Microsoft 365, or Microsoft Outlook on your computer, see [About Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_Home).
 
 The Enterprise version of Microsoft Support and Recovery Assistant is a self-contained, enterprise-ready diagnostic tool that you can use to troubleshoot specific client issues that affect Microsoft 365 apps, such as Microsoft Teams and Outlook. This version of the Assistant runs at a command line or through a script such as PowerShell. Administrators will find this version of the Assistant useful if they have to run it on computers in their organization remotely.
 
@@ -29,6 +28,9 @@ To resolve issues on a single computer, we recommend that you use the [full ve
 ## Supported scenarios
 
 You can use the Enterprise version of the Assistant to resolve issues for the following scenarios. Select a scenario for details about how to run it.
+
+> [!NOTE]
+> Microsoft Support and Recovery Assistant scenarios aren't available for new Outlook and new Teams.
 
 |Scenario|Description|\<Scenarioname\>|
 |---|---|---|
@@ -145,6 +147,15 @@ The following table provides the versions of the Enterprise version of the Assis
 
 |Release date|Version|
 |----------|-----------|
+|Sep 10, 2024|17.01.2300.000|
+|Jun 11, 2024|17.01.1903.000|
+|March 12, 2024|17.01.1602.000|
+|February 20, 2024|17.01.1440.000|
+|November 15, 2023|17.01.0987.011|
+|September 5, 2023|17.01.0495.021|
+|June 6, 2023|17.01.0268.003|
+|April 19, 2023|17.01.0040.005|
+|March 27, 2023|17.00.9941.009|
 |February 09, 2023|17.00.9663.009|
 |February 06, 2023|17.00.9663.003|
 |December 16, 2022|17.00.9467.006 |

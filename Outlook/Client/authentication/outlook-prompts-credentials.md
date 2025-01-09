@@ -1,13 +1,13 @@
 ---
 title: Outlook prompts for credentials
 description: After the password for your domain user account is changed, Outlook 2010 and Outlook 2013 may prompt you for your password. This article describes how to remove older saved credentials to make sure that Outlook uses your current Windows desktop credentials.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Network disconnects, password or credentials prompt
   - Outlook for Windows
   - CI 116784
   - CSSTroubleshoot
@@ -16,7 +16,7 @@ appliesto:
   - Outlook 2013
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Outlook continues to prompt for credentials after your domain password changes
 

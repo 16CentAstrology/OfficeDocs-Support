@@ -1,23 +1,23 @@
 ---
 title: Moving mailboxes to Exchange Server 2010 isn't supported
 description: You can't migrate Exchange Online mailboxes to Exchange Server 2010 in a hybrid deployment because Exchange Server 2010 has reached end of support.
-author: v-charloz
-ms.author: v-chazhang
+author: cloud-writer
+ms.author: meerak
 audience: ITPro
 ms.topic: troubleshooting
 manager: dcscontentpm
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration
   - CI 158896
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: meerak; rroddy; bradhugh; ninob
+ms.reviewer: meerak, rroddy, bradhugh, ninob, v-chazhang
 search.appverid: MET150
 appliesto: 
   - Exchange Online
   - Exchange Server 2010
   - MSfC O365-Exchange Online
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 
 # Can't move Exchange Online mailboxes to Exchange Server 2010

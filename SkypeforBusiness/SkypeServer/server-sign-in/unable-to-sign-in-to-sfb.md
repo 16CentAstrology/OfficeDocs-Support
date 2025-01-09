@@ -5,12 +5,12 @@ author: simonxjx
 ms.author: v-six
 ms.reviewer: corbinm
 manager: dcscontentpm
-localization_priority: Normal
 audience: Admin
 search.appverid: 
   - MET150
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.date: 04/17/2019
 appliesto: 
   - Skype for Business
@@ -28,7 +28,7 @@ To delete cached sign in credentials, use the Skype for Business scenario in the
 
 To manually fix this issue, follow these steps.
 
-### Step 1. Delete your Skype for Business sign-in info
+### Step 1: Delete your Skype for Business sign-in info
 
 1. In Skype for Business, click the down arrow next to the gear icon, select **File**, and then **Sign Out**.
 2. Click **Delete my sign-in info**.

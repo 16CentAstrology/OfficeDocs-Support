@@ -6,8 +6,8 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Teams Admin\
   - CI 145950
   - CSSTroubleshoot
 ms.reviewer: v-johrob, nickbear, grtaylo
@@ -16,7 +16,7 @@ appliesto:
   - Skype for Business Online
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 10/30/2023
 ---
 # Error when switching a tenant to Teams Only mode
 

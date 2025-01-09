@@ -1,16 +1,16 @@
 ---
 title: Remote mailbox not moved when move shows as Completed
 description: Describes that the Exchange Management Console in Exchange 2010 shows that an on-premises mailbox that you moved to Exchange Online completed successfully even though the mailbox isn't moved. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: v-mosha
+ms.reviewer: v-mosha, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2016 Enterprise Edition
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Remote mailbox is not moved from Exchange Server 2010 to Exchange Online when move shows as Completed
 

@@ -6,15 +6,15 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:User experience\Accessibility
   - CSSTroubleshoot
 ms.reviewer: 
 appliesto: 
   - SharePoint Server 2010
   - SharePoint Server 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # SharePoint Server doesn't support export/import of subsites with Publishing templates
 

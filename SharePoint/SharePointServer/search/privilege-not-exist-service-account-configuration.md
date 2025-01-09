@@ -3,7 +3,6 @@ title: Privilege not exist in service account configuration
 description: Describes an issue in which you receive A privilege that the service requires to function properly does not exist in the service account configuration error. Provides a solution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
@@ -11,11 +10,12 @@ ms.topic: troubleshooting
 ms.author: luche
 ms.reviewer: dakova, clake, v-thomr
 ms.custom: 
+  - sap:Search\Search Administration (Setup, configuration, etc)
   - CSSTroubleshoot
   - CI 110752
 appliesto: 
   - FAST Search Server 2010 for SharePoint
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "A privilege that the service requires to function properly does not exist in the service account configuration" error in FAST Search Server 2010 for SharePoint

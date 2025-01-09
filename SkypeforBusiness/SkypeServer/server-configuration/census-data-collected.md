@@ -3,19 +3,19 @@ title: Census data is now collected for all Lync 2013 and Skype for Business 201
 description: Describes the December 8, 2015, security update for Skype for Business 2016 and 2013. This update enables a new category of client telemetry (Census) data collection on all Skype clients.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: corbinm, arianr, nsuter
 appliesto: 
   - Lync 2013
   - Skype for Business 2015
   - Skype for Business 2016
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Census data is now collected for all Lync 2013 (Skype for Business) and Skype for Business 2016 clients

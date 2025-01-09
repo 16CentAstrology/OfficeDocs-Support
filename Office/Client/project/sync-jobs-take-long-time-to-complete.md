@@ -3,18 +3,18 @@ title: Project Server Sync Jobs take a long time to complete
 description: Explains why sync jobs can take a long time and how to mitigate the issue.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Project Server 2013
   - Project Server 2010
   - Microsoft Office Project Server 2007
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Project Server Sync Jobs take a long time to complete and users get Access Denied

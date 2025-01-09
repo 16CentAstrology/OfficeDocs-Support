@@ -6,8 +6,8 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Teams and Channels\Managing Teams
   - CI 141869
   - CSSTroubleshoot
 ms.reviewer: 
@@ -15,7 +15,7 @@ appliesto:
   - Microsoft Teams
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 10/30/2023
 ---
 # You don't see team members after your account is re-enabled
 

@@ -6,15 +6,15 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Reliability, Perf, and Throttling\429 or User throttle
   - CI113890
   - CSSTroubleshoot
 ms.reviewer: salarson, prbalusu
 appliesto: 
   - SharePoint Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Unable to access SharePoint Online

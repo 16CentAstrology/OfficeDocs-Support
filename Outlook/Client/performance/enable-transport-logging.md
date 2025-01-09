@@ -1,15 +1,15 @@
 ---
 title: How to enable transport logging in Outlook
 description: Explains how to enable logging of the communications that occur between Outlook and various types of e-mail servers in plain text format. Lists the location of the log file on different operating systems.
-author: helenclu
+author: cloud-writer
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: luche
+ms.author: meerak
 ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Other
   - Outlook for Windows
   - CSSTroubleshoot
 appliesto: 
@@ -19,7 +19,7 @@ appliesto:
   - Outlook 2010
   - Office Outlook 2007
   - Office Outlook 2003
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 
 # How to enable transport logging in Outlook

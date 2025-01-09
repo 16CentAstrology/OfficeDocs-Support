@@ -4,14 +4,15 @@ description: This article explains how to resolve the Microsoft Forms error "Sor
 author: helenclu
 ms.author: luche
 ms.reviewer: remcgurk
-ms.date: 02/17/2022
+ms.date: 12/17/2023
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: sap:spsexperts, CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\InfoPath Forms Service
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
   - Microsoft Forms
@@ -37,7 +38,7 @@ You may see the following error in a web traffic trace captured when the error o
 To resolve this issue, enable the **Office Hive / CollabDBService** service for Microsoft Forms with the following steps:
 
 1. Sign in to [Microsoft Azure](https://portal.azure.com/).
-2. In the left pane, select **Azure Active Directory**.
+2. In the left pane, select **Microsoft Entra ID**.
 3. Select **Enterprise Applications**.
 4. Select the **X** next to the **Application Type == EnterpriseApplications** option to remove the filter.
 5. In the **Search** field, type **Office Hive**.

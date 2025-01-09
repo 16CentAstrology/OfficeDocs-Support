@@ -1,20 +1,21 @@
 ---
 title: Can't remove the access control entry
 description: You can't remove mailbox permissions by using the Remove-ADPermission or Remote-MailboxPermission cmdlet for Office 365 dedicated/ITAR customers. Provides a workaround.
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
 ms.custom: 
+  - sap:Recipients management
   - Exchange Online
   - CSSTroubleshoot
-ms.author: v-six
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft Exchange Online Dedicated
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Can't remove mailbox permissions in Office 365 dedicated/ITAR
 

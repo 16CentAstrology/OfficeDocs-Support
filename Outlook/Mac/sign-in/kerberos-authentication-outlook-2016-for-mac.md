@@ -1,13 +1,13 @@
 ---
 title: Use Kerberos authentication with Outlook 2016 for Mac
-ms.author: luche
-author: helenclu
+ms.author: meerak
+author: cloud-writer
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.collection: Ent_Office_Outlook
 ms.custom: 
+  - sap:Connectivity
   - Outlook for Mac
   - CSSTroubleshoot
 description: Provides information for IT Pros about using Kerberos authentication with Outlook 2016 for Mac
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2016 for Mac
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 
 # Use Kerberos authentication with Outlook 2016 for Mac

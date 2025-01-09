@@ -3,16 +3,16 @@ title: Microsoft 365 users aren't signed in to Office through AD accounts
 description: Describes an issue that prevents Microsoft 365 users from being automatically signed in to an Office app through their Active Directory account after they sign out of the app. Provides a workaround.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
   - Azure Active Directory
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Microsoft 365 users aren't automatically signed into an Office app through Active Directory accounts after they sign out
@@ -44,4 +44,4 @@ Delete the SignedOutADUser registry key. To do this, follow these steps:
 
 ## More information
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread)website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread)website.

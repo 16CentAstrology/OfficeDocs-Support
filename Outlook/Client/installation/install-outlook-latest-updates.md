@@ -1,13 +1,13 @@
 ---
 title: Install the latest applicable updates for Outlook
 description: Describes the most recent updates and service packs that apply to Outlook. Because some Outlook functionalities are dependent on Word and Office components, updates for those applications are also listed in this article.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Install, Update, Activate, and Deploy\Update
   - Outlook for Windows
   - CI 116784
   - CSSTroubleshoot
@@ -19,7 +19,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # How to install the latest applicable updates for Microsoft Outlook (US English only)
 

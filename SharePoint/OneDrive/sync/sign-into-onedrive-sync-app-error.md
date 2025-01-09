@@ -6,7 +6,6 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CI 164144
   - CSSTroubleshoot
@@ -16,7 +15,7 @@ appliesto:
 search.appverid: 
   - MET150
   - SPO160
-ms.date: 6/14/2022
+ms.date: 12/17/2023
 ---
 # Error AADSTS50020 when signing in to the OneDrive sync app
 

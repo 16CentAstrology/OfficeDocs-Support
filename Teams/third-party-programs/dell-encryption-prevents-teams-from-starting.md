@@ -2,17 +2,17 @@
 title: Teams doesn't start with Dell Encryption
 ms.author: luche
 author: helenclu
-ms.date: 4/9/2020
+ms.date: 10/30/2023
 audience: ITPro
 ms.topic: troubleshooting
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
 ms.custom: 
+  - sap:Teams Security and Compliance (Retention, etc)\
   - CI 113425
   - CSSTroubleshoot
 ms.reviewer: scapero

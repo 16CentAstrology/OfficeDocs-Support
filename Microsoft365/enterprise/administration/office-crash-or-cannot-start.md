@@ -3,13 +3,13 @@ title: Office Applications crash or cannot start
 description: Workarounds an issue that Office applications crash or cannot start.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Excel 2016
   - Outlook 2016
@@ -20,7 +20,7 @@ appliesto:
   - Access 2016
   - OneNote 2016
   - Project Standard 2016
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Office Applications crash or cannot start

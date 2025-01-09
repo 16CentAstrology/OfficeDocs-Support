@@ -1,13 +1,13 @@
 ---
 title: Cannot recover deleted items from non-mail public folder
 description: Discusses an issue in which the Recover Deleted Items option does not appear in Outlook. Provides a workaround.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\Public folders
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: aruiz
@@ -16,7 +16,7 @@ appliesto:
   - Outlook 2016
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # You can't recover deleted items from a non-mail public folder in Outlook 2016
 

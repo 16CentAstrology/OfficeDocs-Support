@@ -3,17 +3,17 @@ title: Calls to UM Auto Attendant fail
 description: Discusses a problem in which calls to UM Auto Attendant fail when custom greetings are used. Provides several workarounds.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: seemarah; corbinm; mshaikh
 appliesto: 
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Calls to UM Auto Attendant fail when custom greetings are used

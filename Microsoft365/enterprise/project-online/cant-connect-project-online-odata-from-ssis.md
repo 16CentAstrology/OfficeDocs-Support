@@ -3,16 +3,16 @@ title: Cannot create SSL/TLS secure channel when for Project Online OData from S
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 description: OData Connection to Project Online from SSIS is failing if TLS is not enabled.
 appliesto: 
   - Project Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # You can't connect to Project Online OData from SSIS

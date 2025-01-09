@@ -1,11 +1,12 @@
 ---
 title: Troubleshoot Remove an alias from a mail-enabled security group
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: Admin
 ms.topic: troubleshooting
 ms.custom: 
+  - sap:Recipients management
   - Exchange Online
   - CSSTroubleshoot
 f1_keywords: 
@@ -13,7 +14,6 @@ f1_keywords:
   - 'O365M_AdminMESG_TSAlias'
   - 'O365E_AdminMESG_TSAlias'
   - 'AdminMESG_TSAlias'
-localization_priority: Normal
 ms.collection: 
   - M365-subscription-management
   - Adm_O365
@@ -23,7 +23,8 @@ search.appverid:
   - MOE150
 ms.assetid: 2e48210f-f725-451d-b71f-d56f27a947d3
 description: Learn how to remove an email alias from a mail-enabled security group using Exchange Online PowerShell.
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Troubleshoot: Remove an alias from a mail-enabled security group
 

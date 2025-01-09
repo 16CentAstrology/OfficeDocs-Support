@@ -4,18 +4,19 @@ description: Describes how to resolve a 'Sorry, something went wrong' error on a
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: Admin
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:User experience\Webpart infrastructure
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
   - SharePoint Designer
   - SharePoint Foundation
   - SharePoint Server
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "Sorry, something went wrong" error on a Site Page with a Pages library web part added

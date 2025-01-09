@@ -3,18 +3,19 @@ title: (Specified RunAs account is invalid) error when configuring workflow mana
 description: Describes an issue in which the service account does not work with another domain\user except the administrator user in Workflow Manager 1.0.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Workflows\Classic Workflow Manager
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Server 2013
   - Workflow Manager 1.0
 ms.reviewer: valerieg, christys
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # (Specified RunAs account is invalid) error when you configure Workflow Manager 1.0
 

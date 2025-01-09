@@ -3,18 +3,19 @@ title: Incomplete search results for choice type columns with multiple values
 description: Fixes an issue in which incomplete search results for choice type columns with multiple values.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Search\Search results, queries, and syntax
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - SharePoint Foundation 2013
   - SharePoint Server 2013
   - Microsoft SharePoint Server 2013 Service Pack 1
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Incomplete search results for choice type columns with multiple values  

@@ -13,7 +13,7 @@ metadata:
   audience: ITPro
   author: helenclu #Required; your GitHub user alias, with correct capitalization.
   ms.author: luche #Required; microsoft alias of author; optional team alias.
-  ms.date: 07/03/2019 #Required; mm/dd/yyyy format.
+  ms.date: 10/30/2023 #Required; mm/dd/yyyy format.
 
 # productDirectory section (optional)
 productDirectory:
@@ -27,7 +27,7 @@ productDirectory:
           text: Microsoft 365 Enterprise
         - url: /microsoft-365/troubleshoot/o365-admin-welcome
           text: Microsoft 365 admin center
-        - url: /microsoft-365/troubleshoot/microsoft-365-compliance-welcome
+        - url: /microsoft-365/troubleshoot/microsoft-purview-welcome
           text: Microsoft Purview
         - url: /microsoft-365/troubleshoot/microsoft-365-security-welcome
           text: Microsoft 365 Security
@@ -38,12 +38,12 @@ productDirectory:
         - url: ./teams-welcome.yml
           text: Microsoft Teams
     # Card
-    - title: Microsoft 365 apps
+    - title: Microsoft 365 Apps
       # imageSrc should be square in ratio with no whitespace
       imageSrc: /support/media/hub-landing/logo-m365-app.png
       links:
         - url: /office/troubleshoot/office-client-welcome
-          text: Microsoft 365 apps (Office products)
+          text: Microsoft 365 Apps (Office products)
         - url: /office/troubleshoot/office-experts-welcome
           text: From the Office Experts
     # Card
@@ -74,8 +74,6 @@ productDirectory:
       links:
         - url: /skypeforbusiness/troubleshoot/skype-server-welcome
           text: Skype for Business Server
-        - url: /skypeforbusiness/troubleshoot/skype-online-welcome
-          text: Skype for Business Online
         - url: /skypeforbusiness/troubleshoot/skype-hybrid-welcome
           text: Skype for Business Hybrid
         - url: /skypeforbusiness/troubleshoot/skype-experts-welcome
@@ -100,18 +98,24 @@ productDirectory:
     - title: Microsoft Viva
       imageSrc: /support/media/hub-landing/logo-viva.png
       links:
+        - url: /viva/troubleshoot/connections/viva-connections-welcome
+          text: Microsoft Viva Connections
+        - url: /viva/troubleshoot/engage/viva-engage-welcome
+          text: Microsoft Viva Engage
+        - url: /viva/troubleshoot/glint/viva-glint-welcome
+          text: Microsoft Viva Glint
+        - url: /viva/troubleshoot/insights/viva-insights-welcome
+          text: Microsoft Viva Insights
+   # Card
+    - title: Microsoft Viva
+      imageSrc: /support/media/hub-landing/logo-viva.png
+      links:
         - url: /viva/troubleshoot/learning/viva-learning-welcome
           text: Microsoft Viva Learning
-        - url: /viva/troubleshoot/connections/viva-connections-welcome
-          text: Microsoft Viva Connections       
-    # Card
-    - title: Microsoft Endpoint Manager
-      imageSrc: /media/logos/logo-ms-social.png
-      links:
-        - url: /troubleshoot/mem/configmgr/welcome-configuration-manager
-          text: Configuration Manager
-        - url: /troubleshoot/mem/intune/welcome-intune
-          text: Microsoft Intune
+        - url: /viva/troubleshoot/pulse/viva-pulse-welcome
+          text: Microsoft Viva Pulse  
+        - url: /viva/troubleshoot/viva-suite-administration/viva-suite-administration-welcome
+          text: Microsoft Viva Suite Administration
 
 # additionalContent section (optional)
 # Card with summary style

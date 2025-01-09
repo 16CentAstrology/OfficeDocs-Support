@@ -3,17 +3,17 @@ title: Error when you create databases by using the Install-CsDatabase cmdlet
 description: Fixes an issue in which you receive an error message when you run the Install-CsDatabase cmdlet. This issue occurs when you try to create databases in a Lync Server 2013 environment.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
 ms.reviewer: miadkins
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Lync Server 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Error when you create databases by using the Install-CsDatabase cmdlet in Lync Server 2013

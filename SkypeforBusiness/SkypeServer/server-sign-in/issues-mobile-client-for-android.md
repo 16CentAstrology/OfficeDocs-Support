@@ -3,16 +3,16 @@ title: Issues when you use the Lync 2010 mobile client for Google Android
 description: Describes how to troubleshoot common issues that affect the Lync 2010 mobile client for Google Android mobile devices.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Skype for Business Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How to troubleshoot issues that you may encounter when you use the Lync 2010 mobile client for Google Android

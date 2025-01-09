@@ -3,17 +3,17 @@ title: Need an assigned license in order to retain an Exchange Online mailbox
 description: Discusses a scenario in which you receive a One or more users need an assigned license in order to retain an Exchange Online mailbox or archive message when you view the Users page of the Microsoft 365 portal. A resolution is provided.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - Exchange Online
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # You receive a "One or more users need an assigned license in order to retain an Exchange Online mailbox or archive" message on the Users page of the Microsoft 365 portal
@@ -44,6 +44,6 @@ NoteTo assign a license to a user, double-click the user. On the "Assign license
 
 ## More information
 
-Users must be assigned a license, or the mailbox is deleted. From the time that the user mailbox is created in the Exchange admin center, admins have 60 days to assign the user a license in the Microsoft 365 portal.
+Users must be assigned a license, or the mailbox is deleted. From the time that the user mailbox is created in the Exchange admin center, admins have 30 days to assign the user a license in the Microsoft 365 portal.
 
 Still need help? Go to [Microsoft Community](https://answers.microsoft.com/).

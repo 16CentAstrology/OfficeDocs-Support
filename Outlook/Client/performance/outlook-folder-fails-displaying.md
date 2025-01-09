@@ -1,13 +1,13 @@
 ---
 title: Outlook has insufficient memory to display a folder
 description: Fixes an issue in which Outlook folder can't be displayed because of insufficient memory. This issue occurs more frequently if you use add-ins in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:User Interface features and Configuration\Folder views
   - Outlook for Windows
   - CI 112697
   - CSSTroubleshoot
@@ -18,7 +18,7 @@ appliesto:
   - Outlook 2016
   - Outlook 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 
 # "There is not enough free memory to run this program" error in Outlook

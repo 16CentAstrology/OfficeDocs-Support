@@ -1,20 +1,20 @@
 ---
 title: How to use Cdosys.dll to send emails with attachments
 description: Describes how to use the CDO library to send an e-mail message with attachments. You can send text, HTML, or a Web page in the body of the e-mail message by using Visual C#.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Developer Issues\Add-in errors
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: 
 appliesto: 
   - Outlook
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # How to use the Cdosys.dll library to send an e-mail message with attachments
 

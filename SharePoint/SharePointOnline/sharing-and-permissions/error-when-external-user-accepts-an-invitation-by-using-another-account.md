@@ -3,16 +3,18 @@ title: Error message when an external user accepts a SharePoint Online invitatio
 description: Describes an issue in which you receive an error message when an external user accepts a SharePoint Online invitation by using another account.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Sharing\Sharing with external
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Error when an external user accepts a SharePoint Online invitation by using another account
@@ -181,9 +183,9 @@ The steps below remove the external user's ability to access SharePoint Online. 
    > [!NOTE]
    > Replace live.com#jondoe@company.com with the user in your scenario.
 
-Next, you have to remove the account from Azure Active Directory:
+Next, you have to remove the account from Microsoft Entra ID:
 
-1. Download and install the Azure Active Directory PowerShell Module and its prerequisites. To this, go to [Manage Azure AD using Windows PowerShell](/previous-versions/azure/jj151815(v=azure.100)).
+1. Download and install the Azure Active Directory PowerShell Module and its prerequisites. To this, go to [Manage Microsoft Entra ID using Windows PowerShell](/previous-versions/azure/jj151815(v=azure.100)).
 
 2. Open the Azure Active Directory PowerShell Module, and then run the following commands:
 

@@ -1,16 +1,16 @@
 ---
 title: Cannot access shared calendar for hidden mailbox
 description: Describes a scenario in which you can't access another user's calendar by using Outlook if that user's mailbox is hidden from the GAL. Provides workarounds.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Calendaring
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: alinastr
+ms.reviewer: alinastr, v-six
 appliesto: 
   - Exchange Online
   - Windows 7 Starter N
@@ -20,7 +20,7 @@ appliesto:
   - Outlook 2010
   - Microsoft 365 Apps for enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # You can't access a shared calendar by using Outlook for a hidden mailbox
 

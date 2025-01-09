@@ -6,7 +6,6 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CI 160266
   - CSSTroubleshoot
@@ -14,7 +13,7 @@ ms.reviewer: jmartin, aruiz
 appliesto: 
   - Microsoft 365 for enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Error when accessing applications from iOS devices
@@ -39,7 +38,7 @@ To resolve this issue, determine which Conditional Access policy causes the erro
 
 Here's how to identify the problematic Conditional Access policy:
 
-1. In the error message, select **More details** to open the Azure Active Directory **Sign-in logs**.
+1. In the error message, select **More details** to open the Microsoft Entra ID **Sign-in logs**.
 1. To see the **Request ID** of the failed request, select **User sign-ins (interactive)**.
 
     :::image type="content" source="media/cannot-access-application-from-ios-device/sign-in-details.png" alt-text="Screenshot of the sign-in log in which the Request ID of the failed request is highlighted.":::

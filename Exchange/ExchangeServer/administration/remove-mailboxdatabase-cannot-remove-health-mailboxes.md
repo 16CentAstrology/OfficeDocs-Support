@@ -1,23 +1,23 @@
 ---
 title: Remove MailboxDatabase cannot clean up health mailboxes
 description: Health mailboxes cannot be cleaned up by running the Remove-MailboxDatabase cmdlet in Exchange Server 2016 and 2013. Provides a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:High Availability, Health, Performance, Content Indexing\Health set unhealthy
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: batre, genli
+ms.reviewer: batre, genli, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Remove MailboxDatabase operation fails to clean up health mailboxes
 

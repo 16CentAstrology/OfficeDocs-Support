@@ -3,18 +3,19 @@ title: Microsoft Teams user cannot send a message in Skype for Business
 description: Describes reasons that cause a Skype for Business message not to be sent when you use Microsoft Teams.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
 ms.reviewer: dahans, cbland
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Teams Chat (Messaging)\One:One Chats
+  - CSSTroubleshoot
 appliesto: 
   - Skype for Business Online
   - Teams
-ms.date: 3/31/2022
+ms.date: 10/30/2023
 ---
 
 # Microsoft Teams user cannot send a message in Skype for Business

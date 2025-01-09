@@ -3,18 +3,19 @@ title: The HDMI ingest status of a Teams Rooms device is Unhealthy
 description: Resolve the issue that causes the HDMI ingest signal of a Microsoft Teams Rooms device to appear as Unhealthy.
 ms.reviewer: joolive
 ms.topic: troubleshooting
-ms.date: 9/23/2022
+ms.date: 10/30/2023
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
 audience: Admin
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
-ms.custom: CI167102
+ms.custom: 
+  - sap:MTR Pro
+  - CI167102
 ---
 # The HDMI ingest status is Unhealthy
 

@@ -3,13 +3,14 @@ title: We could not verify your account when reset admin password in Microsoft 3
 description: Describes a scenario where you receive an error message when you try to reset your admin password in Microsoft 365, Microsoft Intune, or Azure.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 appliesto: 
   - Cloud Services (Web roles/Worker roles)
   - Azure Active Directory
@@ -17,7 +18,7 @@ appliesto:
   - Azure Backup
   - Microsoft 365
   - User and Domain Management
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "We could not verify your account" error when you try to reset your admin password in Microsoft 365, Intune, or Azure
@@ -36,7 +37,7 @@ When you try to reset your admin password for a Microsoft cloud service such as 
 
 ## Cause 
 
-This issue occurs if the UsageLocation parameter isn't set for your user account in Azure Active Directory (Azure AD). Self-service password reset for admins doesn't work if the UsageLocation parameter isn't set.
+This issue occurs if the UsageLocation parameter isn't set for your user account in Microsoft Entra ID. Self-service password reset for admins doesn't work if the UsageLocation parameter isn't set.
 
 ## Solution 
 
@@ -56,10 +57,12 @@ Work with another admin to set your user location. Or, after you're able to sign
 2. Go to **users and groups**, and then select the admin account.   
 3. Go to **settings**.   
 4. Under **Set user location**, select the region where you're located.    
-Or, you can use the Set-MsolUser Azure Active Directory Module for Windows PowerShell cmdlet together with the UsageLocation parameter to set your user location.
+Or, you can use the Set-MsolUser Azure Active Directory module for Windows PowerShell cmdlet together with the UsageLocation parameter to set your user location.
+
+[!INCLUDE [Azure AD PowerShell deprecation note](../../../includes/aad-powershell-deprecation-note.md)]
 
 ## More information
 
 For more info about the Set-MsolUser cmdlet, see [Set-MsolUser](/previous-versions/azure/dn194136(v=azure.100)).
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.

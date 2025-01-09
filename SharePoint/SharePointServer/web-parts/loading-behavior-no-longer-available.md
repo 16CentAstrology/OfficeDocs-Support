@@ -6,8 +6,8 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:User experience\Webpart infrastructure
   - CSSTroubleshoot
 ms.reviewer: 
 appliesto: 
@@ -15,7 +15,7 @@ appliesto:
   - SharePoint Server 2013
   - SharePoint Server 2016
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # Loading behavior no longer available in SharePoint Search Results Web Part properties
 

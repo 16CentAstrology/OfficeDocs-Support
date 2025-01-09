@@ -4,8 +4,9 @@ description: Provides a resolution for when you see an error message the first t
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Install, Update, Activate, and Deploy\Errors during installation
+  - CSSTroubleshoot
 appliesto:
 - Outlook for Microsoft 365
 - Outlook 2021
@@ -18,7 +19,7 @@ author: cloud-writer
 ms.author: meerak
 search.appverid: MET150
 ms.reviewer: pedrocorreia, gbratton
-ms.date: 6/23/2022
+ms.date: 01/30/2024
 ---
 # Outlook displays an error message on first start
 
@@ -34,7 +35,7 @@ This error occurs if your Windows user profile contains a unicode character as s
 
 :::image type="content" source="media/outlook-displays-error-message-on-first-start/unicode-characters-in-user-profile-name.png" alt-text="Screenshot of the path to a Windows user profile name that has unicode characters." border="false":::
 
-If your Windows device is AzureAD-joined and you sign in to Windows with your AzureAD account, your Windows user profile will be built with your AzureAD display name. If your AzureAD display name includes a unicode character, it will be used in your Windows user profile name as well.
+If your Windows device is joined to Microsoft Entra ID and you sign in to Windows with your Entra ID account, your Windows user profile is built with your Entra ID display name. If your Entra ID display name includes a unicode character, it's used in your Windows user profile name as well.
 
 ## Resolution
 
@@ -48,5 +49,6 @@ To resolve this issue, change your regional settings.
 
 1. Select **OK** and when prompted, restart Windows.
 1. Open Outlook. It should start without displaying the error message.
-1. Open the **Region Settings** dialog box again, uncheck the check box for **Beta: Use Unicode UTF-8 for worldwide language support** and restart your computer.
-<br> This step is recommended to avoid potential compatibility issues between the beta option and the applications installed on your computer.
+1. Open the **Region Settings** dialog box again, clear the check box for **Beta: Use Unicode UTF-8 for worldwide language support** and restart your computer.
+
+   **Note**: This step is recommended to avoid potential compatibility issues between the beta option and the applications installed on your computer.

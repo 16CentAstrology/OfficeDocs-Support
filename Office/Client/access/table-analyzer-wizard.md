@@ -3,7 +3,6 @@ title: How Table Analyzer Wizard works
 description: Provides information about how to run the Table Analyzer Wizard and how the Table Analyzer Wizard works.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 ms.custom: 
   - CI 111294
   - CSSTroubleshoot
@@ -17,7 +16,7 @@ appliesto:
   - Access 2007
   - Access 2003
   - Access 2002
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How the Table Analyzer Wizard works

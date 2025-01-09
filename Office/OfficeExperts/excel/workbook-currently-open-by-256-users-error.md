@@ -3,11 +3,14 @@ title: Error (The workbook is currently open by 256 users) when opening an Excel
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 9/11/2019
+ms.date: 06/06/2024
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: sap:office-experts, CSSTroubleshoot, CI 106765
+ms.custom: 
+  - Open\Sharing
+  - sap:office-experts
+  - CSSTroubleshoot
+  - CI 106765
 search.appverid: 
   - SPO160
   - MET150

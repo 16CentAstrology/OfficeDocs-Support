@@ -1,13 +1,13 @@
 ---
 title: Error when decrypting message via 3DES certificate
 description: Discusses a problem that occurs in Outlook when you try to decrypt a message by using a 3DES certificate but the default algorithm encryption is set to AES256. Provides a resolution.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Data Protection and Security\Digitally-encrypted email messages
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: tasitae, gbratton
@@ -16,7 +16,7 @@ appliesto:
   - Outlook 2016
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Your Digital ID name cannot be found error when decrypting a message by using a 3DES certificate
 

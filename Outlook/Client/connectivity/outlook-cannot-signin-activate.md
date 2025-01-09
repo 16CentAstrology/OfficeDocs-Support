@@ -1,16 +1,16 @@
 ---
 title: Can't sign in or activate Outlook and Microsoft 365 applications
 description: Provide two resolutions to an issue in which Microsoft 365 applications can't complete activation or connect to Microsoft 365 services.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.reviewer: aruiz
 ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Network disconnects, password or credentials prompt
   - Outlook for Windows
   - CSSTroubleshoot
   - CI 124876
@@ -19,7 +19,7 @@ appliesto:
   - Outlook 2019
   - Outlook 2016
   - Outlook 2013
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 
 # Can't sign in or activate Outlook and Microsoft 365 applications

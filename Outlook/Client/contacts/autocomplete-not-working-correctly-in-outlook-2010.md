@@ -1,20 +1,20 @@
 ---
 title: AutoComplete not working correctly
 description: AutoComplete not working correctly? Fix AutoComplete not working with a few clicks of the mouse.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:People or Contacts\Nickname cache
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: 
 appliesto: 
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # AutoComplete not working correctly in Outlook 2010
 

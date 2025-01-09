@@ -3,12 +3,13 @@ title: Fix pending state issue with Directory synchronization for Microsoft 365,
 description: Provides resolution to the pending state issue with directory synchronization for Microsoft 365, Azure, or Intune
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.author: luche
 ms.reviewer: ericta, andypunt, v-lanac
 appliesto: 
@@ -16,7 +17,7 @@ appliesto:
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365 Identity Management
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Fix pending state issue with Directory synchronization for Microsoft 365, Azure, or Intune
 
@@ -44,9 +45,11 @@ You experience one of the following symptoms in a Microsoft cloud service such a
 
 This issue may occur if directory synchronization isn't completely activated or deactivated. It may take up to 72 hours for activation or deactivation to finish.
 
-To determine whether directory synchronization is activated or deactivated, follow these steps by using the Azure Active Directory Module for Windows PowerShell:
+[!INCLUDE [Azure AD PowerShell deprecation note](../../../includes/aad-powershell-deprecation-note.md)]
 
-1. Select **Start**, type **Azure Active Directory Module for Windows PowerShell** in the search box, and then select **Azure Active Directory Module for Windows PowerShell**.
+To determine whether directory synchronization is activated or deactivated, follow these steps by using the Azure Active Directory module for Windows PowerShell:
+
+1. Select **Start**, type **Azure Active Directory module for Windows PowerShell** in the search box, and then select **Azure Active Directory module for Windows PowerShell**.
 1. Type the following cmdlets in the order in which they are presented. Make sure that you press Enter after you type each cmdlet.
 
     - `$cred = get-credential`
@@ -93,4 +96,4 @@ If directory synchronization isn't activated or deactivated after the expected t
 
 For more information about how to enable directory synchronization in Microsoft 365, Azure, and Intune, see [Prepare for directory synchronization to Microsoft 365](/office365/enterprise/prepare-for-directory-synchronization).
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowsazuread) website.

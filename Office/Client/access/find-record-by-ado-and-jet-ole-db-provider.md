@@ -3,7 +3,6 @@ title: Find a record by using ADO and Jet OLE DB provider
 description: Lists a method of using ActiveX Data Objects (ADO) and OLE DB provider to find records in a Microsoft Jet database. To do this, you should be familiar with the Visual Basic programming, also have some knowledge of ADO and OLE DB provider.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 ms.custom: 
   - CI 111294
   - CSSTroubleshoot
@@ -16,7 +15,7 @@ appliesto:
   - Access 2007
   - Access 2003
   - Access 2002
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How to find a record using ADO and Jet OLE DB provider

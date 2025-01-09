@@ -6,8 +6,8 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
-localization_priority: Normal
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: suesch
 search.appverid: 
   - MET150
@@ -16,7 +16,7 @@ appliesto:
   - Access 2013
   - Access for Microsoft 365
   - Access 2019
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Access freezes when you open a linked table to a SharePoint list
@@ -100,4 +100,4 @@ Public Function TableRelinkSample()
 
 4. Call the **TableRelinkSample()** function from the AutoExec macro or other startup code in the database.
 
-   [TableDef.RefreshLink Method (DAO)](https://msdn.microsoft.com/library/office/ff198349.aspx)    
+   [TableDef.RefreshLink Method (DAO)](https://msdn.microsoft.com/library/office/ff198349.aspx)

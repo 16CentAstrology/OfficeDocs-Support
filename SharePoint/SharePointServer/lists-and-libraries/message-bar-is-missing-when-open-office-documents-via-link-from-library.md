@@ -3,20 +3,21 @@ title: Office documents opened via a hyperlink from SharePoint document librarie
 description: Describes an issue where Server Message bar is missing for Office documents opened via a hyperlink. Provides a solution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Files and Documents
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Foundation 2010
   - SharePoint Server 2010
   - Office Professional 2010
   - Office Professional Plus 2010
   - Office Standard 2010
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Server Message bar is missing for Office documents opened via a hyperlink

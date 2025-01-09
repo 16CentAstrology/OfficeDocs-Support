@@ -5,15 +5,15 @@ author: helenclu
 ms.author: luche
 ms.reviewer: warrenr
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - InfoPath 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # InfoPath 2013 crashes when you connect to an Access database

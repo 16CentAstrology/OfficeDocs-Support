@@ -3,17 +3,18 @@ title: ContractFilter error when querying from the non-Default zone in a SharePo
 description: Fixes an issue in which you receive a ContractFilter error when you run a query from the non-Default zone in a SharePoint Server 2013 or 2016 farm.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Search\Search results, queries, and syntax
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - SharePoint Server 2016
   - SharePoint Server 2013
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # ContractFilter error when querying from the non-default zone in a farm  

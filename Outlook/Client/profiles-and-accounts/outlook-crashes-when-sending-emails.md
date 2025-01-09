@@ -4,15 +4,16 @@ description: Provides a resolution for the issue that Outlook crashes when you t
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Crash using Outlook
+  - CSSTroubleshoot
 appliesto:
 - Outlook
 search.appverid: MET150
-ms.reviewer: gregmans, dthayer
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: gregmans, dthayer, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Outlook crashes when trying to send emails because of a nonexistent delivery location setting in your profile
 

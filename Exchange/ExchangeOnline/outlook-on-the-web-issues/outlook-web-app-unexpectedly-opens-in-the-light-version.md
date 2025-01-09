@@ -1,20 +1,20 @@
 ---
 title: Outlook Web App opens in the light version
 description: Discusses a scenario in Microsoft 365 in which Outlook Web App opens in the light version even though the user is using a web browser that supports the comprehensive set of features that are available in the standard version of Outlook Web App.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Outlook on the web / OWA
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: jhayes
+ms.reviewer: jhayes, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Outlook Web App opens in the light version when it's used in Microsoft 365 even though the user has a supported web browser
 

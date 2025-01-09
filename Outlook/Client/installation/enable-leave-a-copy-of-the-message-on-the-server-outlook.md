@@ -1,13 +1,13 @@
 ---
 title: Leave a copy of the message on the server is missing in Outlook
 description: How to enable the Leave a Copy of the Message on the Server options in Outlook 2010 and later versions.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Install, Update, Activate, and Deploy\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: v-kimhal
@@ -19,7 +19,7 @@ appliesto:
   - Outlook for Microsoft 365
   - Outlook 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Leave a copy of the message on the server is missing in Outlook
 

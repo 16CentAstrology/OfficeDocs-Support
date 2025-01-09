@@ -3,20 +3,20 @@ title: Prevent Lync Server certificate expiration
 description: Describes how to prevent Lync Server certificate expiration.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
 ms.reviewer: miadkins
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Lync Server 2010 Standard Edition
   - Lync Server 2010 Enterprise Edition
   - Lync Server 2010
   - Group ChatLync Server 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Preventing Lync Server certificate expiration
