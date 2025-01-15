@@ -1,13 +1,13 @@
 ---
 title: Outlook shows Disconnected in status bar
 description: Describes the error messages that are caused by the trailing space in the legacyExchangeDN attribute in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Network disconnects, password or credentials prompt
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: robevans, Eduardo.Oliveira, sfellman
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2016
   - Outlook 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Outlook shows Disconnected in status bar if the last character in legacyExchangeDN is a space
 

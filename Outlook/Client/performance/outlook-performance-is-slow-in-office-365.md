@@ -4,8 +4,9 @@ description: Describes performance issues that occur when you use Outlook in a M
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Exchange Mailbox Accounts\Slow to connect or access mailbox
+  - CSSTroubleshoot
 appliesto:
 - Exchange Online
 - Outlook 2016
@@ -13,10 +14,10 @@ appliesto:
 - Microsoft Outlook 2010
 - Microsoft Office Outlook 2007
 search.appverid: MET150
-ms.reviewer: willfid, gregmans
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: willfid, gregmans, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Outlook performance is slow in the Microsoft 365 environment
 

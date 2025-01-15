@@ -3,17 +3,18 @@ title: Exchange Online calendar isn't displayed in SharePoint Online
 description: The ability to use the calendar overlay in a SharePoint Online or SharePoint Server calendar that's retrieved from Exchange Online isn't supported.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Lists and Libraries\Other
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
   - SharePoint Server
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # The "HTTP request is unauthorized" error in a SharePoint Online or SharePoint Server calendar after you configure a calendar overlay to Exchange Online

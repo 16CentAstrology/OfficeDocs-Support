@@ -1,13 +1,13 @@
 ---
 title: Can't move or copy public folders
 description: Fixes an issue in which you can't make a copy of a public folder in the same path as the source public folder.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - CI 161484
   - Exchange Online
   - CSSTroubleshoot
@@ -16,7 +16,7 @@ appliesto:
   - Exchange Online
   - Outlook
 search.appverid: MET150
-ms.date: 10/13/2022
+ms.date: 01/24/2024
 ---
 # Can't copy or move public folders in Outlook
 

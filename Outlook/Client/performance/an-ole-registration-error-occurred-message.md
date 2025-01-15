@@ -1,13 +1,13 @@
 ---
 title: An OLE registration error occurred message
 description: Describes an issue in which you receive an Outlook Object Model Run-time error when you try to access an InfoPath Forms folder in Outlook 2016, Outlook 2019 or Outlook for Microsoft 365.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: tasitae
@@ -17,7 +17,7 @@ appliesto:
   - Outlook for Microsoft 365
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # An OLE registration error occurred message when you access an InfoPath Forms folder in Outlook
 

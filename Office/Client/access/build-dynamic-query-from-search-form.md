@@ -3,7 +3,6 @@ title: Build dynamic query with values from search form
 description: Explains how to create a search form and how to use it to dynamically build the appropriate SQL string by using the BuildCriteria method and values from the search form.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 ms.custom: 
   - CI 111294
   - CSSTroubleshoot
@@ -22,7 +21,7 @@ appliesto:
   - Access 2007
   - Access 2003
   - Access 2002
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How to build a dynamic query with values from a search form in Access

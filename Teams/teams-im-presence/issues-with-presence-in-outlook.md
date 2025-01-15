@@ -6,8 +6,8 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Teams People & Presence\Presence from Outlook (Free/Busy)
   - CI 126269
   - CSSTroubleshoot
 ms.reviewer: sylviebo, premgan
@@ -16,7 +16,7 @@ appliesto:
   - Outlook
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 03/14/2024
 ---
 # User presence status issues in Outlook
 
@@ -28,12 +28,11 @@ You see any of the following issues when you check the presence status for a use
 - The displayed presence is incorrect.
 - The presence status is **Status unknown**.
 
-  > [!NOTE]
-  > Outlook currently shows **Status unknown** for federated (external) Teams contacts.
-
 ## Resolution
 
-### Use the Microsoft Support and Recovery Assistant
+### Use Microsoft Support and Recovery Assistant
+
+[!INCLUDE [Microsoft Support and Recovery Assistant note](../../includes/sara-note-new-teams.md)]
 
 To fix these issues, download and run the Assistant for automated troubleshooting steps and fixes.
 
@@ -120,3 +119,9 @@ If these steps don't resolve the issue, an administrator should create a support
 - The desktop and web logs from both the user and the contact. For information about how to collect logs, see [Use log files in troubleshooting Microsoft Teams](/microsoftteams/log-files).
 
   - For presence issues that affect contacts who are internal to your organization, provide the output from running Microsoft Support and Recovery Assistant.
+
+## Known issues
+
+- Outlook currently shows **Status unknown** for federated (external) Teams contacts.
+- In the 32-bit version of Outlook, the presence status icons related to "Out of Office" aren't currently displayed.
+- When a user sets up automatic Out of Office replies in Outlook, the presence status icon in Outlook doesn't match Teams. Others see the presence status of this user as *Away* or *Offline* in Outlook, but as *Out of Office* in Teams.  

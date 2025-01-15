@@ -1,22 +1,22 @@
 ---
 title: Can't restore a database from a backup if MCDB is enabled in Exchange Server 2019
 description: When you try to restore a mailbox database with MCDB enabled to a recovery storage group, the database does not mount even though it shows a healthy shutdown state.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:High Availability, Health, Performance, Content Indexing\Need Help with Backup
   - Exchange Server
   - CI 111330
   - CSSTroubleshoot
-ms.reviewer: jeffrem,robwhal
+ms.reviewer: jeffrem, robwhal, v-six
 appliesto: 
   - Exchange Server 2019
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 
 # Can't restore a database from a backup if MCDB is enabled in Exchange Server 2019

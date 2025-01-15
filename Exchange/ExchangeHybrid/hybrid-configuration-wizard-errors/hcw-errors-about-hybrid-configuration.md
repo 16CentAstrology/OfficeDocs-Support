@@ -1,22 +1,22 @@
 ---
 title: HCW8019, HCW8021, HCW8022, or HCW8023 error
 description: Fixes an issue in which you receive an HCW8019, HCW8021, HCW8022, or HCW8023 error message when you run the Hybrid Configuration wizard.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Hybrid
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # HCW8019, HCW8021, HCW8022, or HCW8023 error when you run the Hybrid Configuration wizard
 

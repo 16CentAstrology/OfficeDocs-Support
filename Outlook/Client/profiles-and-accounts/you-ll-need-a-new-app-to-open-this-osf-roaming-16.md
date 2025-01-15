@@ -1,13 +1,13 @@
 ---
-title: You'll need a new app to open this osf-roaming.16 message
-description: You'll need a new app to open this osf-roaming.16 this message occurs when starting Outlook 2016.
-author: helenclu
-ms.author: luche
+title: You need a new app to open this osf-roaming.16 message
+description: You need a new app to open this osf-roaming.16 message occurs when starting Outlook 2016.
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Install, Update, Activate, and Deploy\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: tasitae
@@ -16,21 +16,23 @@ appliesto:
   - Application Virtualization for Windows Desktops
   - App-V 5.0 for Windows Desktops
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
-# You'll need a new app to open this osf-roaming.16 message when starting Outlook 2016
+# You'll need a new app to open this `osf-roaming.16` message when starting Outlook 2016
 
 _Original KB number:_ &nbsp; 4230296
 
 ## Symptoms
 
-When you try to start Outlook 2016, you receive a **Do you want to allow this website to open an app on your computer?** message.
+When you try to start Outlook 2016, you receive the following message:
+
+> Do you want to allow this website to open an app on your computer?
 
 :::image type="content" source="media/you-ll-need-a-new-app-to-open-this-osf-roaming-16/message-1.png" alt-text="Screenshot of message: Do you want to allow this website to open an app on your computer.":::
 
-If you select **Allow**, you receive a **You'll need a new app to open this osf-roaming.16** message.
+If you select **Allow**, you receive a **You'll need a new app to open this `osf-roaming.16`** message.
 
-:::image type="content" source="media/you-ll-need-a-new-app-to-open-this-osf-roaming-16/message-2.png" alt-text="Screenshot of message: you'll need a new app to open this osf-roaming.16.":::
+:::image type="content" source="media/you-ll-need-a-new-app-to-open-this-osf-roaming-16/message-2.png" alt-text="Screenshot of message: you need a new app to open this `osf-roaming.16`.":::
 
 ## Cause
 

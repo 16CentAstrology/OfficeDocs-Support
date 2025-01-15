@@ -4,15 +4,16 @@ description: Describes how to retrieve an appointment in a Visual C# project by 
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Developer Issues\Macros
+  - CSSTroubleshoot
 appliesto: 
 - Outlook Development
 search.appverid: MET150
-ms.reviewer: 
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # How to use the Microsoft Outlook Object Library to retrieve an appointment by using Visual C\#
 

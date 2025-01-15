@@ -1,21 +1,21 @@
 ---
 title: Delay in delivering emails with image attachments in Exchange Server 2016
 description: Provides a workaround for an issue that delays delivery of emails that have picture attachments in Exchange Server 2016.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Mail Flow\Need Help with Configuring Mailflow, Mail routing (Connectors, Domains)
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: shanbram, genli, christys
+ms.reviewer: shanbram, genli, christys, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Delivery of emails with picture attachments is delayed in Exchange Server 2016
 

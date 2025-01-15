@@ -4,17 +4,18 @@ description: Describes an issue that causes the Outlook Conversation History fol
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:User Interface features and Configuration\Conversation view
+  - CSSTroubleshoot
 appliesto:
 - Skype for Business
 - Microsoft Lync 2013
 - Lync 2010
 search.appverid: MET150
-ms.reviewer: tasitae
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: tasitae, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Conversation History folder is missing in Outlook
 

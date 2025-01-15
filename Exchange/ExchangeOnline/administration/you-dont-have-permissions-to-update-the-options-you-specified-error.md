@@ -1,20 +1,20 @@
 ---
 title: Don't have permissions to update options specified error
 description: Describes an error message that Microsoft 365 kiosk users receive when they try to create inbox rules.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administrator Tasks
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: alinastr
+ms.reviewer: alinastr, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Error "You don't have permissions to update the options you specified" when Microsoft 365 kiosk users create inbox rules
 

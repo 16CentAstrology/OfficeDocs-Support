@@ -3,11 +3,12 @@ title: Use defined names to automatically update a chart range
 description: Provides two methods for using defined names to automatically update a chart range. You can use these methods to set up a chart that can be automatically updated when you add new information to an existing chart range.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - Editing\Formulae
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
@@ -18,7 +19,7 @@ appliesto:
   - Excel 2010
   - Microsoft Office Excel 2007
   - Microsoft Office Excel 2003
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # How to use defined names to automatically update a chart range in Excel

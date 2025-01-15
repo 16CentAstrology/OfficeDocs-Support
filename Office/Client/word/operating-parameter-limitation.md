@@ -3,20 +3,22 @@ title: Operating parameter limitations and specifications in Word
 description: Describes operating parameter limitations and specifications in Word.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Performance, Usability & Features
+  - Reliability
+  - CSSTroubleshoot
 appliesto: 
   - Word for Microsoft 365
   - Word 2019
   - Word 2016
   - Word 2013
   - Word 2010
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Operating parameter limitations and specifications in Word

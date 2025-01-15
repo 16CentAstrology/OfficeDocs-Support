@@ -1,20 +1,20 @@
 ---
 title: Custom messages in NDRs are replaced by default system messages
 description: Fixes an issue in which custom messages in NDRs are replaced by default system messages in Microsoft 365.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Mail Flow
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: borget
+ms.reviewer: borget, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Custom messages in NDRs are replaced by default system messages in Microsoft 365
 
@@ -52,7 +52,7 @@ The `DSNConversionMode` parameter determines the format to use for delivery stat
 
     Exchange converts the DSNs to the Exchange Server 2013 DSN format. This format is the same as the Exchange Server 2010 DSN format. However, any customized text or attachments that were associated with the original DSN are overwritten if the DSN is delivered from another Microsoft 365 organization or from an external organization.
 
-- **PreserveDNSBody**
+- **PreserveDSNBody**
 
     Exchange converts the DSNs to the Exchange Server 2013 DSN format, and the text in the body of the DSN message is retained.
 

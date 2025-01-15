@@ -6,13 +6,13 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
-localization_priority: Normal
+ms.custom: 
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
   - OneDrive for Business
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # How to enable coauthoring for OneDrive-synced files in Microsoft 365

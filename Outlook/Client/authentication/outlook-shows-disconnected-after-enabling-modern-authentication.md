@@ -4,22 +4,23 @@ description: Describes an issue in which Outlook cannot connect to a Microsoft 3
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Network disconnects, password or credentials prompt
+  - CSSTroubleshoot
 appliesto:
 - Outlook
 - Microsoft 365
 search.appverid: MET150
-ms.reviewer: jonl
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: jonl, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Outlook shows "Disconnected" after you enable modern authentication in Microsoft 365
 
 ## Symptoms
 
-After [you enable modern authentication for Outlook in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) in a Microsoft 365 tenant, Microsoft Outlook cannot connect to a mailbox if the user's primary Windows account is a Microsoft 365 account that does not match the account they use to sign in to the mailbox. The mailbox shows "Disconnected" in the status bar.
+After [you enable modern authentication for Outlook in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) in a Microsoft 365 tenant, Microsoft Outlook can't connect to a mailbox if the user's primary Windows account is a Microsoft 365 account that doesn't match the account they use to sign in to the mailbox. The mailbox shows "Disconnected" in the status bar.
 
 ## Cause
 

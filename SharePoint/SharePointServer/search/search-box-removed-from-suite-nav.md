@@ -3,7 +3,7 @@ title: Search box removed for customers with search control in Suite Nav turned 
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 9/11/2020
+ms.date: 12/17/2023
 audience: Admin
 ms.topic: troubleshooting
 search.appverid: 
@@ -12,6 +12,7 @@ search.appverid:
 appliesto: 
   - SharePoint
 ms.custom: 
+  - sap:Search\Search results, queries, and syntax
   - CI 122435
   - CSSTroubleshoot
 ms.reviewer: MS aliases for tech reviewers and CI requestor, without @microsoft.com.

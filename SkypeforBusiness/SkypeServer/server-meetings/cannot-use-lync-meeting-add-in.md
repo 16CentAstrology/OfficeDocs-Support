@@ -3,19 +3,19 @@ title: Lync client administrative delegates cannot use the Lync Meeting add-in
 description: Describes an issue in which the delegate receives You do not have permissions to schedule Lync Meetings on behalf of the owner of this account error message.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
 ms.reviewer: miadkins
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Lync 2010
   - Lync 2013
   - Skype for Business 2015
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Lync client administrative delegates cannot use the Lync Meeting add-in to create a meeting for their manager

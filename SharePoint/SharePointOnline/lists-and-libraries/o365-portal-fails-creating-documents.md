@@ -3,16 +3,17 @@ title: Unable to create documents in Microsoft 365 portal
 description: List '|0' does not exist at site with URL '|1' when trying to create documents in the Microsoft 365 portal.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Lists and Libraries\Create
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "List '|0' does not exist at site with URL '|1'" error when you try to create documents in the Microsoft 365 portal

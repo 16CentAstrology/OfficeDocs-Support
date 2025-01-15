@@ -5,15 +5,15 @@ author: helenclu
 ms.author: luche
 ms.reviewer: 
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: Admin
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 appliesto: 
   - Microsoft Project
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Eventing service" error message when changing the status of users to inactive in Microsoft Project

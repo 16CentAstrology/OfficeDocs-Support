@@ -3,16 +3,17 @@ title: Credential prompts when opening documents by persistent cookies
 description: This article describes an issue where additional credential prompts when opening Office documents from a web server by using persistent cookies, and provides a solution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: sap:spsexperts, CSSTroubleshoot
+ms.custom: 
+  - sap:User experience\Accessibility
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft SharePoint
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Additional credential prompts when opening Office documents from a web server by persistent cookies

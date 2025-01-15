@@ -1,16 +1,16 @@
 ---
 title: Some folders are not visible in Outlook on the web
 description: Describes an issue that prevents you from seeing all your folders in Outlook on the web. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Outlook on the web / OWA
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: davidspo
+ms.reviewer: davidspo, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2016 Enterprise Edition
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Some folders are not visible in Outlook on the web
 

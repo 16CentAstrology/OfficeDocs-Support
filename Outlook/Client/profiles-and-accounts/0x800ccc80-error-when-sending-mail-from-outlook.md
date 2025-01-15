@@ -4,15 +4,16 @@ description: Provides a resolution to solve the error 0x800ccc80 that may occur 
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Sending, Receiving, Synchronizing, or viewing email\Other
+  - CSSTroubleshoot
 appliesto:
 - Outlook
 search.appverid: MET150
-ms.reviewer: aruiz, doakm
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: aruiz, doakm, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Sending mail from Outlook results in error 0x800ccc80
 

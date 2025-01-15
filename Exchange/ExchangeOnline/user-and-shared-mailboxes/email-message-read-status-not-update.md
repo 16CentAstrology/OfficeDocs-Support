@@ -1,20 +1,20 @@
 ---
 title: The Read status of email messages isn't updated
 description: Describes a known issue in Microsoft 365 in which the Read status of email messages may not be updated between Exchange ActiveSync on a user's mobile device and the user's mailbox in Exchange Online.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administrator Tasks
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: chrisbur
+ms.reviewer: chrisbur, v-six
 appliesto: 
 - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # The Read status of email messages may not be updated between Exchange ActiveSync
 

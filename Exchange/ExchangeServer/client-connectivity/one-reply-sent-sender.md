@@ -1,15 +1,15 @@
 ---
 title: Only one reply is sent to each sender when Out of Office Assistant is enabled
 description: Describes an issue in which only one reply is sent to each sender when the Out of Office Assistant is enabled. Provides a solution.
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 manager: dcscontentpm
 ms.custom: 
+  - sap:Mail Flow\Issues with Transport Rules
   - Exchange Server
   - CSSTroubleshoot
-localization_priority: Normal
 search.appverid: 
   - MET150
 appliesto: 
@@ -20,7 +20,8 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 
 # Only one reply is sent to each sender when the Out of Office Assistant is enabled

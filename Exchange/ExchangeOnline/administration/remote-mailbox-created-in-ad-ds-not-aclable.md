@@ -1,20 +1,20 @@
 ---
 title: A remote mailbox created in AD DS is not ACLable
 description: Fixes an issue in which cloud users that are created by using the New-RemoteMailbox cmdlet is not ACLable.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Hybrid
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: kellybos
+ms.reviewer: kellybos, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # A remote mailbox created in on-premises AD DS is not ACLable in Exchange Online
 

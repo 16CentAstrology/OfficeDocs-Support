@@ -5,15 +5,16 @@ author: helenclu
 ms.author: luche
 ms.reviewer: thempel
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: sap:office-experts, CSSTroubleshoot
+ms.custom: 
+  - sap:office-experts
+  - CSSTroubleshoot
 appliesto: 
   - Excel Online
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # "This workbook contains external data connections or BI features that are not supported." when you use a guest link to a workbook in Excel Online

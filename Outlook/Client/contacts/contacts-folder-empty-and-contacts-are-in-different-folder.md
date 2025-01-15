@@ -1,13 +1,13 @@
 ---
 title: Contacts folder empty and contacts in another folder
 description: Provides a workaround for an issue in which your contacts folder is empty and your contacts are contained in a different folder in Outlook for Microsoft 365.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:People or Contacts\Importing contacts
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: cuturn, carlzern
@@ -15,7 +15,7 @@ appliesto:
   - Outlook for Microsoft 365
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Contacts folder empty and contacts are in a different folder in Outlook for Microsoft 365
 

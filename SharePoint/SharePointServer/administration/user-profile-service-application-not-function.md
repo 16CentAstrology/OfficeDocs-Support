@@ -6,14 +6,14 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administration\Service Applications (except Search)
   - CSSTroubleshoot
 ms.reviewer: vikkarti
 appliesto: 
   - SharePoint Server 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # User Profile service application doesn't function correctly after you restore a SharePoint farm
 

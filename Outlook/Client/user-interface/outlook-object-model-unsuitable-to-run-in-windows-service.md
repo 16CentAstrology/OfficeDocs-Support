@@ -1,13 +1,13 @@
 ---
 title: Outlook Object Model cannot run in a Windows service
 description: This article describes the limitations of the Outlook Object Model that make it unsuitable for use in a Windows NT service.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Developer Issues\Add-in errors
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: danba, brijs, catagh, gbratton, dvespa
@@ -16,7 +16,7 @@ appliesto:
   - Outlook 2013
   - Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # The Outlook Object Model is unsuitable to run in a Windows service
 

@@ -1,13 +1,13 @@
 ---
 title: Server component state remains Inactive
 description: This article provides a resolution to resolve the issue that server components remains inactive even if you change the state to Active.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:High Availability, Health, Performance, Content Indexing\Health set unhealthy
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -16,7 +16,8 @@ appliesto:
   - Exchange Server 2013
   - Exchange Server 2016
   - Exchange Server 2019
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Determine the requestor that changed Server component state
 

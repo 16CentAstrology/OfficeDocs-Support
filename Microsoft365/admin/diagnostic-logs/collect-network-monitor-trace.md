@@ -3,17 +3,17 @@ title: Collect Network Monitor trace in O365 Dedicated/ITAR
 description: Describes how to troubleshoot a network issue by using Network Monitor in Office 365 Dedicated/ITAR.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - Microsoft Business Productivity Online Dedicated
   - Microsoft Business Productivity Online Suite Federal
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How to collect a Network Monitor trace in Office 365 Dedicated/ITAR

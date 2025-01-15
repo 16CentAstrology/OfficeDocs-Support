@@ -1,20 +1,21 @@
 ---
 title: Outlook can't connect via firewall or proxy server
 description: Explains that Outlook can't connect through a firewall or a proxy server performing NAT between public and private networks since the IP packets lose the RPC connectivity information.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with Outlook
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft Outlook
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Outlook can't connect through a firewall or a proxy server that is performing Network Address Translation (NAT) between public and private networks
 

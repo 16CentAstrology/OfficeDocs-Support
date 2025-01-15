@@ -1,21 +1,21 @@
 ---
 title: Can't send S/MIME encrypted mails from Outlook Web App
 description: Provides a resolution for the issue where users can't send S/MIME signed or encrypted mails in Outlook Web APP.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Mail Flow\Need Help with Configuring Mailflow, Mail routing (Connectors, Domains)
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: djball, wduff
+ms.reviewer: djball, wduff, v-six
 appliesto: 
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Error when sending S/MIME encrypted mails from OWA: Outlook Web Access could not find your digital ID for encryption
 

@@ -4,13 +4,13 @@ description: Hybrid search fails to crawl or return results. Or, it returns the 
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.reviewer: salarson
 ms.custom: 
+  - sap:Search\Index Correctness
   - CSSTroubleshoot
   - CI 151765
 appliesto: 
@@ -18,7 +18,7 @@ appliesto:
   - SharePoint Server 2016
   - SharePoint Server 2013
   - SharePoint in Microsoft 365
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Hybrid search fails to crawl or return results

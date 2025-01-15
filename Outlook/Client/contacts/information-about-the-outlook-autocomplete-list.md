@@ -1,13 +1,13 @@
 ---
 title: The Outlook AutoComplete list
 description: Describes the Outlook AutoComplete list and provides instructions to manage the list.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:People or Contacts\Nickname cache
   - Outlook for Windows
   - CSSTroubleshoot
   - CI 170727
@@ -20,7 +20,7 @@ appliesto:
   - Outlook 2013
   - Outlook 2010
 search.appverid: MET150
-ms.date: 12/13/2022
+ms.date: 01/30/2024
 ---
 # The Outlook AutoComplete list
 

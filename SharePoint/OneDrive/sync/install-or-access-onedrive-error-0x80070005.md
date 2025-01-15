@@ -6,7 +6,6 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CI 168512
   - CSSTroubleshoot
@@ -15,7 +14,7 @@ appliesto:
   - OneDrive for Business
 search.appverid: 
   - MET150
-ms.date: 11/2/2022
+ms.date: 12/17/2023
 ---
 # Error 0x80070005 when you install or access OneDrive
 

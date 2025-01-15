@@ -1,13 +1,13 @@
 ---
 title: Deleted recipients still appear in the Drafts folder
 description: Fixes an issue in which deleted recipients still appear in the list view of the Drafts folder in Outlook in Online mode.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Sending, Receiving, Synchronizing, or viewing email\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: jmartine, excontent
@@ -15,7 +15,7 @@ appliesto:
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Deleted recipients still appear in the list view of the Drafts folder in Outlook Online mode
 

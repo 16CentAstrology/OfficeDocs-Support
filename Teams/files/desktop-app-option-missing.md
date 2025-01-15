@@ -6,8 +6,8 @@ ms.author: v-chazhang
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Teams Files\
   - CI 159208
   - CSSTroubleshoot
 ms.reviewer: prbalusu; meerak
@@ -15,7 +15,7 @@ appliesto:
   - Microsoft Teams
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 10/30/2023
 ---
 
 # The "Desktop app" option is missing when trying to edit an Office file in Teams

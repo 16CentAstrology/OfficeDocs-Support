@@ -1,17 +1,17 @@
 ---
 title: (Active Directory wasn't prepared using hosting mode) error during installation
 description: Fixes a problem in which you receive an Active Directory wasn't prepared using hosting mode error when trying to install Exchange Server 2010 SP1 from an unattended installation.
-ms.date: 08/11/2020
-author: simonxjx
-ms.author: v-six
+ms.date: 01/24/2024
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Plan and Deploy\Exchange Install Issues, Cumulative or Security updates
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: anfowler, gugavaro
+ms.reviewer: anfowler, gugavaro, v-six
 appliesto: 
   - Exchange Server 2010 Service Pack 1
 search.appverid: MET150

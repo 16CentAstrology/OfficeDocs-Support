@@ -1,20 +1,20 @@
 ---
 title: Different type of Active Directory object exists error
 description: Describes an issue in which one or more users aren't migrated when you try to migrate mailboxes from your on-premises Exchange organization to Exchange Online in a cutover migration. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: shahmul
+ms.reviewer: shahmul, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # A different type of Active Directory object already exists error when migrating mailboxes in cutover migration
 
@@ -36,14 +36,14 @@ To resolve this issue, remove the user objects in Exchange Online. To do this, f
 
 1. Sign in to the Microsoft 365 portal as an admin.
 2. Select **users and groups**, and then search for the users who didn't migrate.
-3. Permanently delete the users. You can do this in the Microsoft 365 portal or by using the Microsoft Azure Active Directory Module for Windows PowerShell.
+3. Permanently delete the users. You can do this in the Microsoft 365 portal or by using the Microsoft Azure Active Directory module for Windows PowerShell.
 
 > [!IMPORTANT]
 > Deleting a user account will also delete the associated SharePoint Online and Skype for Business Online (formerly Lync Online) information for that user.
 
-To delete users by using the Azure Active Directory Module for Windows PowerShell, follow these steps:
+To delete users by using the Azure Active Directory module for Windows PowerShell, follow these steps:
 
-  1. Connect to Azure Active Directory (Azure AD). For more information about how to do this, see [Azure Active Directory Cmdlets](/previous-versions/azure/jj151815(v=azure.100)).
+  1. Connect to Microsoft Entra ID. For more information about how to do this, see [Microsoft Entra Cmdlets](/previous-versions/azure/jj151815(v=azure.100)).
   2. Run the following command:
 
         ```powershell

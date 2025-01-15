@@ -3,16 +3,16 @@ title: Account has been blocked error when sign in to Microsoft 365
 description: Describes an issue that triggers an error message when a user tries to sign in to the Microsoft 365 portal. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Your account has been locked. Contact your support person to unlock it, then try again." error when signing in to Microsoft 365
@@ -48,7 +48,7 @@ To do this, follow these steps:
 
 Method 3: Reset the user's password.
 
-As an Microsoft 365 admin, perform a password reset for the user.
+As a Microsoft 365 admin, perform a password reset for the user.
 
 Method 4: Reset the user's sign-in status.
 

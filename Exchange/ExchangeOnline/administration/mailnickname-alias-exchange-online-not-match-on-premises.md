@@ -4,16 +4,17 @@ description: Fixes an issue in which the Alias or Mailnickname attribute in Exch
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Hybrid
+  - CSSTroubleshoot
 appliesto:
 - Exchange Online
 - Microsoft Exchange Online Dedicated
 search.appverid: MET150
-ms.reviewer: rrajan, v-maqiu, ninob
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: rrajan, v-maqiu, ninob, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 # MailNickName or Alias attribute in Exchange Online doesn't match what is set in Exchange on-premises
 
@@ -31,7 +32,7 @@ To resolve this issue, update the `Alias` or `Mailnickname` attribute. To do thi
 
 ### Method 1: Use Exchange Management Shell
 
-1. Change the existing `Alias` attribute value so that the change is found by Azure Active Directory (Azure AD) Connect. This should sync the change to Microsoft 365. To do this, use either the `Set-Mailbox` or `Set-RemoteMailbox` cmdlet, based on the recipient type in Exchange on-premises.
+1. Change the existing `Alias` attribute value so that the change is found by Microsoft Entra Connect. This should sync the change to Microsoft 365. To do this, use either the `Set-Mailbox` or `Set-RemoteMailbox` cmdlet, based on the recipient type in Exchange on-premises.
 
       - `Set-RemoteMailbox`
 
@@ -47,7 +48,7 @@ To resolve this issue, update the `Alias` or `Mailnickname` attribute. To do thi
           Set-Mailbox <user@domain.com> -alias "$($alias.alias)1"**
           ```
   
-2. Start a Delta sync from Azure AD Connect, or wait for Azure AD Connect to run the delta. Ideally, this should sync the changes that are made in step 1 to Microsoft 365.
+2. Start a Delta sync from Microsoft Entra Connect, or wait for Microsoft Entra Connect to run the delta. Ideally, this should sync the changes that are made in step 1 to Microsoft 365.
 3. Change the value of the `Alias` attribute to its original value. To do this, run either of the following cmdlets:
 
       ```powershell
@@ -58,22 +59,22 @@ To resolve this issue, update the `Alias` or `Mailnickname` attribute. To do thi
       Set-Mailbox <user@domain> -alias "$($alias.alias)"
       ```  
 
-4. Start a Delta sync from Azure AD Connect, or wait for Azure AD Connect to run the delta> Ideally, this should sync the changes to Microsoft 365.
+4. Start a Delta sync from Microsoft Entra Connect, or wait for Microsoft Entra Connect to run the delta> Ideally, this should sync the changes to Microsoft 365.
 
 ### Method 2: Use Active Directory PowerShell module
 
-1. Change the `Mailnickname` attribute value so that the change is discovered by Azure AD Connect. This should sync the change to Microsoft 365. To do this, run the following set of cmdlets:
+1. Change the `Mailnickname` attribute value so that the change is discovered by Microsoft Entra Connect. This should sync the change to Microsoft 365. To do this, run the following set of cmdlets:
 
       ```powershell
       $mailnickname=Get-ADUser -Properties * -Filter {name -like '<username>*'}
       Get-ADUser -Properties * -Filter {name -like '<username>*'} | set-aduser -replace @{mailnickname="$($mailnickname.mailnickname)1"
       ```  
 
-2. Start a Delta sync from Azure AD Connect, or wait for Azure AD Connect to run the delta. Ideally, this should sync the changes that are made in step 1 to Microsoft 365.
+2. Start a Delta sync from Microsoft Entra Connect, or wait for Microsoft Entra Connect to run the delta. Ideally, this should sync the changes that are made in step 1 to Microsoft 365.
 3. Change the value of the `Mailnickname` attribute to its original value. To do this, run the following cmdlet:
 
      ```powershell
      Get-ADUser -Properties * -Filter {name -like '<username>*'} | set-aduser -replace @{mailnickname="$($mailnickname.mailnickname)"
      ```  
 
-4. Start a Delta sync from Azure AD Connect, or wait for Azure AD Connect to run the delta. Ideally, this should sync the changes that are made in step 1 to Microsoft 365.
+4. Start a Delta sync from Microsoft Entra Connect, or wait for Microsoft Entra Connect to run the delta. Ideally, this should sync the changes that are made in step 1 to Microsoft 365.

@@ -1,20 +1,20 @@
 ---
 title: Cannot assign color categories for IMAP accounts
 description: Discusses an issue in which you can't assign color categories for IMAP accounts in Microsoft Outlook 2016.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Tasks, Categories and Flags\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: talmagev, aruiz
 appliesto: 
   - Outlook 2016
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # You can't assign color categories for IMAP accounts in Outlook 2016
 

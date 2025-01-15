@@ -1,13 +1,13 @@
 ---
 title: How to use Internet Free/Busy
 description: This article discusses how to use the Internet Free/Busy feature in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Calendar\Free-busy information retrieval or publishing
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: SCOTTGR
@@ -20,7 +20,7 @@ appliesto:
   - Microsoft Office Outlook 2003
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # How to use the Internet Free/Busy feature in Outlook
 

@@ -6,8 +6,9 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
-localization_priority: Normal
+ms.custom: 
+  - Editing\Data\ImportExport
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
@@ -15,7 +16,7 @@ appliesto:
   - SQL Server 2012 Enterprise
   - SQL Server 2012 Standard
   - Power BI for Microsoft 365
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # "Index was outside the bounds of the array" error when you import data from multiple tables in a SQL Server database to an Excel 2013 workbook

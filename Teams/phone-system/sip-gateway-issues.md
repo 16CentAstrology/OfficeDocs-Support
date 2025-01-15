@@ -1,19 +1,20 @@
 ---
 title: Common issues when using SIP devices with Teams
 description: Troubleshoots common issues that occur when you use compatible SIP devices with Microsoft Teams.
-ms.date: 01/17/2022
+ms.date: 10/30/2023
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
-ms.custom: CI159602
+ms.custom: 
+  - sap:SIP Gateway
+  - CI159602
 ms.reviewer: scapero, chasing
 ---
 

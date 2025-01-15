@@ -4,18 +4,18 @@ description: When you try to delete a site using the SharePoint management shell
 author: helenclu
 ms.reviewer: PramodBalusu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.custom: 
+  - sap:Sites\Delete Site
   - CSSTroubleshoot
   - CI 158139
 ms.author: luche
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Site deletion error: “The requested operation is not supported for site”  

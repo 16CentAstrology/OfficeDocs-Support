@@ -3,17 +3,17 @@ title: Cannot find any suitable disks for database files
 description: Resolves an issue in which you receive the Cannot find any suitable disks for database files. You must manually specify database paths error message. This issue occurs when you try to install or update Lync Server 2013 or Lync Server 2013 databases.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: miadkins
 appliesto: 
   - Lync Server 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Cannot find any suitable disks for database files" error message when you try to install or update Lync Server 2013 or Lync Server 2013 databases

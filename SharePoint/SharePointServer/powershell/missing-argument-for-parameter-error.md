@@ -6,14 +6,14 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administration\Farm Administration
   - CSSTroubleshoot
 ms.reviewer: alfong
 appliesto: 
   - PowerPoint for the web
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # Missing an argument for parameter when you use the Set-SPPowerPointServiceApplication command
 

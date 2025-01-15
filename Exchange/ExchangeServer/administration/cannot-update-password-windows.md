@@ -1,16 +1,16 @@
 ---
 title: Unable to update the password for Windows in Exchange
 description: Describes an error when users reset their Windows password on a computer that's not domain-joined in an Exchange Server environment. A resolution is provided.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Plan and Deploy\Need help with Active Directory/DNS/Network Exchange pre-requisites
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: jmartin
+ms.reviewer: jmartin, v-six
 appliesto: 
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2013 Standard Edition
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Error when users reset Windows password in an Exchange environment: Unable to update the password
   

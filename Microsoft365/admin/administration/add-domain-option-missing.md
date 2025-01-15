@@ -3,16 +3,16 @@ title: Add domain option is missing from the Microsoft 365 admin center
 description: Describes an issue that prevents the Add domain option from being displayed on the Manage domains page of the Microsoft 365 admin center. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Add domain" option is missing from the Microsoft 365 admin center

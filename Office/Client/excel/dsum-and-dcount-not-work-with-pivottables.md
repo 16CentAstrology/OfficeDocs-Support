@@ -6,15 +6,15 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: ryanwei, mosesma, clatonh, jenl, gquintin
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
   - Excel 2013
   - Excel 2010
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # The DSUM and DCOUNT functions in Excel do not work with PivotTables

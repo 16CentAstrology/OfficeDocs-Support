@@ -4,18 +4,19 @@ description: Describes an issue that generates performance and connection proble
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Exchange Mailbox Accounts\Problems after moving a mailbox
+  - CSSTroubleshoot
 appliesto:
 - Outlook 2019
 - Outlook 2016
 - Outlook 2013
 - Outlook for Microsoft 365
 search.appverid: MET150
-ms.reviewer: tasitae
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: tasitae, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Outlook doesn't connect or web services don't work after migration to Microsoft 365
 

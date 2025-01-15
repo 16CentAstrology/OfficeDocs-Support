@@ -3,16 +3,17 @@ title: Unable to reattach a file with the name that's same as a deleted attachme
 description: Something went wrong or A file with the name already exists when you delete a list item attachment and then attach a file with the same name.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Files and Documents\Create
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Error when you delete a SharePoint Online list item attachment and then attach a file with the same name

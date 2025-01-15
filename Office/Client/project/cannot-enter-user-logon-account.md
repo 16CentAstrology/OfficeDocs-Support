@@ -3,17 +3,17 @@ title: Cannot enter User Logon Account for new resource
 description: Describes an issue in which users cannot edit the User Logon Account field. Provides a solution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - Project Server 2013
   - Project Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Cannot enter User Logon Account for new resource

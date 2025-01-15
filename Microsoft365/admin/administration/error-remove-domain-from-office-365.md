@@ -3,16 +3,16 @@ title: You get an error message when you try to remove a domain from Microsoft 3
 description: Discusses an issue in which you can't delete a domain from Microsoft 365. Provides links to articles for a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # You get an error message when you try to remove a domain from Microsoft 365

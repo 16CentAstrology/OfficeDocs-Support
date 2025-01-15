@@ -3,18 +3,19 @@ title: The USB Selective Suspend status of a Teams Rooms device is Unhealthy
 description: Resolves an issue that causes the USB Selective Suspend signal of a Microsoft Teams Rooms device to appear as Unhealthy.
 ms.reviewer: rebenite
 ms.topic: troubleshooting
-ms.date: 2/6/2023
+ms.date: 10/30/2023
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
 audience: Admin
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
-ms.custom: CI171350
+ms.custom: 
+  - sap:MTR Pro
+  - CI171350
 ---
 # The USB Selective Suspend status is Unhealthy
 

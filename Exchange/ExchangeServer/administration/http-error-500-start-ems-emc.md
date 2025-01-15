@@ -1,21 +1,21 @@
 ---
 title: HTTP 500 when you start Exchange Management Shell
 description: Provides resolutions to help resolve the HTTP error 500 when you try to start Exchange Management Shell or Exchange Management Console.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:OWA  And Exchange Admin Center\Issues connecting to Exchange Management Shell
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: benwinz
+ms.reviewer: benwinz, v-six
 search.appverid: 
   - MET150
 appliesto: 
   - Exchange Server 2010
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # HTTP server error status (500) when you try to start Exchange Management Shell or Exchange Management Console
 

@@ -4,17 +4,18 @@ description: Explains how to force Outlook to use the online Global Address List
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:People or Contacts\Resolving email addresses and ambiguous name resolution
+  - CSSTroubleshoot
 appliesto:
 - Microsoft Outlook 2010
 - Microsoft Outlook 2007
 - Microsoft Outlook 2003
 search.appverid: MET150
-ms.reviewer: bwilson
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: bwilson, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # How to force Outlook 2010, 2007 or 2003 to resolve proxy addresses and custom properties in Cached Mode
 

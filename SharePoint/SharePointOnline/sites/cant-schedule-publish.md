@@ -4,18 +4,18 @@ description: The scheduling section of a page is blank after you edit its conten
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.custom: 
+  - sap:Pages\Publish Page
   - CSSTroubleshoot
   - CI 162694
 ms.reviewer: paotten
 appliesto: 
   - SharePoint Online
-ms.date: 4/15/2022
+ms.date: 12/17/2023
 ---
 
 # Can't schedule page publishing after changing a content type

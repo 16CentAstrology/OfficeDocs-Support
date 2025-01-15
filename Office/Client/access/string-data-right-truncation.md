@@ -4,7 +4,6 @@ description: Describes an issue that causes the Access error String data, right 
 author: helenclu
 ms.reviewer: denniwil
 manager: dcscontentpm
-localization_priority: Normal
 ms.custom: 
   - CI 152768
   - CSSTroubleshoot
@@ -17,7 +16,7 @@ appliesto:
   - Access for Microsoft 365
   - Access 2019
   - Access 2016
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Access error: "String data, right truncation (#0)"
