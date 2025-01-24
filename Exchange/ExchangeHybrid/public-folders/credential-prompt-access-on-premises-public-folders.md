@@ -1,13 +1,13 @@
 ---
 title: Credential prompt when accessing on-premises public folders
 description: Fixes an issue in which Exchange Online users are prompted for credentials when they try to access on-premises public folders, and a Can't act as owner of a MailUser object error is logged in the Exchange Server log.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - CI 160577
   - Exchange Online
   - CSSTroubleshoot
@@ -15,7 +15,7 @@ ms.reviewer: batre
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 
 # Credential prompt when accessing on-premises public folders

@@ -1,22 +1,23 @@
 ---
 title: Room Finder doesn't display any conference rooms when a user creates a meeting
 description: Describes an issue that prevents conference rooms from being listed in Room Finder when users create a meeting in Outlook. Provides a resolution.
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 manager: dcscontentpm
 ms.custom: 
+  - sap:Calendaring
   - Exchange Online
   - CSSTroubleshoot
-localization_priority: Normal
 search.appverid: 
   - MET150
 appliesto: 
   - Exchange Online
   - Office 2016
   - Office 2013
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Room Finder in Outlook doesn't display any conference rooms when a user creates a meeting
 

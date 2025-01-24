@@ -1,14 +1,14 @@
 ---
 title: Access Denied when you delete federation trust
 description: Describes an issue that occurs when you try to remove the federation trust in an Exchange organization, and provides a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.reviewer: brenle, jmartin
+ms.reviewer: brenle, jmartin, v-six
 ms.custom: 
+  - sap:Plan and Deploy\Need help to deploy Oauth, HMA, ADFS
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -21,7 +21,7 @@ appliesto:
   - Exchange Server 2010 Service Pack 3
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Error (1007 AccessDenied) when you try to delete the federation trust in an Exchange organization
 

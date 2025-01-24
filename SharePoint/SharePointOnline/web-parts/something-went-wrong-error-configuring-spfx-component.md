@@ -3,16 +3,16 @@ title: Error in SharePoint Something went wrong when configuring SPFx component 
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 4/16/2020
+ms.date: 12/17/2023
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - SharePoint Online
 ms.custom: 
+  - sap:Customization and Formatting\SPFx Web Parts
   - CI 115576
   - CSSTroubleshoot
 ms.reviewer: lucaband

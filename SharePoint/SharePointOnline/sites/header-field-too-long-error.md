@@ -6,15 +6,15 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Reliability, Perf, and Throttling\503 Error (Waiting Room)
   - CSSTroubleshoot
   - CI 168187
 ms.reviewer: hisakam
 appliesto: 
   - SharePoint Online
 search.appverid: MET150
-ms.date: 10/31/2022
+ms.date: 12/17/2023
 ---
 # "Header Field Too Long" error when accessing a SharePoint Online site  
 

@@ -1,23 +1,23 @@
 ---
 title: MapiExceptionCorruptData error when cross-forest move fails
 description: Fixes an issue in which you can't initiate the cross-forest move from the target forest to an Exchange Server 2013 mailbox database.
-author: v-charloz
-ms.author: v-chazhang
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration\Issues with Move Mailbox within same organization
   - CI 151458
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: meerak; batre; jcoiffin
+ms.reviewer: meerak, batre, jcoiffin, v-chazhang
 appliesto: 
   - Exchange Server 2013
   - Exchange Server 2016
   - Exchange Server 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # "MapiExceptionCorruptData" error when moving a mailbox to an Exchange Server 2013 database
 

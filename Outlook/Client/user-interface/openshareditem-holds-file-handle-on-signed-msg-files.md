@@ -1,13 +1,13 @@
 ---
 title: OpenSharedItem holds file handle on signed .msg files
 description: The OpenSharedItem method does not release the file handle of an .msg file until Outlook obtains some idle time. This happens only if the .msg file is signed or encrypted (SMIME-based messages).
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Developer Issues\Macros
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: 
@@ -15,7 +15,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Microsoft Office Outlook 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # The OpenSharedItem method for Outlook holds a file handle on signed .msg files
 

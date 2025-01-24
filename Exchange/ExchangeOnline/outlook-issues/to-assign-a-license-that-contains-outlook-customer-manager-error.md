@@ -1,20 +1,21 @@
 ---
 title: Cannot create new user without Exchange Online license
 description: Discusses an issue in Microsoft 365 in which you receive an error message when you create a new user without an Exchange Online license. Provides a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Client Connectivity
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: tasitae
+  - has-azure-ad-ps-ref
+ms.reviewer: tasitae, v-six
 appliesto: 
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # To assign a license that contains Outlook Customer Manager error when creating a new user
 
@@ -35,7 +36,9 @@ This issue occurs because Outlook Customer Manager is enabled for the new user. 
 
 ## Workaround
 
-To work around this issue, disable Outlook Customer Manager and Exchange Online for the Microsoft 365 account. To do this, follow these steps:
+To work around this issue, disable Outlook Customer Manager and Exchange Online for the Microsoft 365 account. To do this, follow these steps.
+
+[!INCLUDE [Azure AD PowerShell deprecation note](../../../includes/aad-powershell-deprecation-note.md)]
 
 1. Connect to Exchange Online by using remote PowerShell. For more information, see [Connect to Exchange Online PowerShell](/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true).
 2. Run the following command to retrieve the Microsoft 365 AccountSkuID:

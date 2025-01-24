@@ -3,17 +3,17 @@ title: Lync 2013 client experiences one-way audio
 description: Describes an issue that may occur when a user uses the Hold feature during a call to or from the PSTN.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: seemarah
 appliesto: 
   - Lync 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Lync 2013 client experiences one-way audio after a PSTN call is put on hold

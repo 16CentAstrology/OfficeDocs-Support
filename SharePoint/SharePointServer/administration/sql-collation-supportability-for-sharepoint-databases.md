@@ -6,14 +6,14 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administration\Other
   - CSSTroubleshoot
 ms.reviewer: 
 appliesto: 
   - SharePoint Services 3.0
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # Supportability regarding SQL Server collation for SharePoint databases and TempDB
 

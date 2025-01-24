@@ -1,20 +1,20 @@
 ---
 title: Emails aren't received for a new domain
 description: Discusses an issue in which email messages aren't received for a new domain that you add in the Microsoft 365 portal.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Mail Flow
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: willfid
+ms.reviewer: willfid, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Email messages aren't received for a new domain that you add in the Microsoft 365 portal
 
@@ -34,7 +34,7 @@ This can occur if one of the following is true:
 To fix this issue, follow these steps:
 
 1. Make sure that the new domain is verified in the Microsoft 365 portal.
-2. Make sure that the MX record for the new domain points to the value that's listed in the **DNS Settings** section of the Microsoft 365 portal for Exchange Online. For more information, see [Work with domain names and DNS records in Azure AD](/previous-versions/azure/jj151817(v=azure.100)).
+2. Make sure that the MX record for the new domain points to the value that's listed in the **DNS Settings** section of the Microsoft 365 portal for Exchange Online. For more information, see [Work with domain names and DNS records in Microsoft Entra ID](/previous-versions/azure/jj151817(v=azure.100)).
 
 3. You may have to wait up to 72 hours.
 

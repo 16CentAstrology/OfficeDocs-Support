@@ -1,20 +1,20 @@
 ---
 title: View and update address list membership
 description: Describes the commands to view and update address list membership in Exchange Online although there is no update-addresslist command.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administrator Tasks
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: pojaya
+ms.reviewer: pojaya, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # How to view and update address list membership for objects in Exchange Online
 
@@ -57,7 +57,7 @@ This article describes how to view and update address list membership for object
     Set-MailUser -SimpleDisplayName
     ```
 
-    **Option 3:** Set any relevant attributes, including custom attributes, on-premises. Then, synchronize the changes to Exchange Online through Azure AD Connect.
+    **Option 3:** Set any relevant attributes, including custom attributes, on-premises. Then, synchronize the changes to Exchange Online through Microsoft Entra Connect.
 
     After you tickle the objects, you should see them by running the command from step 2. You can also verify the objects individually by running the following commands:
 

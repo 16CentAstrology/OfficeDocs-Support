@@ -1,9 +1,9 @@
 ---
 ms.topic: troubleshooting
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 ms.assetid: b3e740b9-171d-4179-bcd1-e279a363fa75
-ms.reviewer: 
+ms.reviewer: v-six
 description: When you can't send or receive Microsoft 365 email, use these steps to find and fix problems with Outlook.
 title: Fix Outlook connection problems in Microsoft 365
 ms.collection: 
@@ -19,6 +19,7 @@ search.appverid:
   - ZOL160
 audience: Admin
 ms.custom: 
+  - sap:Client Connectivity
   - MiniMaven
   - CSSTroubleshoot
 keywords: 
@@ -26,18 +27,17 @@ keywords:
   - Outlook doesn't work
   - Outlook 365 doesn't work
   - fix Microsoft 365
-localization_priority: Normal
 manager: dcscontentpm
 appliesto: 
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Fix Outlook connection problems for Microsoft 365 account
 
 If you're using Outlook to access your Microsoft 365 email account or another Exchange-based email account, and you're having problems, we want to get you back to sending and receiving email as quickly as possible.
 
 > [!NOTE]
-> If you're looking for help with Outlook.com, check [Get help with Outlook.com](https://go.microsoft.com/fwlink/p/?LinkID=328913). If you're looking for help with Outlook for Mac, check [Outlook for Mac Help](https://support.office.com/article/6dd15f3c-b096-436f-95dc-6f4ad08e1980.aspx).
+> If you're looking for help with Outlook.com, check [Get help with Outlook.com](https://go.microsoft.com/fwlink/p/?LinkID=328913). If you're looking for help with Outlook for Mac, check [Outlook for Mac Help](https://support.office.com/article/6dd15f3c-b096-436f-95dc-6f4ad08e1980).
 
 ## Let us fix your Outlook connection problems for you
 

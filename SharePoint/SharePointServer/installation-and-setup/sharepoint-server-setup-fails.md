@@ -6,15 +6,15 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administration\Setup, Upgrade, Migration and Patching
   - CI 114542
   - CSSTroubleshoot
 ms.reviewer: troys
 appliesto: 
   - SharePoint Server 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "This product requires Visual C++ Redistributable Package for Visual Studio 2017" error when installing SharePoint Server 2019

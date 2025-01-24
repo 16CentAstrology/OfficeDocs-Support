@@ -1,22 +1,22 @@
 ---
 title: Cannot view free/busy information for a remote user
 description: Describes an issue in which a user can't view the free/busy information for a remote user in a hybrid deployment of on-premises Exchange Server and Exchange Online in Microsoft 365. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Calendaring
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: jmartin, rayfong, austinmc, wduff, jhayes, timothyh
+ms.reviewer: jmartin, rayfong, austinmc, wduff, jhayes, timothyh, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # User can't view free/busy information for a remote user in a hybrid deployment of Exchange Server
 
@@ -40,7 +40,7 @@ xmlns="`http://schemas.microsoft.com/exchange/services/2006/errors`"> *ServerNam
 xmlns="`http://schemas.microsoft.com/exchange/services/2006/errors`">`https://\<Server>.outlook.com/EWS/Exchange.asmx/WSSecurity`\</ResponseSource>\</MessageXml>\</ResponseMessage>\<FreeBusyView>\<FreeBusyViewType
 xmlns="`http://schemas.microsoft.com/exchange/services/2006/types`">None\</FreeBusyViewType>\</FreeBusyView>\</FreeBusyResponse>
 
-For example, an Microsoft 365 user can't view free/busy information for an on-premises user. However, other users can view free/busy information for that same on-premises user.
+For example, a Microsoft 365 user can't view free/busy information for an on-premises user. However, other users can view free/busy information for that same on-premises user.
 
 ## Cause
 

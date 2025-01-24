@@ -3,18 +3,18 @@ title: We don't recognize this user ID or password
 description: Describes an issue in which a user gets a We don't recognize this user ID or password error message when trying to sign in to the Microsoft 365 portal. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
 ms.reviewer: willfid, v-chblod
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
   - Azure Active Directory
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "We don't recognize this user ID or password" error when a user tries to sign in to the Microsoft 365 portal
@@ -53,7 +53,7 @@ Perform one of the following actions:
 - Have the users change their computer password.
 - Reset the computer password for the users. When you reset the users' password, make sure that the **User must change password at next logon** check box isn't selected.
 
-After Active Directory synchronization occurs, the users' computer password in the on-premises Active Directory Domain Services (AD DS) environment is synced to Azure Active Directory (Azure AD). The users can then log on to the computer, and sign in to Microsoft 365 by using the same password.
+After Active Directory synchronization occurs, the users' computer password in the on-premises Active Directory Domain Services (AD DS) environment is synced to Microsoft Entra ID. The users can then log on to the computer, and sign in to Microsoft 365 by using the same password.
 
 ## More information
 

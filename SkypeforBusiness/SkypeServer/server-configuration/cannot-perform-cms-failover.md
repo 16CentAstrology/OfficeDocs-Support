@@ -3,16 +3,16 @@ title: Can't perform a CMS failover in Skype for Business Server 2015
 description: Fixes an issue in which the Invoke-CsManagementServerFailover cmdlet fails in Skype for Business Server 2015.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Skype for Business Server 2015
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Can't perform a CMS failover in Skype for Business Server 2015

@@ -3,11 +3,12 @@ title: Formula returns #VALUE! error
 description: Fixes an issue in which SUMIF, COUNTIF, and COUNTBLANK functions return #VALUE! error.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - Editing\Formulae
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
@@ -18,7 +19,7 @@ appliesto:
   - Microsoft Office Excel 2007
   - Microsoft Excel 2002 Standard Edition
   - Microsoft Excel 2000 Standard Edition
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # SUMIF, COUNTIF, and COUNTBLANK functions return "#VALUE!" Error

@@ -3,16 +3,17 @@ title: Use a worksheet function in a Visual Basic macro
 description: Describes how to use a built-in worksheet function in a macro.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - Extensibility\Macros
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - Microsoft Excel
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Using a worksheet function in a Visual Basic macro in Excel

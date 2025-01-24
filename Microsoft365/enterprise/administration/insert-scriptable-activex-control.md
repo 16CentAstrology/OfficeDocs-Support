@@ -3,17 +3,17 @@ title: Cannot insert certain scriptable ActiveX controls
 description: Describes and provides a workaround for an issue in which you cannot insert certain scriptable ActiveX controls into Office 2013 documents.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: anitao, jenl, tomol, dkuy
 search.appverid: 
   - MET150
 appliesto: 
   - Office 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Cannot insert certain scriptable ActiveX controls into Office 2013 documents

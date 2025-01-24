@@ -3,18 +3,19 @@ title: SharePoint workflow timer job is stuck at Pausing
 description: Describes an issue in which the SharePoint workflow timer job is stuck in Pausing status because of a bad workflow instance.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Timer Service and jobs
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - SharePoint Server 2016
   - SharePoint Server 2013
   - SharePoint Server 2010
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # SharePoint workflow timer job is stuck at "Pausing"  

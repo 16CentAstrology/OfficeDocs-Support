@@ -3,19 +3,19 @@ title: Access edge services can't negotiate TLS connection
 description: The America Online (AOL) Public Internet Connectivity (PIC) provider clients are unable establish connections with an on premise Lync Server network that is configured to federate with AOL as a public provider. The AOL PIC provider does not support the use of AES cypher suites for the TLS connections with their federated partners and expects to use the legacy TLS_RSA_WITH_RC4_128_MD5 cipher suite for its secure TLS connectivity across the Internet.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
 ms.reviewer: premgan
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Lync Server 2010 Enterprise Edition
   - Lync Server 2010 Standard Edition
   - Lync Server 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Lync Server access edge services cannot negotiate a TLS connection with the AOL federated client

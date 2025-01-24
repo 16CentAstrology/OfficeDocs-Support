@@ -22,7 +22,7 @@
           "**/*.md",
           "**/**.yml"
         ],
-        "src": "compliance",
+        "src": "purview",
         "dest": ".",
         "exclude": [
           "**/obj/**",
@@ -102,15 +102,15 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/office365/troubleshoot/breadcrumb/toc.json",
+      "breadcrumb_path": "/microsoft-365/troubleshoot/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "recommendations": true,
       "feedback_system": "Standard",
       "feedback_product_url": "https://admin.microsoft.com/adminportal/home?showfeedback=DocsMacCampaign",
       "hideEdit": true,
-      "searchScope": "Office 365 Support",
+      "searchScope": ["Microsoft 365 Support"],
       "uhfHeaderId": "MSDocsHeader-M365-IT",
-      "titleSuffix": "Office 365",
+      "titleSuffix": "Microsoft 365",
       "contributors_to_exclude": [ 
         "beccarobins"
       ]
@@ -120,37 +120,19 @@
         "admin/**/*.md": "microsoft-365-admin",
         "enterprise/**/*.md": "microsoft-365-enterprise",
         "security/**/*.md": "microsoft-365-security",
-        "compliance/**/*.md": "microsoft-365-compliance"      
+        "purview/**/*.md": "purview"      
       },
-      "ms.subservice": {
-        "admin/access-management/**/*.md": "access-management",
-        "admin/active-directory/**/*.md": "active-directory",
-        "admin/administration/**/*.md": "administration",
-        "admin/authentication/**/*.md": "authentication",
-        "admin/diagnostic-logs/**/*.md": "diagnostic-logs",
-        "admin/domain-management/**/*.md": "domain-management",
-        "admin/group-policy/**/*.md": "group-policy",
-        "admin/groups/**/*.md": "groups",
-        "admin/installation/**/*.md": "installation",
-        "admin/licensing/**/*.md": "licensing",
-        "admin/miscellaneous/**/*.md": "miscellaneous",
-        "admin/sign-in/**/*.md": "sign-in",
-        "admin/updates/**/*.md": "updates",
-        "enterprise/administration/**/*.md": "administration",
-        "enterprise/authentication/**/*.md": "authentication",
-        "enterprise/miscellaneous/**/*.md": "miscellaneous",
-        "enterprise/project-online/**/*.md": "project-online",
-        "security/antispam/**/*.md": "antispam",
-        "security/o365-security/**/*.md": "o365-security",
-        "compliance/archive-mailboxes/**/*.md": "archive-mailboxes",
-        "compliance/audit-logs/**/*.md": "audit-logs",
-        "compliance/data-loss-preventiones/**/*.md": "data-loss-prevention",
-        "compliance/ediscovery/**/*.md": "ediscovery",
-        "compliance/holds/**/*.md": "holds",
-        "compliance/information-barriers/**/*.md": "information-barriers",
-        "compliance/office-message-encryption/**/*.md": "office-message-encryption",
-        "compliance/pst-import-service/**/*.md": "pst-import-service",
-        "compliance/retention/**/*.md": "retention"
+      "author": {
+        "admin/**/*.md": "helenclu",
+        "enterprise/**/*.md": "helenclu",
+        "purview/**/*.md": "cloud-writer",
+        "security/**/*.md": "cloud-writer"
+      },
+      "ms.author": {
+        "admin/**/*.md": "luche",
+        "enterprise/**/*.md": "luche",
+        "purview/**/*.md": "meerak",
+        "security/**/*.md": "meerak"
       }
     },
     "template": [],

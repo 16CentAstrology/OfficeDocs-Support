@@ -1,23 +1,23 @@
 ---
 title: Exchange UnifiedContent folder fills up the drive
 description: Resolves an issue in which the Exchange Server UnifiedContent folder fills up the drive.
-author: v-trisshores
-ms.author: v-trisshores
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom:
+ms.custom: 
+  - sap:Mail Flow\Need help with Transport Logs
   - CI 163530
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: mialin, arindam, batre, meerak
+ms.reviewer: mialin, arindam, batre, meerak, v-trisshores
 appliesto:
   - Exchange Server 2019
   - Exchange Server 2016
   - Exchange Server 2013
 search.appverid: MET150
-ms.date: 01/10/2023
+ms.date: 08/28/2024
 ---
 
 # Exchange UnifiedContent folder fills up the drive
@@ -60,8 +60,8 @@ On each server that runs Exchange Server in your organization, follow these step
 
 4. Save your changes to *Antimalware.xml*, and then restart the Exchange Health Manager service. The service name is MSExchangeHM.
 
-Exchange Health Manager will clean the *UnifiedContent* folder during the next maintenance cycle. By default, maintenance cycles run every four hours.
+Exchange Health Manager cleans the *UnifiedContent* folder during the next maintenance cycle. By default, maintenance cycles run every four hours.
 
 ### Resolution 2
 
-On a server that runs Exchange Server in your organization, run the [UnifiedContentCorrector](https://github.com/jojerd/UnifiedContentCorrector/blob/master/UnifiedContentCorrector.ps1) PowerShell script as an administrator. The script tries to connect to each Exchange-based server that's listed in the local Active Directory. After a successful connection is made, the script updates the *UnifiedContent* folder path in *Antimalware.xml*. You might have to run the script on more than one server to make sure that all servers are updated.
+Use the [SetUnifiedContentPath](https://aka.ms/SetUnifiedContentPath) PowerShell script. The script sets the `CleanupFolderResponderFolderPaths` value in the `AntiMalware.xml` file. Exchange Health Manager uses this value to locate the *UnifiedContent* folder to clean up.

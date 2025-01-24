@@ -6,8 +6,8 @@ ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Messaging Policy and Compliance\Issues with eDiscovery, import/export of mailbox
   - Exchange Server
   - CSSTroubleshoot
   - CI 165075
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2013 Enterprise Edition
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 9/29/2022
+ms.date: 01/24/2024
 ---
 # Search-AdminAuditLog and Search-MailboxAuditLog with parameters return empty results
 

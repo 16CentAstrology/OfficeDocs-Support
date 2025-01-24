@@ -1,20 +1,21 @@
 ---
 title: The Sent time stamp on email messages is incorrect in Outlook on the web
 description: Describes sent time stamp on email messages is incorrect in Outlook on the web
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with OWA
   - Exchange Server
   - CSSTroubleshoot
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 appliesto: 
   - Outlook on the web
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 
 # The "Sent" time stamp on email messages is incorrect in Outlook on the web

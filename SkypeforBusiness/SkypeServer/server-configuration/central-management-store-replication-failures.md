@@ -3,18 +3,18 @@ title: Lync Server Central Management Store replication failures
 description: Resolves the issues in which Lync Server 2010 Central Management Store (CMS) file replication process cannot work after adding, moving or updating Lync Server 2010 Server roles .
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Lync Server 2010 Enterprise Edition
   - Lync Server 2010 Standard Edition
   - Lync Server 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Lync Server Central Management Store replication failures

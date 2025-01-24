@@ -4,16 +4,16 @@ description: How to troubleshoot Error 404 when you try to view content in OneDr
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 7/26/2021
+ms.date: 12/17/2023
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - SharePoint Online
 ms.custom: 
+  - sap:Pages\Error 404: Page Unavailable
   - CI 153762
   - CI 154562
   - CSSTroubleshoot

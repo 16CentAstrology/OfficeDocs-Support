@@ -3,16 +3,16 @@ title: How to do a clean uninstallation of Skype for Business on Mac
 description: Describes how to cleanly remove Skype for Business on Mac from your computer.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Skype for Business on Mac
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How to do a clean uninstallation of Skype for Business on Mac

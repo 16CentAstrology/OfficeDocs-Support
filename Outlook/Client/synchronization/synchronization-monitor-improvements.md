@@ -1,13 +1,13 @@
 ---
 title: Synchronization monitor improvements
 description: Describes how the October public updates for Outlook 2016 and Outlook 2013 include substantial changes in an internal feature that affects mail synchronization. Lists the changes and the controls that are associated with them.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\.ost file synchronization
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: sbradley
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2016
   - Outlook 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Synchronization monitor improvements in Microsoft Outlook
 

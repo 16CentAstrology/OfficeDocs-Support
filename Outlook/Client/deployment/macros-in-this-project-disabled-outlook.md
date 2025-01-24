@@ -1,13 +1,13 @@
 ---
 title: Macros in this project are disabled for macros assigned Digital Signature certificate in Outlook
 description: Describes a solution to solve the error (The macros in this project are disabled) in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Developer Issues\Macros
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: gbratton, gdowling
@@ -16,7 +16,7 @@ appliesto:
   - Outlook 2013
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Error when running macros that are assigned a Digital Signature certificate in Outlook: The macros in this project are disabled
 

@@ -1,21 +1,21 @@
 ---
 title: Event 6010 entries fill the Application event log in Exchange Server 2016
 description: Describes an issue in Exchange Server 2016 in which many entries of event 6010 are logged in the Application event log.
-author: v-trisshores
-ms.author: v-trisshores
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Plan and Deploy\Exchange Install Issues, Cumulative or Security updates
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: nasira, ninob
+ms.reviewer: nasira, ninob, v-trisshores
 appliesto: 
   - Exchange Server 2016 Standard Edition
   - Exchange Server 2016 Enterprise Edition
 search.appverid: MET150
-ms.date: 08/04/2022
+ms.date: 01/24/2024
 ---
 # Event 6010 entries fill the Application event log in Exchange Server 2016
 

@@ -1,13 +1,13 @@
 ---
 title: The Linked image cannot be displayed error
 description: Describes an issue that triggers an error about image display in Outlook 2010 or Outlook 2013. This issue involves the BlockHTTPimages registry value. A resolution is provided.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Data Protection and Security\Images or links blocked in email messages
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: robevans
@@ -18,7 +18,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # The Linked image cannot be displayed error in an Outlook email message
 

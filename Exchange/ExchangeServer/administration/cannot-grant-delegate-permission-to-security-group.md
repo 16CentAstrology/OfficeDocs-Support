@@ -1,13 +1,13 @@
 ---
 title: Sharing invitation couldn't be sent
 description: Error is triggered when a user in an Exchange Server 2013 environment tries to grant Delegate permissions to a security group through their Calendar. Workarounds are provided.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with Outlook
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -15,7 +15,8 @@ search.appverid:
 appliesto: 
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2013 Enterprise
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Error in Outlook Web App when Exchange Server 2013 users try to grant Delegate permissions to a security group: Sharing invitation couldn't be sent
 

@@ -1,24 +1,24 @@
 ---
 title: Public folder items are deleted automatically after batch migration
 description: Fixes an issue in which items in a public folder are automatically deleted after a public folder batch migration.
-author: v-charloz
-ms.author: v-chazhang
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration\Issues with Public Folder Migration
   - CI 155655
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: gmuntean; meerak; batre
+ms.reviewer: gmuntean, meerak, batre, v-chazhang
 appliesto: 
   - Exchange Online
   - Exchange Server 2013
   - Exchange Server 2016
   - Exchange Server 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Items are deleted after a public folder batch migration
 

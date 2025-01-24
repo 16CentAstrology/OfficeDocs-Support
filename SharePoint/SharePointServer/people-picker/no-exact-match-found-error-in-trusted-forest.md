@@ -6,14 +6,14 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Authentication & User Profiles\People Picker
   - CSSTroubleshoot
 ms.reviewer: joroar, mikedem
 appliesto: 
   - SharePoint Server 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # Users in any domain in the trusted forest receive No exact match was found People Picker error
 

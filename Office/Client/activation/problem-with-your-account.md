@@ -7,15 +7,16 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - Activation\SignIn\Account Error
   - CSSTroubleshoot
   - CI 157757
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Microsoft 365 Apps activation error “There’s a problem with your account”
@@ -59,7 +60,7 @@ If you have a different edition or version installed on your device, run the SaR
 <details>
 <summary><b>Reset Microsoft 365 activation state</b></summary>
 
-Download and run the Microsoft Support and Recovery Assistant to reset the Mincrosoft 365 activation state.
+Download and run Microsoft Support and Recovery Assistant to reset the Microsoft 365 activation state.
 
 > [!div class="nextstepaction"]
 > [Download the Assistant](https://aka.ms/SaRA-OfficeActivation-Reset)

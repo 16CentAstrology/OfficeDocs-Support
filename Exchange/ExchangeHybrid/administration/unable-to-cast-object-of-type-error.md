@@ -1,22 +1,22 @@
 ---
 title: Unable to cast object of type error if connecting to domain
 description: Describe an error that occurs when you try to connect to a Microsoft 365 domain. Occurs when you use the Exchange Management Console on an on-premises hybrid server that's running Exchange 2010 SP1 or Exchange 2010 SP2 in a hybrid deployment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Hybrid
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: v-mosha
+ms.reviewer: v-mosha, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Unable to cast object of type error when connecting to Microsoft 365 domain from on-premises hybrid server
 

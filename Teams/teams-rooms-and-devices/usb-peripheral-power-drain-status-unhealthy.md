@@ -3,18 +3,19 @@ title: The USB Peripheral Power Drain status of a Teams Rooms device is Unhealth
 description: Resolves an issue that causes the USB Peripheral Power Drain signal of a Microsoft Teams Rooms device to appear as Unhealthy.
 ms.reviewer: rebenite
 ms.topic: troubleshooting
-ms.date: 2/6/2023
+ms.date: 10/30/2023
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
 audience: Admin
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
-ms.custom: CI171525
+ms.custom: 
+  - sap:MTR Pro
+  - CI171525
 ---
 # The USB Peripheral Power Drain status is Unhealthy
 

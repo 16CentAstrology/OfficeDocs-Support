@@ -4,18 +4,19 @@ description: Resolves an issue in which you cannot create public folders in Outl
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Migration\Issues with Public Folder Migration
+  - CSSTroubleshoot
 appliesto: 
 - Exchange Server 2016 Enterprise Edition 
 - Exchange Server 2016 Standard Edition 
 - Exchange Server 2013 Enterprise 
 - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.reviewer: batre; christys; genli
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: batre, christys, genli, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 
 # Owner cannot create modern public folders by using Outlook in Exchange Server 2013 or Exchange Server 2016

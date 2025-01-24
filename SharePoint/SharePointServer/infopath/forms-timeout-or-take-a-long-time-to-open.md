@@ -6,15 +6,15 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administration\InfoPath Forms Service
   - CSSTroubleshoot
 ms.reviewer: TAPANM
 appliesto: 
   - InfoPath 2010
   - InfoPath 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # Forms time out or take a long time to open in InfoPath 2010 or InfoPath 2013
 

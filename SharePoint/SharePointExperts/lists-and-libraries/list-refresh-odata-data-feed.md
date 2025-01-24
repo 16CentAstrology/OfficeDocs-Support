@@ -3,17 +3,18 @@ title: PowerPivot scheduled data refresh from a list by using OData data feed co
 description: This article introduces how to set up PowerPivot scheduled data refresh from a list by using OData data feed connection.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: sap:spsexperts, CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Hybrid with M365 (OneDrive,App launcher, Site following, PowerApps, Flow, etc.)
+  - CSSTroubleshoot
 ms.author: luche
 ms.reviwer: zakirh
 appliesto: 
   - SharePoint Server 2013
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # PowerPivot scheduled data refresh from a SharePoint list by using OData data feed connection (PowerPivot 2012 SP1 for SharePoint 2013)

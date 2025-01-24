@@ -1,13 +1,13 @@
 ---
 title: Can't send emails to a mail-enabled public folder
 description: Fixes an issue in which you can't send email to a mail-enabled public folder after you complete a public folder migration from Exchange Server on-premises to Exchange Online.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - CI 157009
   - Exchange Online
   - CSSTroubleshoot
@@ -16,7 +16,7 @@ appliesto:
   - Exchange Online via Office 365 E Plans
   - Exchange Online via Office 365 P Plans 
 search.appverid: MET150
-ms.date: 9/15/2022
+ms.date: 01/24/2024
 ---
 # "554 5.4.14 Hop count exceeded - possible mail loop" error when sending email to MEPF
 

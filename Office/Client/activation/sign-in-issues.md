@@ -7,8 +7,9 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - Activation\SignIn\Password Prompts
   - CSSTroubleshoot
   - CI 157601
   - CI 159070
@@ -17,7 +18,7 @@ search.appverid:
   - MET150
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Sign in issues when activating Microsoft 365 Apps
@@ -171,7 +172,7 @@ If WIP is configured, you might encounter error code 0x80070164 when trying to a
 <summary><b>Make sure Virtual Desktop Infrastructure (VDI) is configured correctly</b></summary>
 
 If you are using VDI, make sure your Microsoft 365 credentials are not roamed. 
-If you are using non-persistent VDI, set up Seamless Single Sign On (SSO). For more information, see [Azure Active Directory Seamless Single Sign-On](/azure/active-directory/hybrid/how-to-connect-sso).
+If you are using non-persistent VDI, set up Seamless Single Sign On (SSO). For more information, see [Microsoft Entra seamless single sign-on](/azure/active-directory/hybrid/how-to-connect-sso).
 <br/><br/>
 </details>
 

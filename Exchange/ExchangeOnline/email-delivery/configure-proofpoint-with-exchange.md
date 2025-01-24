@@ -1,12 +1,11 @@
 ---
 title: Configure Proofpoint Email Protection with Exchange Online
-ms.author: v-six
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
-ms.date: 10/22/2020
+ms.date: 01/24/2024
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.collection: 
   - exchange-online
 search.appverid: 
@@ -15,10 +14,11 @@ search.appverid:
 appliesto: 
   - Exchange Online
 ms.custom: 
+  - sap:Mail Flow
   - Exchange Online
   - CI 123370
   - CSSTroubleshoot
-ms.reviewer: stanalek
+ms.reviewer: stanalek, v-six
 description: Describes how to configure Proofpoint Email Protection and other Sendmail-based applications with Exchange Online.
 ---
 # Configure Proofpoint Email Protection to work with Exchange Online
@@ -44,7 +44,7 @@ By default, Proofpoint does not limit the number of messages that it sends per c
 To avoid this situation, do the following:
 
 1. Set the value of **Maximum Number of Messages per SMTP Connection** to a number that's based on the average message size and average network throughput to Exchange Online. Proofpoint recommends an initial value of 199. Start at this value and reduce it if **ConnectionReset** errors are still logged.
-2. Increase the number of queue runners that are configured in Proofpoint that’s appropriate to maintain the same message throughput before and after you change the number of messages per connection.
+2. Increase the number of queue runners that are configured in Proofpoint that's appropriate to maintain the same message throughput before and after you change the number of messages per connection.
 3. Clear any Exchange Online host names or IP addresses in the HostStatus file. You can use the Proofpoint UI to do this.
 
 ### Disable the HostStat feature

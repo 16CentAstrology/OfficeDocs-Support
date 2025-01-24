@@ -1,20 +1,20 @@
 ---
 title: Hangs with Junk Email Reporting add-in and large archive
 description: Describes an issue where Outlook 2016 hangs when the Junk Email Reporting add-in is installed and there's a large Archive mailbox. Provides a workaround.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: tasitae
 appliesto: 
   - Outlook 2016
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Outlook 2016 hangs with Junk Email Reporting add-in and large archive
 

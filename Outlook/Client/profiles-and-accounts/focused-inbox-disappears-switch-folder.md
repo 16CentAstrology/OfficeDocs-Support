@@ -1,13 +1,13 @@
 ---
 title: Focused Inbox disappears when you switch folders in Outlook
 description: When you switch from the inbox to other folders, the Focused Inbox option disappears. Follow this article to fix this issue.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\Autodiscover
   - Outlook for Windows
   - CI 114555
   - CSSTroubleshoot
@@ -16,7 +16,7 @@ appliesto:
   - Outlook for Microsoft 365
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 
 # Focused Inbox disappears when you switch folders in Outlook
@@ -56,7 +56,7 @@ To work around this issue, exclude the Last Known Good URL by setting the **Excl
 |Value Type      |REG_DWORD         |
 |Value Data     |1         |
 
-For more information about how to set this registry key, see [Unexpected Autodiscover behavior](unexpected-autodiscover-behavior.md).
+For more information about how to set this registry key, see [Unexpected Autodiscover behavior](/previous-versions/troubleshoot/outlook/unexpected-autodiscover-behavior).
 
 > [!IMPORTANT]
 > Because excluding the Last Known Good URL isn't a long-term solution for this issue, Microsoft don't recommend it. This workaround is provided as immediate relief for the issue. As soon as the web service provider or web hosting provider fixes the issue, this Outlook registry key must be removed.

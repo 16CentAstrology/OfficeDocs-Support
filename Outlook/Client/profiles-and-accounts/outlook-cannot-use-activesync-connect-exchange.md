@@ -1,13 +1,13 @@
 ---
 title: Outlook can't use ActiveSync to connect Exchange
 description: Discusses that Outlook doesn't support a connection to Exchange by using the Exchange ActiveSync protocol. Log onto Exchange ActiveSync mail server (EAS) The server cannot be found error occurs. Provides a resolution.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: 
@@ -16,7 +16,7 @@ appliesto:
   - Outlook 2016
   - Outlook 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Outlook doesn't support connections to Exchange by using ActiveSync and error: Log onto Exchange ActiveSync mail server (EAS)
 

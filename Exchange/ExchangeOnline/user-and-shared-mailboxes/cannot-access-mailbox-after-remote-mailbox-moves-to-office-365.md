@@ -4,17 +4,18 @@ description: Resolves an issue that blocks a user from accessing their mailbox t
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Hybrid
+  - CSSTroubleshoot
 appliesto:
 - Exchange Online
 - Outlook
 - Exchange
 search.appverid: MET150
-ms.reviewer: jhayes, shawsull, benwinz, sulobr
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: jhayes, shawsull, benwinz, sulobr, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 # Can't access a mailbox by using Outlook after a remote mailbox move from an on-premises Exchange Server environment to Microsoft 365
 

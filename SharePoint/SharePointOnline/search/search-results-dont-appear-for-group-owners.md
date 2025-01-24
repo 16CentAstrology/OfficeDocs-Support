@@ -3,16 +3,16 @@ title: Search results don't appear for group owners after creating a new Microso
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 10/18/2019
+ms.date: 12/17/2023
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - SharePoint Online
 ms.custom: 
+  - sap:Search\Customize and Configure Results
   - CI 108412
   - SSTroubleshoot
 ms.reviewer: snarra, anundlie, knutb

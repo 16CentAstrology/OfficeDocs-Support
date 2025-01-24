@@ -6,14 +6,14 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administration\Service Applications (except Search)
   - CSSTroubleshoot
 ms.reviewer: Jenl
 appliesto: 
   - Excel 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # Cannot locate a server to load the workbook Data Model when you refresh a PivotTable in an Excel 2013 workbook
 

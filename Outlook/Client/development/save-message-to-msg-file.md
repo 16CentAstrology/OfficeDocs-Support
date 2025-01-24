@@ -4,14 +4,15 @@ description: Describes how to save a message to a compound document, specificall
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Developer Issues\Macros
+  - CSSTroubleshoot
 appliesto: 
 search.appverid: MET150
-ms.reviewer: 
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # INFO: Save message to MSG compound file
 
@@ -159,4 +160,4 @@ return hRes;
 
 All versions of Outlook and the Exchange Client support CLSID_MailMessage as the compound document. The only reason to use a different CLSID is to support other clients that use a different CLISD when you write messages to structured storage.
 
-When saving messages which have a large number of recipients or attachments, it is possible that the CopyTo operation will fail with MAPI_E_NOT_ENOUGH_MEMORY. This is due to a known problem with structured storage and streams. Every time that a new attachment or recipient is added to the message being saved in structured storage, a new Root Storage File is opened. These files are not closed until the transaction is completed. Because the operating system imposes a limit on the number of simultaneously open root storage files, there is no known workaround.
+When saving messages that have a large number of recipients or attachments, it's possible that the CopyTo operation will fail with MAPI_E_NOT_ENOUGH_MEMORY. This is due to a known problem with structured storage and streams. Every time that a new attachment or recipient is added to the message being saved in structured storage, a new Root Storage File is opened. These files are not closed until the transaction is completed. Because the operating system imposes a limit on the number of simultaneously open root storage files, there's no known workaround.

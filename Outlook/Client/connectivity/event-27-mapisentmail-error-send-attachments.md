@@ -1,14 +1,14 @@
 ---
 title: Sending attachment outside of Outlook fails
 description: This article provides a solution to an issue where sending attachments outside of Microsoft Outlook fails.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: tmoore, gregmans
 ms.custom: 
+  - sap:Sending, Receiving, Synchronizing, or viewing email\Other
   - Outlook for Windows
   - CSSTroubleshoot
 search.appverid: 
@@ -16,7 +16,7 @@ search.appverid:
 appliesto: 
   - Outlook 2013
   - Outlook 2010
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Event ID 27 when sending attachments outside of Outlook fails
 

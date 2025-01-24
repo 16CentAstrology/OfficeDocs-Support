@@ -3,11 +3,11 @@ title: How To parse City, State, and Zip Code into separate values
 description: Describes how to parse a single variable containing US City, State, and Zip Code information into three separate variables.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
@@ -19,7 +19,7 @@ appliesto:
   - Access 2007
   - Access 2003
 ms.reviewer: malcolms
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # How To Parse City, State, and Zip Code into Separate Values
 

@@ -1,13 +1,13 @@
 ---
 title: Manager's team calendars not shown
 description: Describes an issue that prevents your manager's Outlook team calendars from displaying in the Calendar module of the navigation pane. Occurs in Outlook 2016, Microsoft Outlook 2013, Microsoft Outlook 2010, and Microsoft Exchange Online. Provides resolutions.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Calendar\Working with meetings or appointments
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: monish, bobz
@@ -17,7 +17,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Outlook doesn't display your manager's team calendars
 

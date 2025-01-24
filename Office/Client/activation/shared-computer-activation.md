@@ -7,15 +7,16 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - Activation\Deploying Office using Shared Computer Activation
   - CSSTroubleshoot
   - CI 157761
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Troubleshoot issues with shared computer activation for Microsoft 365 Apps
@@ -268,13 +269,13 @@ If you are having trouble with shared computer activation using Citrix, see the 
 </details>
 
 <details>
-<summary><b>Make sure RDS servers are joined to Azure Active Directory (Azure AD)</b></summary>
+<summary><b>Make sure RDS servers are joined to Microsoft Entra ID</b></summary>
 
-Use Azure AD Connect sync to set up password hash synchronization and Seamless Single Sign-on (Seamless SSO). For instructions, see the following articles:
+Use Microsoft Entra Connect Sync to set up password hash synchronization and Seamless Single Sign-on (Seamless SSO). For instructions, see the following articles:
 
-- [Implement password hash synchronization with Azure AD Connect sync](/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization)
+- [Implement password hash synchronization with Microsoft Entra Connect Sync](/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization)
 
-- [Azure Active Directory Seamless Single Sign-On](/azure/active-directory/hybrid/how-to-connect-sso)
+- [Microsoft Entra seamless single sign-on](/azure/active-directory/hybrid/how-to-connect-sso)
 <br/><br/>
 </details>
 

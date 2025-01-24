@@ -3,19 +3,20 @@ title: Request approval failed when you process a pending request
 description: This article describes an issue where Access Denied to Access Requests list or Request approval failed when you process a pending request, and provides a solution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Sharing\Access requests
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
   - SharePoint Server 2019
   - SharePoint Server 2016
   - SharePoint Server 2010
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "Access Denied" to Access Requests list or "Request approval failed" when you process a pending request

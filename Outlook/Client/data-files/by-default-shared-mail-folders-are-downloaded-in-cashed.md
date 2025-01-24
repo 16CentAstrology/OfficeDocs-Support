@@ -1,13 +1,13 @@
 ---
 title: Manage download settings for shared mail folders in Cached Exchange mode in Outlook
 description: Provides details on how to disable the download of shared mail folders in Cached Exchange mode in Outlook 2013 and later versions. 
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\Cached mode synchronization
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: aruiz, migr, laurentc, doakm, gbratton, gregmans
@@ -17,7 +17,7 @@ appliesto:
   - Outlook 2013
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 6/6/2022
+ms.date: 01/30/2024
 ---
 # Manage download settings for shared mail folders in Cached Exchange mode in Outlook
 

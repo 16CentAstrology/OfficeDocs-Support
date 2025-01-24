@@ -3,10 +3,9 @@ title: Modified dates on the SharePoint site contents page are not accurate
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 9/25/2019
+ms.date: 12/17/2023
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
@@ -16,6 +15,7 @@ appliesto:
   - SharePoint Server 2016
   - SharePoint Server 2013
 ms.custom: 
+  - sap:Administration\Lists and libraries
   - CI 108026
   - CSSTroubleshoot
 ms.reviewer: lvaznis

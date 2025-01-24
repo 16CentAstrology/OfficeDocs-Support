@@ -1,13 +1,13 @@
 ---
 title: Synchronization fails after mailbox items changed
 description: Synchronization is unsuccessful after mailbox items are changed through EWS calls in cached mode Outlook client. Provides a workaround.
-ms.author: luche
-author: helenclu
+ms.author: meerak
+author: cloud-writer
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\.ost file synchronization
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: sfellman, genli
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2016 Standard Edition
   - Exchange Server 2013 Enterprise CAL
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Synchronization is unsuccessful after mailbox items are changed through EWS calls in cached-mode Outlook client
 

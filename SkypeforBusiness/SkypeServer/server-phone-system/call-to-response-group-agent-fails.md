@@ -3,17 +3,17 @@ title: Call to Response Group Agent fails
 description: Provides a solution for call failure to Response Group Agent.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
 ms.reviewer: miadkins
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Microsoft Lync Server
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Call to Microsoft Lync Server Response Group Agent fails

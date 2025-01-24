@@ -1,16 +1,16 @@
 ---
 title: Subtask Configure execution failed in HCW
 description: Provides a workaround for an issue that triggers an error when you run the Hybrid Configuration Wizard in Exchange Server 2013 after you upgrade from Exchange Server 2010.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Hybrid
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Subtask Configure execution failed when you run the Hybrid Configuration Wizard in Exchange 2013
 

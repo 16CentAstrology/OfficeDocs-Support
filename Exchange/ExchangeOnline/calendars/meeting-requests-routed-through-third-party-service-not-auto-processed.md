@@ -1,13 +1,13 @@
 ---
 title: Room mailbox can't automatically accept or decline meeting requests
 description: Meeting requests that are routed through a third-party mail service by using mail flow connectors aren't automatically processed by a room mailbox. 
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Calendaring
   - CI 162396
   - Exchange Online
   - CSSTroubleshoot
@@ -15,7 +15,7 @@ ms.reviewer: alexaca, tylewis
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 6/7/2022
+ms.date: 01/24/2024
 ---
 # Room mailbox doesn't process meeting requests routed through a third-party mail service
 

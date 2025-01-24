@@ -3,16 +3,17 @@ title: Site names cannot contain certain reserved words when you create a new su
 description: This article describes an issue where Site names cannot contain certain reserved words occurs when you try to create a new SharePoint Online subsite, and provides a solution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Sites\Create Site
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "Site names cannot contain certain reserved words" when you create a new SharePoint Online subsite

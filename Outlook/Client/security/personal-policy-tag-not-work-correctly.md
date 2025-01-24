@@ -1,13 +1,13 @@
 ---
 title: Personal tags don't apply correctly for Inbox rule
 description: Discusses an issue in which Exchange personal tags don't work correctly for an Inbox rule in Exchange.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\Retention policies
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: dpaul
@@ -15,7 +15,7 @@ appliesto:
   - Exchange Server 2016
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Personal policy tag for an Inbox rule doesn't work correctly in Exchange
 

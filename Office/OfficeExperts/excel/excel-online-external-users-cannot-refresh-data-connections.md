@@ -3,17 +3,19 @@ title: External users can't refresh data connections from Excel Online
 description: One or more data connections in this workbook can't be refreshed or Failed to update the data connections when external users refresh a workbook from Excel Online
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: sap:office-experts, CSSTroubleshoot
+ms.custom: 
+  - Open\DataRefresh
+  - sap:office-experts
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 ms.reviewer: warrenr
 appliesto: 
   - Excel Online
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # External users can't refresh data connections from Excel Online

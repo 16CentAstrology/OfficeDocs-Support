@@ -1,22 +1,23 @@
 ---
 title: 401 Access denied when running Test-OAuthConnectivity
 description: Describes an issue that occurs when you run the Test-OAuthConnectivity cmdlet to test OAuth authentication for a user.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Hybrid
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: timothyh
+  - has-azure-ad-ps-ref
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # 401 Access denied error when you run the Test-OAuthConnectivity cmdlet
 
@@ -40,6 +41,8 @@ This issue can occur if one of the following conditions is true:
 To fix this issue, take one of the following actions, as appropriate for your situation.
 
 ### Scenario 1 - The SPN is missing
+
+[!INCLUDE [Azure AD PowerShell deprecation note](../../../includes/aad-powershell-deprecation-note.md)]
 
 1. Open the Exchange Management Shell.
 2. Run the following command:

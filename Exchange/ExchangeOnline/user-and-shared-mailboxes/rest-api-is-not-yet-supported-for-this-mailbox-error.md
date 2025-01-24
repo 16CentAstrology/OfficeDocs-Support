@@ -1,20 +1,20 @@
 ---
 title: REST API is not yet supported error
 description: REST API is not supported if you don't have a valid Microsoft 365 mailbox, if an Outlook.com account isn't enabled, or if Flow isn't included in your plan.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administrator Tasks
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: evsung, rachaudh, brianja, jasonjoh
+ms.reviewer: evsung, rachaudh, brianja, jasonjoh, v-six
 appliesto: 
   - Power Automate
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 08/13/2024
 ---
 # REST API is not yet supported for this mailbox error for request to a mailbox
 
@@ -34,7 +34,7 @@ This error can occur if the mailbox is on a dedicated Microsoft Exchange Server 
 
 ## Resolution
 
-To get a valid Microsoft 365 mailbox, submit a request to your Exchange or Global administrator to migrate the mailbox account. Users who don't have administrator permissions can't migrate accounts. For  information on how to migrate the mailbox account, see [How to migrate mailbox data by using the Exchange Admin Center in Microsoft 365](/exchange/troubleshoot/mailbox-migration/migrate-data-with-admin-center).
+To get a valid Microsoft 365 mailbox, submit a request to your Exchange administrator to migrate the mailbox account. Users who don't have administrator permissions can't migrate accounts. For information on how to migrate the mailbox account, see [How to migrate mailbox data by using the Exchange Admin Center in Microsoft 365](/exchange/troubleshoot/mailbox-migration/migrate-data-with-admin-center).
 
 ## More information
 

@@ -1,13 +1,13 @@
 ---
 title: Cannot preview Office documents in Outlook
 description: Fixes an issue in which you can't preview an Office file attachment in the Outlook reading pane. This issue occurs in Outlook 2013 if the Windows Firewall service is disabled.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Sending, Receiving, Synchronizing, or viewing email\Email attachments not visible
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: vivekst, akeeler
@@ -30,7 +30,7 @@ appliesto:
   - Excel for Microsoft 365
   - PowerPoint for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Can't preview Office documents in Outlook if Windows Firewall Service is disabled
 
