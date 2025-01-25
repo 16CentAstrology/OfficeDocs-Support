@@ -1,22 +1,22 @@
 ---
 title: Read receipt is sent from public folder mailbox
 description: Describes a known issue in which a read receipt is sent not from a public folder but from a public folder mailbox that hosts the folder.
-author: v-charloz
-ms.author: v-chazhang
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - CI 146406
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: meerak; haembab; batre
+ms.reviewer: meerak, haembab, batre, v-chazhang
 editor: v-jesits
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 
 # Read receipts are sent from a public folder mailbox instead of from a public folder

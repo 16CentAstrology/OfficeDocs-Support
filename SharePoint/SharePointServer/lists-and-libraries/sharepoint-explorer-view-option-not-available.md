@@ -4,8 +4,9 @@ description: Describes an issue in which the SharePoint Explorer View option is 
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Lists and libraries
+  - CSSTroubleshoot
 appliesto:
 - Microsoft Office SharePoint Server 2010
 - Microsoft Office SharePoint Server 2007
@@ -13,7 +14,7 @@ search.appverid: MET150
 ms.reviewer: 
 author: simonxjx
 ms.author: v-six
-ms.date: 03/31/2022
+ms.date: 12/17/2023
 ---
 # Explorer View option isn't available on the Current View list box in SharePoint Server
 

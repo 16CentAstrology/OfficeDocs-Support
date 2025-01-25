@@ -6,15 +6,15 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administration\Lists and libraries
   - CSSTroubleshoot
 ms.reviewer: TAPANM, praveenh
 appliesto: 
   - SharePoint Server 2010
   - SharePoint Server 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # Automatically declaring items as records causes duplicates in SharePoint Server
 

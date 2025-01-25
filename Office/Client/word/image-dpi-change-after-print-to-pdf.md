@@ -6,15 +6,17 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Performance, Usability & Features
+  - Printing
+  - CSSTroubleshoot
 ms.reviewer: Laura Holzwarth (STRUCK), Fish Ge
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft Word 2010
   - Word 2013
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Image DPI is changed after you print to PDF from Word 2013 or Word 2010

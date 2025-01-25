@@ -1,19 +1,20 @@
 ---
-title: The SharePoint workflow lookup column field is not supported in query
-description: SharePoint workflow is configured to use a site column that performs a lookup doesn't execute with the error saying the field is not supported in query.
+title: The SharePoint workflow lookup column field isn't supported in query
+description: SharePoint workflow is configured to use a site column that performs a lookup doesn't execute with the error saying the field isn't supported in query.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Workflows and Automation\Other
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
   - SharePoint Server 2013
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # A SharePoint workflow that uses a site column to perform a lookup on a list on a different site doesn't execute
@@ -35,7 +36,7 @@ In this scenario, the workflow doesn't execute, and you receive the following er
 
 ## Solution
 
-This is expected behavior in a workflow that uses the SharePoint 2013 Workflow platform type in either SharePoint Online or SharePoint Server 2013.
+This behavior is expected in a workflow that uses the SharePoint 2013 Workflow platform type in either SharePoint Online or SharePoint Server 2013.
 
 The SharePoint 2013 workflows use the REST endpoints to perform their work. The RESTful endpoint that's responsible for making this query isn't able to pull queries across subsites.
 

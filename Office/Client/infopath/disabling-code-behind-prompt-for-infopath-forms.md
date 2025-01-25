@@ -5,15 +5,15 @@ author: helenclu
 ms.author: luche
 ms.reviewer: dmahugh
 manager: dcscontentpm
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 audience: Admin
 ms.topic: troubleshooting
 appliesto: 
   - Microsoft InfoPath
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Disabling code-behind prompt for InfoPath forms
 

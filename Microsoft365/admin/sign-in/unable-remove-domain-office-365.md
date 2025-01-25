@@ -3,16 +3,17 @@ title: Unable to remove this domain when remove a domain from Microsoft 365
 description: Describes an issue in which you receive an Unable to remove this domain error message when you try to delete a domain from Microsoft 365 by using Windows PowerShell. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Unable to remove this domain" when you try to remove a domain from Microsoft 365
@@ -28,6 +29,8 @@ At line:1 char:18
 + CategoryInfo : OperationStopped: (:) [Remove-MsolDomain], MicrosoftOnlineException
 + FullyQualifiedErrorId : Microsoft.Online.Administration.Automation.DomainNotEmptyException,Microsoft.Online.Administration.Automation.RemoveDomain
 ```
+
+[!INCLUDE [Azure AD PowerShell deprecation note](../../../includes/aad-powershell-deprecation-note.md)]
 
 ## Cause 
 
@@ -54,7 +57,7 @@ For more info about how to remove a domain in the Microsoft 365 admin center, go
 > You can also create a user view and then set the domain to the domain that you're trying to remove. Use this view to note the user names, and then change the user names so that the domain in question isn't part of the user name.
 
 To check whether user names contain the domain name, follow these steps: 
-1. Connect to Microsoft Azure Active Directory by using the Azure Active Directory Module for Windows PowerShell. To do this, open the Azure Active Directory Modules for Windows PowerShell, type the following cmdlet, and then press Enter.
+1. Connect to Microsoft Entra ID by using the Azure Active Directory module for Windows PowerShell. To do this, open the Microsoft Entra Modules for Windows PowerShell, type the following cmdlet, and then press Enter.
    ```powershell
    Connect-MsolService
    ```

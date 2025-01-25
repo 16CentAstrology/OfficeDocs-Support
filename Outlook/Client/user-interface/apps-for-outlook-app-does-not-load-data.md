@@ -1,13 +1,13 @@
 ---
 title: Apps for Outlook app does not load data
 description: Describes an issue that blocks Apps for Outlook apps from being loaded correctly in an Outlook 2013 or Outlook 2016 environment. A resolution is provided.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Data Protection and Security\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: TasitaE
@@ -16,7 +16,7 @@ appliesto:
   - Outlook 2013
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Apps for Outlook app does not load data in Outlook 2013 or Outlook 2016
 

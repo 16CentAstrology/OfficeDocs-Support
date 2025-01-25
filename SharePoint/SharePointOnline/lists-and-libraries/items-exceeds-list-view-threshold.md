@@ -3,16 +3,17 @@ title: The number of items in this list exceeds the list view threshold
 description: This article describes The number of items in this list exceeds the list view threshold error, and provides a solution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Lists and Libraries\Managing list view threshold errors
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "The number of items in this list exceeds the list view threshold" when you view lists in Microsoft 365

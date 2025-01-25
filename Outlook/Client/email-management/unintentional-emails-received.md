@@ -1,13 +1,13 @@
 ---
 title: Receiving email messages not intended for you
 description: Fixes an issue in which you receive an email message that wasn't intended for you.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Data Protection and Security\SPAM or phish
   - Outlook for Windows
   - Outlook for Mac
   - CI 118817
@@ -25,7 +25,7 @@ appliesto:
   - Outlook for iOS
   - Outlook for Android
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Unintentional emails received in Outlook
 

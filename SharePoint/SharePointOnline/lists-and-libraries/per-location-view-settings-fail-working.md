@@ -3,20 +3,21 @@ title: Per-location view settings don't work at the folder level
 description: Folders are not displayed in each other when using Per-location view settings in SharePoint 2013, SharePoint 2010, and SharePoint Online.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Lists and Libraries\Views
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
   - SharePoint Foundation 2013
   - SharePoint Server 2013
   - SharePoint Foundation 2010
   - SharePoint Server 2010
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Per-location view settings don't work at the folder level in SharePoint 2013, SharePoint 2010, and SharePoint Online

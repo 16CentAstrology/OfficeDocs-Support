@@ -3,13 +3,13 @@ title: A federated user is repeatedly prompted for credentials during sign-in
 description: Describes an issue in which a federated user is repeatedly prompted for credentials when the user tries to log on to the AD FS service endpoint during sign-in to Microsoft 365, Azure, or Microsoft Intune. When the user cancels, the user gets an Access Denied error message. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Cloud Services (Web roles/Worker roles)
   - Azure Active Directory
@@ -17,7 +17,7 @@ appliesto:
   - Microsoft Intune
   - CRM Online via Office 365 E Plans
   - Azure Backup
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune
@@ -302,6 +302,6 @@ For more information about the Set-ADFSProperties cmdlet, go to the following Mi
 
 [Set-ADFSProperties](/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/ee892317(v=technet.10))
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
 
 The third-party products that this article discusses are manufactured by companies that are independent of Microsoft. Microsoft makes no warranty, implied or otherwise, about the performance or reliability of these products.

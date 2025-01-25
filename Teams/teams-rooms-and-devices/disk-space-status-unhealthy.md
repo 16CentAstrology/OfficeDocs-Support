@@ -3,18 +3,19 @@ title: The Disk Space status of a Teams Rooms device is Unhealthy
 description: Resolve the issue that causes the Disk Space signal of a Microsoft Teams Rooms device to appear as Unhealthy.
 ms.reviewer: bthompson
 ms.topic: troubleshooting
-ms.date: 9/26/2022
+ms.date: 10/30/2023
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
 audience: Admin
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
-ms.custom: CI167274
+ms.custom: 
+  - sap:MTR Pro
+  - CI167274
 ---
 # The Disk Space status is Unhealthy
 

@@ -3,16 +3,17 @@ title: Teams group creator is listed as a SharePoint admin
 description: SomeUser created the site is mentioned in an activity of a SharePoint web part of a group that you created by Teams.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Permissions\Permission Groups
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Creator of Microsoft Teams group is listed as a SharePoint admin

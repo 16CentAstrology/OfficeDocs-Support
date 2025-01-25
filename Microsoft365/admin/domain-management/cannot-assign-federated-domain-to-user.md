@@ -3,16 +3,16 @@ title: Can't assign federated domain to user in Microsoft 365 Admin Center
 description: Discusses a scenario in which you can't assign a federated domain to a user in the Microsoft 365 Admin Center.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # You can't assign a federated domain to a user in the Microsoft 365 Admin Center
@@ -37,7 +37,7 @@ This behavior is by design in Microsoft 365. You can't create federated users th
 
 ## Solution
 
-To work around this behavior, create a matching user account in the on-premises Active Directory Domain Services (AD DS) environment, set up the user principal name (UPN) appropriately, and then sync the account and Azure Active Directory by using directory synchronization. To do so, follow these steps:
+To work around this behavior, create a matching user account in the on-premises Active Directory Domain Services (AD DS) environment, set up the user principal name (UPN) appropriately, and then sync the account and Microsoft Entra ID by using directory synchronization. To do so, follow these steps:
 
 1. Obtain the primary SMTP address of the Microsoft 365 user account by following these steps:
    1. Sign in to the [Microsoft 365 portal](https://portal.office.com) as a global admin.

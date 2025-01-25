@@ -1,20 +1,21 @@
 ---
 title: How to set automatic replies on a user's mailbox in Microsoft 365
 description: Describes How to set automatic replies on a user's mailbox in Microsoft 365.
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 manager: dcscontentpm
 ms.custom: 
+  - sap:Recipients management
   - Exchange Online
   - CSSTroubleshoot
-localization_priority: Normal
 search.appverid: 
   - MET150
 appliesto: 
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 03/06/2024
+ms.reviewer: v-six
 ---
 # How to set automatic replies on a user's mailbox in Microsoft 365
 
@@ -33,8 +34,8 @@ This article describes four methods that administrators can use to set automatic
 
 1. Sign in to the Microsoft 365 admin portal by using administrator credentials.
 1. Expand **Admin Centers**, and then select **Exchange**.
-1. Click the picture in the upper-right corner, select **Another User**, and then select the user mailbox that you want to change.
-1. On the left side, select **Options**, click **Organize E-mail**, and then click **Automatic replies**.
+1. Under **Recipients** > **Mailboxes**, select the mailbox that you want to change.
+1. Select **Others**, and then select **Manage automatic replies** under **Automatic replies**.
 
 ## Method 3
 

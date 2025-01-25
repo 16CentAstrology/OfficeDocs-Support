@@ -4,16 +4,17 @@ description: Provides a resolution to remove duplicate folders in Outlook when c
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:User Interface features and Configuration\Folder views
+  - CSSTroubleshoot
 appliesto:
 - Outlook
 - Exchange
 search.appverid: MET150
-ms.reviewer: meshel, benjak, aruiz
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: meshel, benjak, aruiz, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # How to remove duplicate folders in Outlook when connected to an Exchange Server mailbox
 

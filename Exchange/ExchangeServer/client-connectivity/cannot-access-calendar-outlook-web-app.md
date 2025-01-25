@@ -1,13 +1,13 @@
 ---
 title: Can't access calendar in Outlook Web App
 description: Fixes an issue in which users receive an error when they access the calendar in Outlook Web App in an Exchange Server environment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Sharing\Issue viewing Free Busy
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -18,7 +18,8 @@ appliesto:
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Can't access the calendar in Outlook Web App in an Exchange Server environment
 

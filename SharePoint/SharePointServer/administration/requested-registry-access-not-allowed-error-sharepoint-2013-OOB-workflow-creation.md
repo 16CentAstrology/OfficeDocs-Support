@@ -5,15 +5,16 @@ author: helenclu
 ms.author: luche
 ms.reviewer: 
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: Admin
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Workflows
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 appliesto: 
   - SharePoint Server 2013
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "Requested registry access is not allowed" error in SharePoint 2013 OOB workflow creation

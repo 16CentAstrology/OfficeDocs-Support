@@ -3,17 +3,17 @@ title: Troubleshoot sign-in issues with modern authentication when use AD FS
 description: Discusses how to troubleshoot issues  that affect the ability to sign in to Office apps that are enabled for modern authentication.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Microsoft 365 Apps for enterprise
   - Azure Active Directory
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Troubleshoot sign-in issues with Office modern authentication when you use AD FS

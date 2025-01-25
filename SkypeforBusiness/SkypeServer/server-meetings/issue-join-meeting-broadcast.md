@@ -3,17 +3,17 @@ title: An error occurred during the Skype Meeting when join a Skype Meeting Broa
 description: Describes an issue that triggers an error occurred during the Skype Meeting error when you try to join a Skype Meeting Broadcast event as an event team member. A resolution is provided.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: v-six
 appliesto: 
   - Skype for Business Online
   - Skype for Business Server 2015
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "An error occurred during the Skype Meeting" when you try to join a Skype Meeting Broadcast as an event team member

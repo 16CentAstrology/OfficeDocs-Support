@@ -1,14 +1,14 @@
 ---
 title: Sync issues with an .ost file
 description: Provides guidance for issues when you synchronize an Exchange Server mailbox with an Offline Outlook Data File.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: aruiz, meerak
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with Outlook
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -18,7 +18,7 @@ appliesto:
   - Outlook 2016
   - Outlook 2013
   - Outlook for Microsoft 365
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Issues when you synchronize your Exchange Server mailbox with your .ost file in Outlook
 

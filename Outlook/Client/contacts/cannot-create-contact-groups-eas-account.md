@@ -1,14 +1,14 @@
 ---
 title: Can't create Outlook Contact Groups
 description: When you use Microsoft Outlook to connect to an Exchange ActiveSync (EAS) account, you can't create Contact Groups. This article details this limitation of Exchange ActiveSync accounts, which include hotmail.com and outlook.com email accounts.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: aruiz, doakm
 ms.custom: 
+  - sap:People or Contacts\Personal Distribution Lists
   - Outlook for Windows
   - CSSTroubleshoot
 search.appverid: 
@@ -17,7 +17,7 @@ appliesto:
   - Outlook 2019
   - Outlook 2016
   - Outlook 2013
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # You can't create Outlook Contact Groups when connected to an EAS account
 

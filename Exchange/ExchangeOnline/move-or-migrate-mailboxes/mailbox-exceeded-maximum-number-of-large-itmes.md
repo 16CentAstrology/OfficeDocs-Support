@@ -1,20 +1,20 @@
 ---
 title: Can't migrate a user's mailbox data from the on-premises to Microsoft 365
 description: Fixes an issue in which you receive an error message when you try to migrate a user's mailbox data from the on-premises messaging environment to Microsoft 365.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: jhayes
+ms.reviewer: jhayes, v-six
 appliesto: 
 - xchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # This mailbox exceeded the maximum number of large items when migrating a user's mailbox data from the on-premises environment to Microsoft 365
 

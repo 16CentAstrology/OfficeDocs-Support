@@ -1,13 +1,13 @@
 ---
 title: Incorrect SourcePFPrimaryMailboxGuid causes failed public folder migration
 description: Fixes an issue in which you get an EndpointNotFoundTransientException error when you run a public folder migration batch job.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - CI 151235
   - Exchange Online
   - CSSTroubleshoot
@@ -16,7 +16,7 @@ appliesto:
   - Exchange Online via Office 365 E Plans
   - Exchange Online via Office 365 P Plans
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # EndpointNotFoundTransientException error in a public folder migration
 

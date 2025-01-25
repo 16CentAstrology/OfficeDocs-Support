@@ -4,14 +4,15 @@ description: Provides a resolution to solve the error that occurs when you open 
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Clients and Mobile\Issue with autodiscover
+  - CSSTroubleshoot
 appliesto:
 search.appverid: MET150
-ms.reviewer: 
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 # Could not load file or assembly error occurs when browsing the Exchange EWS or Autodiscover sites
 

@@ -1,20 +1,20 @@
 ---
 title: Still can access a moved mailbox
 description: Describes an issue in which a user can access both their on-premises and Exchange Online mailbox in a hybrid deployment after the user's mailbox is moved to Exchange Online.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Hybrid
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # User can still access their on-premises mailbox after it is moved to Exchange Online in a hybrid deployment
 

@@ -6,9 +6,10 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: willfid
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 search.appverid: 
   - MET150
 appliesto: 
@@ -17,7 +18,7 @@ appliesto:
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "There is a problem with this website's security certificate" error when a federated user signs out of Microsoft 365, Intune, or Azure
@@ -42,7 +43,7 @@ To resolve this issue, try Method 1. If Method 1 doesn't resolve the issue, use 
 
 ### Method 1: Make sure that the logout URL can accept HTTPS requests
 
-Update the logout URL so that it can accept HTTPS requests. To do this, open the Azure Active Directory Module for Windows PowerShell, and then run the following cmdlet:
+Update the logout URL so that it can accept HTTPS requests. To do this, open the Azure Active Directory module for Windows PowerShell, and then run the following cmdlet:
 
 ```PowerShell
 Set-MsolDomainFederationSettings -DomainName user.contoso.com -LogOffUri <LogOffUri> -PreferredAuthenticationProtocol SAMLP 
@@ -50,11 +51,13 @@ Set-MsolDomainFederationSettings -DomainName user.contoso.com -LogOffUri <LogOff
 
 **Note** In this command, \<LogOffUri\> represents your logout URL.
 
+[!INCLUDE [Azure AD PowerShell deprecation note](../../../includes/aad-powershell-deprecation-note.md)]
+
 ### Method 2: Remove the HTTP URL that's specified in the LogOffUri parameter
 
-Azure Active Directory (Azure AD) will automatically display a message to notify the user to close the browser when the user logs off if a logout URL isn't specified.
+Microsoft Entra ID will automatically display a message to notify the user to close the browser when the user logs off if a logout URL isn't specified.
 
-To remove the HTTP URL that's specified in the LogOffUri parameter, open the Azure Active Directory Module for Windows PowerShell, and then run the following cmdlet:
+To remove the HTTP URL that's specified in the LogOffUri parameter, open the Azure Active Directory module for Windows PowerShell, and then run the following cmdlet:
 
 ```PowerShell
 Set-MsolDomainFederationSettings -DomainName contoso.com -LogOffUri " " –PreferredAuthenticationProtocol SAMLP 
@@ -64,4 +67,4 @@ Set-MsolDomainFederationSettings -DomainName contoso.com -LogOffUri " " –Prefe
 
 ## More Information
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.

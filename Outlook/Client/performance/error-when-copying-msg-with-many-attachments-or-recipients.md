@@ -1,18 +1,18 @@
 ---
 title: You receive an error when copying MSG email files in Outlook that contain multiple attachments or recipients
-ms.author: luche
-author: helenclu
+ms.author: meerak
+author: cloud-writer
 manager: dcscontentpm
-ms.date: 2/26/2020
+ms.date: 01/30/2024
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - All versions of Outlook
 ms.custom: 
+  - sap:Sending, Receiving, Synchronizing, or viewing email\Errors sending or receiving email
   - Outlook for Windows
   - CI 111840
   - CSSTroubleshoot

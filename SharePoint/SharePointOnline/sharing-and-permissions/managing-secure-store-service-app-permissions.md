@@ -3,19 +3,20 @@ title: Permissions required for managing the Secure Store Service app
 description: Describes some scenarios in which permissions are required to manage the Secure Store service application.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Permissions\Customize permissions
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Foundation 2013
   - SharePoint Server 2013
   - SharePoint Server 2010
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Permissions required for managing the Secure Store Service app

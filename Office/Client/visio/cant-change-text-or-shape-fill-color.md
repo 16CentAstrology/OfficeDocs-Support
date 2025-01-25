@@ -6,8 +6,10 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Performance, Usability & Features
+  - Editing\Shapes
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
@@ -15,7 +17,7 @@ appliesto:
   - Visio Standard 2013
   - Visio Professional 2010
   - Visio Standard 2010
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # You cannot change the text or shape fill color in Visio when using a High Contrast Windows theme

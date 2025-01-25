@@ -1,21 +1,21 @@
 ---
 title: Public folder permissions in Exchange admin center show GUID instead of name
 description: Provides methods for getting the names of users who are identified by a GUID in a public folder permissions window in the Exchange Online admin center.
-author: v-trisshores
-ms.author: v-trisshores
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom:
+ms.custom: 
+  - sap:Administrator Tasks
   - Exchange Online
   - CSSTroubleshoot
   - CI 171142
-ms.reviewer: batre, meerak
+ms.reviewer: batre, meerak, v-trisshores
 appliesto:
   - Exchange Online
 search.appverid: MET150
-ms.date: 02/14/2023
+ms.date: 01/24/2024
 ---
 
 # Public folder permissions in Exchange admin center show GUID instead of name
@@ -28,7 +28,7 @@ The following example shows a GUID in the **Name** field of a public folder perm
 
 ## Cause
 
-To ensure the uniqueness of new recipient objects that are synced from Azure Active Directory, Exchange Online replaces the object **Name** property value with the object [ExternalDirectoryObjectId](/powershell/module/exchange/get-exomailbox#-externaldirectoryobjectid) (EDOID) property value. New recipient objects include mailboxes, users, groups, and contacts. For more information, see [Change in naming convention of user's Name parameter](https://techcommunity.microsoft.com/t5/exchange-team-blog/change-in-naming-convention-of-user-s-name-parameter/ba-p/3284733).
+To ensure the uniqueness of new recipient objects that are synced from Microsoft Entra ID, Exchange Online replaces the object **Name** property value with the object [ExternalDirectoryObjectId](/powershell/module/exchange/get-exomailbox#-externaldirectoryobjectid) (EDOID) property value. New recipient objects include mailboxes, users, groups, and contacts. For more information, see [Change in naming convention of user's Name parameter](https://techcommunity.microsoft.com/t5/exchange-team-blog/change-in-naming-convention-of-user-s-name-parameter/ba-p/3284733).
 
 ## Workaround
 

@@ -1,20 +1,20 @@
 ---
 title: Microsoft 365 users don't receive out-of-office message
 description: Describes an issue in which Microsoft 365 users don't receive out-of-office replies from on-premises users in a hybrid deployment of on-premises Exchange Server and Exchange Online. Provides a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Mail Flow
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Microsoft 365 users don't receive out-of-office notifications from on-premises users in a hybrid deployment
 

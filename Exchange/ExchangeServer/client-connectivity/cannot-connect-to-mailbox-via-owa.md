@@ -1,21 +1,21 @@
 ---
 title: Cannot connect to a mailbox from OWA
 description: Describes the issue in which you cannot use IMAP4 or POP3 to connect to an Exchange Server 2010 mailbox through Outlook Web App (OWA).
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with OWA
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: davefor
+ms.reviewer: davefor, v-six
 appliesto: 
   - Exchange Server 2010 Standard
   - Exchange Server 2010 Enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # You cannot connect to an Exchange Server 2010 mailbox from Outlook Web App
 

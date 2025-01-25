@@ -1,13 +1,13 @@
 ---
 title: Emails sent to Exchange Online appear external
 description: After you run the Hybrid Configuration Wizard against Exchange Server 2013 or 2016, emails sent from on-premises to Exchange Online appears to be external.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Mail Flow\Need Help with Configuring Mailflow, Mail routing (Connectors, Domains)
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -17,7 +17,8 @@ appliesto:
   - Exchange Server 2013 Enterprise Edition
   - Exchange Server 2016 Standard Edition
   - Exchange Server 2016 Enterprise Edition
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Emails sent from on-premises to Exchange Online appears to be external after running HCW
 

@@ -3,16 +3,17 @@ title: Error message when you try to modify or to delete an alternate access map
 description: Describes an issue that occurs after you perform a system recovery in which the configuration database is restored. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Farm Administration
+  - CSSTroubleshoot
 appliesto: 
   - Windows SharePoint Services 3.0
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "An update conflict has occurred, and you must retry this action" when change or delete an alternate access mapping

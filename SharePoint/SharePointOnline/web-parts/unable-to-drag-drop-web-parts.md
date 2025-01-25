@@ -3,16 +3,16 @@ title: Can't drag and drop web parts onto SharePoint Online classic pages
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 4/16/2020
+ms.date: 12/17/2023
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - SharePoint Online
 ms.custom: 
+  - sap:Web Parts\Other
   - CI 115576
   - CSSTroubleshoot
 ms.reviewer: lucaband

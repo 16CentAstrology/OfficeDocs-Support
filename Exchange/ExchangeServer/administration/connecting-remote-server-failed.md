@@ -1,13 +1,13 @@
 ---
 title: Connecting to the remote server failed when start Management Shell or Console
 description: Connecting to the remote server failed with the following error message when you start the Exchange Management Shell or the Exchange Management Console.
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 manager: dcscontentpm
-localization_priority: Normal
 ms.custom: 
+  - sap:OWA  And Exchange Admin Center\Issues connecting to Exchange Management Shell
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -16,7 +16,8 @@ appliesto:
   - Exchange Server 2010 Service Pack 3
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 
 # "Connecting to the remote server failed with the following error message" error when you start the Exchange Management Shell or the Exchange Management Console

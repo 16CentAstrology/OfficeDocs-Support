@@ -4,15 +4,16 @@ description: This article describes the permissions that can be granted to a pub
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Collaboration and Public Folders\Issues with Public Folder Migration
+  - CSSTroubleshoot
 appliesto: 
 - Exchange Server
 search.appverid: MET150
-ms.reviewer: kellybos
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: kellybos, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 # Public folder permissions for Exchange Server
 

@@ -1,21 +1,21 @@
 ---
 title: Can't release a message for a certificate
 description: Describes an issue that returns a website 'na01-quarantine.dataservice.protection.outlook.com' requires a client certificate error when a Mac user tries to release a message from Exchange Online Protection quarantine.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administrator Tasks
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
   - Exchange Online Protection
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Mac users can't release messages from Exchange Online Protection quarantine
 

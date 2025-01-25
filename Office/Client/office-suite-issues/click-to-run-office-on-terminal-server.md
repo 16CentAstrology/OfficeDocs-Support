@@ -3,10 +3,12 @@ title: Open Click-to-Run version of Office on a terminal server
 description: Works around an issue that prevents you from opening the Click-to-Run version of an Office 2013 and Office 2016 program or suite. This issue occurs after you install the program or suite on a terminal server.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - Activation\Deploying Office using Shared Computer Activation
+  - CSSTroubleshoot
 ms.author: luche
 ms.reviewer: offspms, andyfel
 search.appverid: 
@@ -17,7 +19,7 @@ appliesto:
   - Office Professional 2013
   - Office Home and Business 2013
   - Office Home and Student 2013
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Error when opening the Click-to-Run version of an Office program or suite on a terminal server
@@ -43,7 +45,7 @@ For more information about plans that support shared computer activation, see [H
 
 To work around this issue, do one of the following:
 
-- For customers who have an Microsoft 365 Apps for enterprise license, install Office with shared computer activation. For more information about installing Microsoft 365 Apps for enterprise with shared computer activation, see [Deploy Microsoft 365 Apps for enterprise by using Remote Desktop Services](https://technet.microsoft.com/library/dn782858.aspx).
+- For customers who have a Microsoft 365 Apps for enterprise license, install Office with shared computer activation. For more information about installing Microsoft 365 Apps for enterprise with shared computer activation, see [Deploy Microsoft 365 Apps for enterprise by using Remote Desktop Services](https://technet.microsoft.com/library/dn782858.aspx).
 - For all other versions of Office Click-to-Run, install an edition of the Office program or suite that uses a volume license key.
 
 ## Status

@@ -1,20 +1,20 @@
 ---
 title: Can't hide a mail-enabled security group
 description: Fixes an issue in an Exchange hybrid deployment in which a mail-enabled security group isn't hidden from the GAL after directory synchronization.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: travr
+ms.reviewer: travr, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Mail-enabled security group isn't hidden from GAL after directory synchronization in a hybrid deployment
 

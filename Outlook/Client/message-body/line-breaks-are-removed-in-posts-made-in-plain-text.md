@@ -1,13 +1,13 @@
 ---
 title: Line breaks are removed in posts made in plain text format
 description: Describes the behavior when line breaks are removed in a plain text format post without any indication in Outlook. You can work around this behavior by disabling the Auto Remove Line Breaks feature. Or you can use HTML or RTF to format the message.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Sending, Receiving, Synchronizing, or viewing email\Message format (HTML, Rich Text, Plain Text)
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: 
@@ -20,7 +20,7 @@ appliesto:
   - Microsoft Office Outlook 2003
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Line breaks are removed in posts made in plain text format in Outlook
 

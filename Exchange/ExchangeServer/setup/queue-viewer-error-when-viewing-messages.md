@@ -1,21 +1,21 @@
 ---
 title: Error when you try to view queue messages in Queue Viewer
 description: Resolves an issue in which Queue Viewer returns an error when you try to view queue messages.
-author: v-trisshores
-ms.author: v-trisshores
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom:
+ms.custom: 
+  - sap:Plan and Deploy\Exchange Install Issues, Cumulative or Security updates
   - CI 171787
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: lusassl, srvar, nasira, meerak
+ms.reviewer: lusassl, srvar, nasira, meerak, v-trisshores
 appliesto:
   - Exchange Server 2016
 search.appverid: MET150
-ms.date: 02/08/2023
+ms.date: 01/24/2024
 ---
 
 # Error when you try to view queue messages in Queue Viewer

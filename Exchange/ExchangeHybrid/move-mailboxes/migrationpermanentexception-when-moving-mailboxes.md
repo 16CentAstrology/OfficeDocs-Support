@@ -1,20 +1,20 @@
 ---
 title: MigrationPermanentException when moving mailbox
 description: Discusses that you receive an error message receive when you try to move a mailbox that was originally created in Exchange Online to the on-premises organization in an Exchange hybrid deployment. Provides a solution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: hbohl
+ms.reviewer: hbohl, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # (MigrationPermanentException Cannot find a recipient that has mailbox GUID) error when moving mailboxes
 

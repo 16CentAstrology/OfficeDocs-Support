@@ -1,21 +1,21 @@
 ---
 title: '"Multiple entries" error when a remote move migration fails'
 description: Describes an issue in which a remote move migration fails because the email address that specifies a mailbox doesn't uniquely identify it.
-author: v-trisshores
-ms.author: v-trisshores
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration
   - Exchange Hybrid
   - CSSTroubleshoot
   - CI 165704
-ms.reviewer: haembab, ninob, meerak
+ms.reviewer: haembab, ninob, meerak, v-trisshores
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 09/21/2022
+ms.date: 01/24/2024
 ---
 # "Multiple entries" error when a remote move migration fails
 

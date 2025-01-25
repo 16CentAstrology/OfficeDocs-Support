@@ -4,15 +4,16 @@ description: Introduces the Outlook application event log entries for add-in loa
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Add-in error
+  - CSSTroubleshoot
 appliesto:
 - Outlook
 search.appverid: MET150
-ms.reviewer: gregmans
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: gregmans, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Outlook application event log entries for add-in load time
 

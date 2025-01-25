@@ -3,11 +3,11 @@ title: Enable or disable hyperlink warning messages in Office programs
 description: Describes how to enable or to disable hyperlink warning messages in Microsoft Office programs.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: johnlan, of12sstr
 search.appverid: 
   - MET150
@@ -18,7 +18,7 @@ appliesto:
   - Microsoft Office 2016
   - Microsoft Office 2019
   - Microsoft 365 Apps for Enterprise
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Enable or disable hyperlink warning messages in Office programs

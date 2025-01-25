@@ -6,14 +6,14 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administration\Files and Documents
   - CSSTroubleshoot
 ms.reviewer: nsimons
 appliesto: 
   - SharePoint Server 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # Something went wrong when you open a file by using an Office Web App or Office Online Server
 
