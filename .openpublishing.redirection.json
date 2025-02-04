@@ -6473,6 +6473,11 @@
       "source_path_from_root": "/Microsoft365/Hub/context/compliance-context.json.yml",
       "redirect_url": "/microsoft-365/troubleshoot/context/purview-context.json",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/ownerless-group-policy.md",
+      "redirect_url": "/microsoft-365/admin/create-groups/ownerless-groups-teams",
+      "redirect_document_id": false
     }
   ]
 }
