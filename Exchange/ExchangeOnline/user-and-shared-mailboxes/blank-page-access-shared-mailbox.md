@@ -1,20 +1,20 @@
 ---
 title: Can't access a shared mailbox using OWA
 description: Fixes an issue in which Microsoft 365 users can't directly access a shared mailbox by using Outlook Web App after the service upgrade to Microsoft 365.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Recipients management
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: martinfu
+ms.reviewer: martinfu, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Microsoft 365 users get a blank page when they use Outlook Web App to access a shared mailbox
 

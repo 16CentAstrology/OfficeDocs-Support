@@ -3,16 +3,17 @@ title: You can't start the User Profile Synchronization service in SharePoint Se
 description: Describes an issue in which the User Profile Synchronization service can't be started in SharePoint Server 2013 if the synchronization database is involved in a database mirroring session or an availability group.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Service Applications (except Search)
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Server 2013
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # You can't start the User Profile Synchronization service

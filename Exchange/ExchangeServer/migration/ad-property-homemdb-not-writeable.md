@@ -4,18 +4,19 @@ description: Fixes an issue in which you receive the Active Directory property h
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Migration\Issues with Move Mailbox within same organization
+  - CSSTroubleshoot
 appliesto: 
 - Exchange Server 2010 
 - Exchange Server 2013 
 - Exchange Server 2016 
 - Exchange Online
 search.appverid: MET150
-ms.reviewer: ninob, genli
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: ninob, genli, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 # "Active Directory property ‎'homeMDB‎' isn't writeable on recipient" error when moving a mailbox to Microsoft 365
 

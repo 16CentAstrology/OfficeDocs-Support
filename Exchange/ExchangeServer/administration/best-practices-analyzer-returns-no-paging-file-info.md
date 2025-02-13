@@ -1,21 +1,21 @@
 ---
 title: Warning when you run the Exchange 2010 Best Practices Analyzer
 description: Describes an issue where a waning (The AutomaticManagedPagefile property is set to True) occurs when you run the Microsoft Exchange Best Practices Analyzer.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:High Availability, Health, Performance, Content Indexing\Server Performance Issue (high CPU, high Memory, Disk Utilization)
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: nasira, exchblt
+ms.reviewer: nasira, exchblt, v-six
 appliesto: 
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Warning message when you run the Exchange 2010 Best Practices Analyzer: The AutomaticManagedPagefile property is set to True
 

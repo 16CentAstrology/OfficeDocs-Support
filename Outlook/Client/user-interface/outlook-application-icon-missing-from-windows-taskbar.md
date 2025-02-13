@@ -1,13 +1,13 @@
 ---
 title: Outlook icon missing from Windows taskbar
 description: Provides a resolution to show the Outlook icon in the Windows taskbar.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:User Interface features and Configuration\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: gregmans
@@ -21,7 +21,7 @@ appliesto:
   - Microsoft Office Outlook 2003
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Outlook application icon missing from the Windows taskbar
 

@@ -1,22 +1,22 @@
 ---
 title: Proof of domain ownership has failed error
 description: Describes an issue in which you receive a Make sure that the TXT record for the specified domain is available in DNS error when you run the Hybrid Configuration wizard.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Hybrid
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: scotro
+ms.reviewer: scotro, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Proof of domain ownership has failed error when you run the Hybrid Configuration wizard
 
@@ -30,7 +30,7 @@ When you run the Hybrid Configuration wizard, you receive a **Proof of domain ow
 
 ## Cause
 
-This problem occurs if proof of ownership for the domain is required. If an existing federation trust isn't present, the Hybrid Configuration wizard creates a federation trust between the on-premises organization and the Microsoft Azure Active Directory (Azure AD) authentication system. When the federation trust is being created, proof of domain ownership is required.
+This problem occurs if proof of ownership for the domain is required. If an existing federation trust isn't present, the Hybrid Configuration wizard creates a federation trust between the on-premises organization and the Microsoft Entra authentication system. When the federation trust is being created, proof of domain ownership is required.
 
 ## Resolution
 

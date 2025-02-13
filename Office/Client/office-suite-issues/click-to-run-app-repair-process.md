@@ -6,9 +6,11 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: Abdias Ruiz, offspms
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - DownloadInstall\InstallErrors\AppLaunchErrors
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
@@ -20,7 +22,7 @@ appliesto:
   - Office Professional 2013
   - Office Home and Student 2013
   - Office Home and Business 2013
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Repair process for an Office Click-to-Run application does not start

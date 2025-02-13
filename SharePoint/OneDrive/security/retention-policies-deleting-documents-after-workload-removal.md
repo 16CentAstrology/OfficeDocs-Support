@@ -3,8 +3,7 @@ title: Documents deleted by retention policy after workload is removed
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
-ms.date: 06/10/2020
+ms.date: 12/17/2023
 audience: Admin
 ms.topic: troubleshooting
 ms.custom: 

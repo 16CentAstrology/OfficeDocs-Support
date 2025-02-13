@@ -3,18 +3,18 @@ title: Issue when the Lync Server File Store share is in an unsupported configur
 description: Describes the issues that occur when a Lync Server 2010 File Store share has an unsupported configuration. Includes detailed info about the events that are logged. Resolutions are provided.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Lync Server 2010 Enterprise Edition
   - Lync Server 2010 Standard Edition
   - Lync Server 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Issues when the Lync Server File Store share is in an unsupported configuration

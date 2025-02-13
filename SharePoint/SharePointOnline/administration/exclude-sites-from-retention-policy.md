@@ -5,11 +5,11 @@ author: helenclu
 ms.reviewer: PramodBalusu
 ms.author: luche
 manager: dcscontentpm
-localization_priority: Normal
-ms.date: 05/19/2021
+ms.date: 12/17/2023
 audience: Admin
 ms.topic: troubleshooting
 ms.custom: 
+  - sap:Compliance and Auditing\Retention policies
   - CSSTroubleshoot
   - CI 149492
 search.appverid: 

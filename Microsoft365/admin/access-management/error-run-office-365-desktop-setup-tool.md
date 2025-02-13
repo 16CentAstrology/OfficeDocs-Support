@@ -3,16 +3,16 @@ title: Error when you run the Microsoft 365 Desktop Setup Tool
 description: Describes a problem that occurs when invalid or incorrect credentials are entered to run the Microsoft 365 Desktop Setup Tool. Resolution is provided.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - Microsoft 365 User and Domain Management
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Error message when you run the Microsoft 365 Desktop Setup Tool: "Application configuration incomplete"

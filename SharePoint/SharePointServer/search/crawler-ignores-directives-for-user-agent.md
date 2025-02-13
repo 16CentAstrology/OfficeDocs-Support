@@ -6,15 +6,15 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Search\Crawling
   - CSSTroubleshoot
 ms.reviewer: yvand
 appliesto: 
   - SharePoint Server 2010
   - SharePoint Server 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # The SharePoint Server crawler ignores directives in Robots.txt
 

@@ -3,17 +3,18 @@ title: Relative and absolute URLs for content types across site collections is n
 description: This article introduces that using relative and absolute URLs for content types across site collections is not supported.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Lists and Libraries\Content Types
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
   - SharePoint Server
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Using relative and absolute URLs for content types across site collections is not supported

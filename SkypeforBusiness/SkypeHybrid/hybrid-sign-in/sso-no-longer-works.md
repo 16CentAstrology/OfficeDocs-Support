@@ -6,7 +6,6 @@ ms.author: v-six
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CSSTroubleshoot
 ms.reviewer: 
@@ -15,7 +14,7 @@ appliesto:
   - Skype for Business 2016
   - Skype for Business Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Can't sign in using SSO if ADAL and AD FS used in Skype for Business
 

@@ -1,20 +1,20 @@
 ---
 title: HTTP 500 error when publishing calendar of shared mailbox
 description: Describes an issue that triggers an HTTP 500 error message when a user tries to publish the calendar of a shared mailbox to people outside their Microsoft 365 organization.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administrator Tasks
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # HTTP 500 error when a user tries to publish the calendar of a shared mailbox in Microsoft 365
 

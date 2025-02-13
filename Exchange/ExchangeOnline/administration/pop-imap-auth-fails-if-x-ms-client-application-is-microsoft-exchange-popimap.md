@@ -1,21 +1,21 @@
 ---
 title: POP/IMAP client authenticate fails
 description: Describes an issue that blocks authentication for POP and IMAP clients in Exchange Online. Occurs if the value of the X-MS-Client-Application claim type in the AD FS claim rule is set to Microsoft.Exchange.PopImap. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administrator Tasks
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: kezuo
+ms.reviewer: kezuo, v-six
 appliesto: 
   - Exchange Online
   - Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # POP/IMAP client authenticate fails if X-MS-Client-Application in the AD FS claim rule is set to Microsoft.Exchange.PopImap
 

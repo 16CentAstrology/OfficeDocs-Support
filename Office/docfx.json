@@ -69,50 +69,26 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/office/troubleshoot/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
       "recommendations": true,
       "feedback_system": "Standard",
       "feedback_product_url": "https://techcommunity.microsoft.com/",
-      "titleSuffix": "Office",
+      "titleSuffix": "Microsoft 365 Apps",
       "uhfHeaderId": "MSDocsHeader-M365-IT",
       "hideEdit": true,
-      "searchScope": ["Office Support"],
+      "searchScope": ["Microsoft 365 Apps Support"],
       "contributors_to_exclude": [ 
         "beccarobins"
       ]
     },
     "fileMetadata": {
-      "ms.prod": {
+      "ms.service": {
         "**/*.md": "office-perpetual-itpro"     
       },
-      "ms.technology": {
-        "Client/access/**/*.md": "access",
-        "Client/activation/**/*.md": "activation",
-        "Client/excel/**/*.md": "excel",
-        "Client/infopath/**/*.md": "infopath",
-        "Client/installation/**/*.md": "installation",
-        "Client/office-for-mac/**/*.md": "office-for-mac",
-        "Client/office-suite-issues/**/*.md": "office-suites-issues",
-        "Client/onenote/**/*.md": "onenote",
-        "Client/performance/**/*.md": "performance",
-        "Client/planner/**/*.md": "planner",
-        "Client/powerpoint/**/*.md": "powerpoint",
-        "Client/project/**/*.md": "project",
-        "Client/publisher/**/*.md": "publisher",
-        "Client/settings/**/*.md": "settings",
-        "Client/third-party-add-ins/**/*.md": "third-party-add-ins",
-        "Client/visio/**/*.md": "visio",
-        "Client/word/**/*.md": "word",
-        "OfficeExperts/activation/**/*.md": "activation",
-        "OfficeExperts/administration/**/*.md": "administration",
-        "OfficeExperts/authentication/**/*.md": "authentication",
-        "OfficeExperts/diagnostic-logs/**/*.md": "diagnostic-logging",
-        "OfficeExperts/excel/**/*.md": "excel",
-        "OfficeExperts/installation/**/*.md": "installation",
-        "OfficeExperts/microsoft-forms/**/*.md": "office-forms",
-        "OfficeExperts/powerpivot/**/*.md": "power-pivot",
-        "OfficeExperts/sway/**/*.md": "sway",
-        "OfficeExperts/word/**/*.md": "word"
+      "author": {
+        "**/*.md": "helenclu"
+      },
+      "ms.author": {
+        "**/*.md": "luche"
       }
     },
     "template": [],

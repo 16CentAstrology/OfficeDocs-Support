@@ -1,12 +1,13 @@
 ---
 title: Connect-MsolService Exception of type was thrown
-description: Describes an issue in which you can't connect to a Microsoft cloud service such as Microsoft 365, Azure, or Microsoft Intune. Occurs when you use the connect-MSOLService cmdlet in the Azure Active Directory Module for Windows PowerShell.
+description: Describes an issue in which you can't connect to a Microsoft cloud service such as Microsoft 365, Azure, or Microsoft Intune. Occurs when you use the connect-MSOLService cmdlet in the Azure Active Directory module for Windows PowerShell.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.author: luche
 search.appverid: 
   - MET150
@@ -16,25 +17,27 @@ appliesto:
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Connect-MsolService: Exception of type was thrown" when you use the connect-MSOLService to connect to Microsoft 365, Azure, or Intune
 
 ## Problem
 
-When you try to use the connect-MSOLService cmdlet in the Microsoft Azure Active Directory Module for Windows PowerShell to connect to a Microsoft cloud service such as Microsoft 365, Azure, or Microsoft Intune, your attempt is unsuccessful. You may also receive the following error message:
+When you try to use the connect-MSOLService cmdlet in the Microsoft Azure Active Directory module for Windows PowerShell to connect to a Microsoft cloud service such as Microsoft 365, Azure, or Microsoft Intune, your attempt is unsuccessful. You may also receive the following error message:
 
 ```output
 Connect-MsolService: Exception of type 'Microsoft.Online.Administration.Automation.MicrosoftOnlineException' was thrown.
 ```
 
+[!INCLUDE [Azure AD PowerShell deprecation note](../../../includes/aad-powershell-deprecation-note.md)]
+
 ## Cause
 
 This issue may occur for one or more of the following reasons:
 
-- The Azure Active Directory Module for Windows PowerShell rich client can't connect to the service. This is frequently the result of client computer readiness issues.    
-- The user ID that's used to authenticate is single sign-on (SSO)-enabled, and a client computer problem is preventing SSO communication with Active Directory Federation Services (AD FS), with the Azure Active Directory authentication system, or with both.   
+- The Azure Active Directory module for Windows PowerShell rich client can't connect to the service. This is frequently the result of client computer readiness issues.    
+- The user ID that's used to authenticate is single sign-on (SSO)-enabled, and a client computer problem is preventing SSO communication with Active Directory Federation Services (AD FS), with the Microsoft Entra authentication system, or with both.   
 
 ## Solution
 
@@ -45,6 +48,6 @@ To resolve this issue, follow these steps:
 
 ## More information
 
-For more information about Azure Active Directory Module for Windows PowerShell, see [Azure Active Directory Cmdlets](/previous-versions/azure/jj151815(v=azure.100)).
+For more information about Azure Active Directory module for Windows PowerShell, see [Microsoft Entra Cmdlets](/previous-versions/azure/jj151815(v=azure.100)).
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.

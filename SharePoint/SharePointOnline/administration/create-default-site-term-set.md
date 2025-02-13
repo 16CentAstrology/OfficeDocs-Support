@@ -5,15 +5,16 @@ author: helenclu
 ms.author: luche
 ms.reviewer: cmahoo
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Sites\Hub Site
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Create a default Site collection Term Set if none is present

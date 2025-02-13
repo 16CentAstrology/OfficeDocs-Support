@@ -3,17 +3,18 @@ title: Workflow can't send email to group
 description: SPD workflow cannot send email to SharePoint group(s) collected from Initiation Form.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\SharePoint Designer
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Foundation 2010
   - SharePoint Server 2010
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # SPD Workflow cannot send email to group(s) from initiation form

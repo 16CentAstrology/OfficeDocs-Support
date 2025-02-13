@@ -1,14 +1,14 @@
 ---
 title: AuthorizationManager check failed
 description: Describes an issue that can occur when you try to install Exchange Server 2010 SP2.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.reviewer: patkling
+ms.reviewer: patkling, v-six
 ms.custom: 
+  - sap:Plan and Deploy\Exchange Install Issues, Cumulative or Security updates
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -16,7 +16,7 @@ search.appverid:
 appliesto: 
   - Exchange Server 2010 Standard
   - Exchange Server 2010 Enterprise
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Error message when you try to install Exchange Server 2010 SP2: AuthorizationManager check failed
 

@@ -1,21 +1,21 @@
 ---
 title: Search doesn't work when the NodeRunner.exe process stops in Exchange Server 2013
 description: Describes an issue that prevents search functionality from working in Exchange Server 2013. It occurs when the NodeRunner.exe process stops running. A resolution is provided.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Messaging Policy and Compliance\Issues with eDiscovery, import/export of mailbox
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: nthonge; excontent; jmartin
+ms.reviewer: nthonge; excontent; jmartin, v-six
 appliesto: 
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Search doesn't work in Exchange Server 2013 when the NodeRunner.exe process stops
 

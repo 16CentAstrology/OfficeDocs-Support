@@ -4,14 +4,15 @@ description: Describes how to use Automation to create and send an Outlook messa
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Developer Issues\Macros
+  - CSSTroubleshoot
 appliesto:
 search.appverid: MET150
-ms.reviewer: meshel, benjak, aruiz
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: meshel, benjak, aruiz, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # How to use Automation to send a Microsoft Outlook message using Access 2000
 

@@ -3,10 +3,9 @@ title: OneDrive for Business stopped at Setting up... screen
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 2/20/2020
+ms.date: 12/17/2023
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
@@ -120,6 +119,9 @@ If you have the [SharePoint Online Management Shell](https://www.microsoft.com/d
     [Set-SPOSite documentation](/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps&preserve-view=true)
 
 ### Run a self-diagnostics tool
+
+> [!NOTE]
+> This diagnostic isn't available for the GCC High or DoD environments, or for Microsoft 365 operated by 21Vianet.
 
 Microsoft 365 admin users have access to diagnostics that can be run within the tenant to verify possible issues with the OneDrive provision.
 

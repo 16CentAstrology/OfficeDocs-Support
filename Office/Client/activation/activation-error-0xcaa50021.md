@@ -7,15 +7,16 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - Activation\Errors\Error Codes
   - CSSTroubleshoot
   - CI 157595
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 02/11/2025
 ---
 
 # Microsoft 365 Apps activation error 0xCAA50021
@@ -32,9 +33,7 @@ Try the following troubleshooting methods to solve the problem.
 <details>
 <summary><b>Reset Microsoft 365 activation state</b></summary>
 
-Run the [Microsoft Support and Recovery Assistant (SaRA) to reset the Microsoft 365 activation state](https://aka.ms/SaRA-OfficeActivation-Reset).
-
-For manual steps or more information, see [Reset Microsoft 365 Apps for enterprise activation state](/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
+See [Reset activation state for Microsoft 365 Apps for enterprise](/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 <br/><br/>
 </details>
 
@@ -96,24 +95,24 @@ For manual troubleshooting for step 7, or for more information, see [Fix authent
 </details>
 
 <details>
-<summary><b>Check if user device registration is enabled in Azure Active Directory (Azure AD)</b></summary>
+<summary><b>Check if user device registration is enabled in Microsoft Entra ID</b></summary>
 
-1.	Sign in to the [Microsoft 365 Admin Center](https://admin.microsoft.com/) with a global administrator account.  
-1.	Select **Azure Active Directory** from the menu. If **Azure Active Directory** is not displayed in the menu, select **Show All**.  
-1.	Select **Azure Active Directory** in the menu of the Azure Active Directory admin center.  
-1.	Select **Device** > **Device Settings**.
-1.	Make sure **Users can join devices to Azure AD** is set to **All**.  
-1.	Make sure **Users can register their devices with Azure AD** is set to **All**.
+1.	Sign in to the [Microsoft 365 Admin Center](https://admin.microsoft.com/).  
+1.	Select **Identity** from the **Admin centers** section of the menu. If **Admin centers** isn't displayed in the menu, select **Show All**.  
+1.	Expand **Identity** in the menu of the Microsoft Entra admin center.  
+1.	Select **Device** > **All devices**, then select **Device settings** under the **Manage** section.
+1.	Make sure that **Users may join devices to Microsoft Entra ID** is set to **All**.  
+1.	Make sure that **Users may register their devices with Microsoft Entra ID** is set to **All**.
 <br/><br/>
 </details>
 
 <details>
-<summary><b>Leave and rejoin Azure AD</b></summary>
+<summary><b>Leave and rejoin Microsoft Entra ID</b></summary>
 
 1.	Open a Command Prompt window as an administrator. From Start, type *cmd.exe* in the search box, right-click **Command Prompt** in the list, and then select **Run as administrator**.
 1.	Type the following command, and then press Enter:
 `dsregcmd /status`
-1.	Check if the device is joined to Azure AD. For more details, see [Troubleshoot devices by using the dsregcmd command](/azure/active-directory/devices/troubleshoot-device-dsregcmd).
+1.	Check if the device is joined to Microsoft Entra ID. For more details, see [Troubleshoot devices by using the dsregcmd command](/azure/active-directory/devices/troubleshoot-device-dsregcmd).
 1.	If the **AzureAdjoined** value is **YES**, continue to step 5. If it’s **NO**, skip to step 11.
 1.	Type the following command, and then press Enter:
 `dsregcmd /leave`

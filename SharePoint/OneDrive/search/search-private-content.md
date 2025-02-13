@@ -4,7 +4,6 @@ description: Describes changes to how OneDrive and SharePoint return search resu
 author: helenclu
 ms.reviewer: knutb
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
@@ -15,7 +14,7 @@ ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - OneDrive
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Searching private content in Microsoft 365 OneDrive for Business

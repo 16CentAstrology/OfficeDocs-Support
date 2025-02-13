@@ -27,7 +27,7 @@ productDirectory:
           text: Microsoft 365 Enterprise
         - url: /microsoft-365/troubleshoot/o365-admin-welcome
           text: Microsoft 365 admin center
-        - url: /microsoft-365/troubleshoot/microsoft-365-compliance-welcome
+        - url: /microsoft-365/troubleshoot/microsoft-purview-welcome
           text: Microsoft Purview
         - url: /microsoft-365/troubleshoot/microsoft-365-security-welcome
           text: Microsoft 365 Security
@@ -38,12 +38,12 @@ productDirectory:
         - url: /microsoftteams/troubleshoot/teams-welcome
           text: Microsoft Teams
     # Card      
-    - title: Microsoft 365 apps
+    - title: Microsoft 365 Apps
       # imageSrc should be square in ratio with no whitespace
       imageSrc: /support/media/hub-landing/logo-m365-app.png
       links:
         - url: /office/troubleshoot/office-client-welcome
-          text: Microsoft 365 apps (Office products)
+          text: Microsoft 365 Apps (Office products)
         - url: /office/troubleshoot/office-experts-welcome
           text: From the Office Experts
     # Card
@@ -74,8 +74,6 @@ productDirectory:
       links:
         - url: /skypeforbusiness/troubleshoot/skype-server-welcome
           text: Skype for Business Server
-        - url: /skypeforbusiness/troubleshoot/skype-online-welcome
-          text: Skype for Business Online
         - url: /skypeforbusiness/troubleshoot/skype-hybrid-welcome
           text: Skype for Business Hybrid
         - url: /skypeforbusiness/troubleshoot/skype-experts-welcome
@@ -99,19 +97,25 @@ productDirectory:
     # Card
     - title: Microsoft Viva
       imageSrc: /support/media/hub-landing/logo-viva.png
-      links:
-        - url: ./learning/viva-learning-welcome.yml
-          text: Microsoft Viva Learning
+      links:        
         - url: ./connections/viva-connections-welcome.yml
-          text: Microsoft Viva Connections 
+          text: Microsoft Viva Connections
+        - url: ./engage/viva-engage-welcome.yml
+          text: Microsoft Viva Engage
+        - url: ./glint/viva-glint-welcome.yml
+          text: Microsoft Viva Glint
+        - url: ./insights/viva-insights-welcome.yml
+          text: Microsoft Viva Insights
     # Card
-    - title: Endpoint management
-      imageSrc: /media/logos/logo-ms-social.png
-      links:
-        - url: /troubleshoot/mem/configmgr/welcome-configuration-manager
-          text: Configuration Manager
-        - url: /troubleshoot/mem/intune/welcome-intune
-          text: Microsoft Intune
+    - title: Microsoft Viva
+      imageSrc: /support/media/hub-landing/logo-viva.png
+      links:        
+        - url: ./learning/viva-learning-welcome.yml
+          text: Microsoft Viva Learning  
+        - url: ./pulse/viva-pulse-welcome.yml
+          text: Microsoft Viva Pulse                  
+        - url: ./viva-suite-administration/viva-suite-administration-welcome.yml
+          text: Microsoft Viva Suite Administration
 
 # additionalContent section (optional)
 # Card with summary style

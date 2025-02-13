@@ -1,15 +1,15 @@
 ---
 title: Can't expand or add public folders in Outlook or OWA
 description: Provide a resolution to an issue in which users who have sufficient permissions to a public folder can't expand or add public folders in Outlook or OWA.
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - CSSTroubleshoot
   - CI 125428
   - Exchange Online
@@ -18,7 +18,8 @@ appliesto:
   - Exchange Server 2019
   - Exchange Server 2016
   - Exchange Server 2013
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 
 # Can't expand or add public folders in Outlook or OWA

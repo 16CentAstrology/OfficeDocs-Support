@@ -4,19 +4,19 @@ description: Provides solutions for error messages that indicate SharePoint site
 author: helenclu
 ms.reviewer: salarson
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
 ms.custom: 
+  - sap:Sites\Other
   - CSSTroubleshoot
   - CI 158141
 appliesto: 
   - SharePoint Online
   - OneDrive for Business
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # SharePoint or OneDrive read-only error messages
@@ -34,7 +34,7 @@ There are many scenarios that can cause one of these messages during SharePoint 
 ## Automated troubleshooting
 
 > [!NOTE]
-> This feature requires a Microsoft 365 administrator account. This feature isn't available for Microsoft 365 Government, Microsoft 365 operated by 21Vianet, or Microsoft 365 Germany.
+> This feature requires a Microsoft 365 administrator account. This diagnostic isn't available for the GCC High or DoD environments, or for Microsoft 365 operated by 21Vianet.
 
 Microsoft 365 admin users have access to diagnostics that can be run within the tenant to verify possible issues with sites that have the error messages mentioned above. To populate the diagnostic in the Microsoft 365 Admin Center and try to unlock the site, select Run Tests:
 

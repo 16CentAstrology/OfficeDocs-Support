@@ -1,13 +1,13 @@
 ---
 title: Search Folders do not show in OWA
 description: Describes that the Search Folders you created in Outlook with an Exchange account do not appear in Outlook Web Access or Outlook Web App. Requires you to turn off the Cached Exchange Mode option to resolve the problem.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Rules, search and Printing\Search folders
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: chrislin
@@ -16,7 +16,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Search Folders created in Outlook do not appear in Outlook Web Access
 

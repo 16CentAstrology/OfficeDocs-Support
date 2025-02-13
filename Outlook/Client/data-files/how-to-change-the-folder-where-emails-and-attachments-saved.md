@@ -1,20 +1,20 @@
 ---
 title: Change the folder where emails and attachments saved
 description: Explains that you can change the default folders that are used by Outlook to save e-mail messages and attachments. Requires that you modify the registry by adding a registry value to configure the default folder.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\Personal folders backup add-in
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: skipb
 appliesto: 
   - Outlook
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # How to change the folder where e-mail messages and attachments are saved in Outlook
 

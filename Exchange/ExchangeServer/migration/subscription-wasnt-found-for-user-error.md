@@ -1,12 +1,11 @@
 ---
 title: Error (A subscription wasn't found for this user) when migrating a public folder batch in Exchange Server 2016
-ms.author: v-six
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
-ms.date: 10/7/2020
+ms.date: 01/24/2024
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
@@ -15,10 +14,11 @@ appliesto:
   - Exchange Server 2019
   - Exchange Server 2016
 ms.custom: 
+  - sap:Collaboration and Public Folders\Issues with Public Folder Migration
   - Exchange Server
   - CI 123889
   - CSSTroubleshoot
-ms.reviewer: batre
+ms.reviewer: batre, v-six
 description: Describes the resolution to the Exchange error A subscription wasn't found for this user when trying to migrate a public batch folder.
 ---
 

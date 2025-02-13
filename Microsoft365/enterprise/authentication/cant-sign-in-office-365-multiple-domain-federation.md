@@ -3,8 +3,9 @@ title: AADSTS50107 when trying to sign in to Microsoft 365 with multiple domain 
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 search.appverid: 
   - MET150
 audience: ITPro
@@ -12,7 +13,7 @@ ms.topic: troubleshooting
 description: Users from multiple federated domain (top level or child domains) are unable to sign in to Microsoft 365
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # You can't sign in to Microsoft 365 from multiple federated domains
@@ -35,8 +36,10 @@ This issue occurs when multiple top-level domains are federated to the same AD F
 
 ## SOLUTION
 
-1. Go to [Azure AD RPT Claim Rules](https://adfshelp.microsoft.com/AadTrustClaims/GenerateClaims), and then click **Next**.
-2. Specify the value for **Immutable ID** (sourceAnchor) -> **User Sign In** (for example, UPN or mail). If multiple top-level domains are federated, select **Yes** when you are prompted to respond to "**Does the Azure AD trust with AD FS support multiple domains?**"
+[!INCLUDE [Azure AD PowerShell deprecation note](../../../includes/aad-powershell-deprecation-note.md)]
+
+1. Go to [Microsoft Entra RPT Claim Rules](https://adfshelp.microsoft.com/AadTrustClaims/GenerateClaims), and then click **Next**.
+2. Specify the value for **Immutable ID** (sourceAnchor) -> **User Sign In** (for example, UPN or mail). If multiple top-level domains are federated, select **Yes** when you are prompted to respond to "**Does the Microsoft Entra ID trust with AD FS support multiple domains?**"
 3. Connect to the Microsoft 365 PowerShell, and then export the list of domains to a .csv file (for example, output.csv). To do this, run the following cmdlets:
 
    ```powershell

@@ -3,19 +3,20 @@ title: How to re-create the local Trusted Root Authority
 description: Describes that how to re-create the local Trusted Root Authority.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Farm Administration
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Foundation 2013
   - SharePoint Server 2013
   - SharePoint Foundation 2010
   - SharePoint Server 2010
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # How to re-create the local Trusted Root Authority  

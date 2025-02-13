@@ -1,21 +1,21 @@
 ---
 title: Can't replicate public folders to Exchange Server 2010
 description: Discusses an issue where you get an error - The store driver couldn't deliver the public folder replication message when you replicate public folder content to Exchange 2010.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Collaboration and Public Folders\Outlook/OWA Can't Connect to Public Folders
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: bilong, charray
+ms.reviewer: bilong, charray, v-six
 appliesto: 
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Fail to replicate the public folder content to Exchange Server 2010
 

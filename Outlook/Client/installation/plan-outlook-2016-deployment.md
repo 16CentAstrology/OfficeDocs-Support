@@ -1,16 +1,16 @@
 ---
 title: Planning considerations to deploy Outlook for Windows
-ms.author: luche
-author: helenclu
+ms.author: meerak
+author: cloud-writer
 manager: dcscontentpm
 ms.reviewer: 
 audience: ITPro
 ms.topic: troubleshooting
 ms.custom: 
+  - sap:User Interface features and Configuration\Help
   - Outlook for Windows
   - CI 167136
   - CSSTroubleshoot
-localization_priority: Normal
 ms.collection: Ent_Office_Outlook
 description: Helps IT Pros learn about what they should consider when they deploy Outlook for Windows to users in their organization
 search.appverid: 
@@ -22,7 +22,7 @@ appliesto:
   - Outlook 2021
   - Outlook for Microsoft 365
   - Microsoft 365
-ms.date: 10/31/2022
+ms.date: 01/30/2024
 ---
 
 # Planning considerations to deploy Outlook for Windows

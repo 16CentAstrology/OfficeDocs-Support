@@ -3,16 +3,16 @@ title: Event ID 4769 errors in SharePoint OnPrem audit log
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 8/27/2020
+ms.date: 12/17/2023
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - SharePoint Server
 ms.custom: 
+  - sap:Administration\Performance
   - CI 122278
   - CSSTroubleshoot
 ms.reviewer: flaviuc

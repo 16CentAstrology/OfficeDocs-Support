@@ -1,13 +1,13 @@
 ---
 title: Email stays in Outbox until manually send or receive
 description: This article provides a resolution for the issue that email messages remain in your Outbox until you manually initiate a Send/Receive operation.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Sending, Receiving, Synchronizing, or viewing email\Message format (HTML, Rich Text, Plain Text)
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: gregmans
@@ -20,7 +20,7 @@ appliesto:
   - Microsoft Office Outlook 2003
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Email stays in the Outbox folder until you manually initiate a send/receive operation in Outlook
 

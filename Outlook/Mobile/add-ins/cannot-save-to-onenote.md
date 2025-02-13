@@ -1,22 +1,20 @@
 ---
 title: Can't use Send to OneNote add-in to save items from Outlook for iOS
 description: Describes an issue in which you can't use the Send to OneNote button to save items from Outlook for iOS to OneNote.
-author: v-charloz
-ms.author: v-chazhang
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Data protection and Security\
   - Outlook for iOS and Android
   - CSSTroubleshoot
   - CI 154609
-ms.reviewer: meerak; mhaque; subhbasu
+ms.reviewer: meerak, mhaque, subhbasu, v-chazhang
 appliesto: 
   - Outlook for iOS
   - OneNote for iPhone
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 
 # "You cannot access this right now" error when saving items from Outlook for iOS to OneNote

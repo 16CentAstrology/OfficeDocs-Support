@@ -1,17 +1,17 @@
 ---
 title: Cannot use Setup.exe to uninstall server role
 description: Describes an issue in which you cannot uninstall the Exchange Server 2013 server role by using Setup.exe. When this issue occurs, you receive an error.
-ms.date: 08/11/2020
-author: simonxjx
-ms.author: v-six
+ms.date: 01/24/2024
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Plan and Deploy\Exchange Install Issues, Cumulative or Security updates
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: batre, serdars
+ms.reviewer: batre, serdars, v-six
 appliesto: 
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2013 Enterprise

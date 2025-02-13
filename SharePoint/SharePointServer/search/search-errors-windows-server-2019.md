@@ -3,10 +3,9 @@ title: SharePoint on Windows Server 2019 search errors
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 11/9/2020
+ms.date: 12/17/2023
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
@@ -14,6 +13,7 @@ appliesto:
   - SharePoint Server
   - Windows Server 2019
 ms.custom: 
+  - sap:Search\Performance (such as crawl, query, indexing , and content processing)
   - CI 125656
   - CSSTroubleshoot
 ms.reviewer: cesart

@@ -6,8 +6,8 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Teams Chat (Messaging)\Federated chats
   - CI 121589
   - CSSTroubleshoot
 ms.reviewer: kellybos
@@ -15,7 +15,7 @@ appliesto:
   - Microsoft Teams
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 10/30/2023
 ---
 
 # Can't send a poll to external or guest user in Microsoft Teams private chat

@@ -1,24 +1,24 @@
 ---
 title: Outlook continually prompts for password when you try to connect to Microsoft 365
 description: Describes an Outlook connection issue referenced in an OffCAT diagnostic rule. Provides a resolution.
-author: helenclu
+author: cloud-writer
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Network disconnects, password or credentials prompt
   - Outlook for Windows
   - CSSTroubleshoot
   - OutlookPwdPrompt
-ms.author: luche
+ms.author: meerak
 appliesto: 
   - Outlook 2013
   - Outlook 2010
   - Office Outlook 2007
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 
 # Outlook continually prompts for your password when you try to connect to Microsoft 365

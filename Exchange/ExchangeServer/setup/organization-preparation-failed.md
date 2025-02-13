@@ -1,14 +1,14 @@
 ---
 title: Organization Preparation FAILED error
 description: Resolves an error that occurs when you try to install Exchange Server.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.reviewer: sidd
+ms.reviewer: sidd, v-six
 ms.custom: 
+  - sap:Plan and Deploy\Exchange Install Issues, Cumulative or Security updates
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -16,7 +16,7 @@ search.appverid:
 appliesto: 
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Error when you install Exchange Server: Organization Preparation FAILED
 

@@ -3,16 +3,16 @@ title: Known issues for Teams when run on Linux
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 7/1/2020
+ms.date: 10/30/2023
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
 ms.custom: 
+  - sap:Teams Clients\Linux
   - CI 120622
   - CSSTroubleshoot
 ms.reviewer: billw

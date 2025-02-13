@@ -1,13 +1,13 @@
 ---
 title: Manage and distribute Outlook Visual Basic for Applications (VBA) projects
 description: Describes how Outlook stores VBA code and supports one VBA project at a time. This article explains how to manage multiple projects.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:User Interface features and Configuration\Group Policy
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: danba, brijs, catagh, gbratton, dvespa
@@ -16,7 +16,7 @@ appliesto:
   - Outlook 2013
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Managing and distributing Outlook Visual Basic for Applications (VBA) projects
 

@@ -7,15 +7,16 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - SubscriptionAndLicensing\Office apps install/activate issues due to subscription/licensing
   - CSSTroubleshoot
   - CI 157762
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 02/11/2025
 ---
 
 # Microsoft 365 Apps activation limits
@@ -33,11 +34,13 @@ With a single license, you can install Microsoft 365 Apps on up to 5 devices. Fo
 
 Go to https://myaccount.microsoft.com/device-list and sign in with the same account you’re using to activate Microsoft 365 Apps. Remove any unused devices.  
 
-## Check Azure Active Directory (Azure AD)
+<a name='check-azure-active-directory-azure-ad'></a>
+
+## Check Microsoft Entra ID
 
 1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com).
 
-1. Select **Azure Active Directory** > **Users** and then select the account that received the error.
+1. Select **Microsoft Entra ID** > **Users** and then select the account that received the error.
 
 1. Select **Devices**.
 
@@ -45,16 +48,13 @@ Go to https://myaccount.microsoft.com/device-list and sign in with the same acco
 
 1. Try activating Microsoft 365 Apps again.
 
-## Reset Microsoft 365 activation state  
+## Reset Microsoft 365 activation state
 
-Run the [Microsoft Support and Recovery Assistant (SaRA) to reset the Microsoft 365 activation state](https://aka.ms/SaRA-OfficeActivation-Reset).
-
-For manual steps or more information, see [Reset Microsoft 365 Apps for enterprise activation state]( /office/troubleshoot/activation/reset-office-365-proplus-activation-state).
+See [Reset activation state for Microsoft 365 Apps for enterprise](/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 ## Check Shared Computer Activation (SCA)  
 
-If you’re using SCA, see the following articles:
+If you're using SCA, see the following articles:
 
 - [Overview of shared computer activation for Microsoft 365 Apps](/deployoffice/overview-shared-computer-activation)
-
 - [Microsoft 365 Apps Shared Computer Activation issues](./shared-computer-activation.md)

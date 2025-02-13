@@ -6,15 +6,15 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Lists and Libraries\Add shortcut to OneDrive
   - CSSTroubleshoot
 ms.reviewer: 
 appliesto: 
   - OneDrive
   - SharePoint Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # Check for Known Folder Move eligibility in OneDrive for SharePoint
 

@@ -1,21 +1,19 @@
 ---
 title: New Outlook for Mac shows private event details in a shared calendar
 description: Resolves an issue in which the new Outlook for Mac shows private event details in a shared calendar.
-author: v-trisshores
-ms.author: v-trisshores
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Calendar
   - CI 172845
   - Outlook for Mac
   - CSSTroubleshoot
-ms.reviewer: ntateishi, faisal.jeelani, tylewis, meerak
+ms.reviewer: ntateishi, faisal.jeelani, tylewis, meerak, v-trisshores
 appliesto: 
   - Outlook for Microsoft 365 for Mac
 search.appverid: MET150
-ms.date: 03/16/2023
+ms.date: 01/30/2024
 ---
 
 # New Outlook for Mac shows private event details in a shared calendar

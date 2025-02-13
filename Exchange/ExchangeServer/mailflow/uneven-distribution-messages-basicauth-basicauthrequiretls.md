@@ -1,16 +1,16 @@
 ---
 title: Messages aren't evenly distributed if BasicAuth, BasicAuthRequireTLS or NTLM is used in Exchange Server 2013 or later
 description: Describes an issue that blocks mail flow on the SMTP server when messages are sent to Exchange Server 2013 or later. Provides a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Mail Flow\Not Able to Send or Receive Emails from Internet
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: dpaul, jarrettr
+ms.reviewer: dpaul, jarrettr, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2019
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Messages aren't evenly distributed if BasicAuth, BasicAuthRequireTLS or NTLM is used in Exchange Server 2019, 2016, or 2013
 
@@ -40,7 +40,7 @@ This behavior is by design. When you require **Basic Authentication**, **Basic A
 
 ## Workaround 1
 
-Disable the Client Proxy Prefer Mailbox Mounted Server by setting its value to "false." This distributes the load to other servers in the database availability group (**DAG**). To do this, follow these steps for all smart hosts in the send connector:
+Disable the Client Proxy Prefer Mailbox Mounted Server by setting its value to "false." This action distributes the load to other servers in the database availability group (**DAG**). To do so, follow these steps for all smart hosts in the send connector:
 
 1. Locate the MSExchangeFrontEndTransport.exe configuration file.
 
@@ -70,4 +70,4 @@ Don't use **Basic Authentication** or **NTLM Authentication (Integrated)** on th
 
 ## Workaround 3
 
-Send messages to the Microsoft Exchange Transport Service directly. Do this by sending the mail to port 2525 or to another port the service is listening on. It won't do any load balancing at this point. The server the message is sent to is the server that processes the message. We recommend that you create a new receive connector to allow those connections coming from the SMTP source.
+Send messages to the Microsoft Exchange Transport Service directly. Do so by sending the mail to port 2525 or to another port the service is listening on. It doesn't do any load balancing at this point. The server that the message is sent to is the server that processes the message. We recommend that you create a new receive connector to allow those connections coming from the SMTP source.

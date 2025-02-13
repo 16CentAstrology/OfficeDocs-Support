@@ -3,16 +3,17 @@ title: MSN Weather Service API has been retired
 description: Microsoft discontinued access to the MSN Weather Service API on April 15, 2016.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:SharePoint Admin Center\API Access
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # MSN Weather Service API has been retired

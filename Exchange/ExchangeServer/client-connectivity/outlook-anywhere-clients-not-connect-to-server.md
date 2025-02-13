@@ -1,21 +1,21 @@
 ---
 title: Outlook Anywhere clients can't connect to server
 description: Resolves an issue in which Outlook Anywhere clients receive a 503 error when they try to connect to the Exchange server.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.reviewer: davidsan, nasira, wduff
+ms.reviewer: davidsan, nasira, wduff, v-six
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with Outlook
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
   - Exchange Server 2010 Service Pack 3
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Outlook Anywhere clients can't connect to an Exchange server after you install Exchange Server 2010 SP3
 

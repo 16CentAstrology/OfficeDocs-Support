@@ -3,12 +3,12 @@ title: A federated user has trouble signing in with error code 80048163
 description: Describes an issue in which a federated users receive an error message when they try to sign in to Microsoft 365, Azure, or Microsoft Intune from a sign-in webpage whose URL starts with "https://login.microsoftonline.com."
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - Cloud Services (Web roles/Worker roles)
@@ -17,7 +17,7 @@ appliesto:
   - Microsoft Intune
   - CRM Online via Office 365 E Plans
   - Azure Backup
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Error 80048163 when a federated user tries to sign in to Microsoft 365, Azure, or Intune
@@ -38,7 +38,7 @@ Please try again in a few minutes. If this doesn't work, you might want to conta
 This issue may occur if one of the following conditions is true:
 
 - A user's UPN was updated, and old sign-in information was cached on the Active Directory Federation Services (AD FS) server. When the SAM account of the user is changed, the cached sign-in information may cause problems the next time that the user tries to access services.
-- The claims that are set up in the relying party trust with Azure Active Directory (Azure AD) return unexpected data. This behavior may occur when the claims that are associated with the relying party trust are manually edited or removed.
+- The claims that are set up in the relying party trust with Microsoft Entra ID return unexpected data. This behavior may occur when the claims that are associated with the relying party trust are manually edited or removed.
 
 ## Solution
 
@@ -74,7 +74,9 @@ LsaLookupCacheMaxSize reconfiguration can affect sign-in performance, and this r
 1. Right-click **LsaLookupCacheMaxSize**, and then click **Delete**.
 1. Exit Registry Editor.
 
-### Resolution 2: Update the relying party trust with Azure AD
+<a name='resolution-2-update-the-relying-party-trust-with-azure-ad'></a>
+
+### Resolution 2: Update the relying party trust with Microsoft Entra ID
 
 To update the relying party trust, see the "How to update the configuration of the Microsoft 365 federated domain" section of the following Microsoft article:
 
@@ -82,4 +84,4 @@ To update the relying party trust, see the "How to update the configuration of t
 
 ## More information
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.

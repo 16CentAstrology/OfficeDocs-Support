@@ -1,20 +1,20 @@
 ---
 title: ActiveSync cannot download attachments to Calendar items
 description: Provides a resolution to use Microsoft Exchange ActiveSync to synchronize attachments in a calendar item on mobile devices.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Calendaring
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: wduff, mhaque
+ms.reviewer: wduff, mhaque, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Exchange ActiveSync doesn't download attachments to Calendar items on mobile devices
 

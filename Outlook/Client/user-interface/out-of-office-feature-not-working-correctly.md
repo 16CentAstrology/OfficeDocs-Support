@@ -4,15 +4,16 @@ description: Fixes some OOF issues in Microsoft 365, for example, OOF messages c
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Exchange Mailbox Accounts\Out of Office (00F)
+  - CSSTroubleshoot
 appliesto:
 - Exchange Online
 search.appverid: MET150
-ms.reviewer: kellybos, rjewell
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: kellybos, rjewell, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # The Out of Office feature in Outlook doesn't function correctly in Microsoft 365
 

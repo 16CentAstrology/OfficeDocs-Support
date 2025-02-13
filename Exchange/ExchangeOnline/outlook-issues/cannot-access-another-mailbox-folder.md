@@ -1,21 +1,21 @@
 ---
 title: Cannot access another user's mailbox folder
 description: Describes an issue in which a user receives an error message when trying to access another user's mailbox folder in Outlook. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Client Connectivity
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: jhayes
+ms.reviewer: jhayes, v-six
 appliesto: 
   - Exchange Online
   - Microsoft 365 Apps for enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Unable to open default folders-you do not have permissions to logon error when accessing another user's mailbox folder
 

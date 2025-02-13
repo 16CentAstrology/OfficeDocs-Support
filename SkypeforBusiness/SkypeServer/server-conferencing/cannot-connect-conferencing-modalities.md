@@ -3,18 +3,18 @@ title: Cannot connect conference modalities after install Security Bulletin MS16
 description: Describes an issue that prevents some clients from connecting to conferencing modalities after you install Security Bulletin MS16-065 in Lync Server 2010, Lync Server 2013, or Skype for Business Server 2015. Provides workarounds.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Skype for Business Server 2015
   - Microsoft Lync 2013
   - Microsoft Lync 2010
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Some clients can't connect to conferencing modalities after you install Security Bulletin MS16-065

@@ -1,20 +1,20 @@
 ---
 title: Messages move from Inbox to a renamed folder
 description: Discusses that messages move from the Inbox to a renamed folder and the old folder name is applied to a new folder in Outlook. Provides a workaround.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:User Interface features and Configuration\Folder views
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: tasitae
 appliesto: 
   - Outlook 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Messages move from the Inbox to a renamed folder in Outlook
 
@@ -25,7 +25,7 @@ _Original KB number:_ &nbsp; 3087043
 When you rename a subfolder of the Inbox in Microsoft Outlook 2013, the following symptoms occur:
 
 - The email messages that were in the Inbox folder move to the folder that you renamed.
-- An additional folder appears and has the original name of the folder that you renamed.
+- Another folder appears and has the original name of the folder that you renamed.
 - An email message that contains an error message that resembles the following is added to the **Sync Issues** folder:
 
   > 12:25:00 Synchronizing Hierarchy  
@@ -55,6 +55,6 @@ For an example of this issue, consider the following scenario:
 - You notice that all the email messages that were previously in the Inbox folder are now in the Beta folder.
 - You notice also that the Alpha folder appears in the folder list again together with the Beta folder.
 
-In this scenario, if you select the ellipses button, select **Folders** to open the folder list, and then select the **Sync Issues** folder to view the messages it contains, you will find a message that resembles the message in the following screenshot.
+In this scenario, if you select the ellipses button, select **Folders** to open the folder list, and then select the **Sync Issues** folder to view the messages it contains, you find a message that resembles the message in the following screenshot.
 
 :::image type="content" source="media/messages-move-from-inbox-to-renamed-folder/error-example.png" alt-text="Screenshot of the example message in the Sync Error folder.":::

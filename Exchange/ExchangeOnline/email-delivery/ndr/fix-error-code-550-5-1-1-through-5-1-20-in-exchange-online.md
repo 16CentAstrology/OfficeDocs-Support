@@ -1,19 +1,19 @@
 ---
 title: Fix NDR error 550 5.1.1 through 5.1.20 in Exchange Online
-ms.date: 01/29/2023
-ms.author: v-six
-author: simonxjx
+ms.date: 01/24/2024
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
-ms.reviewer: 
+ms.reviewer: v-six
 audience: Admin
 ms.topic: troubleshooting
-ms.localizationpriority: high
 f1.keywords:
 - CSH
 ms.custom: 
-- Exchange Online
-- CSSTroubleshoot
-- CI 167832
+  - sap:Mail Flow
+  - Exchange Online
+  - CSSTroubleshoot
+  - CI 167832
 search.appverid:
 - BCS160
 - MOE150
@@ -109,7 +109,7 @@ Check your recent messages in the **Sent Items** folder for strange or unknown m
 
 If you believe that your account has been compromised, follow these steps:
 
-- Reset your password and scan your devices for malware. However, the hacker might have configured other settings on your mailbox (for example, created Inbox rules to auto-forward email messages or added additional mailbox delegates). So, follow the additional steps in [How to determine whether your account has been compromised](/office365/troubleshoot/sign-In/determine-account-is-compromised).
+- Reset your password and scan your devices for malware. However, the hacker might have configured other settings on your mailbox (for example, created Inbox rules to auto-forward email messages or added additional mailbox delegates). So, follow the additional steps in [Responding to a compromised account](/defender-office-365/responding-to-a-compromised-email-account).
 
 - Notify your email admin. Your admin will need to unblock your account before you can send email again.
 

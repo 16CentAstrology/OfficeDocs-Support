@@ -1,14 +1,14 @@
 ---
 title: MAPI is the only way to change profiles
 description: You can only use Extended MAPI to programmatically change profiles.
-ms.date: 08/05/2020
-author: helenclu
-ms.author: luche
+ms.date: 01/30/2024
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: danba, brijs, Andrei.Ghita, gbratton, dvespa

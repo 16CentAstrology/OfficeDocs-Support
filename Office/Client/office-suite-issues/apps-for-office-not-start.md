@@ -3,17 +3,19 @@ title: Office Add-in doesn't start if you disable protected mode for Restricted 
 description: Resolves issues that blocks Office Add-in from starting if protected mode for the Restricted Sites zone is not enabled in Internet Explorer.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Add-Ins\Centralized Deployment of Add-Ins
+  - DownloadInstall\AdvancedConfiguration\AddInsOrIntegratedApps
+  - CSSTroubleshoot
 ms.author: luche
 ms.reviewer: pconlan, misaun
 search.appverid: 
   - MET150
 appliesto: 
   - Office 2013
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Office Add-in doesn't start if you disable protected mode for the Restricted Sites zone in Internet Explorer

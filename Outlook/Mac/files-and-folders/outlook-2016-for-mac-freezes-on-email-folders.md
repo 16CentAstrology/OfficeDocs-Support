@@ -1,20 +1,20 @@
 ---
 title: Outlook 2016 for Mac freezes on email folders
 description: Discusses a problem in which Outlook 2016 for Mac freezes on email folders that contain several encrypted messages. Provides a resolution.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Errors, Crashes, and Performance
   - Outlook for Mac
   - CSSTroubleshoot
 ms.reviewer: tasitae
 appliesto: 
   - Outlook 2016 for Mac
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Outlook 2016 for Mac freezes on email folders that contain several encrypted messages
 

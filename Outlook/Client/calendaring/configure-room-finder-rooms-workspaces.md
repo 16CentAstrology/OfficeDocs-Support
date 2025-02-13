@@ -1,13 +1,13 @@
 ---
 title: Configure rooms and workspaces for Room Finder
 description: Describes common tasks to configure rooms and workspaces for Room Finder in Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Calendar\Working with meetings or appointments
   - CI 156476
   - Outlook for Windows
   - CSSTroubleshoot
@@ -21,7 +21,7 @@ appliesto:
   - Outlook for iOS
   - Outlook for Android
 search.appverid: MET150
-ms.date: 6/6/2022
+ms.date: 01/30/2024
 ---
 
 # Configure rooms and workspaces for Room Finder in Outlook
@@ -78,7 +78,7 @@ For example, consider that for an organization that uses *contoso.com* as the do
     ```powershell
     New-Mailbox -Organization contoso.com -Name room1 -DisplayName "Conference Room 1" -Room
     
-    Set-Place room1@contoso.com -CountryOrRegion "United States of America" -State "Washington" -City "Seattle" -Floor 1 -FloorLabel “Ground” -Capacity 5
+    Set-Place room1@contoso.com -CountryOrRegion "US" -State "Washington" -City "Seattle" -Floor 1 -FloorLabel “Ground” -Capacity 5
     ```
 
 **Note**: In the Set-Place cmdlet,use the **Floor** property to specify the floor where a room or workspace is located. In the Places API room resource type, use the **FloorNumber** parameter.
@@ -88,7 +88,7 @@ For example, consider that for an organization that uses *contoso.com* as the do
     ```powershell
     New-Mailbox -Organization contoso.com -Name workspace1 -DisplayName "Workspace 1" -Room | Set-Mailbox -Type Workspace 
     
-    Set-Place workspace1@contoso.com -CountryOrRegion "United States of America" -State "Washington" -City "Seattle" -Floor 1 -FloorLabel "Ground" -Capacity 5
+    Set-Place workspace1@contoso.com -CountryOrRegion "US" -State "Washington" -City "Seattle" -Floor 1 -FloorLabel "Ground" -Capacity 5
     ```
 
     Also, you can set up automatic workspace capacity evaluation by running the following cmdlet:

@@ -1,22 +1,22 @@
 ---
 title: Cannot find a recipient that has mailbox GUID when creating public folder endpoint
 description: Works around an error that occurs when you run the New-MigrationEndpoint cmdlet for the public folder migration.
-author: v-charloz
-ms.author: v-chazhang
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - CI 156331
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: meerak; batre
+ms.reviewer: meerak, batre, v-chazhang
 appliesto: 
   - Exchange Online via Office 365 E Plans
   - Exchange Online via Office 365 P Plans
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 
 # "Cannot find a recipient that has mailbox GUID" error when creating migration endpoint

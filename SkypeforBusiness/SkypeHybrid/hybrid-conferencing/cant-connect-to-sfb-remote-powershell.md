@@ -3,17 +3,17 @@ title: Lync administrator can't connect to Skype for Business Online Remote Powe
 description: Describes an issue in which Lync administrators can't connect to Skype for Business Online Remote PowerShell in a Lync hybrid environment. Provides a solution.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: dahans
 appliesto: 
   - Skype for Business Online
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Lync administrators can't connect to Skype for Business Online Remote PowerShell in a Lync hybrid environment

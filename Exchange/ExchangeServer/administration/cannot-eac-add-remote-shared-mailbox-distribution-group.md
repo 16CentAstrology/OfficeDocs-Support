@@ -1,17 +1,17 @@
 ---
 title: Can't use EAC to add remote shared mailbox to distribution group
 description: Resolves an issue in which you can't use EAC to add remote shared mailbox to delivery management of distribution group.
-ms.date: 05/17/2021
-author: v-lianna
-ms.author: v-lianna
+ms.date: 01/24/2024
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:OWA  And Exchange Admin Center\Need help in configuring EAC
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: meerak, akashb, ninob
+ms.reviewer: meerak, akashb, ninob, v-lianna
 appliesto: 
   - Exchange Server 2019
   - Exchange Server 2016

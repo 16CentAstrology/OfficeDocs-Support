@@ -4,10 +4,9 @@ description: SharePoint returns The content processing pipeline failed to proces
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 12/09/2021
+ms.date: 12/17/2023
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
@@ -17,6 +16,7 @@ appliesto:
   - SharePoint Server 2016
   - SharePoint Server 2013
 ms.custom: 
+  - sap:Search\Performance (such as crawl, query, indexing , and content processing)
   - CI 158351
   - CSSTroubleshoot
 ms.reviewer: holutz

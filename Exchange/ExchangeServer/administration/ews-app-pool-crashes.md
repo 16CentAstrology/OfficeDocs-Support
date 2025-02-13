@@ -1,23 +1,23 @@
 ---
 title: EWS Application pool crashes because the Exchange Server OAuth certificate is expired
 description: Fixes an issue in which the EWS Application pool crashes every 10 – 15 minutes on all servers, and EWS applications throw HTTP 503 error.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:High Availability, Health, Performance, Content Indexing\Exchange Service or Server Crashed/Stopped, Cluster service issues
   - Exchange Server
   - CSSTroubleshoot
   - CI 122417
-ms.reviewer: Andreig
+ms.reviewer: Andreig, v-six
 appliesto: 
   - Exchange Server 2019
   - Exchange Server 2016
   - Exchange Server 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 
 # EWS Application pool crashes because the Exchange Server OAuth certificate is expired

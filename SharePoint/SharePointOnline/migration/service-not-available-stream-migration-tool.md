@@ -5,17 +5,17 @@ author: helenclu
 ms.author: luche
 ms.reviewer: prbalusu, salarson
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.custom: 
-- CSSTroubleshoot
-- CI172876
+  - sap:Migration\Other
+  - CSSTroubleshoot
+  - CI172876
 appliesto: 
   - SharePoint Online
-ms.date: 3/10/2023
+ms.date: 12/17/2023
 ---
 
 # "Service is not available" error when you use the Stream migration tool

@@ -3,16 +3,16 @@ title: Unable to add an Address (A) or CNAME record in Microsoft 365 Small Busin
 description: Describes an issue in which an Another DNS record already exists with this host name error occurs when you try to add an Address (A) or CNAME record in the Microsoft 365 portal.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft 365 for business
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Another DNS record already exists with this host name" when adding an Address or CNAME record

@@ -3,19 +3,19 @@ title: Can't delete Teams channel folders from SharePoint
 description: Fixes an issue in which you can't delete the corresponding channel folder in the SharePoint library after the channel is deleted from Microsoft Teams.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
 ms.custom: 
-- CSSTroubleshoot
-- CI 171872
+  - sap:Lists and Libraries\Create
+  - CSSTroubleshoot
+  - CI 171872
 ms.reviewer: prbalusu
 appliesto: 
 - SharePoint Online
-ms.date: 2/22/2023
+ms.date: 12/17/2023
 ---
 # You can't delete the folder for a deleted Teams standard channel
 

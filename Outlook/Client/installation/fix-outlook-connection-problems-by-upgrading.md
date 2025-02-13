@@ -1,13 +1,13 @@
 ---
 title: Fix Outlook connection issues by upgrading
 description: Describes how to update to the latest version of Microsoft Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Network disconnects, password or credentials prompt
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: gbratton, nical, riguy, ronild, mhaque
@@ -20,7 +20,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft 365 Apps for enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Fix Outlook connection problems by upgrading to the latest version
 

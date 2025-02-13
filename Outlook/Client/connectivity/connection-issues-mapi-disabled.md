@@ -1,14 +1,14 @@
 ---
 title: Connection issues when MAPI is disabled
 description: This article resolves the connection issues between Microsoft Outlook and Exchange Server that occur when Messaging Application Programming Interface (MAPI) is disabled for a user.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: robevans
 ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Network disconnects, password or credentials prompt
   - Outlook for Windows
   - CSSTroubleshoot
 search.appverid: 
@@ -17,7 +17,7 @@ appliesto:
   - Outlook 2016
   - Outlook 2013
   - Outlook 2010
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Connection issues between Outlook and Exchange when MAPI is disabled for a user
 

@@ -1,16 +1,16 @@
 ---
 title: Cannot create mail profile on iOS device via Autodiscover
 description: Describes an issue in which mobile devices that are running iOS7 and later versions cannot automatically configure the default mail app for an Exchange Online or on-premises Exchange Server mailbox. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Client Connectivity
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: dalkim, jmartin
+ms.reviewer: dalkim, jmartin, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2016 Enterprise Edition
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Can't create a mail profile on an iOS device by using Autodiscover
 

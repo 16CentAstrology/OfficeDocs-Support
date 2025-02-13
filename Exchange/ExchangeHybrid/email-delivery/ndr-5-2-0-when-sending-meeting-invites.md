@@ -1,20 +1,20 @@
 ---
 title: NDR 5.2.0 when sending meeting invites
 description: How to fix non-delivery report users get when sending meeting invites after a delegate or manager's mailbox is moved to a new forest.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Mail Flow
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: kellybos
+ms.reviewer: kellybos, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Users receive NDR 5.2.0 when they send meeting invites in Microsoft 365 hybrid environment
 

@@ -1,13 +1,13 @@
 ---
 title: Running Test-IRMConfiguration in EMS fails
 description: Provides a resolution to resolve the failure of the Test-IRMConfiguration cmdlet.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Messaging Policy and Compliance\Information Rights Management
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -15,7 +15,8 @@ search.appverid:
 appliesto: 
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Test-IRMConfiguration fails: Failed to acquire a use license
 

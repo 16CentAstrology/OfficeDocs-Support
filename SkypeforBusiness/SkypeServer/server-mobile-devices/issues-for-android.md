@@ -3,16 +3,16 @@ title: Troubleshooting issues with Microsoft Skype for Business for Android
 description: This article describes how to troubleshoot some common issues that you may encounter when you use the Skype for Business (formerly Lync 2013) for Android.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Skype for Business for Android
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Troubleshooting issues with Microsoft Skype for Business (formerly Lync 2013) for Android
@@ -46,10 +46,8 @@ The following table describes the sign-in fields required for Android users:
 
 If automatic discovery for mobile clients hasn't been configured, users have to enter the following internal and external discovery addresses in addition to the fields that are listed in the table:
 
-- Internal discovery address*:
-[https://webdir.online.lync.com/Autodiscover/autodiscoverservice.svc/Root](https://webdir.online.lync.com/autodiscover/autodiscoverservice.svc/root)
-- External discovery address*:
-[https://webdir.online.lync.com/Autodiscover/autodiscoverservice.svc/Root](https://webdir.online.lync.com/autodiscover/autodiscoverservice.svc/root)   
+- Internal discovery address*: `https://webdir.online.lync.com/Autodiscover/autodiscoverservice.svc/root`
+- External discovery address*: `https://webdir.online.lync.com/Autodiscover/autodiscoverservice.svc/root`
 
 *These addresses are valid only for Microsoft 365 users and will be different for On-premises Skype for Business Server deployments.
 

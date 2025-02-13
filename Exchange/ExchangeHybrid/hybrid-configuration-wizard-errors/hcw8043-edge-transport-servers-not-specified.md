@@ -1,22 +1,22 @@
 ---
 title: HCW8043 Edge Transport servers cannot be specified
 description: Fixes an issue that returns an HCW8043 error when you run the Hybrid Configuration wizard in Exchange Online or Exchange Server 2013.
-ms.author: v-six
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Hybrid
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # HCW8043 Edge Transport servers cannot be specified error when you run Hybrid Configuration wizard
 

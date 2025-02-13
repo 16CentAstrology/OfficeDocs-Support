@@ -3,16 +3,17 @@ title: Can't change the default language for a site
 description: This article provides a solution for an issue where you can't change the default language for a SharePoint Online site.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Sites\Other
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # You can't change the default language for a SharePoint Online site 

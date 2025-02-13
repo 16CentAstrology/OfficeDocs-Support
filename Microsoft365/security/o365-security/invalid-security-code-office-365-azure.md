@@ -3,19 +3,19 @@ title: Invalid Security Code for Microsoft 365, Intune, or Azure
 description: Describes an issue in which you receive an error message when you try to reset your admin password for Microsoft 365, Microsoft Intune, or Azure. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Azure Active Directory
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365 User and Domain Management
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Invalid Security Code" error when you reset your admin password for Microsoft 365, Intune, or Azure
@@ -54,4 +54,4 @@ This issue may occur if one of the following conditions is true:
   > The security code and the Reset your password nowlink is valid only for 10 minutes.   
 - You clicked Reset your password nowfrom a different computer. Or, you opened a new web browser session, which is different from the web browser session in which you started the password reset request.   
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.

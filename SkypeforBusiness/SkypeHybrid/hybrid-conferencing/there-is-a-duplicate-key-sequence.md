@@ -3,12 +3,12 @@ title: There is a duplicate key sequence after you run New-CSHostingProvider
 description: Describes an error in Lync Server, Skype for Business Server, and Skype for Business Online that occurs after you run the New-CSHostingProvider PowerShell cmdlet. Provides a solution.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: v-six
 ms.reviewer: v-tain, corbinm, dahans
 appliesto: 
@@ -17,7 +17,7 @@ appliesto:
   - Lync Server 2013
   - Lync Server 2010 Enterprise Edition
   - Lync Server 2010 Standard Edition
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "There is a duplicate key sequence" in Lync or Skype for Business after you run the New-CSHostingProvider cmdlet

@@ -1,20 +1,21 @@
 ---
 title: Cautions against bypassing Microsoft 365 spam filters.
 description: Describes cautions against bypassing Microsoft 365 spam filters.
-author: simonxjx
+author: cloud-writer
+ms.author: meerak
 audience: ITPro
 ms.topic: troubleshooting
-ms.author: v-six
 ms.custom: 
+  - sap:Mail Flow
   - Exchange Online
   - CSSTroubleshoot
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Cautions against bypassing Microsoft 365 spam filters
 

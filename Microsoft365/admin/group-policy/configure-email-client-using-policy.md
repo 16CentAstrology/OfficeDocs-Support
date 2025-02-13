@@ -3,16 +3,16 @@ title: How to configure the default email client using Group Policy
 description: Explains how to configure the default email client using Group Policy
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - Microsoft Outlook
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Cannot configure the default email client using Group Policy

@@ -1,16 +1,16 @@
 ---
 title: Mail user who has proxy addresses isn't synced
 description: Describes an issue in which a mail user who has proxy addresses that use non-verified domains isn't synced to Exchange Online in an Exchange hybrid deployment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Hybrid
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: jbower, jmartin
+ms.reviewer: jbower, jmartin, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2016 Enterprise Edition
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # A mail user who has proxy addresses that use non-verified domains isn't synced in an Exchange hybrid deployment
 

@@ -6,7 +6,6 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CI 110828, CI 114761, CI 115829, CI 116348, CI 117120
   - CSSTroubleshoot
@@ -16,9 +15,13 @@ appliesto:
   - Microsoft 365 Apps for enterprise
   - Outlook
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 10/17/2024
 ---
+
 # Install Microsoft Support and Recovery Assistant from a network share or internet location
+
+> [!Important]
+> Microsoft Support and Recovery Assistant features have migrated to [Get Help](https://support.microsoft.com/en-us/windows/about-get-help-717c7ae9-5c45-45f0-b637-900b7437a395).
 
 You can install Microsoft Support and Recovery Assistant on your company's Windows-based devices from the following locations:
 
@@ -101,10 +104,22 @@ There are several variables in the script that can be modified, including the do
 
 ## Version history of the Assistant
 
-A new build of the Assistant is released monthly. The following table provides the versions that were made available on the specified dates.
+A new build of the Assistant is released every 90 days. The following table provides the versions that were made available on the specified dates.
 
 |Release date|Version of the Assistant|
 |--------|--------|
+|Nov 12, 2024|17.01.2465.000|
+|Oct 8, 2024|17.01.2352.000|
+|Sep 10, 2024|17.01.2276.000|
+|Aug 13, 2024|17.01.2176.000|
+|Jul 9, 2024|17.01.2011.000|
+|Jun 11, 2024|17.01.1903.000|
+|May 14, 2024|17.01.1814.000|
+|April 9, 2024|17.01.1659.000|
+|March 12, 2024|17.01.1602.000|
+|February 20, 2024|17.01.1440.000|
+|June 6, 2023|17.01.0268.003|
+|April 21, 2023|17.01.0040.005|
 |January 26, 2023|17.00.9663.002|
 |October 20, 2022|17.00.9167.015|
 |September 20, 2022|17.00.9001.010|

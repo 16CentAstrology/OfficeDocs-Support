@@ -3,17 +3,18 @@ title: SharePoint 2010 projects with field elements cannot be redeployed
 description: Fixes an issue in which projects with field elements cannot be redeployed.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Farm Administration
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Server 2010
 ms.reviewer: lubomirb
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # SharePoint 2010 projects with field elements cannot be redeployed
 

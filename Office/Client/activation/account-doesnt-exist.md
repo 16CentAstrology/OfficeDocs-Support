@@ -7,8 +7,9 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - Activation\Errors\Account doesn't exist
   - CSSTroubleshoot
   - CI 157598
   - CI 159117
@@ -16,7 +17,7 @@ search.appverid:
   - MET150
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 02/11/2025
 ---
 
 # Microsoft 365 Apps activation error: “That Microsoft account doesn’t exist. Enter a different account or get a new one.”
@@ -76,8 +77,6 @@ If you have a different edition or version installed on your device, run the SaR
 <details>
 <summary><b>Reset Microsoft 365 activation state</b></summary>
 
-Run the [Microsoft Support and Recovery Assistant (SaRA) to reset the Microsoft 365 activation state](https://aka.ms/SaRA-OfficeActivation-Reset).
-
-For manual steps or more information, see [Reset Microsoft 365 Apps for enterprise activation state]( /office/troubleshoot/activation/reset-office-365-proplus-activation-state).
+See [Reset activation state for Microsoft 365 Apps for enterprise](/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 <br/><br/>
 </details>

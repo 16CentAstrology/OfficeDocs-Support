@@ -3,16 +3,16 @@ title: The term Get-VM is not recognized during install of Cloud Connector Editi
 description: Describes an error that occurs when you run the cmdlet Install-CcInstance during installation of Cloud Connector Edition. Describes how to resolve the problem.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Skype for Business Cloud Connector Edition
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "The term 'Get-VM' is not recognized as the name of a cmdlet ..." error during install of Cloud Connector Edition

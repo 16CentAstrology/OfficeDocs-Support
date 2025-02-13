@@ -1,16 +1,16 @@
 ---
 title: Event ID 1053 Exchange ActiveSync doesn't have sufficient permissions to create container
 description: Describes an issue that occurs when an Exchange Server user tries to synchronize an Exchange ActiveSync device for the first time. Provides a workaround.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with Active Sync Device
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: mhendric, exchblt
+ms.reviewer: mhendric, exchblt, v-six
 appliesto: 
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
@@ -19,7 +19,7 @@ appliesto:
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Exchange ActiveSync users can't synchronize an EAS device for the first time in an Exchange Server environment
 

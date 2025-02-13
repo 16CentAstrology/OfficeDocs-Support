@@ -3,16 +3,17 @@ title: SSL certificate authentication issues
 description: This article provides solutions for resolving SSL certificate authentication issues.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Authentication and Authorization\Conditional Access Policy
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # You experience SSL certificate authentication issues when you use SharePoint Online

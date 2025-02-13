@@ -3,16 +3,16 @@ title: How to keep on running Microsoft 365 Apps for enterprise 2013
 description: Describes how to avoid having your Microsoft 365 Apps for enterprise 2013 installation automatically upgraded to Office 2016.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Microsoft 365 Apps for enterprise
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How do I keep on running Microsoft 365 Apps for enterprise 2013?

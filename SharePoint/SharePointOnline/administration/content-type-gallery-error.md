@@ -3,19 +3,19 @@ title: Unexpected error in SharePoint admin center Content type gallery
 description: Troubleshooting errors when accessing the Content type gallery.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.custom: 
+  - sap:Sites\Hub Site
   - CSSTroubleshoot
   - CI 158890
 ms.collection: SPO_Content
 ms.author: luche
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Unexpected error in SharePoint admin center Content type gallery

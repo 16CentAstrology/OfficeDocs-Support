@@ -3,10 +3,10 @@ title: Use Remote Connectivity Analyzer to troubleshoot single sign-on issues
 description: Describes how to use Remote Connectivity Analyzer to diagnose single sign-on (SSO) logon issues in Microsoft 365, Azure, or Microsoft Intune. Also contains information about causes of common SSO failures and links to troubleshooting resources.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: luche
 ms.reviewer: v-jocomf
 search.appverid: 
@@ -17,7 +17,7 @@ appliesto:
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How to use Remote Connectivity Analyzer to troubleshoot single sign-on issues for Microsoft 365, Azure, or Intune
@@ -59,4 +59,4 @@ To run Remote Connectivity Analyzer to test SSO authentication, follow these ste
     |Certificate Trust is being verified.|Certificate trust validation failed.|Problems with the SSL certificate are limiting AD FS authentication.|Troubleshoot the problems by using SSL certificate. For more information, see  [You receive a certificate warning from AD FS when you try to sign in to Microsoft 365, Azure, or Intune](https://support.microsoft.com/help/2523494 ).|
     |ExRCA is attempting to authenticate to the security token service at https://sts.**contoso**.com/adfs/services/trust/2005/usernamemixed|A SOAP fault response was received from the Security Token service. A web exception occurred because an HTTP 503 - Service Unavailable response was received from Unknown.|The authentication to AD FS endpoints by using the federation trust is malfunctioning.|Check and rebuild the federation trust. For more information, see ["80041317" or "80043431" error when federated users sign in to Microsoft 365, Azure, or Intune](https://support.microsoft.com/help/2647020). Check and repair the token-signing certificate problems. For more information, see ["There was a problem accessing the site" error from AD FS when a federated user signs in to Microsoft 365, Azure, or Intune](https://support.microsoft.com/help/2713898). |
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.

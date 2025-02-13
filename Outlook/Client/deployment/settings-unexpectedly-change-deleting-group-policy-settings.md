@@ -4,15 +4,16 @@ description: Provides a resolution to solve the issue that your Outlook settings
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:User Interface features and Configuration\Group Policy
+  - CSSTroubleshoot
 appliesto:
 - Outlook
 search.appverid: MET150
-ms.reviewer: randyto, aruiz, sercast
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: randyto, aruiz, sercast, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Outlook settings may unexpectedly change after administrator removes Group Policy settings that control some Outlook features
 

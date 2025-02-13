@@ -3,16 +3,17 @@ title: Search results missing in SharePoint Online
 description: This article describes how to resolve an issue where search results are missing in SharePoint Online
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Search\Syntex, Queries and Results
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Search results missing in SharePoint Online

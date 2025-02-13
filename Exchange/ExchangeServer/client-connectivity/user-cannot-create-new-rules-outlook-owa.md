@@ -4,8 +4,9 @@ description: Describes an issue in which a user cannot add new rules in Microsof
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with OWA
+  - CSSTroubleshoot
 appliesto:
 - Exchange Online
 - Microsoft Exchange Online Dedicated
@@ -13,9 +14,9 @@ appliesto:
 - Exchange Server 2010 Standard
 search.appverid: MET150
 ms.reviewer: danabeck, v-six
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 # A user cannot create new rules in Outlook or Outlook on the web
 

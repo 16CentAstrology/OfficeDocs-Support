@@ -3,8 +3,7 @@ title: Slow View in File Explorer performance on Windows 8 or Windows Server 201
 description: Discusses how to troubleshoot slow performance on Windows 8 or Windows Server 2012 when you use the View in File Explorer command.
 author: helenclu
 manager: dcscontentpm
-ms.date: 02/14/2020
-localization_priority: Normal
+ms.date: 12/17/2023
 search.appverid: 
   - MET150
 audience: ITPro
@@ -13,6 +12,7 @@ ms.author: luche
 appliesto: 
   - SharePoint Online
 ms.custom: 
+  - sap:Lists and Libraries\View in File Explorer
   - CI 113862
   - CSSTroubleshoot
 ---

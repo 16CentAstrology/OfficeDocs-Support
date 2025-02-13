@@ -4,8 +4,9 @@ description: The synchronization issues could result from a corrupted .ost file.
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Sending, Receiving, Synchronizing, or viewing email\Errors sending or receiving email
+  - CSSTroubleshoot
 appliesto:
 - Outlook 2019
 - Outlook 2016
@@ -14,10 +15,10 @@ appliesto:
 - Microsoft Office Outlook 2007
 - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.reviewer: aruiz, rakeshs
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: aruiz, rakeshs, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Synchronization problems occur in Outlook and in Outlook Web App
 

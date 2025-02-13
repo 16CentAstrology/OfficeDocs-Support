@@ -3,7 +3,6 @@ title: Determine who is logged on to a database
 description: Describes how to determine who is logged on to a database by using Microsoft Jet UserRoster in Access.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 ms.custom: 
   - CI 111294
   - CSSTroubleshoot
@@ -15,7 +14,7 @@ ms.author: luche
 ms.reviewer: KSWALLOW
 appliesto: 
   - Access 2007
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How to determine who is logged on to a database by using Microsoft Jet UserRoster in Access

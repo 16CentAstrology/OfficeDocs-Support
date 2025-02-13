@@ -3,16 +3,16 @@ title: Domain shows a status of Setup in progress in the Microsoft 365 portal
 description: Describes a scenario in which a new domain that you add to Microsoft 365 shows a Setup in progress status. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Domain shows a status of "Setup in progress" in the Microsoft 365 portal

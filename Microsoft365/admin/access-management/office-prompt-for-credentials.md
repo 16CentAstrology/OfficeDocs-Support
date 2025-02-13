@@ -3,17 +3,17 @@ title: Office applications periodically prompt for credentials
 description: Describes a situation in which Lync and Office periodically prompt for credentials to SharePoint Online and OneDrive in some cases.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
   - Office 2016
   - Office 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Office applications periodically prompt for credentials to SharePoint Online, OneDrive, and Lync Online

@@ -1,16 +1,16 @@
 ---
 title: Can't add and verify a domain in hybrid
 description: Fixes an issue that prevents you from verifying a domain in Microsoft 365 when you have an Exchange hybrid deployment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Hybrid
   - Exchange Hybrid
   - CSSTroubleshoot
-ms.reviewer: rayfong
+ms.reviewer: rayfong, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2013 Enterprise
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2010 Enterprise
   - Exchange Server 2010 Standard
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # An error occurred while working on your domain when you verify your domain in a hybrid deployment
 

@@ -1,20 +1,20 @@
 ---
 title: How to export contacts via OWA
 description: Describes how to export contacts from Outlook 2011 for Mac to Exchange Online by using Outlook Web App in a Microsoft 365 environment.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:People or Contacts
   - Outlook for Mac
   - CSSTroubleshoot
 ms.reviewer: dahans
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # How to export contacts from Outlook 2011 for Mac to Exchange Online by using OWA in Microsoft 365
 

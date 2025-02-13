@@ -3,16 +3,17 @@ title: SharePoint Online document libraries versioning setting changes
 description: Describes previous changes to the default versioning setting for SharePoint Online document libraries.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Files and Documents\Versioning
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Changes to the default versioning setting for SharePoint Online document libraries

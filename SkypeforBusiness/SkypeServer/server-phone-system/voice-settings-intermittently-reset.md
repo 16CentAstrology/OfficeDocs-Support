@@ -3,18 +3,18 @@ title: Voice settings are intermittently reset
 description: Describes an issue in which Voice Settings is intermittently reset to VoIP always in Skype for Business for iOS and Skype for Business for Android.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Skype for Business Server 2015
   - Skype for Business for iOS
   - Skype for Business for Android
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Voice settings are intermittently reset in Skype for Business app

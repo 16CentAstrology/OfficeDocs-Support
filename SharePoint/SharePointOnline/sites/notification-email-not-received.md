@@ -4,19 +4,19 @@ description: Provides a fix for an issue when notifications aren't received by t
 manager: dcscontentpm
 author: cloud-writer
 ms.author: meerak
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.reviewer: prbalusu; salarson
 ms.custom: 
+  - sap:Sites\Other
   - CSSTroubleshoot
   - CI 161041
   - CI 164597
 appliesto: 
   - SharePoint Online
-ms.date: 6/27/2022
+ms.date: 12/17/2023
 ---
 
 # Notifications sent to SharePoint sites connected to Microsoft 365 groups aren’t received

@@ -1,13 +1,13 @@
 ---
 title: 400 Bad Request when you access the Options page
 description: Resolves a problem that occurs when a user tries to access the Options page under Outlook Web App in Exchange Server 2010.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:OWA  And Exchange Admin Center\Need help in configuring EAC
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -15,7 +15,8 @@ search.appverid:
 appliesto: 
   - Exchange Server 2010 Standard
   - Exchange Server 2010 Enterprise
-ms.date: 3/31/2022
+ms.date: 01/24/2024
+ms.reviewer: v-six
 ---
 # Error when a user accesses the Options page in Exchange Server 2010: 400 Bad Request
 

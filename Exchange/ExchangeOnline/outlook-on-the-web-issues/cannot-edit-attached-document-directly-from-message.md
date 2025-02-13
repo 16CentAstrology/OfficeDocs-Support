@@ -1,20 +1,20 @@
 ---
 title: Can't edit an Office document directly from an email message
 description: Provides a workaround for an issue in which a Microsoft 365 user can't edit an Office document that's attached to an email message directly in Outlook Web App.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Outlook on the web / OWA
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: laurieh
+ms.reviewer: laurieh, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Microsoft 365 users can't edit an Office document directly from an email message in Outlook Web App
 

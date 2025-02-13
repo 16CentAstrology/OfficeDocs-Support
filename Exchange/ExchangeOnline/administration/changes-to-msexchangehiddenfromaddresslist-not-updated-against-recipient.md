@@ -1,20 +1,20 @@
 ---
 title: Changes to msExchangeHiddenFromAddressList not updated
-description: Fixes an issue in which changes made to the msExchangeHiddenFromAddressList attribute are not updated against the recipient object in Exchange Online.
-author: simonxjx
-ms.author: v-six
+description: Provides a fix for an issue in which changes made to the msExchangeHiddenFromAddressList attribute aren't updated against the recipient object in Exchange Online.
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administrator Tasks
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: gabesl
+ms.reviewer: gabesl, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Changes to msExchangeHiddenFromAddressList attribute not updated against recipient object in Exchange Online
 
@@ -25,16 +25,16 @@ _Original KB number:_ &nbsp; 4042820
 Consider the following scenario:
 
 - You change the `msExchangeHiddenFromAddressList` attribute in on-premises.
-- The attribute is synced by using Azure Active Directory Connect (Azure AD Connect).
+- The attribute is synced by using Microsoft Entra Connect.
 
-In this scenario, the changes are not updated against the recipient object in Microsoft Exchange Online.
+In this scenario, the changes aren't updated against the recipient object in Microsoft Exchange Online.
 
 ## Cause
 
 This issue occurs due to one of the following reasons:
 
 - The Alias (`MailNickname`) attribute on the source object that's located in on-premises doesn't have the required value.
-- A sync rule in Azure AD Connect has a scoping filter that states that the **Operator** of the `MailNickName` attribute is **ISNOTNULL**. The rule sets **Link Type** to **Join** for syncing Exchange attributes together and uses the name **In From AD - User Exchange**.
+- A sync rule in Microsoft Entra Connect has a scoping filter that states that the **Operator** of the `MailNickName` attribute is **ISNOTNULL**. The rule sets **Link Type** to **Join** for syncing Exchange attributes together and uses the name **In From AD - User Exchange**.
 
 ## Resolution
 
@@ -46,15 +46,15 @@ To resolve this issue, follow these steps:
     Get-Module -ListAvailable activedirectory
     ```  
 
-2. Import the Active Directory module for PowerShell versions earlier than 3.0. To do this, run the following cmdlet:
+2. Run the following cmdlet to import the Active Directory module for PowerShell versions earlier than 3.0:
 
     ```powershell
     Import-Module activedirectory
     ```  
 
-    For PowerShell module 3.0 and later versions, the module will load automatically based on the commands that are issued.
+    For PowerShell module 3.0 and later versions, the module loads automatically based on the commands that are issued.
 
-3. Validate that the `mailnickname` attribute is not set to any value. To do this, run the following cmdlet:
+3. Validate that the `mailnickname` attribute isn't set to any value. To do so, run the following cmdlet:
 
     ```powershell
     Get-ADObject -Filter {Name -eq ObjectName} -Properties * | Out-String -Stream | Select-String mailnickname
@@ -67,5 +67,7 @@ To resolve this issue, follow these steps:
     ```  
 
 ## More information
+
+If the issue still persists, check for and resolve data validation errors in your tenant.
 
 Still need help? Go to [Microsoft Community](https://answers.microsoft.com/).

@@ -5,14 +5,15 @@ author: helenclu
 manager: dcscontentpm
 search.appverid: 
   - MET150
-localization_priority: Normal
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Sites\Site Theme
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # SharePoint Online site doesn't use the site theme for the Microsoft 365 top navigation bar

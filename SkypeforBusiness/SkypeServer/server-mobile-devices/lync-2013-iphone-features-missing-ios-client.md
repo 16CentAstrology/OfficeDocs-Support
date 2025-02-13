@@ -3,16 +3,16 @@ title: Lync 2013 for iPhone/iPad features are missing in Skype for Business for 
 description: Describes an issue in which some features are not included in Skype for Business for iOS that are currently included in Lync 2013 for iPhone/iPad.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Skype for Business for iOS
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Some Lync 2013 for iPhone/iPad features are missing in Skype for Business for iOS

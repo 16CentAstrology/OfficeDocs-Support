@@ -6,8 +6,8 @@ ms.author: v-chazhang
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Teams Calling (PSTN)\Voice Apps
   - CI 157482
   - CSSTroubleshoot
 ms.reviewer: alicelu; meerak
@@ -15,7 +15,7 @@ appliesto:
   - Microsoft Teams
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 10/30/2023
 ---
 
 # Settings for Teams calls with Apple CarPlay

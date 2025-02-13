@@ -1,13 +1,13 @@
 ---
 title: SocketError when sending or receiving email messages
 description: Fixes an issue in which errors occur on the mail flow when you send or receive email messages by using Transport Layer Security (TLS) 1.1 or TLS 1.0.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Mail Flow
   - CI 144876
   - Exchange Online
   - CSSTroubleshoot
@@ -18,7 +18,7 @@ appliesto:
   - Exchange Server 2019
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Can't send or receive email when using TLS 1.1 or TLS 1.0
 

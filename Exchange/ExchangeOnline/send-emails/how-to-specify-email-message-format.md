@@ -4,15 +4,16 @@ description: Describes how Microsoft 365 admins can change the message format so
 manager: dcscontentpm
 audience: ITPro
 ms.topic: how-to
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Mail Flow
+  - CSSTroubleshoot
 appliesto: 
 - Exchange Online
 search.appverid: MET150
-ms.reviewer: jhayes
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: jhayes, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 
 # How to specify the email message format that's used for external recipients to prevent Winmail.dat attachments

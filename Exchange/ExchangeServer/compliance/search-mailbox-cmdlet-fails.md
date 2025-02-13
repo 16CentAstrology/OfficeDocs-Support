@@ -1,13 +1,13 @@
 ---
 title: Can't search using Search-Mailbox cmdlet
 description: A retention policy that's applied on a target mailbox affects how the Search-Mailbox cmdlet searches messages from a source mailbox.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Messaging Policy and Compliance\Issues with eDiscovery, import/export of mailbox
   - CI 163129
   - Exchange Server
   - CSSTroubleshoot
@@ -19,7 +19,7 @@ appliesto:
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2019
 search.appverid: MET150
-ms.date: 7/14/2022
+ms.date: 01/24/2024
 ---
 # Error when using the Search-Mailbox cmdlet
 

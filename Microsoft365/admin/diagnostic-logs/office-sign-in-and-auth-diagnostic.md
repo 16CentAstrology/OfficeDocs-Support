@@ -6,15 +6,15 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: pcreehan
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
   - Office Professional Plus 2013
   - Office Professional 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Office Sign-in and Authentication Diagnostics

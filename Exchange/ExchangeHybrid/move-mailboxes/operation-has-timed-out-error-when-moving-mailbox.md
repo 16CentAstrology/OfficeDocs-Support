@@ -4,17 +4,18 @@ description: Describes an issue in which you receive an error message when you t
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Migration
+  - CSSTroubleshoot
 appliesto:
 - Outlook
 - Exchange Online
 - Exchange
 search.appverid: MET150
-ms.reviewer: 
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 # "Operation has timed out" error when using New-MoveRequest to move a mailbox from Exchange Online to on-premises
 

@@ -6,8 +6,8 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Teams Clients\Windows Desktop
   - CI 172429
   - CSSTroubleshoot
 ms.reviewer: greganth
@@ -15,7 +15,7 @@ appliesto:
   - Microsoft Teams
 search.appverid: 
   - MET150
-ms.date: 2/16/2023
+ms.date: 10/30/2023
 ---
 # "Couldn't complete the call" error when you call from a contact card
 

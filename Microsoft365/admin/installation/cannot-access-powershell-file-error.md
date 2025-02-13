@@ -6,7 +6,6 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CI 171120
   - CSSTroubleshoot
@@ -17,7 +16,7 @@ appliesto:
   - Office 2021
   - Office 2019
 search.appverid: MET150
-ms.date: 1/20/2023
+ms.date: 01/20/2023
 ---
 
 # "Windows cannot access the specified device, path, or file" error when installing Microsoft 365 apps

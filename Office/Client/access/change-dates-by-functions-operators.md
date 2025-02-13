@@ -3,7 +3,6 @@ title: Change dates by using functions and operators
 description: Describes the functions and the operators that are available in Microsoft Access. You can use the functions and the operators to manipulate the Date/Time data type by using example queries.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 ms.custom: 
   - CI 111294
   - CSSTroubleshoot
@@ -16,7 +15,7 @@ appliesto:
   - Access 2007
   - Access 2003
   - Access 2002
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How to make a change to dates by using functions and operators in Access

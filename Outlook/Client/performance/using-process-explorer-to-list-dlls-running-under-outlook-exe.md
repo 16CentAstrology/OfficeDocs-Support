@@ -4,15 +4,16 @@ description: This article provides details on how you can use Process Explorer t
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Add-in error
+  - CSSTroubleshoot
 appliesto:
 - Outlook
 search.appverid: MET150
-ms.reviewer: aruiz, gregmans
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: aruiz, gregmans, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Using Process Explorer to list dlls running under the Outlook.exe process
 

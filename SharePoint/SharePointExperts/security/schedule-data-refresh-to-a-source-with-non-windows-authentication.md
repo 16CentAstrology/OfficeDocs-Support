@@ -5,17 +5,18 @@ author: helenclu
 ms.author: luche
 ms.reviewer: randring
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: sap:spsexperts, CSSTroubleshoot
+ms.custom: 
+  - sap:Authentication & User Profiles\Windows Authentication
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Server 2016
   - SharePoint Server 2013
   - SharePoint Server 2010
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Schedule data refresh to a data source with non-Windows Authentication

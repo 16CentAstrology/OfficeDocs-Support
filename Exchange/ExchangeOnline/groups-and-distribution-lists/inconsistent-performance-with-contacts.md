@@ -6,8 +6,8 @@ ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - Exchange Online
   - CSSTroubleshoot
 ms.reviewer: ninob
@@ -16,7 +16,7 @@ appliesto:
   - Outlook
 search.appverid: 
   - MET150
-ms.date: 3/3/2023
+ms.date: 01/24/2024
 ---
 # Inconsistent performance when working with contacts
 

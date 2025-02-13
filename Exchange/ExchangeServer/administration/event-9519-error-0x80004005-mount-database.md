@@ -1,16 +1,16 @@
 ---
 title: Event ID 9519 when you mount a database
 description: Describes a problem that triggers a 0x80004005 error when you try to mount a mailbox database or a public folder database, and provides resolutions.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:High Availability, Health, Performance, Content Indexing\Unable to Mount Database
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: mattrich
+ms.reviewer: mattrich, v-six
 search.appverid: 
   - MET150
 appliesto: 
@@ -20,7 +20,7 @@ appliesto:
   - Exchange Server 2013 Enterprise
   - Exchange Server 2010 Standard
   - Exchange Server 2010 Enterprise
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Event ID 9519 and error 0x80004005 when you try to mount a database in Exchange Server
 

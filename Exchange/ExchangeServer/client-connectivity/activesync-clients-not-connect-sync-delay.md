@@ -1,14 +1,14 @@
 ---
 title: ActiveSync clients can't connect
 description: Fixes an issue in which Exchange ActiveSync clients can't connect or they experience delays when synchronizing in an Exchange Server environment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.reviewer: balinger, christys, wsvexse, v-zht, v-lmengy, Bilong, paololin
+ms.reviewer: balinger, christys, wsvexse, v-zht, v-lmengy, Bilong, paololin, v-six
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with Active Sync Device
   - Exchange Server
   - CSSTroubleshoot
 search.appverid: 
@@ -16,7 +16,7 @@ search.appverid:
 appliesto: 
   - Exchange Server 2016
   - Exchange Server 2013
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # ActiveSync clients cannot connect or synchronizing is delayed in an Exchange Server environment
 

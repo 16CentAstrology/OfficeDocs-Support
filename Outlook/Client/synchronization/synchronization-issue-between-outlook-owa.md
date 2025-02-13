@@ -1,13 +1,13 @@
 ---
 title: Synchronization issues between Outlook and Outlook Web App
 description: Describes synchronization problems that occur in Outlook 2013 and Outlook 2010. The cause might be a corrupted OST file. Troubleshooting steps are provided.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Sending, Receiving, Synchronizing, or viewing email\Errors sending or receiving email
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: tasitae
@@ -15,7 +15,7 @@ appliesto:
   - Outlook 2013
   - Microsoft Outlook 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Synchronization issues between Outlook and Outlook Web App
 

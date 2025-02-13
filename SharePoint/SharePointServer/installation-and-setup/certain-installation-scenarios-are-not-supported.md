@@ -3,18 +3,18 @@ title: Certain Microsoft SharePoint Server 2013 installation scenarios are not s
 description: Describes SharePoint Server 2013 installation scenarios that are not supported.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
 ms.custom: 
+  - sap:Administration\Setup, Upgrade, Migration and Patching
   - CSSTroubleshoot
   - CI 164509
 appliesto: 
   - SharePoint Server 2013
-ms.date: 6/23/2022
+ms.date: 12/17/2023
 ---
 
 # Certain Microsoft SharePoint Server 2013 installation scenarios are not supported  

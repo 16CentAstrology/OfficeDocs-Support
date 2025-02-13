@@ -1,23 +1,23 @@
 ---
 title: You've exceeded the storage limit for your mailbox error
 description: Describes an issue in which user cannot sign in to Outlook on the in Exchange Server 2016 or 2013 when the mailbox size exceeds its quota.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with OWA
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: kekici, briant
+ms.reviewer: kekici, briant, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2013 Enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # You've exceeded the storage limit for your mailbox error when signing in to Outlook on the Web
 

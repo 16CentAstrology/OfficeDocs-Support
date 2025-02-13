@@ -1,13 +1,13 @@
 ---
 title: Unknown is shown in group name when expanding
 description: Provides a resolution for the issue that the text <unknown> is shown when you try to expand a contact group in Microsoft Outlook.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:People or Contacts\Resolving email addresses and ambiguous name resolution
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: tasitae, gbratton
@@ -18,7 +18,7 @@ appliesto:
   - Outlook 2010
   - Outlook for Microsoft 365
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # You can't expand a nested contact group and Unknown is displayed in the group name in Outlook
 

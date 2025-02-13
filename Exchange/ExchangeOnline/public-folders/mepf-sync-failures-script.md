@@ -1,17 +1,17 @@
 ---
 title: Troubleshooting mail enabled public folder synchronization failures when using PowerShell script
 description: This article describes two mail enabled public folder synchronization failures. Provides two resolutions.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - Exchange Online
   - CI 116762
   - CSSTroubleshoot
-ms.reviewer: batre
+ms.reviewer: batre, v-six
 appliesto: 
   - Exchange Online
   - Exchange Server 2019
@@ -19,7 +19,7 @@ appliesto:
   - Exchange Server 2013
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Troubleshooting mail enabled public folder synchronization failures when using PowerShell script
 

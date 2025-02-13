@@ -3,19 +3,20 @@ title: Unable to save a site as a template in SharePoint Online or SharePoint Se
 description: A site contains apps that don't work in templates when saving it as a template in SharePoint Online or SharePoint Server
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Sites\Site Template
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
   - SharePoint Server 2013
   - SharePoint Server 2016
   - SharePoint Server 2019
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "Sorry, something went wrong" error when you try to save a site as a template in SharePoint Online or SharePoint Server

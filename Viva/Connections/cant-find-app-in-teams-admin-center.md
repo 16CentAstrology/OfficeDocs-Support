@@ -1,24 +1,23 @@
 ---
-title: Can't find the Viva Connections app in the Teams admin center
+title: Cannot find the Viva Connections app in the Teams admin center
 description: Describes how to determine why the Viva Connections app can't be found in the Teams admin center and provide solutions.
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
 audience: ITPro 
 ms.topic: troubleshooting
-ms.service: viva
-ms.subservice: viva-connections
-localization_priority: Normal
+ms.service: viva-connections
 ms.custom: 
-- CI 169239
-- CSSTroubleshoot
+  - sap:Teams Admin Setup and Configuration
+  - CI 169239
+  - CSSTroubleshoot
 ms.reviewer: bpeterse
-ms.date: 11/07/2022
+ms.date: 06/06/2024
 search.appverid: 
 - MET150
 ---
 
-# You can't find the Viva Connections app in the Teams admin center
+# Can't find the Viva Connections app in the Teams admin center
 
 ## Symptoms
 
@@ -37,7 +36,7 @@ This issue may occur in the following situations:
 
 ## Resolution
 
-To fix this issue, follow these steps as a Global Admin:
+To fix this issue, Teams administrators should use the following steps:
 
 1. Open a new browser tab or window.
 1. Browse to the following URL:  

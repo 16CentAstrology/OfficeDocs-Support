@@ -1,21 +1,21 @@
 ---
 title: Mailbox move request created by New-MoveRequest cmdlet isn't showing in EAC in Exchange Server 2013
 description: Resolves an issue in which a mailbox move request that you created by using the New-MoveRequest cmdlet isn't displayed in EAC. This issue occurs when you create a mailbox move request in an Exchange Server 2013 environment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration\Issues with Move Mailbox within same organization
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: lukeds
+ms.reviewer: lukeds, v-six
 appliesto: 
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Mailbox move request that you created by using the New-MoveRequest cmdlet isn't displayed in EAC in an Exchange Server 2013 environment
 

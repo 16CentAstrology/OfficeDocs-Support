@@ -1,19 +1,19 @@
 ---
 title: Fix NDR error 5.7.133 in Exchange Online
-ms.date: 01/29/2023
-ms.author: v-six
-author: simonxjx
+ms.date: 01/24/2024
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
-ms.reviewer: 
+ms.reviewer: v-six
 audience: Admin
 ms.topic: troubleshooting
-ms.localizationpriority: medium
 f1.keywords:
 - CSH
 ms.custom: 
-- Exchange Online
-- CSSTroubleshoot
-- CI 167832
+  - sap:Mail Flow
+  - Exchange Online
+  - CSSTroubleshoot
+  - CI 167832
 search.appverid:
 - BCS160
 - MOE150

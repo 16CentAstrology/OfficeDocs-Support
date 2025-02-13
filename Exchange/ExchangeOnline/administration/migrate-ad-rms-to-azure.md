@@ -1,21 +1,21 @@
 ---
 title: How to migrate AD RMS to Azure RMS in Exchange Online
 description: Support has ended for a specific configuration for users who have Exchange Online mailboxes. This results in users unable to view or create messages protected by AD RMS.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 ms.reviwer: samschan
 audience: ITPro
 ms.topic: troubleshooting
 ms.custom: 
+  - sap:Administrator Tasks
   - Exchange Online
   - CSSTroubleshoot
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 appliesto: 
   - Exchange Online
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 
 # How to migrate AD RMS to Azure RMS in Exchange Online
@@ -122,7 +122,7 @@ Do the following:
 
 1. Configure Azure RMS in read-only mode by setting up an onboarding control policy that excludes all users.
 
-   This step involves creating an empty AAD group, and assigning it to the onboarding control policy by running the following PowerShell script:
+   This step involves creating an empty Microsoft Entra group, and assigning it to the onboarding control policy by running the following PowerShell script:
    ```
    Set-AipServiceOnboardingControlPolicy -UseRmsUserLicense $False -SecurityGroupObjectId "{Group’s GUID}"
    ```

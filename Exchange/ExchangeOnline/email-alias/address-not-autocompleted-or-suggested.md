@@ -1,13 +1,13 @@
 ---
 title: Autocomplete and suggestions don't work for internal recipients
 description: Fixes an issue in which a recipient's address isn't autocompleted or suggested for a user who has an address book policy assigned.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Recipients management
   - CI 162284
   - Exchange Online
   - CSSTroubleshoot
@@ -21,7 +21,7 @@ appliesto:
   - Outlook 2016
   - Outlook 2016 for Mac
 search.appverid: MET150
-ms.date: 4/21/2022
+ms.date: 01/24/2024
 ---
 # Internal recipient's address isn't autocompleted or suggested
 

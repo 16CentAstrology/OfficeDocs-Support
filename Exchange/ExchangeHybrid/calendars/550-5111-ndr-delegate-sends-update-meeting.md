@@ -4,15 +4,16 @@ description: Delegate receives an NDR when they send updates to a meeting invite
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Calendaring
+  - CSSTroubleshoot
 appliesto: 
 - Exchange Online
 search.appverid: MET150
-ms.reviewer: kellybos, v-maqiu, v-jeffbo
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: kellybos, v-jeffbo, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 # "550 5.1.11 RESOLVER.ADR.ExRecipNotFound" when delegate sends update to meeting after manager moved to Microsoft 365 hybrid environment
 
@@ -33,8 +34,8 @@ In this scenario, the delegate receives a non-delivery report that includes the 
 
 ## Cause
 
-The **legacyExchangeDN** attribute value of the invitee's cloud object is stored in the calendar item. If the Azure Active Directory Connect (AAD Connect) Exchange hybrid deployment settings are not enabled, the **legacyExchangeDN** attribute values in the cloud are not written back to the on-premises.
+The **legacyExchangeDN** attribute value of the invitee's cloud object is stored in the calendar item. If the Microsoft Entra Connect (Microsoft Entra Connect) Exchange hybrid deployment settings aren't enabled, the **legacyExchangeDN** attribute values in the cloud aren't written back to the on-premises.
 
 ## Resolution
 
-To resolve this issue, enable the Exchange hybrid deployment settings in AAD Connect. For more information, see [Exchange hybrid writeback](/azure/active-directory/connect/active-directory-aadconnectsync-attributes-synchronized#exchange-hybrid-writeback).
+To resolve this issue, enable the Exchange hybrid deployment settings in Microsoft Entra Connect. For more information, see [Exchange hybrid writeback](/azure/active-directory/connect/active-directory-aadconnectsync-attributes-synchronized#exchange-hybrid-writeback).

@@ -3,16 +3,17 @@ title: Error when you try to update, remove, or add a Send To connection in Shar
 description: Describes an issue when you try to update, remove, or add a Send To connection in SharePoint Online in Microsoft 365.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:SharePoint Admin Center\Other
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "Sorry, something went wrong" error when you try to update, remove, or add a Send To connection

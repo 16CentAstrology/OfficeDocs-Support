@@ -3,11 +3,11 @@ title: Access linked table to SQL Server database returns Deleted
 description: Describes an issue in which an Access linked table that's connected to a SQL Server database returns.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
@@ -16,7 +16,7 @@ appliesto:
   - Access 2019
   - Access 2016
   - Access 2013
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Access linked table to SQL Server database returns "#Deleted"

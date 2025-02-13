@@ -1,21 +1,21 @@
 ---
 title: Can't export to PST with EAC when the target user belongs to a child domain
 description: Describes an error when you export a .pst file through the Exchange Admin Center. This is a child domain issue. A workaround is provided.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:OWA  And Exchange Admin Center\Need help in configuring EAC
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: 
+ms.reviewer: v-six
 appliesto: 
   - Exchange Server 2013 Standard Edition
   - Exchange Server 2013 Enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Can't use EAC to export to a PST file when the target user belongs to a child domain in Exchange Server 2013
 

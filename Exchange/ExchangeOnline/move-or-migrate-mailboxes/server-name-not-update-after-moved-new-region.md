@@ -1,20 +1,20 @@
 ---
 title: Server name doesn't update after moved to a new region
 description: After a mailbox is moved to a new region, the server name doesn't update when you view the mailbox properties. This is by design.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: kerbo
+ms.reviewer: kerbo, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Server name doesn't update after a mailbox is moved to a new region in Microsoft 365
 

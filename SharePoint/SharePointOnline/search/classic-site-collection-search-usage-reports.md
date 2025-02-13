@@ -4,10 +4,10 @@ description: This article provides information about usage and popularity report
 author: helenclu
 ms.author: luche
 ms.custom: 
+  - sap:Search\Site Usage Analytics
   - CI 109958
   - CSSTroubleshoot
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
@@ -15,7 +15,7 @@ ms.topic: troubleshooting
 ms.reviewer: wbaer
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Classic site collection search usage reports

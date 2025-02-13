@@ -3,16 +3,16 @@ title: .NET update causes SharePoint provider-hosted add-in running on Azure to 
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 2/18/2020
+ms.date: 12/17/2023
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - SharePoint Online
 ms.custom: 
+  - sap:Sites\Other
   - CI 113694
   - CSSTroubleshoot
 ms.reviewer: lucaband

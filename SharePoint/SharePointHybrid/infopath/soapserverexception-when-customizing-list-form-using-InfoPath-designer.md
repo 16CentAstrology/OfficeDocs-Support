@@ -3,16 +3,17 @@ title: SoapServerException error when customizing list form (SPO and SP-onprem) 
 description: Describes how to add a button to a Word document and assign its Click event at run-time
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Lists and Libraries\List Designs
+  - CSSTroubleshoot
 appliesto: 
   - Microsoft InfoPath 2013
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # SoapServerException error when customizing list form (SPO and SP-onprem) using InfoPath designer

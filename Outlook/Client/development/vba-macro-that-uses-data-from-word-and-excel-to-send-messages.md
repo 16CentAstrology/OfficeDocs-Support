@@ -4,15 +4,16 @@ description: This article describes a Visual Basic for Applications macro that u
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Developer Issues\Macros
+  - CSSTroubleshoot
 appliesto:
 - Outlook
 search.appverid: MET150
-ms.reviewer: 
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # VBA macro that uses data from a Word document and an Excel workbook to send messages from Outlook
 

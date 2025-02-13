@@ -4,7 +4,6 @@ description: Explains why .XSN forms created in InfoPath Designer 2013 do not ma
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
   - SPO160
@@ -16,7 +15,7 @@ ms.reviewer: doug.mahugh
 ms.topic: troubleshooting
 appliesto: 
   - Microsoft InfoPath 2013
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Generated .PDB file name does not match InfoPath form name
 

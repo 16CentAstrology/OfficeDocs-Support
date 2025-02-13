@@ -1,13 +1,13 @@
 ---
 title: The connection to your mail server timed out error in Outlook for iOS or Outlook for Android
 description: You get the error The connection to your mail server timed out when you use Outlook for iOS or Outlook for Android to sign in to Exchange Server.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with Active Sync Device
   - CI 146711
   - CI 147050
   - Exchange Server
@@ -19,7 +19,7 @@ appliesto:
   - Exchange Server 2013
   - Exchange Server 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 
 # "The connection to your mail server timed out" error in Outlook for iOS or Outlook for Android

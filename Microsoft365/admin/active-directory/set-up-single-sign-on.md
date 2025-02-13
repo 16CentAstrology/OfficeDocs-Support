@@ -3,20 +3,20 @@ title: Supported scenarios to set up single sign-on in Microsoft 365, Azure, or 
 description: Provides an overview of various AD FS implementation scenarios for single sign-on (SSO) in Microsoft 365, Azure, or Microsoft Intune.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Cloud Services (Web roles/Worker roles)
   - Azure Active Directory
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Supported scenarios for using AD FS to set up single sign-on in Microsoft 365, Azure, or Intune
@@ -83,7 +83,7 @@ Outlook rich clients cannot connect to Exchange Online resources. For more infor
 
 #### Support assumptions 
 
-It's assumed that the customer acknowledges by implementation that this setup doesn't provide the fully advertised suite of services that are supported by Azure Active Directory (Azure AD). Under these circumstances, this scenario is supported by Microsoft Support. 
+It's assumed that the customer acknowledges by implementation that this setup doesn't provide the fully advertised suite of services that are supported by Microsoft Entra ID. Under these circumstances, this scenario is supported by Microsoft Support. 
 
 ### Scenario 4: VPN-published AD FS
 
@@ -99,14 +99,16 @@ Outlook rich clients (including ActiveSync clients) can't connect to Exchange On
 
 [2466333](https://support.microsoft.com/help/2466333) Federated users can't connect to an Exchange Online mailboxSupport assumptions
 
-It's assumed that the customer acknowledges by implementation that this setup doesn't provide the fully advertised suite of services that are supported by identity federation in Azure AD. 
+It's assumed that the customer acknowledges by implementation that this setup doesn't provide the fully advertised suite of services that are supported by identity federation in Microsoft Entra ID. 
 
 It's assumed the VPN is implemented correctly and is functional. For this scenario to be supported by Microsoft Support, the following conditions must be true: 
 
 - The client can connect to the AD FS system by DNS name through HTTPS (port 443).    
-- The client can connect to the Azure AD federation endpoint by DNS name by using appropriate ports/protocols.    
+- The client can connect to the Microsoft Entra federation endpoint by DNS name by using appropriate ports/protocols.    
 
-### High-availability AD FS and Azure AD identity federation
+<a name='high-availability-ad-fs-and-azure-ad-identity-federation'></a>
+
+### High-availability AD FS and Microsoft Entra identity federation
 
 Each scenario can be varied by using a stand-alone AD FS Federation server instead of a server farm. However, it's always a Microsoft best-practice recommendation that all critical infrastructure services be implemented by using high-availability technology to avoid loss of access. 
 
@@ -116,4 +118,4 @@ On-premises AD FS availability directly affects Microsoft cloud service availabi
 
 ## References 
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.

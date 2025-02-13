@@ -1,22 +1,23 @@
 ---
-title: Rebuild an Microsoft Office Web Apps server farm easily
+title: Rebuild a Microsoft Office Web Apps server farm easily
 description: Describes how to rebuild Microsoft Office Web Apps server farm.
 author: helenclu
 ms.author: luche
 ms.reviwer: brbering
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: sap:office-experts, CSSTroubleshoot
+ms.custom: 
+  - sap:office-experts
+  - CSSTroubleshoot
 appliesto: 
   - Office Web Apps
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
-# Rebuild an Microsoft Office Web Apps server farm easily
+# Rebuild a Microsoft Office Web Apps server farm easily
 
 This article was written by [Tom Schauer](https://social.technet.microsoft.com/profile/Tom+Schauer+-+MSFT), Technical Specialist.
 
@@ -27,7 +28,7 @@ You can rebuild Microsoft Office Web Apps server farm with a few easy steps. To 
 >- These steps can be used for fixing technical issues with Office Web Apps.
 
 1. Take the Microsoft Office Web Apps server farm offline if there is a load balancer.
-1. Collect the current farm information through PowerShell by using the following command on an Microsoft Office Web Apps (WAC) Server(s):
+1. Collect the current farm information through PowerShell by using the following command on a Microsoft Office Web Apps (WAC) Server(s):
 
    ```powershell
    Get-OfficeWebAppsFarm > c:\MyWACfarm.txt

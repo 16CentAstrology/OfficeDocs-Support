@@ -1,22 +1,22 @@
 ---
 title: Public folder mailbox not found in a multi-geo environment
 description: Discusses how to resolve public folder mailbox errors when you try to manage public folder mailboxes in a multi-geo environment.
-author: v-trisshores
-ms.author: v-trisshores
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Groups, Lists, Contacts, Public Folders
   - Exchange Online
   - CSSTroubleshoot
   - CI 166461
-ms.reviewer: haembab, batre, meerak
+ms.reviewer: haembab, batre, meerak, v-trisshores
 appliesto: 
   - Exchange Online
 search.appverid: 
   - MET150
-ms.date: 11/03/2022
+ms.date: 01/24/2024
 ---
 
 # Public folder mailbox not found in a multi-geo environment

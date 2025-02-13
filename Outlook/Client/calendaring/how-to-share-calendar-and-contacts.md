@@ -1,14 +1,14 @@
 ---
 title: Share calendar and contacts in Microsoft 365
 description: Learn how to share calendar and contacts in Microsoft 365.
-ms.date: 08/13/2020
-author: helenclu
-ms.author: luche
+ms.date: 01/30/2024
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Calendar\Sharing calendars
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: 

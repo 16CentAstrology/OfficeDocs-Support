@@ -1,19 +1,19 @@
 ---
 title: Errors when trying to manage dial plans
 description: Describes errors that occur if you try to manage dial plans by using an unlicensed account.
-ms.date: 4/30/2021
-author: meerak
+ms.date: 10/30/2023
+author: Cloud-Writer
 ms.author: luche
 manager: dcscontentpm
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
 ms.custom: 
+  - sap:Teams Calling (PSTN)
   - CI 148559
   - CSSTroubleshoot
 ms.reviewer: Shea Caperoon

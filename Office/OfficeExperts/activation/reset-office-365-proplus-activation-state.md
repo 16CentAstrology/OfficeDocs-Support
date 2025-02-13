@@ -4,20 +4,21 @@ description: Four locations must be cleared to reset the activation or install t
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.custom: 
-- sap:office-experts
-- CSSTroubleshoot
-- CI 114181
-- CI 115742
-- CI 162124
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - Activation\Errors\Error Codes
+  - sap:office-experts
+  - CSSTroubleshoot
+  - CI 114181
+  - CI 115742
+  - CI 162124
 ms.reviewer: mattphil
 appliesto: 
   - Microsoft 365 Apps for enterprise
-ms.date: 5/10/2022
+ms.date: 02/11/2025
 ---
 
 # Reset activation state for Microsoft 365 Apps for enterprise
@@ -33,25 +34,39 @@ You might need to perform tasks such as the following for your organization:
 To complete these tasks, you need to clear prior activations of Microsoft 365 apps for enterprise to remove their related licenses and cached Office account information. This removal will reset the applications to a clean state. You can then activate them with a different Office account or change to a different license mode. To reset the activation state, close all Office applications and use one of the following methods.
 
 > [!NOTE]
-> - The steps below apply to Microsoft Project and Microsoft Visio also.
+>
+> - The steps also apply to Microsoft Project and Microsoft Visio.
 > - The steps and scripts in this article apply to Windows installations of Office apps. For Office for Mac installations, see [How to remove Office license files on a Mac](https://support.microsoft.com/office/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
 
-## Method: Use Microsoft Support and Recovery Assistant
+## Method: Use the Enterprise version of Microsoft Support and Recovery Assistant
 
-The Assistant fully automates all the steps required to reset Office activation, and is available in two versions. Use the version that's appropriate for your requirement.
+The [Enterprise version of the Assistant](https://aka.ms/SaRA_EnterpriseVersion) is a command-line version that can be scripted and is recommended to reset Office activation on multiple devices and on devices that you can't access immediately.
 
-- **The Enterprise (command-line) version of the Assistant**<br/>
-  The [Enterprise version of the Assistant](https://aka.ms/SaRA_EnterpriseVersion) is a command-line version that can be scripted and is recommended to reset Office activation on multiple devices and on devices that you can't access immediately.
-  > [!div class="nextstepaction"]
-  > [Download Enterprise version](https://aka.ms/SaRA_EnterpriseVersionFiles)
-- **UI version**<br/>
-  The [UI version of the Assistant](https://aka.ms/SaRA_Home) is recommended if you need to reset Office activation on a single device, or on a small number of individual devices. 
-  > [!div class="nextstepaction"]
-  > [Download UI version](https://aka.ms/SaRA-OfficeActivation-Reset)
+> [!div class="nextstepaction"]
+> [Download th Enterprise version](https://aka.ms/SaRA_EnterpriseVersionFiles)
+
+## Method: Run the Microsoft 365 activation troubleshooter in Get Help
+
+The [Microsoft 365 activation troubleshooter](https://aka.ms/SaRA-OfficeActivation-sarahome) helps you to resolve Microsoft 365 subscription activation issues.
+
+> [!NOTE]
+> To run the Microsoft 365 activation troubleshooter, make sure that you're using the same Windows device that Microsoft 365 is installed on. Additionally, make sure that your device is running Windows 10 or a later version.
+
+To run the troubleshooter, follow these steps:
+
+1. Select the following button to start the troubleshooter.
+
+   > [!div class="nextstepaction"]
+   > [Microsoft 365 activation troubleshooter](https://aka.ms/SaRA-OfficeActivation-sarahome)
+
+   If you receive a pop-up window that displays "This site is trying to open Get Help.", select **Open**.
+1. Follow the instructions in the Get Help app to run the troubleshooter.
+
+After the troubleshooter finishes, it displays the results and provides additional information about how to resolve the issue.
 
 <h2 id="method2">Method: Use scripts to automate the cleanup process</h2>
 
-Run the following scripts that automate each section of the process. We recommend that you run the **OLicenseCleanup.vbs** and **signoutofwamaccounts.ps1** scripts listed below, while **WPJCleanUp.cmd** is required only if your device is Workplace Joined. For details about the specific steps that each script automates, select the associated **Details** link. Use the “Select if using automated scripts” link to navigate back to this method.
+Run the following scripts that automate each section of the process. We recommend that you run the **OLicenseCleanup.vbs** and **signoutofwamaccounts.ps1** scripts listed below, while **WPJCleanUp.cmd** is required only if your device is Workplace Joined. For details about the specific steps that each script automates, select the associated **Details** link. Use the "Select if using automated scripts" link to navigate back to this method.
 
 1. To remove previous licenses and cached account information: download the [OLicenseCleanup.zip](https://download.microsoft.com/download/e/1/b/e1bbdc16-fad4-4aa2-a309-2ba3cae8d424/OLicenseCleanup.zip) file, extract the **OLicenseCleanup.vbs** script, and run it using elevated permissions. <a href="#sectiona">Details</a>
 1. To clear the WAM accounts on the device that are associated with Office: download the [signoutofwamaccounts.zip](https://download.microsoft.com/download/f/8/7/f8745d3b-49ad-4eac-b49a-2fa60b929e7d/signoutofwamaccounts.zip) file, extract, and run the **signoutofwamaccounts.ps1** script with elevated permissions.
@@ -111,7 +126,7 @@ Check for and remove existing licenses on the device. Make sure to check all the
         - For example:
                 `cscript ospp.vbs /unpkey:2WC00`
 
-    - You should see the message “Product key uninstall successful” when the license is removed.
+    - You should see the message "Product key uninstall successful" when the license is removed.
         :::image type="content" source="media/reset-office-365-proplus-activation-state/capture3.png" alt-text="Output shows Uninstalling product key for Office 16, and the message Product key uninstall successful":::
 
 1. Repeat the `cscript ospp.vbs /unpkey` command as needed to remove the licenses for the applications listed in the output from step 3.
@@ -130,7 +145,7 @@ Delete the following registry entry:
 
 - `HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity`
 
-If you have Shared Computer Activation enabled, remove the Identity registry key location from the `HKEY_USERS\<The user SID>\Software\Microsoft\Office\16.0\Common`registry key. To get the currently signed in user’s SID, run the command `whoami /user` in a non-elevated command prompt.
+If you have Shared Computer Activation enabled, remove the Identity registry key location from the `HKEY_USERS\<The user SID>\Software\Microsoft\Office\16.0\Common`registry key. To get the currently signed in user's SID, run the command `whoami /user` in a non-elevated command prompt.
 
 </details>
 
@@ -157,7 +172,7 @@ If you have Shared Computer Activation enabled, remove the Identity registry key
 <details>
 <summary><b>Section B: Clear cached Office credentials for managed devices</b></summary>
 
-For managed devices, there are additional locations from which you need to remove cached Office credentials. Devices are considered managed if they're Azure AD Joined (AADJ), Hybrid Azure AD Joined (HAADJ), or Workplace Joined (WPJ). These configurations use Web Account Management (WAM), which stores credentials in different locations.
+For managed devices, there are additional locations from which you need to remove cached Office credentials. Devices are considered managed if they're Microsoft Entra joined (AADJ), Microsoft Entra hybrid joined (HAADJ), or Workplace Joined (WPJ). These configurations use Web Account Management (WAM), which stores credentials in different locations.
 
 There are no steps that you can run manually to clear WAM accounts associated with Office on the device for AADJ and HAADJ devices.
 
@@ -173,7 +188,7 @@ In the output that displays, check the values for the **AzureAdJoined**, **Enter
 
 | AzureAdJoined | EnterpriseJoined | DomainJoined | Device state |
 | ---------------- | ---------------- | ---------------- | ---------------- |
-| YES | NO | NO | Azure AD Joined (AADJ) |
+| YES | NO | NO | Microsoft Entra joined (AADJ) |
 | NO | NO | YES | Domain Joined (DJ) |
 | YES | NO | YES | Hybrid AD Joined (HAADJ) |
 
@@ -191,7 +206,7 @@ When you clear a WPJ account on a device, the Single Sign-On (SSO) behavior for 
 
 Check whether your device is Workplace Joined if you're not sure. Run the `dsregcmd /status` command from an elevated command prompt as described in <a href="#sectionb">Section B</a>, above.
 
-The state of Workplace Joined (WPJ) (Azure AD registered) devices is displayed in the **User State** section of the output. If the value displayed for the WorkplaceJoined parameter is **YES**, it indicates that your device is Workplace Joined.
+The state of Workplace Joined (WPJ) (Microsoft Entra registered) devices is displayed in the **User State** section of the output. If the value displayed for the WorkplaceJoined parameter is **YES**, it indicates that your device is Workplace Joined.
 
 To clear WPJ accounts:
 
@@ -207,10 +222,10 @@ To clear WPJ accounts:
 - [Account or subscription verification errors activating Microsoft 365 Apps](../../Client/activation/account-or-subscription-errors.md)
 - [Sign in issues when activating Microsoft 365 Apps](../../Client/activation/sign-in-issues.md)
 - [Microsoft 365 Apps activation network connection issues](../../Client/activation/network-connection-issues.md)
-- [Microsoft 365 Apps activation error: “Your organization has disabled this device”](../../Client/activation/your-organization-disabled-this-device.md)
-- [Microsoft 365 Apps activation error “There’s a problem with your account”](../../Client/activation/problem-with-your-account.md)
+- [Microsoft 365 Apps activation error: "Your organization has disabled this device"](../../Client/activation/your-organization-disabled-this-device.md)
+- [Microsoft 365 Apps activation error "There's a problem with your account"](../../Client/activation/problem-with-your-account.md)
 - ["We are unable to connect right now" error when users try to activate Microsoft 365 Apps for enterprise](../../Client/activation/issue-when-activate-office-365-proplus.md)
 - [Troubleshoot issues with shared computer activation for Microsoft 365 Apps](../../Client/activation/shared-computer-activation.md)
 - [Device identity and desktop virtualization](/azure/active-directory/devices/howto-device-identity-virtual-desktop-infrastructure#microsofts-guidance)
-- [What is device identity in Azure Active Directory (AD)?](/azure/active-directory/devices/overview)
+- [What is device identity in Microsoft Entra ID?](/azure/active-directory/devices/overview)
 - [OneDrive for Business can't sync after tenant migration](/sharepoint/troubleshoot/sync/cant-sync-after-migration)

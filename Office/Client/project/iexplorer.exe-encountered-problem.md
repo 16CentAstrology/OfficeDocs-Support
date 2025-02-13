@@ -6,14 +6,14 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: v-dahedm
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft Project
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Iexplorer.exe has encountered a problem and needs to close" error when you try to view a timesheet in Project Web Access

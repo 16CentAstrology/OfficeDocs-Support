@@ -7,15 +7,16 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - Activation\Licensing Office using Device Based Subscriptions (and DBA)
   - CSSTroubleshoot
   - CI 157764
 search.appverid: 
   - MET150
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Troubleshooting device-based licensing for Microsoft 365 Apps
@@ -36,7 +37,7 @@ In those cases, the user will also see a banner beneath the ribbon in the docume
 
 > LICENSE REQUIRED Your admin needs to assign an Office license to this device so you can edit your files.
 
-To troubleshoot this issue, make sure the device is correctly joined to Azure AD and that the device is added to the group that has been assigned the licenses. Also, there can be a delay of approximately one hour after you add the device to the group, so that might be causing this message to appear. Close the app and open the app again later.
+To troubleshoot this issue, make sure the device is correctly joined to Microsoft Entra ID and that the device is added to the group that has been assigned the licenses. Also, there can be a delay of approximately one hour after you add the device to the group, so that might be causing this message to appear. Close the app and open the app again later.
 
 In other cases, the user might see this message:
 
@@ -46,7 +47,7 @@ In this case, the device is having problems contacting the Office Licensing Serv
 
 ## Transition from subscription licensing or shared computer activation to device-based licensing
 
-If Microsoft 365 Apps are already installed and activated with user-based subscription licensing or shared computer activation, you will need to reset the license state on the device before it will transition over to device-based licensing. To reset the activation state, see [Reset Microsoft 365 Apps for enterprise activation state](/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
+If Microsoft 365 Apps are already installed and activated with user-based subscription licensing or shared computer activation, you need to reset the license state on the device before it will transition over to device-based licensing. To reset the activation state, see [Reset activation state for Microsoft 365 Apps for enterprise](/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Make sure the device has access to the internet or that your firewall isn't preventing access to the Office licensing service. For more information about firewall settings, see [Microsoft 365 URLs and IP address ranges](/microsoft-365/enterprise/urls-and-ip-address-ranges).
 
@@ -64,8 +65,10 @@ Device-based licensing can be used with RDS. However, you must have enough licen
 
 If you want the activation process to be invisible to the RDS user, you can create a script to open a Microsoft 365 App, such as Word or Excel, when the device is started. This will acquire the device-based license.
 
-## Make sure the device is joined to Azure Active Directory (Azure AD)
+<a name='make-sure-the-device-is-joined-to-azure-active-directory-azure-ad'></a>
 
-Sign in to the [Microsoft Azure portal](https://portal.azure.com/) and go to **Azure Active Directory** > **Devices**. The type of join for your Windows client device is listed in the **Join Type** column.
+## Make sure the device is joined to Microsoft Entra ID
 
-If the Windows client device doesn't appear, sign in to the Windows client device. Then go to **Settings** > **Accounts** > **Access work or school**, choose **Connect**, and follow the steps to join the device to either Azure Active Directory or to a local Active Directory domain.
+Sign in to the [Microsoft Azure portal](https://portal.azure.com/) and go to **Microsoft Entra ID** > **Devices**. The type of join for your Windows client device is listed in the **Join Type** column.
+
+If the Windows client device doesn't appear, sign in to the Windows client device. Then go to **Settings** > **Accounts** > **Access work or school**, choose **Connect**, and follow the steps to join the device to either Microsoft Entra ID or to a local Active Directory domain.

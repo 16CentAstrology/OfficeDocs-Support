@@ -4,18 +4,19 @@ description: Describes an issue in which you can't use your Microsoft 365 federa
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Hybrid
+  - CSSTroubleshoot
 appliesto:
 - Exchange Online
 - Exchange
 - Outlook
 - Azure Active Directory
 search.appverid: MET150
-ms.reviewer: willfid
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: willfid, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 # Federated users can't connect to an Exchange Online mailbox
 

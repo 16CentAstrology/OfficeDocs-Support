@@ -1,21 +1,21 @@
 ---
-title: Cannot set folder security descriptor with non-canonical ACL error when you move a mailbox in Exchange Server 2013
-description: Resolves an issue in which you receive a (Cannot set folder security descriptor with non-canonical ACL) error message. This issue occurs when you try to move mailboxes in an Exchange Server 2013 environment.
-author: simonxjx
-ms.author: v-six
+title: Cannot set folder security descriptor with noncanonical ACL error when you move a mailbox in Exchange Server 2013
+description: Resolves an issue in which you receive a (Can't set folder security descriptor with noncanonical ACL) error message. This issue occurs when you try to move mailboxes in an Exchange Server 2013 environment.
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration\Issues with Move Mailbox within same organization
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: batre
+ms.reviewer: batre, v-six
 appliesto: 
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Error when you move a mailbox in an Exchange Server 2013 environment: Cannot set folder security descriptor with non-canonical ACL
 

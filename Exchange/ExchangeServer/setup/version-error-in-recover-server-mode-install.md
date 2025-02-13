@@ -1,14 +1,14 @@
 ---
 title: Version error when you install Exchange Server in RecoverServer mode
 description: Provides a resolution for a version error that you encounter when you install Exchange Server in RecoverServer mode.
-author: v-trisshores
-ms.author: v-trisshores
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.reviewer: batre, ninob, meerak
-ms.custom:
+ms.reviewer: batre, ninob, meerak, v-trisshores
+ms.custom: 
+  - sap:Plan and Deploy\Exchange Install Issues, Cumulative or Security updates
   - CI 171721
   - Exchange Server
   - CSSTroubleshoot
@@ -17,7 +17,7 @@ search.appverid:
 appliesto:
   - Exchange Server 2019
   - Exchange Server 2016
-ms.date: 01/23/2022
+ms.date: 01/24/2024
 ---
 
 # Version error when you install Exchange Server in RecoverServer mode

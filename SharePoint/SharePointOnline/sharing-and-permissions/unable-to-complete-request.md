@@ -3,16 +3,17 @@ title: Error after you accept an invite to a SharePoint
 description: This article introduces that using relative URLs for content types across site collections is not supported.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Sharing\Errors
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # "We're unable to complete your request" after you accept an invite to a SharePoint Online resource

@@ -3,16 +3,16 @@ title: Post-processing of SharePoint files can take up to 24 hours
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-ms.date: 11/20/2020
+ms.date: 12/17/2023
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - SharePoint Online
 ms.custom: 
+  - sap:Files and Documents\Upload
   - CI 125085
   - CSSTroubleshoot
 ms.reviewer: shahna

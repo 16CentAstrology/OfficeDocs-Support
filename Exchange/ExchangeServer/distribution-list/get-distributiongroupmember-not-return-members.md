@@ -1,13 +1,13 @@
 ---
 title: The Get-DistributionGroupMember command does not return all the members of distribution group if there are multiple Active Directory domains in your topology environment
 description: Resolves an issue that the Get-DistributionGroupMember command does not return all the members of distribution group if there are multiple Active Directory domains in your topology environment.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Recipients\Create and Manage Recipients (Mailbox, DG, Room, equipment etc.)
   - Exchange Server
   - CSSTroubleshoot
 appliesto: 
@@ -15,8 +15,8 @@ appliesto:
   - Exchange Server 2016
   - Exchange Server 2013
   - Exchange Server 2010
-ms.reviewer: 
-ms.date: 3/31/2022
+ms.reviewer: v-six
+ms.date: 01/24/2024
 ---
 # The Get-DistributionGroupMember command does not return all the members of distribution group if there are multiple Active Directory domains in your topology environment
 

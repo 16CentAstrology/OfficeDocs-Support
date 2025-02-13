@@ -4,15 +4,16 @@ description: Describes an issue in which time zone settings are incorrect or mis
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administrator Tasks
+  - CSSTroubleshoot
 appliesto: 
 - Exchange Online
 search.appverid: MET150
-ms.reviewer: 
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 
 # Time zone settings are incorrect or missing for multiple mailboxes in Microsoft 365

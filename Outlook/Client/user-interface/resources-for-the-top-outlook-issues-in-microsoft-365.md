@@ -1,13 +1,13 @@
 ---
 title: Resources for the top Outlook issues
 description: Lists resources that were created to help out in areas that customers use most frequently or that generate the most questions.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Product Stability, startup or Shutdown and perform\Other
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: gregmans, aruiz
@@ -17,7 +17,7 @@ appliesto:
   - Microsoft Office Outlook 2007
   - Microsoft Office Outlook 2003
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Resources for the top Outlook issues in Microsoft 365
 
@@ -36,7 +36,7 @@ You will find resources on the following topics:
 
 The following resources can be used to help you configure Outlook to connect with your Microsoft 365 mailbox and to help resolve problems when you cannot connect to your mailbox:
 
-- [Connect email accounts in Outlook on the web (Microsoft 365)](http://help.outlook.com/140/ms.exch.ecp.useoutlookanywhere.aspx)
+- [Connect email accounts in Outlook on the web (Microsoft 365)](https://help.outlook.com/140/ms.exch.ecp.useoutlookanywhere.aspx)
 - [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox in Microsoft 365](/exchange/troubleshoot/outlook-issues/cannot-set-up-profile-autodiscover)
 
 ## How to use Outlook features

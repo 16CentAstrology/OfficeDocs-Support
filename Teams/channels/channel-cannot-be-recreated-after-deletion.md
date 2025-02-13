@@ -2,17 +2,17 @@
 title: Teams channel can't be recreated after it's deleted
 ms.author: luche
 author: helenclu
-ms.date: 4/9/2020
+ms.date: 10/30/2023
 audience: ITPro
 ms.topic: troubleshooting
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
 ms.custom: 
+  - sap:Teams and Channels\Managing Channels
   - CI 113425
   - CSSTroubleshoot
 ms.reviewer: scapero

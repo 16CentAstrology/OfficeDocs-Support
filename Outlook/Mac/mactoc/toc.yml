@@ -33,6 +33,10 @@
           href: /outlook/troubleshoot/calendaring/configure-room-finder-rooms-workspaces?context=/outlook/troubleshoot/context/mac-context
         - name: Create and book a workspace in Outlook
           href: /exchange/troubleshoot/outlook-issues/create-book-workspace-outlook?context=/outlook/troubleshoot/context/mac-context
+        - name: Meetings incorrectly display the UTC time zone
+          href: ../calendars/meetings-incorrectly-display-utc-timezone.md
+        - name: No meeting reminders for delegates
+          href: ../calendars/no-meeting-reminders-for-delegates.md
         - name: Shared calendar in delegate's Online Archive
           href: /exchange/troubleshoot/calendars/shared-calendar-in-delegate-online-archive?context=/outlook/troubleshoot/context/mac-context
         - name: Shared calendar shows private event details 
@@ -43,6 +47,8 @@
           href: ../calendars/cannot-open-another-calendar-with-freebusy-permission.md
     - name: Connectivity
       items:
+        - name: Add Exchange Server mailboxes in the new Outlook for Mac
+          href: ../connectivity/add-exchange-server-mailboxes-in-outlook.md
         - name: How to suppress Microsoft 365 AutoDiscover redirect warning
           href: ../connectivity/how-to-suppress-microsoft-365-autodiscover-redirect-warning.md
         - name: Outlook 2016 for Mac crashes when a Proxy Auto Configuration file is used

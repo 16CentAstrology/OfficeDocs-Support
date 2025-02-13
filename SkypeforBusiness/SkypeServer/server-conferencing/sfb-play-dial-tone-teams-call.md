@@ -6,7 +6,6 @@ ms.author: v-six
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CI 115787, CI 125216
   - CSSTroubleshoot
@@ -16,7 +15,7 @@ appliesto:
   - Teams
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Skype for Business plays a dial tone during a Teams call
 

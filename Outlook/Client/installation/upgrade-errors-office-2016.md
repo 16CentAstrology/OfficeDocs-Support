@@ -1,21 +1,21 @@
 ---
 title: Upgrading to Office 2016 fails
 description: Provides a solution to an issue where upgrading to Office 2016 fails.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: gbratton, tasitae
 ms.custom: 
+  - sap:Install, Update, Activate, and Deploy\Update
   - Outlook for Windows
   - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
   - Outlook 2016
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Errors when you upgrade to Office 2016
 

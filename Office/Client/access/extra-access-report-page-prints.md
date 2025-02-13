@@ -3,16 +3,16 @@ title: Extra Access report page prints
 description: Printing report results in extra page when Group Footer Force New Page property set to After Section.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Access 2010
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # ACCESS 2010: Extra report page prints when Group Footer set to After Section

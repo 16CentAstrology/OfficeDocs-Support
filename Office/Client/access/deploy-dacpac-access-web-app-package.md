@@ -3,16 +3,16 @@ title: Could not deploy package error when you deploy DACPAC files
 description: Describes how to troubleshoot errors such as Could not deploy package when you deploy DACPAC files from Access web app package.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - Access
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # "Could not deploy package" or "Script execution error" when you deploy DACPAC files from Access web app package

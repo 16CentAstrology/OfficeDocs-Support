@@ -1,13 +1,13 @@
 ---
 title: Emails not show in Cached mode Inbox after synchronized
 description: E-mail messages don't appear in Cached mode Inbox after synchronization. Resolution for problem provided.
-author: helenclu
-ms.author: luche
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Exchange Mailbox Accounts\Cached mode synchronization
   - Outlook for Windows
   - CSSTroubleshoot
 ms.reviewer: 
@@ -16,7 +16,7 @@ appliesto:
   - Microsoft Outlook 2010
   - Microsoft Office Outlook 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/30/2024
 ---
 # Sometimes emails do not appear in Cached mode Inbox even if they were synchronized down from mailbox
 

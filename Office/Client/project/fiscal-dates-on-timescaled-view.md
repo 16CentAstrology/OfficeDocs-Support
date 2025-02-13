@@ -6,7 +6,6 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: v-abrudv, adrianje
 ms.custom: 
   - CI 112121
@@ -16,7 +15,7 @@ search.appverid:
 appliesto: 
   - Project Standard 2010
   - Project Professional 2010
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 

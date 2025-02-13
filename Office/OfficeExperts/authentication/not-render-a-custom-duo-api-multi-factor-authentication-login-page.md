@@ -5,15 +5,17 @@ author: helenclu
 ms.author: luche
 ms.reviewer: warrenr
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: sap:office-experts, CSSTroubleshoot
+ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Performance, Usability & Features
+  - Activation\SignIn\Password Prompts
+  - CSSTroubleshoot
 appliesto: 
   - Microsoft Office
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # Office doesn't render a custom DUO API multifactor authentication login page

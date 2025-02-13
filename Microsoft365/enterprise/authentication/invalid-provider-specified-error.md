@@ -3,11 +3,11 @@ title: Unable to use an Office 2016 application to access Microsoft 365 resource
 description: Describes an issue that triggers an Invalid provider specified error when you try to access Microsoft 365 resources in a Windows 10 environment. A workaround is provided.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
@@ -30,7 +30,7 @@ appliesto:
   - Visio Professional 2016
   - Visio Standard 2016
   - Word 2016
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Invalid provider specified" when using an Office 2016 application to access Microsoft 365 resources

@@ -6,14 +6,14 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Administration\SharePoint Designer
   - CSSTroubleshoot
 ms.reviewer: dakova, spspms
 appliesto: 
   - SharePoint Designer 2013
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # You can't switch the user account in SharePoint Designer 2013
 

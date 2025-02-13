@@ -3,18 +3,18 @@ title: Site slowness because of SharePoint STS certificate CRL checking
 description: Provides workarounds for an issue in which SharePoint STS certificate CRL checking causes a site to be slow.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.custom: 
+  - sap:Administration\Farm Administration
   - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - SharePoint Foundation 2010
   - SharePoint Server 2010
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Site slowness because of SharePoint STS certificate CRL checking  

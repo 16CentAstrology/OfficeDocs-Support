@@ -4,15 +4,16 @@ description: Describes how to make space in an Exchange Online mailbox that is f
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administrator Tasks
+  - CSSTroubleshoot
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.reviewer: meerak
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: meerak, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/24/2024
 ---
 
 # Increase or customize Exchange Online mailbox size
@@ -40,7 +41,7 @@ To set a custom mailbox quota for Exchange Online mailboxes, use one of the foll
 ### Set mailbox quota for a single user
 
 1. Connect to [Exchange Online PowerShell](/powershell/exchange/connect-to-exchange-online-powershell).
-1. Run the following PowerShell cmdlet:  
+1. Run the following PowerShell cmdlet:
 
     ```powershell
     Set-Mailbox <UserID> -ProhibitSendQuota <Value> -ProhibitSendReceiveQuota <Value> -IssueWarningQuota <Value>

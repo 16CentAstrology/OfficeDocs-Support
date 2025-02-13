@@ -1,21 +1,21 @@
 ---
 title: Test-OwaConnectivity and Test-ECPConnectivity cmdlets fail
 description: Describes an issue in which the Test-OwaConnectivity and Test-ECPConnectivity cmdlets fail randomly.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with OWA
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: jcoiffin
+ms.reviewer: jcoiffin, v-six
 appliesto: 
   - Exchange Server 2010 Standard
   - Exchange Server 2010 Enterprise
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Test cmdlets fail with error: The task couldn't sign in with user extest_\<id>
 

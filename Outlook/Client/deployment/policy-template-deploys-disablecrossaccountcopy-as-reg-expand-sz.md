@@ -4,15 +4,16 @@ description: Provides a resolution for the issue that the Outlook policy templat
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Developer Issues\Macros
+  - CSSTroubleshoot
 appliesto:
 - Outlook
 search.appverid: MET150
-ms.reviewer: lahren, aruiz, jeffconn
-author: simonxjx
-ms.author: v-six
-ms.date: 3/31/2022
+ms.reviewer: lahren, aruiz, jeffconn, v-six
+author: cloud-writer
+ms.author: meerak
+ms.date: 01/30/2024
 ---
 # Outlook policy template deploys DisableCrossAccountCopy as REG_EXPAND_SZ instead of REG_MULTI_SZ
 

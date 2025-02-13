@@ -1,21 +1,21 @@
 ---
 title: Remote move migration doesn't finalize
 description: Describes an issue in which a remote move migration doesn't finalize because of the replication lag of a second mailbox database copy.
-author: v-trisshores
-ms.author: v-trisshores
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:High Availability, Health, Performance, Content Indexing\Database Replication Issues
   - Exchange Server
   - CSSTroubleshoot
   - CI 166083
-ms.reviewer: haembab, ninob, meerak
+ms.reviewer: haembab, ninob, meerak, v-trisshores
 appliesto: 
   - Exchange Server
 search.appverid: MET150
-ms.date: 08/31/2022
+ms.date: 01/24/2024
 ---
 # Remote move migration doesn't finalize
 

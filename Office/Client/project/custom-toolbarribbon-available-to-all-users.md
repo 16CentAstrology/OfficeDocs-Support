@@ -6,8 +6,8 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: v-jomcc
 search.appverid: 
   - MET150
@@ -18,7 +18,7 @@ appliesto:
   - Project Professional 2010
   - Microsoft Office Project Server 2007
   - Microsoft Office Project Professional 2003
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Make a custom toolbar/ribbon available to all users in Project client

@@ -1,23 +1,23 @@
 ---
 title: Cannot access archive mailbox in Outlook
 description: Fixes an issue in which the MAPI/HTTP protocol is disabled in an Exchange organization.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with Outlook
   - Outlook for Windows
   - CSSTroubleshoot
-ms.reviewer: robwhal, jmartin, excontent
+ms.reviewer: robwhal, jmartin, excontent, v-six
 appliesto: 
   - Exchange Server 2016 Enterprise Edition
   - Exchange Server 2016 Standard Edition
   - Exchange Server 2013 Enterprise
   - Exchange Server 2013 Standard Edition
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Users can't access their archive mailbox in Outlook
 

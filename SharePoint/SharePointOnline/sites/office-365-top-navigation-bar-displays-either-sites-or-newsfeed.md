@@ -3,16 +3,17 @@ title: The Microsoft 365 top navigation bar displays either Sites or Newsfeed in
 description: Describes an issue in which the Microsoft 365 top navigation bar displays either Sites or Newsfeed instead of OneDrive in SharePoint Online.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:SharePoint Admin Center\Navigation
+  - CSSTroubleshoot
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Microsoft 365 top navigation bar displays either Sites or Newsfeed instead of OneDrive
@@ -47,8 +48,8 @@ To set the Enterprise Social Collaboration feature, follow these steps:
 
 **NOTES**
 
-- If you select **Use Yammer.com service**, the top navigation bar displays **Sites** on some OneDrive for Business pages. This occurs even if you change the setting to **Use SharePoint Newsfeed (default)**.
+- If you select **Use Viva Engage.com service**, the top navigation bar displays **Sites** on some OneDrive for Business pages. This occurs even if you change the setting to **Use SharePoint Newsfeed (default)**.
 
-- If you select **Use SharePoint Newsfeed (default)**, and if you have never set the **Use Yammer.com service** option, the top navigation bar displays **Newsfeed** on some OneDrive for Business pages.
+- If you select **Use SharePoint Newsfeed (default)**, and if you have never set the **Use Viva Engage.com service** option, the top navigation bar displays **Newsfeed** on some OneDrive for Business pages.
 
 Still need help? Go to [SharePoint Community](https://techcommunity.microsoft.com/t5/sharepoint/ct-p/SharePoint).

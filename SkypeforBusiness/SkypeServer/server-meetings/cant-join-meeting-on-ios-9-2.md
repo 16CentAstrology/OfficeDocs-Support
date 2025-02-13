@@ -3,19 +3,19 @@ title: Can't join a meeting on iOS 9.2 and later
 description: Describes an issue in which you can't join a meeting from outside Lync 2013, Lync 2010, or Skype for Business on iOS 9.2. Provides a workaround.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.author: v-six
 ms.reviewer: jaredgo, pmaloo, jasco, rischwen, amitpeer, mirung, corbinm, landerl
 appliesto: 
   - Lync 2013 for iPhone
   - Lync 2013 for iPad
   - Skype for Business for iOS
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # You can't join a meeting from outside Lync 2013, Lync 2010, or Skype for Business on iOS 9.2 and later

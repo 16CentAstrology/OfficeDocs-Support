@@ -1,17 +1,17 @@
 ---
 title: SendAs permission not shown in Send As Permission
 description: SendAs permission granted to users in forests trusted by Exchange forest aren't visible in the SendAs wizard in Exchange Management Console (EMC).
-ms.date: 08/05/2020
-author: simonxjx
-ms.author: v-six
+ms.date: 01/24/2024
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Recipients\Create and Manage Recipients (Mailbox, DG, Room, equipment etc.)
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: jcoiffin
+ms.reviewer: jcoiffin, v-six
 appliesto: 
   - Exchange Server 2010
 search.appverid: MET150

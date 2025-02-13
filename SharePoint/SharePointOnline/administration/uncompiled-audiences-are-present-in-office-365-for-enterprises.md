@@ -3,16 +3,17 @@ title: Uncompiled audiences are present in SharePoint Online in Microsoft 365 fo
 description: Describes an issue in which uncompiled audiences are present in SharePoint Online in Microsoft 365 for enterprises.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Pages\Audience Targeting
+  - CSSTroubleshoot
 ms.author: luche
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Uncompiled audiences are present in SharePoint Online

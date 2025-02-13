@@ -6,14 +6,14 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.reviewer: kerbo
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
   - Office 365 Dedicated/ITAR
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # You receive a Microsoft account security alert email message in Office 365 Dedicated/ITAR (vNext)

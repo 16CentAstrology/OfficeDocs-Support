@@ -6,8 +6,8 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: article
-localization_priority: Normal
 ms.custom: 
+  - sap:Teams Device Management (TAC)
   - CI 160238
   - CSSTroubleshoot
 ms.reviewer: miaitelh
@@ -15,7 +15,7 @@ appliesto:
   - Microsoft Teams
 search.appverid: 
   - MET150
-ms.date: 3/31/2022
+ms.date: 10/30/2023
 ---
 # Collect device logs for Android Teams devices
 

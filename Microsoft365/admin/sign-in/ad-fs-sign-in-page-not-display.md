@@ -3,11 +3,12 @@ title: Internet browser can't display AD FS sign-in webpage for federated users
 description: Discusses a scenario in which a federated user may receive an error message when trying to sign in to Microsoft 365, Azure, or Microsoft Intune.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
+  - has-azure-ad-ps-ref
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
@@ -16,7 +17,7 @@ appliesto:
   - Microsoft Intune
   - Azure Backup
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Internet browser can't display the AD FS sign-in webpage for federated users
@@ -41,9 +42,9 @@ Before you begin to resolve this issue, determine the AD FS endpoint address for
 
 ### Determine the AD FS endpoint address for the on-premises federation server 
 
-To do this, follow these steps on a domain-connected computer that has Azure Active Directory Module for Windows PowerShell installed:
+To do this, follow these steps on a domain-connected computer that has Azure Active Directory module for Windows PowerShell installed:
 
-1. Run the Azure Active Directory Module for Windows PowerShell as an elevated admin. To do this, right-click **Windows Azure Active Directory Module for Windows PowerShell**, and then click **Run as administrator**.   
+1. Run the Azure Active Directory module for Windows PowerShell as an elevated admin. To do this, right-click **Windows Azure Active Directory module for Windows PowerShell**, and then click **Run as administrator**.   
 2. Type the following commands. Press Enter after you type each command:
 
     ```powershell
@@ -68,6 +69,8 @@ To do this, follow these steps on a domain-connected computer that has Azure Act
    > The \<Federated Domain> placeholder represents the domain name that's federated with the cloud service.     
 
 In the output, examine the ActiveClientSignInUrlproperty. The domain part of the URL is the endpoint that can be used in the resolution that's described later in this article. 
+
+[!INCLUDE [Azure AD PowerShell deprecation note](../../../includes/aad-powershell-deprecation-note.md)]
 
 ### Determine the server that's having problems
 
@@ -117,6 +120,6 @@ If the on-premises network contains a proxy, and if only internal clients are ha
 
 ## More information
 
-The Windows PowerShell commands in this article require the Azure Active Directory Module for Windows PowerShell.
+The Windows PowerShell commands in this article require the Azure Active Directory module for Windows PowerShell.
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.

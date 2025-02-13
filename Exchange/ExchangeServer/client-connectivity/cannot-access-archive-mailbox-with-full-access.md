@@ -1,24 +1,24 @@
 ---
-title: Cannot access archive mailbox with Full Access
+title: Can't access archive mailbox with Full Access
 description: Discusses an issue in which on-premises users can't access cloud archive mailbox that they have Full Access permission to in the Outlook client. Provides workarounds.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Clients and Mobile\Can't Connect to Mailbox with Outlook
   - CI 160833
   - Exchange Server
   - CSSTroubleshoot
-ms.reviewer: batre, wloudermilk, ninob
+ms.reviewer: batre, wloudermilk, ninob, v-six
 appliesto: 
   - Exchange Server 2016
   - Exchange Server 2013
   - Exchange Server 2010
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # On-premises users can't access cloud archive mailboxes with Full Access permission in Outlook
 
@@ -30,7 +30,7 @@ Consider the following scenario:
 
 - In a Microsoft Exchange Server hybrid environment, the primary mailboxes for User A and User B are hosted on-premises, and the archive mailboxes for both users are hosted in Exchange Online.
 - User A has delegated, Full Access permission to User B's mailboxes.
-- User A adds User B as an additional account in the Microsoft Outlook client.
+- User A adds User B as another account in the Microsoft Outlook client.
 
 In this scenario, User A can access User B's primary mailbox in Outlook, but User A can't see or access User B's archive mailbox.
 
@@ -53,7 +53,7 @@ The primary mailbox and archive mailbox appear in Outlook in the web folder list
 > [!IMPORTANT]
 > Don't share your passwords with anyone. This workaround assumes User A is administering additional accounts or the shared mailbox.
 
-Create a new Outlook profile for the shared User B's mailbox, using User B's account credentials to log in. To create a profile, follow these steps:
+Create a new Outlook profile for the shared User B's mailbox, using User B's account credentials to sign in. To create a profile, follow these steps:
 
 1. In Outlook, select **File** > **Account Settings** > **Manage Profiles**.
 2. Select **Show Profiles** > **Add**.

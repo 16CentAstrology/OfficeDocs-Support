@@ -5,15 +5,16 @@ author: helenclu
 ms.author: luche
 ms.reviewer: warrenr
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: sap:spsexperts, CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Files and Documents
+  - CSSTroubleshoot
 appliesto: 
   - Office Web Apps
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # A SharePoint file is downloaded instead of opening the Office application with a direct connection to it

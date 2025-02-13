@@ -1,19 +1,20 @@
 ---
 title: Teams Rooms devices can't fetch calendar from Exchange Online
 description: Resolves an issue that a Microsoft Teams Rooms (MTR) device can't fetch calendar from Exchange Online.
-ms.date: 05/31/2022
+ms.date: 10/30/2023
 author: helenclu
 ms.author: luche
 manager: dcscontentpm
 audience: Admin
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
-ms.custom: CI163362
+ms.custom: 
+  - sap:Msft Teams Rooms Windows (MTRW)
+  - CI163362
 ms.reviewer: subansal, meerak, scapero
 ---
 
@@ -27,7 +28,7 @@ After you sign in to a Microsoft Teams Rooms device, the following error message
 
 :::image type="content" source="media/mtr-device-cannot-fetch-calendar/error.png" alt-text="Screenshot of the Cannot fetch calendar error.":::
 
-And the following error is logged in the [sign-in logs in Azure Active Directory](/azure/active-directory/reports-monitoring/concept-sign-ins):
+And the following error is logged in the [sign-in logs in Microsoft Entra ID](/azure/active-directory/reports-monitoring/concept-sign-ins):
 
 ```output
 “requestId": "<request ID>",
@@ -52,7 +53,7 @@ status": {
 
 This issue occurs if modern authentication isn't enabled for Teams Rooms, and your organization uses a Conditional Access policy to block basic authentication.
 
-To find out which Conditional Access policy is applied, review the [Azure AD sign-in events](/azure/active-directory/conditional-access/troubleshoot-conditional-access#azure-ad-sign-in-events).
+To find out which Conditional Access policy is applied, review the [Microsoft Entra sign-in events](/azure/active-directory/conditional-access/troubleshoot-conditional-access#azure-ad-sign-in-events).
 
 ## Resolution
 

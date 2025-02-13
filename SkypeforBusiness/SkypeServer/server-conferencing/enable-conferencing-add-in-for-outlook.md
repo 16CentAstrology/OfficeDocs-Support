@@ -3,17 +3,17 @@ title: How to enable the Conferencing Add-in for Outlook
 description: Describes how to enable the Conferencing Add-in for Outlook in Outlook 2007 and Outlook 2003.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Outlook 2007
   - Outlook 2003
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # How to enable the Conferencing Add-in for Outlook

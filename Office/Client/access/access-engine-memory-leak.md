@@ -3,11 +3,11 @@ title: Memory leak when Access connects to database files
 description: Describes a memory leak that affects the Access database engine when an application connects to Access database files. A workaround is provided.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 ms.reviewer: a-kyoy
@@ -15,7 +15,7 @@ appliesto:
   - Access 2016
   - Access 2013
   - Access 2010
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Memory leak when Access continually connects to database files

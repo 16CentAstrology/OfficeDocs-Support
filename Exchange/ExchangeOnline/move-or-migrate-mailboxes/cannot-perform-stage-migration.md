@@ -1,21 +1,21 @@
 ---
 title: Mailboxes can't be migrated because they contain errors
 description: Fixes an issue in which you receive an error message when you perform a staged Exchange migration to migrate on-premises mailboxes to Exchange Online.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Migration
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: timothyh
+ms.reviewer: timothyh, v-six
 appliesto: 
   - Exchange Online
   - Azure Active Directory
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Mailboxes listed in the following table can't be migrated when you perform a staged Exchange migration
 
@@ -27,7 +27,7 @@ Consider the following scenario:
 
 - You want to set up single sign-on (SSO).
 - You have an on-premises Microsoft Exchange Server environment but don't want a full hybrid deployment with Microsoft Exchange Online in Microsoft 365.
-- To implement SSO, you deploy Active Directory Federation Services (AD FS) 2.0 and then use Active Directory synchronization to sync user accounts from your on-premises Active Directory directory service to Microsoft Azure Active Directory (Azure AD).
+- To implement SSO, you deploy Active Directory Federation Services (AD FS) 2.0 and then use Active Directory synchronization to sync user accounts from your on-premises Active Directory directory service to Microsoft Entra ID.
 
 In this scenario, when you perform a staged Exchange migration to migrate mailboxes from your on-premises environment to Exchange Online, you receive the following error message:
 

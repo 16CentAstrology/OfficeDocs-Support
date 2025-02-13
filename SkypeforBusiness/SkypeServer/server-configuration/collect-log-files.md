@@ -6,7 +6,6 @@ ms.author: v-six
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CSSTroubleshoot
 ms.reviewer: v-gregl, v-jastho
@@ -14,7 +13,7 @@ appliesto:
   - Microsoft Office Communicator 2007 R2
   - Lync 2010
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Collect log files from Office Communicator, Lync, and Skype for Business Client
 

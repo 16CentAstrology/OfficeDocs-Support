@@ -3,17 +3,17 @@ title: Lync Server Move-CsUser and Move-CsLegacyUser commands fail
 description: Lync Server Move-CsUser and Move-CsLegacyUser commands fail. Provides a solution for this issue.
 author: simonxjx
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: v-six
 ms.reviewer: miadkins
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Lync Server
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Lync Server Move-CsUser and Move-CsLegacyUser commands fail with error - SetMoveResourceData failed because the user is not provisioned

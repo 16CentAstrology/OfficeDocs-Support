@@ -3,11 +3,11 @@ title: Properties changed revert to their original values
 description: Describes an issue in which the properties of user accounts revert to the original values after Windows Server Essentials synchronization when Microsoft 365 is integrated with Windows Server Essentials.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
@@ -15,7 +15,7 @@ appliesto:
   - Microsoft 365
   - Windows Server 2012 Essentials
   - Windows Server 2012 R2 Essentials
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Properties of Microsoft 365 users revert to original values when running Windows Server Essentials
@@ -46,4 +46,4 @@ For more information about Windows Server Essentials and Small Business Server, 
 
 [Windows Server Essentials and Small Business Server](https://techcommunity.microsoft.com/t5/Windows-Server-Essentials-and/bg-p/SBS/2014/01/01/how-to-create-a-service-integration-add-in-for-windows-server-essentials-experience)
 
-Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Azure Active Directory Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.
+Still need help? Go to [Microsoft Community](https://answers.microsoft.com/) or the [Microsoft Entra Forums](https://social.msdn.microsoft.com/forums/azure/home?forum=windowsazuread) website.

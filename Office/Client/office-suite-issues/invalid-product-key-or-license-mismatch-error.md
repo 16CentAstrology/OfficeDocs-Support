@@ -6,8 +6,10 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
-localization_priority: Normal
+ms.custom: 
+  - sap:Office Suite (Access, Excel, OneNote, PowerPoint, Publisher, Word, Visio)\Installation, Update, Deployment,  Activation
+  - SubscriptionAndLicensing\Product Keys related issues
+  - CSSTroubleshoot
 search.appverid: 
   - MET150
 appliesto: 
@@ -15,7 +17,7 @@ appliesto:
   - Office Professional Plus 2013
   - Windows Server 2012 Datacenter
   - Windows Server 2012 Datacenter
-ms.date: 3/31/2022
+ms.date: 06/06/2024
 ---
 
 # "Invalid product key or license mismatch" error message when you try to activate Office 2013

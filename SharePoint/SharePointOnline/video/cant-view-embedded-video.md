@@ -4,18 +4,18 @@ description: Fix an issue in which you receive a To see this content, sign in to
 author: helenclu
 ms.reviewer: salarson
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
 ms.custom: 
+  - sap:Video\Stream
   - CSSTroubleshoot
   - CI 149683
 appliesto: 
   - SharePoint Online
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 
 # Can’t view embedded Stream video in Teams app

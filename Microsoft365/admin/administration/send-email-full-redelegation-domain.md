@@ -3,17 +3,17 @@ title: Can't send email messages from a domain that's set up for full redelegati
 description: Describes an issue in which you can't send email messages from a Microsoft 365 Small Business environment for a domain that's set up for full redelegation. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.reviewer: willfid
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # You can't send email messages in Microsoft 365 from a domain that's set up for full redelegation

@@ -3,16 +3,16 @@ title: Access Denied when you connect to Microsoft 365
 description: Describes a scenario in which users are repeatedly prompted to enter their credentials or they receive an Access Denied error message when they try to connect to Microsoft 365 from a rich client application. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
   - Microsoft 365
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365

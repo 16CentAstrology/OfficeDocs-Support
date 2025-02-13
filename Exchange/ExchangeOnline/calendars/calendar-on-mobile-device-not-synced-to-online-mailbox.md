@@ -1,20 +1,20 @@
 ---
 title: Calendar on mobile device isn't synced to Online mailbox
 description: Describes a scenario in which the calendar on a mobile device is not synced with the calendar in the Exchange Online mailbox when you use Exchange ActiveSync. Provides a resolution.
-author: simonxjx
-ms.author: v-six
+author: cloud-writer
+ms.author: meerak
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
+  - sap:Calendaring
   - Exchange Online
   - CSSTroubleshoot
-ms.reviewer: v-jhayes, jhayes, v-lanac
+ms.reviewer: v-jhayes, jhayes, v-lanac, v-six
 appliesto: 
   - Exchange Online
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 01/24/2024
 ---
 # Calendar on mobile device isn't synced to the calendar in an Exchange Online mailbox when you use Exchange ActiveSync
 

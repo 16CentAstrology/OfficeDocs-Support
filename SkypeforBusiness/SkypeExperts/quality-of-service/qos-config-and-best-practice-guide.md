@@ -4,17 +4,19 @@ description: Outlines best practices for Quality of Service configurations in Sk
 ms.author: v-six
 author: simonxjx
 manager: dcscontentpm
-ms.date: 8/27/2019
+ms.date: 08/27/2019
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 ms.assetid: 
 appliesto: 
   - Skype for Business
-ms.custom: sap:sfbexperts, CSSTroubleshoot, CI 103849
+ms.custom: 
+  - sap:sfbexperts
+  - CSSTroubleshoot
+  - CI 103849
 ms.reviewer: meerak
 ---
 

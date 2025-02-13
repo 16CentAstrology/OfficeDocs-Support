@@ -6,7 +6,6 @@ ms.author: luche
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
 ms.custom: 
   - CI 114797
   - CSSTroubleshoot
@@ -19,7 +18,7 @@ appliesto:
   - Access 2010
   - Access 2007
 search.appverid: MET150
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 # Expression Builder doesn't display database's user-defined functions in the Functions node
 

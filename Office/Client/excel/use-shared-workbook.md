@@ -3,18 +3,18 @@ title: Use shared workbooks with different versions of Excel
 description: Describes how to use shared workbooks with different versions of Excel.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
 ms.topic: troubleshooting
 ms.author: luche
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 appliesto: 
   - Microsoft Office Excel 2007
   - Microsoft Office Excel 2003
   - Microsoft Office Excel 2002
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # Use shared workbooks with different versions of Excel

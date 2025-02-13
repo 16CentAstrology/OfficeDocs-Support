@@ -1,22 +1,22 @@
 ---
-title: Symantec DLP interfering with Teams processes
+title: Symantec DLP interferes with Teams processes
 ms.author: luche
 author: helenclu
-ms.date: 4/9/2020
+ms.date: 01/02/2024
 audience: ITPro
 ms.topic: troubleshooting
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - SPO160
   - MET150
 appliesto: 
   - Microsoft Teams
 ms.custom: 
+  - sap:Teams Security and Compliance (Retention, etc)\DLP
   - CI 113425
   - CSSTroubleshoot
 ms.reviewer: scapero
-description: Describes a resolution to an issue where Symantec DLP interferes with Teams processes.
+description: Provides a resolution to an issue in which Symantec DLP interferes with Teams processes.
 ---
 
 # Symantec DLP interferes with Teams processes
@@ -31,7 +31,7 @@ Symantec DLP Endpoint agents can interfere with Teams processes, which can then 
 
 ## Resolution
 
-Exclude Teams.exe from the Symantec DLP's Endpoint agents as described in this [Symantec support article](https://support.symantec.com/us/en/article.TECH220322.html).
+Exclude Teams.exe from the Symantec DLP's Endpoint agents using the information provided in article ID 160078 on the [Broadcom website](https://knowledge.broadcom.com/).
 
 ## More information
 

@@ -3,10 +3,11 @@ title: Access Denied error when a SharePoint 2010 workflow sends an email to a g
 ms.author: luche
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 audience: Admin
 ms.topic: troubleshooting
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - sap:Administration\Workflows
+  - CSSTroubleshoot
 search.appverid: 
   - SPO160
   - MET150
@@ -19,7 +20,7 @@ appliesto:
   - SharePoint Server 2010
   - SharePoint Designer 2013
   - SharePoint Designer 2010
-ms.date: 3/31/2022
+ms.date: 12/17/2023
 ---
 # "Access Denied" error when a SharePoint 2010 workflow sends an email to a group
 

@@ -10,12 +10,11 @@ ms.topic: troubleshooting
 ms.custom: 
   - CSSTroubleshoot
   - CI 163353
-localization_priority: Normal
 search.appverid: 
   - MET150
 appliesto: 
   - OneDrive for Business
-ms.date: 5/6/2022
+ms.date: 12/17/2023
 ---
 
 # OneDrive for Business can't sync after tenant migration

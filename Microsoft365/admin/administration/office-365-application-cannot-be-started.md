@@ -3,11 +3,11 @@ title: Application cannot be started, contact the application vendor in Microsof
 description: Describes an issue in which you receive an Application cannot be started error when you try to run a Microsoft 365 ClickOnce application such as Microsoft 365 Desktop Setup or the Microsoft 365 Desktop Readiness Tool. Provides a resolution.
 author: helenclu
 manager: dcscontentpm
-localization_priority: Normal
 search.appverid: 
   - MET150
 audience: ITPro
-ms.custom: CSSTroubleshoot
+ms.custom: 
+  - CSSTroubleshoot
 ms.topic: troubleshooting
 ms.author: luche
 appliesto: 
@@ -15,7 +15,7 @@ appliesto:
   - Microsoft Windows XP Professional
   - Microsoft Windows XP Home Edition
   - Microsoft 365 User and Domain Management
-ms.date: 3/31/2022
+ms.date: 03/31/2022
 ---
 
 # "Application cannot be started. Contact the application vendor" when run Microsoft 365 Desktop Setup
