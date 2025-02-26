@@ -6478,6 +6478,11 @@
       "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/ownerless-group-policy.md",
       "redirect_url": "/microsoft-365/admin/create-groups/ownerless-groups-teams",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/to-assign-a-license-that-contains-outlook-customer-manager-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
     }
   ]
 }
