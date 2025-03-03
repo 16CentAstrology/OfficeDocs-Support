@@ -6483,6 +6483,11 @@
       "source_path": "Exchange/ExchangeOnline/outlook-issues/to-assign-a-license-that-contains-outlook-customer-manager-error.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cannot-add-exchange-license-in-azure-ad-connect.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
     }
   ]
 }
