@@ -6488,6 +6488,11 @@
       "source_path": "Exchange/ExchangeOnline/administration/cannot-add-exchange-license-in-azure-ad-connect.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/cannot-migrate-to-exchange-2010.md",
+      "redirect_url": "/exchange/troubleshoot/move-mailboxes/cannot-offboard-mailboxes-to-unsupported-exchange-server-versions",
+      "redirect_document_id": true
     }
   ]
 }
