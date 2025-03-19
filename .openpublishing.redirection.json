@@ -6493,6 +6493,36 @@
       "source_path": "Exchange/ExchangeHybrid/move-mailboxes/cannot-migrate-to-exchange-2010.md",
       "redirect_url": "/exchange/troubleshoot/move-mailboxes/cannot-offboard-mailboxes-to-unsupported-exchange-server-versions",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/create-book-workspace-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/delegate-feature-in-mixed-versions-of-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-control-recurrence-patterns-via-group-policy.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-reset-location-list-for-appointments-or-meetings.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-use-vcalendar-in-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/fix-outlook-connection-problems-by-upgrading.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
     }
   ]
 }
