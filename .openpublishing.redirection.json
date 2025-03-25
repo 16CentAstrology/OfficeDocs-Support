@@ -6523,6 +6523,11 @@
       "source_path": "Outlook/Client/installation/fix-outlook-connection-problems-by-upgrading.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/import-and-export/how-to-export-contacts-via-owa.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
     }
   ]
 }
