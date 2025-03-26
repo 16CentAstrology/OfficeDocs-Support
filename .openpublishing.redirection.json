@@ -6523,6 +6523,21 @@
       "source_path": "Outlook/Client/installation/fix-outlook-connection-problems-by-upgrading.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/import-and-export/how-to-export-contacts-via-owa.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/sign-in/kerberos-authentication-outlook-2016-for-mac.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/kerberos-authentication-outlook-2016-for-mac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/sign-in/set-delay-renew-kerberos-ticket.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/set-delay-renew-kerberos-ticket",
+      "redirect_document_id": false
     }
   ]
 }
