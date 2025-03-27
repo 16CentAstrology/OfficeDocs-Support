@@ -6538,6 +6538,36 @@
       "source_path": "Outlook/Mac/sign-in/set-delay-renew-kerberos-ticket.md",
       "redirect_url": "/previous-versions/troubleshoot/outlook/set-delay-renew-kerberos-ticket",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/how-to-use-automation-to-send-messages-using-access-2000.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-use-automation-to-send-messages-using-access-2000",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/how-to-use-cdosys-dll-library-to-send-email-with-attachments.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-use-cdosys-dll-library-to-send-email-with-attachments",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/collaboration-data-objects-1-2-1-not-supported-in-outlook-2010-and-later.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/collaboration-data-objects-1-2-1-not-supported-in-outlook-2010-and-later",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/how-to-use-object-library-get-appointment-by-using-csharp.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-use-object-library-get-appointment-by-using-csharp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/save-message-to-msg-file.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/save-message-to-msg-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/vba-macro-that-uses-data-from-word-and-excel-to-send-messages.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/vba-macro-that-uses-data-from-word-and-excel-to-send-messages",
+      "redirect_document_id": false
     }
   ]
 }
