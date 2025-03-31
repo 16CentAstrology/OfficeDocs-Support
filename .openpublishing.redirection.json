@@ -6583,6 +6583,11 @@
       "source_path": "Outlook/Client/installation/install-outlook-latest-updates.md",
       "redirect_url": "https://support.microsoft.com/topic/2ab296f3-7f03-43a2-8e50-46de917611c5",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/resources-for-the-top-outlook-issues-in-microsoft-365.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
     }
   ]
 }
