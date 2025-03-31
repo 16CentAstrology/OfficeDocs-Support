@@ -6568,6 +6568,21 @@
       "source_path": "Outlook/Client/development/vba-macro-that-uses-data-from-word-and-excel-to-send-messages.md",
       "redirect_url": "/previous-versions/troubleshoot/outlook/vba-macro-that-uses-data-from-word-and-excel-to-send-messages",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/account/outlook-for-mac-compatibility-with-apple-icloud.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/scan-outlook-calendar-using-sara.md",
+      "redirect_url": "https://support.microsoft.com/topic/086e3d66-5404-4034-9cc5-545909dcc166",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/install-outlook-latest-updates.md",
+      "redirect_url": "https://support.microsoft.com/topic/2ab296f3-7f03-43a2-8e50-46de917611c5",
+      "redirect_document_id": false
     }
   ]
 }
