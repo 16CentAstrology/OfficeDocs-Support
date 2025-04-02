@@ -6588,6 +6588,21 @@
       "source_path": "Outlook/Client/user-interface/resources-for-the-top-outlook-issues-in-microsoft-365.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/description-of-the-autoarchive-feature.md",
+      "redirect_url": "https://support.microsoft.com/office/archive-older-items-automatically-25f44f07-9b80-4107-841c-41dc38296667",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/enable-leave-a-copy-of-the-message-on-the-server-outlook.md",
+      "redirect_url": "https://support.microsoft.com/office/leave-a-copy-of-the-message-on-the-server-is-missing-in-outlook-c25a68de-f12e-4607-8950-7f567116da8e",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/connectivity/add-exchange-server-mailboxes-in-outlook.md",
+      "redirect_url": "https://support.microsoft.com/office/add-exchange-server-mailboxes-in-outlook-for-mac-87f63012-7689-41bd-9dc7-c57a297e9508",
+      "redirect_document_id": false
     }
   ]
 }
