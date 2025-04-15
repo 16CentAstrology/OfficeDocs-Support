@@ -6611,12 +6611,12 @@
     },
     {
       "source_path": "Exchange/ExchangeOnline/administration/401-access-denied-error-when-running-test-oauthconnectivity.md",
-      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/401-access-denied-error-when-running-test-oauthconnectivity",
       "redirect_document_id": false
     },
     {
       "source_path": "Exchange/ExchangeOnline/administration/azure-ad-connect-workflow.md",
-      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/azure-ad-connect-workflow",
       "redirect_document_id": false
     }
   ]
