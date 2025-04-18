@@ -6618,6 +6618,66 @@
       "source_path": "Exchange/ExchangeOnline/administration/azure-ad-connect-workflow.md",
       "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/azure-ad-connect-workflow",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/office-365-sign-in-error-80041317-80043431.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/office-365-sign-in-error-80041317-80043431",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/user-found-error-fails-resetting-password.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/user-found-error-fails-resetting-password",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/domain-errors-in-office-365-portal.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/domain-errors-in-office-365-portal",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/domain-management/domain-removal-fails.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/domain-removal-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/problem-with-websites-security-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/problem-with-websites-security-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/connect-error-0x800488ee.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/connect-error-0x800488ee",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/unable-remove-domain-office-365.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/unable-remove-domain-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/fails-removing-domain.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/fails-removing-domain",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/remove-domain-link-unavailable.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/remove-domain-link-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/security/o365-security/access-denied-office-365-azure.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/connect-msoservice-throw-exception.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/access-management/connect-msolservice-office-365-azure.md",
+      "redirect_url": "/microsoft-365/troubleshoot/sign-In/sign-in-to-office-365-azure-intune",
+      "redirect_document_id": false
     }
   ]
 }
