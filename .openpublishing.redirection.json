@@ -6678,6 +6678,11 @@
       "source_path": "Microsoft365/admin/access-management/connect-msolservice-office-365-azure.md",
       "redirect_url": "/microsoft-365/troubleshoot/sign-In/sign-in-to-office-365-azure-intune",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/mailbox-recovery-in-exchange-online.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/mailbox-recovery-in-exchange-online",
+      "redirect_document_id": false
     }
   ]
 }
