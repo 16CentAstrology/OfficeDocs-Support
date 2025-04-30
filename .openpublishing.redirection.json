@@ -6678,6 +6678,66 @@
       "source_path": "Microsoft365/admin/access-management/connect-msolservice-office-365-azure.md",
       "redirect_url": "/microsoft-365/troubleshoot/sign-In/sign-in-to-office-365-azure-intune",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/pending-state-issue-with-directory-synchronization.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/pending-state-issue-with-directory-synchronization",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/restore-deleted-user-accounts.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/restore-deleted-user-accounts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/licensing/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/ad-fs-sign-in-page-not-display.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/ad-fs-sign-in-page-not-display",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/set-up-adfs-for-single-sign-on.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/set-up-adfs-for-single-sign-on",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/supportmultipledomain-switch-when-manage-sso.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/supportmultipledomain-switch-when-manage-sso",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/duplicate-attributes-prevent-dirsync.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/duplicate-attributes-prevent-dirsync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/unable-reset-user-password-sso.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/unable-reset-user-password-sso",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/exchange-online-application-service-principal-disabled.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/exchange-online-application-service-principal-disabled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/update-federated-domain-office-365.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/update-federated-domain-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/certificate-warning-from-ad-fs.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/certificate-warning-from-ad-fs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/enterprise/authentication/cant-sign-in-office-365-multiple-domain-federation.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/enterprise/cant-sign-in-office-365-multiple-domain-federation",
+      "redirect_document_id": false
     }
   ]
 }
