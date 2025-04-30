@@ -6738,6 +6738,11 @@
       "source_path": "Microsoft365/enterprise/authentication/cant-sign-in-office-365-multiple-domain-federation.md",
       "redirect_url": "/previous-versions/troubleshoot/microsoft-365/enterprise/cant-sign-in-office-365-multiple-domain-federation",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/mailbox-recovery-in-exchange-online.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/mailbox-recovery-in-exchange-online",
+      "redirect_document_id": false
     }
   ]
 }
