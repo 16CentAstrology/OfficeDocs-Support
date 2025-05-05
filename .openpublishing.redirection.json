@@ -6743,6 +6743,11 @@
       "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/mailbox-recovery-in-exchange-online.md",
       "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/mailbox-recovery-in-exchange-online",
       "redirect_document_id": false
-    }
+    },
+    {
+      "source_path": "Microsoft365/purview/sensitivity-labels/sensitivity-button-not-enabled-in-hybrid-environment.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    }    
   ]
 }
