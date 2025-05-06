@@ -1171,7 +1171,7 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Microsoft365/compliance/holds/resolve-ediscovery-hold-issues.md",
+      "source_path": "Microsoft365/purview/holds/resolve-ediscovery-hold-issues.md",
       "redirect_url": "/microsoft-365/troubleshoot/ediscovery/resolve-ediscovery-hold-issues",
       "redirect_document_id": true
     },
@@ -1901,9 +1901,9 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Microsoft365/compliance/compliance.md",
-      "redirect_url": "/microsoft-365/troubleshoot/microsoft-365-compliance-welcome",
-      "redirect_document_id": true
+      "source_path": "Microsoft365/purview/compliance.md",
+      "redirect_url": "/microsoft-365/troubleshoot/microsoft-purview-welcome",
+      "redirect_document_id": false
     },
     {
       "source_path": "Microsoft365/enterprise/enterprise.md",
@@ -2006,7 +2006,7 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Microsoft365/compliance/owa-mailbox/items-missing-search-results.md",
+      "source_path": "Microsoft365/purview/owa-mailbox/items-missing-search-results.md",
       "redirect_url": "/exchange/troubleshoot/owa-issues/items-missing-search-results",
       "redirect_document_id": false
     },
@@ -3636,22 +3636,22 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Microsoft365/compliance/mrm-rentention-policies/cannot-manage-disposition-reviews.md",
+      "source_path": "Microsoft365/purview/mrm-rentention-policies/cannot-manage-disposition-reviews.md",
       "redirect_url": "/microsoft-365/troubleshoot/retention/cannot-manage-disposition-reviews",
       "redirect_document_id": true
     },
     {
-      "source_path": "Microsoft365/compliance/mrm-rentention-policies/cannot-retain-cloud-attachments.md",
+      "source_path": "Microsoft365/purview/mrm-rentention-policies/cannot-retain-cloud-attachments.md",
       "redirect_url": "/microsoft-365/troubleshoot/retention/cannot-retain-cloud-attachments",
       "redirect_document_id": true
     },
     {
-      "source_path": "Microsoft365/compliance/mrm-rentention-policies/managed-folders-disappear.md",
+      "source_path": "Microsoft365/purview/mrm-rentention-policies/managed-folders-disappear.md",
       "redirect_url": "/microsoft-365/troubleshoot/retention/managed-folders-disappear",
       "redirect_document_id": true
     },
     {
-      "source_path": "Microsoft365/compliance/mrm-rentention-policies/mrm-and-retention-policy.md",
+      "source_path": "Microsoft365/purview/mrm-rentention-policies/mrm-and-retention-policy.md",
       "redirect_url": "/microsoft-365/troubleshoot/retention/mrm-and-retention-policy",
       "redirect_document_id": true
     },
@@ -6105,47 +6105,47 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Microsoft365/compliance/archive-mailboxes/cannot-view-items.md",
+      "source_path": "Microsoft365/purview/archive-mailboxes/cannot-view-items.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
-      "source_path": "Microsoft365/compliance/data-loss-prevention/data-loss-prevention-tips.md",
+      "source_path": "Microsoft365/purview/data-loss-prevention/data-loss-prevention-tips.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
-      "source_path": "Microsoft365/compliance/data-loss-prevention/dlp-tips-not-work.md",
+      "source_path": "Microsoft365/purview/data-loss-prevention/dlp-tips-not-work.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
-      "source_path": "Microsoft365/compliance/ediscovery/cannot-search-inactive-mailboxes.md",
+      "source_path": "Microsoft365/purview/ediscovery/cannot-search-inactive-mailboxes.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
-      "source_path": "Microsoft365/compliance/ediscovery/cannot-start-ediscovery-pst-export.md",
+      "source_path": "Microsoft365/purview/ediscovery/cannot-start-ediscovery-pst-export.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
-      "source_path": "Microsoft365/compliance/ediscovery/ediscovery-results-export-fails.md",
+      "source_path": "Microsoft365/purview/ediscovery/ediscovery-results-export-fails.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
-      "source_path": "Microsoft365/compliance/ediscovery/ediscovery-searches-are-queued-indefinitely.md",
+      "source_path": "Microsoft365/purview/ediscovery/ediscovery-searches-are-queued-indefinitely.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
-      "source_path": "Microsoft365/compliance/ediscovery/in-place-ediscovery-preview-not-available.md",
+      "source_path": "Microsoft365/purview/ediscovery/in-place-ediscovery-preview-not-available.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
     {
-      "source_path": "Microsoft365/compliance/holds/change-to-search-logic-for-title-property.md",
+      "source_path": "Microsoft365/purview/holds/change-to-search-logic-for-title-property.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     },
@@ -6193,6 +6193,556 @@
       "source_path": "Exchange/ExchangeOnline/calendars/analyze-calendar-diagnostic-logs.md",
       "redirect_url": "/exchange/troubleshoot/calendars/cdl/analyze-calendar-diagnostic-logs",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "Viva/learning/lms-content-ingestion-errors.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/learning/provider-content-ingestion-errors.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/purview/holds/litigation-hold-mailbox-not-turn-into-inactive.md",
+      "redirect_url": "/exchange/troubleshoot/user-and-shared-mailboxes/litigation-hold-mailbox-not-turn-into-inactive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/purview/microsoft-365-compliance-welcome.yml",
+      "redirect_url": "/microsoft-365/troubleshoot/microsoft-purview-welcome",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/sensitivity-labels/encrypted-email-cannot-send-many-recipients.md",
+      "redirect_url": "/microsoft-365/troubleshoot/sensitivity-labels/encrypted-email-cannot-send-many-recipients",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/retention/troubleshoot-mrm-email-archive-deletion.md",
+      "redirect_url": "/microsoft-365/troubleshoot/retention/troubleshoot-mrm-email-archive-deletion",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/retention/mrm-and-retention-policy.md",
+      "redirect_url": "/microsoft-365/troubleshoot/retention/mrm-and-retention-policy",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/retention/resolve-errors-in-retention-and-retention-label-policies.md",
+      "redirect_url": "/microsoft-365/troubleshoot/retention/resolve-errors-in-retention-and-retention-label-policies",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/retention/cannot-retain-cloud-attachments.md",
+      "redirect_url": "/microsoft-365/troubleshoot/retention/cannot-retain-cloud-attachments",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/retention/identify-errors-in-retention-and-retention-label-policies.md",
+      "redirect_url": "/microsoft-365/troubleshoot/retention/identify-errors-in-retention-and-retention-label-policies",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/retention/managed-folders-disappear.md",
+      "redirect_url": "/microsoft-365/troubleshoot/retention/managed-folders-disappear",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/retention/auto-apply-retention-label-not-apply-messages.md",
+      "redirect_url": "/microsoft-365/troubleshoot/retention/auto-apply-retention-label-not-apply-messages",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/retention/cannot-manage-disposition-reviews.md",
+      "redirect_url": "/microsoft-365/troubleshoot/retention/cannot-manage-disposition-reviews",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/pst-import-service/import-fails-mailboxambiguous.md",
+      "redirect_url": "/microsoft-365/troubleshoot/pst-import-service/import-fails-mailboxambiguous",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/pst-import-service/issues-with-pst-import-job.md",
+      "redirect_url": "/microsoft-365/troubleshoot/pst-import-service/issues-with-pst-import-job",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/office-message-encryption/fix-message-encryption-issue-microsoft-purview.md",
+      "redirect_url": "/microsoft-365/troubleshoot/office-message-encryption/fix-message-encryption-issue-microsoft-purview",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/office-message-encryption/cannot-display-message.md",
+      "redirect_url": "/microsoft-365/troubleshoot/office-message-encryption/cannot-display-message",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/office-message-encryption/disable-encrypt-only.md",
+      "redirect_url": "/microsoft-365/troubleshoot/office-message-encryption/disable-encrypt-only",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/information-protection-scanner/resolve-deployment-issues.md",
+      "redirect_url": "/microsoft-365/troubleshoot/information-protection-scanner/resolve-deployment-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/holds/retention-policy-not-working-after-mailbox-moved.md",
+      "redirect_url": "/microsoft-365/troubleshoot/holds/retention-policy-not-working-after-mailbox-moved",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/holds/ignorelegalhold-not-available.md",
+      "redirect_url": "/microsoft-365/troubleshoot/holds/ignorelegalhold-not-available",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/holds/restore-in-place-litigation-hold.md",
+      "redirect_url": "/microsoft-365/troubleshoot/holds/restore-in-place-litigation-hold",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/holds/cannot-update-calendar-items-from-owa-or-outlook-on-mac.md",
+      "redirect_url": "/microsoft-365/troubleshoot/holds/cannot-update-calendar-items-from-owa-or-outlook-on-mac",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/ediscovery/resolve-ediscovery-issues.md",
+      "redirect_url": "/microsoft-365/troubleshoot/ediscovery/resolve-ediscovery-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/ediscovery/cannot-run-ediscovery-search-cloud-mailbox.md",
+      "redirect_url": "/microsoft-365/troubleshoot/ediscovery/cannot-run-ediscovery-search-cloud-mailbox",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/ediscovery/resolve-ediscovery-hold-issues.md",
+      "redirect_url": "/microsoft-365/troubleshoot/ediscovery/resolve-ediscovery-hold-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/data-loss-prevention/collect-compliance-diagnostics.md",
+      "redirect_url": "/microsoft-365/troubleshoot/data-loss-prevention/collect-compliance-diagnostics",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/data-loss-prevention/data-loss-prevention-not-work.md",
+      "redirect_url": "/microsoft-365/troubleshoot/data-loss-prevention/data-loss-prevention-not-work",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/data-loss-prevention/data-loss-prevention-policy-tips.md",
+      "redirect_url": "/microsoft-365/troubleshoot/data-loss-prevention/data-loss-prevention-policy-tips",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/audit-logs/issue-search-audit-log.md",
+      "redirect_url": "/microsoft-365/troubleshoot/audit-logs/issue-search-audit-log",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/audit-logs/mailbox-audit-logs.md",
+      "redirect_url": "/microsoft-365/troubleshoot/audit-logs/mailbox-audit-logs",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/audit-logs/useragent-property.md",
+      "redirect_url": "/microsoft-365/troubleshoot/audit-logs/useragent-property",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/audit-logs/boxserviceaccount-is-added-to-role.md",
+      "redirect_url": "/microsoft-365/troubleshoot/audit-logs/boxserviceaccount-is-added-to-role",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/message-not-moved-to-archive.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/message-not-moved-to-archive",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/mailbox-full-warning-though-not-reached-quota.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/mailbox-full-warning-though-not-reached-quota",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/mailbox-reaches-quota.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/mailbox-reaches-quota",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/items-duplicated.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/items-duplicated",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/mail-access-issues.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/mail-access-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/enable-disable-issue.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/enable-disable-issue",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/issue-when-enable-mailbox-archiving.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/issue-when-enable-mailbox-archiving",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/cloud-based-archive-content-same-as-on-premises.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/cloud-based-archive-content-same-as-on-premises",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/cannot-migrate-archive-mailboxes.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/cannot-migrate-archive-mailboxes",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/cannot-provision-deprovision.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/cannot-provision-deprovision",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/cannot-see-calendar-folder.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/cannot-see-calendar-folder",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/cannot-use-archive-mailbox-mac.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/cannot-use-archive-mailbox-mac",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/archivestatus-set-none.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/archivestatus-set-none",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/cannot-delete-folders-archive-mailbox.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/cannot-delete-folders-archive-mailbox",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/archive-mailbox-issues.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/archive-mailbox-issues",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/information-barriers/information-barriers-troubleshooting.md",
+      "redirect_url": "/microsoft-365/troubleshoot/information-barriers/information-barriers-troubleshooting",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/diagnostics/purview-compliance-diagnostics.md",
+      "redirect_url": "/microsoft-365/troubleshoot/diagnostics/purview-compliance-diagnostics",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/archive-mailboxes/cloud-based-archive-unavailable.md",
+      "redirect_url": "/microsoft-365/troubleshoot/archive-mailboxes/cloud-based-archive-unavailable",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/sensitivity-labels/mail-contacts-lose-access-encrypted-content.md",
+      "redirect_url": "/microsoft-365/troubleshoot/sensitivity-labels/mail-contacts-lose-access-encrypted-content",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/sensitivity-labels/sensitivity-button-not-enabled-in-hybrid-environment.md",
+      "redirect_url": "/microsoft-365/troubleshoot/sensitivity-labels/sensitivity-button-not-enabled-in-hybrid-environment",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/sensitivity-labels/sensitivity-labels-missing.md",
+      "redirect_url": "/microsoft-365/troubleshoot/sensitivity-labels/sensitivity-labels-missing",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Microsoft365/compliance/microsoft-purview-welcome.yml",
+      "redirect_url": "/microsoft-365/troubleshoot/microsoft-purview-welcome",
+      "redirect_document_id": true
+    },
+    {
+      "source_path_from_root": "/Microsoft365/Hub/context/compliance-context.json.yml",
+      "redirect_url": "/microsoft-365/troubleshoot/context/purview-context.json",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/ownerless-group-policy.md",
+      "redirect_url": "/microsoft-365/admin/create-groups/ownerless-groups-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/to-assign-a-license-that-contains-outlook-customer-manager-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cannot-add-exchange-license-in-azure-ad-connect.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/cannot-migrate-to-exchange-2010.md",
+      "redirect_url": "/exchange/troubleshoot/move-mailboxes/cannot-offboard-mailboxes-to-unsupported-exchange-server-versions",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/create-book-workspace-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/delegate-feature-in-mixed-versions-of-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-control-recurrence-patterns-via-group-policy.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-reset-location-list-for-appointments-or-meetings.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-use-vcalendar-in-outlook.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/fix-outlook-connection-problems-by-upgrading.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/import-and-export/how-to-export-contacts-via-owa.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/sign-in/kerberos-authentication-outlook-2016-for-mac.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/kerberos-authentication-outlook-2016-for-mac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/sign-in/set-delay-renew-kerberos-ticket.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/set-delay-renew-kerberos-ticket",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/how-to-use-automation-to-send-messages-using-access-2000.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-use-automation-to-send-messages-using-access-2000",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/how-to-use-cdosys-dll-library-to-send-email-with-attachments.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-use-cdosys-dll-library-to-send-email-with-attachments",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/collaboration-data-objects-1-2-1-not-supported-in-outlook-2010-and-later.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/collaboration-data-objects-1-2-1-not-supported-in-outlook-2010-and-later",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/how-to-use-object-library-get-appointment-by-using-csharp.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/how-to-use-object-library-get-appointment-by-using-csharp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/save-message-to-msg-file.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/save-message-to-msg-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/development/vba-macro-that-uses-data-from-word-and-excel-to-send-messages.md",
+      "redirect_url": "/previous-versions/troubleshoot/outlook/vba-macro-that-uses-data-from-word-and-excel-to-send-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/account/outlook-for-mac-compatibility-with-apple-icloud.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/scan-outlook-calendar-using-sara.md",
+      "redirect_url": "https://support.microsoft.com/topic/086e3d66-5404-4034-9cc5-545909dcc166",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/install-outlook-latest-updates.md",
+      "redirect_url": "https://support.microsoft.com/topic/2ab296f3-7f03-43a2-8e50-46de917611c5",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/resources-for-the-top-outlook-issues-in-microsoft-365.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/description-of-the-autoarchive-feature.md",
+      "redirect_url": "https://support.microsoft.com/office/archive-older-items-automatically-25f44f07-9b80-4107-841c-41dc38296667",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/enable-leave-a-copy-of-the-message-on-the-server-outlook.md",
+      "redirect_url": "https://support.microsoft.com/office/leave-a-copy-of-the-message-on-the-server-is-missing-in-outlook-c25a68de-f12e-4607-8950-7f567116da8e",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/connectivity/add-exchange-server-mailboxes-in-outlook.md",
+      "redirect_url": "https://support.microsoft.com/office/add-exchange-server-mailboxes-in-outlook-for-mac-87f63012-7689-41bd-9dc7-c57a297e9508",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/by-default-shared-mail-folders-are-downloaded-in-cashed.md",
+      "redirect_url": "/outlook/troubleshoot/data-files/shared-mail-folders-are-downloaded-in-cached-exchange-mode",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/401-access-denied-error-when-running-test-oauthconnectivity.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/401-access-denied-error-when-running-test-oauthconnectivity",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/azure-ad-connect-workflow.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/azure-ad-connect-workflow",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/office-365-sign-in-error-80041317-80043431.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/office-365-sign-in-error-80041317-80043431",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/user-found-error-fails-resetting-password.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/user-found-error-fails-resetting-password",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/domain-errors-in-office-365-portal.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/domain-errors-in-office-365-portal",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/domain-management/domain-removal-fails.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/domain-removal-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/problem-with-websites-security-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/problem-with-websites-security-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/connect-error-0x800488ee.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/connect-error-0x800488ee",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/unable-remove-domain-office-365.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/unable-remove-domain-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/fails-removing-domain.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/fails-removing-domain",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/remove-domain-link-unavailable.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/remove-domain-link-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/security/o365-security/access-denied-office-365-azure.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/connect-msoservice-throw-exception.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/access-management/connect-msolservice-office-365-azure.md",
+      "redirect_url": "/microsoft-365/troubleshoot/sign-In/sign-in-to-office-365-azure-intune",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/pending-state-issue-with-directory-synchronization.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/pending-state-issue-with-directory-synchronization",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/restore-deleted-user-accounts.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/restore-deleted-user-accounts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/licensing/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/ad-fs-sign-in-page-not-display.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/ad-fs-sign-in-page-not-display",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/set-up-adfs-for-single-sign-on.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/set-up-adfs-for-single-sign-on",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/supportmultipledomain-switch-when-manage-sso.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/supportmultipledomain-switch-when-manage-sso",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/duplicate-attributes-prevent-dirsync.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/duplicate-attributes-prevent-dirsync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/unable-reset-user-password-sso.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/unable-reset-user-password-sso",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/exchange-online-application-service-principal-disabled.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/exchange-online-application-service-principal-disabled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/update-federated-domain-office-365.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/update-federated-domain-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/certificate-warning-from-ad-fs.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/certificate-warning-from-ad-fs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/enterprise/authentication/cant-sign-in-office-365-multiple-domain-federation.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/enterprise/cant-sign-in-office-365-multiple-domain-federation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/mailbox-recovery-in-exchange-online.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/mailbox-recovery-in-exchange-online",
+      "redirect_document_id": false
     }
   ]
 }
