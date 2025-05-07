@@ -6620,6 +6620,131 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "Microsoft365/admin/authentication/office-365-sign-in-error-80041317-80043431.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/office-365-sign-in-error-80041317-80043431",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/user-found-error-fails-resetting-password.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/user-found-error-fails-resetting-password",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/domain-errors-in-office-365-portal.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/domain-errors-in-office-365-portal",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/domain-management/domain-removal-fails.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/domain-removal-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/problem-with-websites-security-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/problem-with-websites-security-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/connect-error-0x800488ee.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/connect-error-0x800488ee",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/unable-remove-domain-office-365.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/unable-remove-domain-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/fails-removing-domain.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/fails-removing-domain",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/remove-domain-link-unavailable.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/remove-domain-link-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/security/o365-security/access-denied-office-365-azure.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/connect-msoservice-throw-exception.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/access-management/connect-msolservice-office-365-azure.md",
+      "redirect_url": "/microsoft-365/troubleshoot/sign-In/sign-in-to-office-365-azure-intune",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/pending-state-issue-with-directory-synchronization.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/pending-state-issue-with-directory-synchronization",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/restore-deleted-user-accounts.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/restore-deleted-user-accounts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/licensing/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/ad-fs-sign-in-page-not-display.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/ad-fs-sign-in-page-not-display",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/set-up-adfs-for-single-sign-on.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/set-up-adfs-for-single-sign-on",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/supportmultipledomain-switch-when-manage-sso.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/supportmultipledomain-switch-when-manage-sso",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/duplicate-attributes-prevent-dirsync.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/duplicate-attributes-prevent-dirsync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/unable-reset-user-password-sso.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/unable-reset-user-password-sso",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/exchange-online-application-service-principal-disabled.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/exchange-online-application-service-principal-disabled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/update-federated-domain-office-365.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/update-federated-domain-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/certificate-warning-from-ad-fs.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/certificate-warning-from-ad-fs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/enterprise/authentication/cant-sign-in-office-365-multiple-domain-federation.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/enterprise/cant-sign-in-office-365-multiple-domain-federation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/mailbox-recovery-in-exchange-online.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/mailbox-recovery-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "Outlook/Mac/authentication/manage-the-google-sign-in-prompt-in-outlook-2016.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement"
     }
