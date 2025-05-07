@@ -6618,6 +6618,10 @@
       "source_path": "Exchange/ExchangeOnline/administration/azure-ad-connect-workflow.md",
       "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/azure-ad-connect-workflow",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/authentication/manage-the-google-sign-in-prompt-in-outlook-2016.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
     }
   ]
 }
