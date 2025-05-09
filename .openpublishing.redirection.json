@@ -3016,16 +3016,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Outlook/Client/deployment/cached-exchange-mode.md",
-      "redirect_url": "/microsoft-365-apps/outlook/configuration/cached-exchange-mode",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/deployment/plan-outlook-2016-deployment.md",
-      "redirect_url": "/microsoft-365-apps/outlook/configuration/plan-outlook-deployment",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Outlook/Client/email-messages/url-multiple-slashes-become-single-slash.md",
       "redirect_url": "/outlook/troubleshoot/message-body/url-multiple-slashes-become-single-slash",
       "redirect_document_id": true
@@ -3038,16 +3028,6 @@
     {
       "source_path": "Outlook/Client/folders/outlook-folder-fails-displaying.md",
       "redirect_url": "/outlook/troubleshoot/performance/outlook-folder-fails-displaying",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/transport-logging/enable-transport-logging.md",
-      "redirect_url": "/microsoft-365-apps/outlook/performance/enable-transport-logging",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/domain-management/remove-automapping-for-shared-mailbox.md",
-      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/remove-automapping-for-share",
       "redirect_document_id": true
     },
     {
@@ -3088,11 +3068,6 @@
     {
       "source_path": "Outlook/Client/folders/incorrect-folder-names.md",
       "redirect_url": "/outlook/troubleshoot/user-interface/incorrect-folder-names",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/folders/remove-duration-retention-policy-tag.md",
-      "redirect_url": "/microsoft-365-apps/outlook/user-interface/remove-duration-info-in-retention-policy-tag",
       "redirect_document_id": true
     },
     {
@@ -3391,11 +3366,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Outlook/Mac/import-export/cannot-import-olm-file-into-outlook-for-windows.md",
-      "redirect_url": "/microsoft-365-apps/outlook/import-export/cannot-import-olm-files",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Outlook/Mac/import-export/permissions-error-when-importing-outlook-2011-identity.md",
       "redirect_url": "/outlook/troubleshoot/import-and-export/permissions-error-when-importing-outlook-2011-identity",
       "redirect_document_id": true
@@ -3448,11 +3418,6 @@
     {
       "source_path": "Exchange/ExchangeHybrid/shared-mailboxes/cannot-access-mailbox.md",
       "redirect_url": "/exchange/troubleshoot/user-and-shared-mailboxes/cannot-access-mailbox",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Exchange/ExchangeHybrid/outlook-policy/control-pst-use.md",
-      "redirect_url": "/microsoft-365-apps/outlook/configuration/control-pst-use",
       "redirect_document_id": true
     },
     {
@@ -6603,11 +6568,6 @@
       "source_path": "Outlook/Mac/connectivity/add-exchange-server-mailboxes-in-outlook.md",
       "redirect_url": "https://support.microsoft.com/office/add-exchange-server-mailboxes-in-outlook-for-mac-87f63012-7689-41bd-9dc7-c57a297e9508",
       "redirect_document_id": false
-    },
-    {
-      "source_path": "Outlook/Client/data-files/by-default-shared-mail-folders-are-downloaded-in-cashed.md",
-      "redirect_url": "/microsoft-365-apps/outlook/data-files/shared-mail-folders-in-cached-exchange-mode",
-      "redirect_document_id": true
     },
     {
       "source_path": "Exchange/ExchangeOnline/administration/401-access-denied-error-when-running-test-oauthconnectivity.md",

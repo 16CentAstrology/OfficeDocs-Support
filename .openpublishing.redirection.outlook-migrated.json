@@ -1,6 +1,46 @@
 {
   "redirections": [
     {
+      "source_path": "Outlook/Client/deployment/cached-exchange-mode.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/cached-exchange-mode",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/deployment/plan-outlook-2016-deployment.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/plan-outlook-deployment",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/transport-logging/enable-transport-logging.md",
+      "redirect_url": "/microsoft-365-apps/outlook/performance/enable-transport-logging",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/domain-management/remove-automapping-for-shared-mailbox.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/remove-automapping-for-share",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/folders/remove-duration-retention-policy-tag.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/remove-duration-info-in-retention-policy-tag",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Mac/import-export/cannot-import-olm-file-into-outlook-for-windows.md",
+      "redirect_url": "/microsoft-365-apps/outlook/import-export/cannot-import-olm-files",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/outlook-policy/control-pst-use.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/control-pst-use",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/data-files/by-default-shared-mail-folders-are-downloaded-in-cashed.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/shared-mail-folders-in-cached-exchange-mode",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "Exchange/ExchangeOnline/outlook-issues/control-pst-use.md",
       "redirect_url": "/microsoft-365-apps/outlook/configuration/control-pst-use",
       "redirect_document_id": true
