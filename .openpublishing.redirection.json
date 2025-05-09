@@ -6745,10 +6745,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Outlook/Mac/authentication/manage-the-google-sign-in-prompt-in-outlook-2016.md",
-      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
-    }
-  ,    {
       "source_path": "Microsoft365/purview/sensitivity-labels/sensitivity-button-not-enabled-in-hybrid-environment.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
