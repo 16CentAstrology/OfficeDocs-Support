@@ -1,0 +1,299 @@
+{
+  "redirections": [
+    {
+      "source_path": "Outlook/Client/deployment/cached-exchange-mode.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/cached-exchange-mode",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/deployment/plan-outlook-2016-deployment.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/plan-outlook-deployment",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/transport-logging/enable-transport-logging.md",
+      "redirect_url": "/microsoft-365-apps/outlook/performance/enable-transport-logging",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/domain-management/remove-automapping-for-shared-mailbox.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/remove-automapping-for-share",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/folders/remove-duration-retention-policy-tag.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/remove-duration-info-in-retention-policy-tag",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Mac/import-export/cannot-import-olm-file-into-outlook-for-windows.md",
+      "redirect_url": "/microsoft-365-apps/outlook/import-export/cannot-import-olm-files",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/outlook-policy/control-pst-use.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/control-pst-use",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/data-files/by-default-shared-mail-folders-are-downloaded-in-cashed.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/shared-mail-folders-in-cached-exchange-mode",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/control-pst-use.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/control-pst-use",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/authentication/how-to-force-outlook-to-resolve-proxy-addresses-and-custom-properties.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/force-outlook-to-resolve-proxy-addresses",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/configure-room-finder-rooms-workspaces.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/configure-room-finder-rooms-workspaces",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-open-shared-calendar.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/open-shared-calendar",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-share-calendar-and-contacts.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/share-calendar-and-contacts",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-use-internet-freebusy-feature.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/use-internet-free-busy-feature",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/open-teams-meetings-in-desktop-app.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/open-teams-meetings-in-desktop-app",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/room-finder.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/room-finder",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/time-zones-that-do-not-observe-daylight-saving-time.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/time-zones-without-dst",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/how-to-suppress-autodiscover-redirect-warning.md",
+      "redirect_url": "/microsoft-365-apps/outlook/connectivity/suppress-autodiscover-redirect-warning",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/suppress-autodiscover-mismatch-warning.md",
+      "redirect_url": "/microsoft-365-apps/outlook/connectivity/suppress-autodiscover-mismatch-warning",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/contacts/how-to-hide-columns-in-address-book.md",
+      "redirect_url": "/microsoft-365-apps/outlook/contacts/hide-columns-in-address-book",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/contacts/information-about-the-outlook-autocomplete-list.md",
+      "redirect_url": "/microsoft--365-apps/outlook/contacts/outlook-autocomplete-list",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/data-files/shared-mail-folders-are-downloaded-in-cached-exchange-mode.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/shared-mail-folders-in-cached-exchange-mode",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/data-files/how-to-change-the-folder-where-emails-and-attachments-saved.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/change-the-default-save-folder",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/data-files/how-to-disable-the-background-save-feature.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/disable-background-save-feature",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/data-files/inbox-repair-tool-scanpst-exe-run-multiple-passes.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/scanpst-exe-runs-multiple-passes",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/deployment/how-to-manage-outlook-social-connector-via-group-policy.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/manage-outlook-social-connector",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/email-management/how-to-emulate-the-out-of-office-assistant-in-micr.md",
+      "redirect_url": "/microsoft-365-apps/outlook/email-management/emulate-out-of-office-assistant",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/email-management/how-to-remove-duplicate-folders-when-connected-to-exchange-mailbox.md",
+      "redirect_url": "/microsoft-365-apps/outlook/email-management/remove-duplicate-folders",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/email-management/shareable-links-functionality-in-outlook.md",
+      "redirect_url": "/microsoft-365-apps/outlook/email-management/shareable-links-functionality",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/installation/cached-exchange-mode.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/cached-exchange-mode",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/installation/how-to-remove-get-and-set-up-outlook-mobile-app-on-my-phone-option.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/remove-get-and-set-up-outlook-mobile-app-option",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/installation/plan-outlook-2016-deployment.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/plan-outlook-deployment",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/message-body/embed-playback-videos-in-outlook-and-loop.md",
+      "redirect_url": "/microsoft-365-apps/outlook/message-body/embed-playback-videos-in-outlook-and-loop",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/message-body/record-videos-in-outlook-and-loop.md",
+      "redirect_url": "/microsoft-365-apps/outlook/message-body/record-videos-in-outlook-and-loop",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/message-body/view-emails-and-web-links-in-browser.md",
+      "redirect_url": "/microsoft-365-apps/outlook/message-body/view-emails-and-web-links-in-browser",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/performance/enable-transport-logging.md",
+      "redirect_url": "/microsoft-365-apps/outlook/performance/enable-transport-logging",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/performance/event-log-entries-for-add-in-load-time.md",
+      "redirect_url": "/microsoft-365-apps/outlook/performance/log-entries-for-add-ins",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/performance/using-process-explorer-to-list-dlls-running-under-outlook-exe.md",
+      "redirect_url": "/microsoft-365-apps/outlook/performance/dlls-running-under-process-exe",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/add-shared-mailbox-as-additional-account.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/add-shared-mailbox-as-additional-account",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/how-to-control-autodiscover-via-group-policy.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/control-autodiscover-via-group-policy",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/let-zeroconfigexchange-automatically-create-first-profile.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/zeroconfigexchange",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/remove-automapping-for-shared-mailbox.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/remove-automapping-for-shared-mailbox",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/security/how-to-block-additional-attachment-file-name-extensions.md",
+      "redirect_url": "/microsoft-365-apps/outlook/security/block-additional-attachment-file-name-extensions",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/security/information-about-email-security-settings.md",
+      "redirect_url": "/microsoft-365-apps/outlook/security/email-security-settings",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/security/prevent-delegate-access-to-irm-protected-messages.md",
+      "redirect_url": "/microsoft-365-apps/outlook/security/prevent-delegate-access-to-irm-messages",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/synchronization-monitor-improvements.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/sync-monitor-improvements",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-delete-default-outlook-folders.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/cannot-delete-default-outlook-folders",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/customization-options-for-outlook-today-view.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/customize-outlook-today-view",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/how-time-zone-normalization-works-in-outlook.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/time-zone-normalization",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/how-to-configure-default-message-class-for-new-items.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/configure-default-message-class-for-new-items",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/how-to-determine-where-to-publish-custom-outlook-forms.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/publish-custom-outlook-form",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/mapi-is-the-only-way-to-change-profiles.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/mapi-to-change-profiles",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/navigate-to-public-folders-in-new-outlook.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/public-folders-in-new-outlook",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/outlook-object-model-unsuitable-to-run-in-windows-service.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/oom-unsuitable-in-windows-service",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/remove-duration-retention-policy-tag.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/remove-duration-info-in-retention-policy-tag",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Mac/authentication/manage-the-google-sign-in-prompt-in-outlook-2016.md",
+      "redirect_url": "/microsoft-365-apps/outlook/authentication/manage-google-sign-in-prompt",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Mac/connectivity/how-to-suppress-microsoft-365-autodiscover-redirect-warning.md",
+      "redirect_url": "/microsoft-365-apps/outlook/authentication/suppress-autodiscover-redirect-warning",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Mac/diagnostic-logging/how-to-enable-logging-in-outlook-for-mac.md",
+      "redirect_url": "/microsoft-365-apps/outlook/diagnostic-logging/enable-logging",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "Outlook/Mac/import-and-export/cannot-import-olm-file-into-outlook-for-windows.md",
+      "redirect_url": "/microsoft-365-apps/outlook/import-export/cannot-import-olm-files",
+      "redirect_document_id": true
+    }
+  ]
+}

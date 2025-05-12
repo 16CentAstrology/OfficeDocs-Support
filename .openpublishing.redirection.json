@@ -3016,16 +3016,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Outlook/Client/deployment/cached-exchange-mode.md",
-      "redirect_url": "/outlook/troubleshoot/installation/cached-exchange-mode",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/deployment/plan-outlook-2016-deployment.md",
-      "redirect_url": "/outlook/troubleshoot/installation/plan-outlook-2016-deployment",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Outlook/Client/email-messages/url-multiple-slashes-become-single-slash.md",
       "redirect_url": "/outlook/troubleshoot/message-body/url-multiple-slashes-become-single-slash",
       "redirect_document_id": true
@@ -3038,16 +3028,6 @@
     {
       "source_path": "Outlook/Client/folders/outlook-folder-fails-displaying.md",
       "redirect_url": "/outlook/troubleshoot/performance/outlook-folder-fails-displaying",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/transport-logging/enable-transport-logging.md",
-      "redirect_url": "/outlook/troubleshoot/performance/enable-transport-logging",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/domain-management/remove-automapping-for-shared-mailbox.md",
-      "redirect_url": "/outlook/troubleshoot/profiles-and-accounts/remove-automapping-for-shared-mailbox",
       "redirect_document_id": true
     },
     {
@@ -3088,11 +3068,6 @@
     {
       "source_path": "Outlook/Client/folders/incorrect-folder-names.md",
       "redirect_url": "/outlook/troubleshoot/user-interface/incorrect-folder-names",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/folders/remove-duration-retention-policy-tag.md",
-      "redirect_url": "/outlook/troubleshoot/user-interface/remove-duration-retention-policy-tag",
       "redirect_document_id": true
     },
     {
@@ -3391,11 +3366,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Outlook/Mac/import-export/cannot-import-olm-file-into-outlook-for-windows.md",
-      "redirect_url": "/outlook/troubleshoot/import-and-export/cannot-import-olm-file-into-outlook-for-windows",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Outlook/Mac/import-export/permissions-error-when-importing-outlook-2011-identity.md",
       "redirect_url": "/outlook/troubleshoot/import-and-export/permissions-error-when-importing-outlook-2011-identity",
       "redirect_document_id": true
@@ -3448,11 +3418,6 @@
     {
       "source_path": "Exchange/ExchangeHybrid/shared-mailboxes/cannot-access-mailbox.md",
       "redirect_url": "/exchange/troubleshoot/user-and-shared-mailboxes/cannot-access-mailbox",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Exchange/ExchangeHybrid/outlook-policy/control-pst-use.md",
-      "redirect_url": "/exchange/troubleshoot/outlook-issues/control-pst-use",
       "redirect_document_id": true
     },
     {
@@ -6605,11 +6570,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Outlook/Client/data-files/by-default-shared-mail-folders-are-downloaded-in-cashed.md",
-      "redirect_url": "/outlook/troubleshoot/data-files/shared-mail-folders-are-downloaded-in-cached-exchange-mode",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Exchange/ExchangeOnline/administration/401-access-denied-error-when-running-test-oauthconnectivity.md",
       "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/401-access-denied-error-when-running-test-oauthconnectivity",
       "redirect_document_id": false
@@ -6745,10 +6705,6 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Outlook/Mac/authentication/manage-the-google-sign-in-prompt-in-outlook-2016.md",
-      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
-    }
-  ,    {
       "source_path": "Microsoft365/purview/sensitivity-labels/sensitivity-button-not-enabled-in-hybrid-environment.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
