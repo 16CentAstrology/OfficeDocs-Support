@@ -17,7 +17,7 @@
     },
     {
       "source_path": "Outlook/Client/domain-management/remove-automapping-for-shared-mailbox.md",
-      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/remove-automapping-for-share",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/remove-automapping-for-shared-mailbox",
       "redirect_document_id": true
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "source_path": "Outlook/Client/contacts/information-about-the-outlook-autocomplete-list.md",
-      "redirect_url": "/microsoft--365-apps/outlook/contacts/outlook-autocomplete-list",
+      "redirect_url": "/microsoft-365-apps/outlook/contacts/outlook-autocomplete-list",
       "redirect_document_id": true
     },
     {
