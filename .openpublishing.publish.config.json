@@ -170,6 +170,8 @@
   "need_generate_pdf_url_template": true,
   "redirection_files": [
     ".openpublishing.redirection.json",
-    ".openpublishing.redirection.outlook-migrated.json"
+    ".openpublishing.redirection.outlook-migrated.json",
+    "Microsoft365/.openpublishing.redirection.microsoft365.json",
+    "Office/.openpublishing.redirection.office.json"
   ]
 }
