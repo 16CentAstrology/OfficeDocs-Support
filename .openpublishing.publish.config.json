@@ -171,7 +171,7 @@
   "redirection_files": [
     ".openpublishing.redirection.json",
     ".openpublishing.redirection.outlook-migrated.json",
-    "Microsoft365/.openpublishing.redirection.microsoft365.json",
-    "Office/.openpublishing.redirection.office.json"
+    ".openpublishing.redirection.microsoft365.json",
+    ".openpublishing.redirection.office.json"
   ]
 }
