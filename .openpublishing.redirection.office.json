@@ -475,6 +475,10 @@
     {
       "source_path": "Office/Client/publisher/text-boxes-coverted-to-bitmap.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/access/ldb-file-description.md",
+      "redirect_url": "/office/troubleshoot/access/lock-files-introduction"
     }
   ]
 }
