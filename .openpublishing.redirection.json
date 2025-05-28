@@ -871,11 +871,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Microsoft365/admin/administration/diagnostic-log-collection-in-support-and-recovery-assistant.md",
-      "redirect_url": "/microsoft-365/troubleshoot/diagnostic-logs/diagnostic-log-collection-in-support-and-recovery-assistant",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Microsoft365/admin/administration/desktop-setup-tool-cant-download-updates.md",
       "redirect_url": "/microsoft-365/troubleshoot/updates/desktop-setup-tool-cant-download-updates",
       "redirect_document_id": true

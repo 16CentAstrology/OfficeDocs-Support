@@ -235,6 +235,54 @@
     {
       "source_path": "Microsoft365/enterprise/project-online/cant-save-project-client-to-web-app.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Microsoft365/admin/access-management/user-not-seeing-add-ins.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/user-not-seeing-add-ins"
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/disabling-adal-wam-not-recommended.md",
+      "redirect_url": "/office/troubleshoot/activation/disabling-adal-wam-not-recommended"
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/enable-disable-hyperlink-warning.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/enable-disable-hyperlink-warning"
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/cannot-sign-in-microsoft-365-desktop-apps.md",
+      "redirect_url": "/office/troubleshoot/activation/cannot-sign-in-microsoft-365-desktop-apps"
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/connection-issue-when-sign-in-office-2016.md",
+      "redirect_url": "/office/troubleshoot/activation/connection-issue-when-sign-in-office-2016"
+    },
+    {
+      "source_path": "Microsoft365/admin/diagnostic-logs/collect-office-diagnostic-logs.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/collect-office-diagnostic-logs"
+    },
+    {
+      "source_path": "Microsoft365/admin/diagnostic-logs/diagnostic-log-collection-in-support-and-recovery-assistant.md",
+      "redirect_url": "/microsoft-365/troubleshoot/administration/diagnostic-log-collection-in-support-and-recovery-assistant"
+    },
+    {
+      "source_path": "Microsoft365/admin/diagnostic-logs/fiddler-trace-logs-for-mfa.md",
+      "redirect_url": "/office/troubleshoot/activation/fiddler-trace-logs-for-mfa"
+    },
+    {
+      "source_path": "Microsoft365/admin/diagnostic-logs/use-msoaid-for-authentication-issues.md",
+      "redirect_url": "/office/troubleshoot/activation/use-msoaid-for-authentication-issues"
+    },
+    {
+      "source_path": "Microsoft365/admin/group-policy/office-add-in-not-loaded.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/office-add-in-not-loaded"
+    },
+    {
+      "source_path": "Microsoft365/admin/installation/cannot-access-powershell-file-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Microsoft365/admin/installation/cannot-install-office-add-in.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/cannot-install-office-add-in"
     }
   ]
 }
