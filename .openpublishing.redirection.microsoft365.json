@@ -235,6 +235,114 @@
     {
       "source_path": "Microsoft365/enterprise/project-online/cant-save-project-client-to-web-app.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Microsoft365/admin/access-management/user-not-seeing-add-ins.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/user-not-seeing-add-ins"
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/disabling-adal-wam-not-recommended.md",
+      "redirect_url": "/office/troubleshoot/activation/disabling-adal-wam-not-recommended"
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/enable-disable-hyperlink-warning.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/enable-disable-hyperlink-warning"
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/cannot-sign-in-microsoft-365-desktop-apps.md",
+      "redirect_url": "/office/troubleshoot/activation/cannot-sign-in-microsoft-365-desktop-apps"
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/connection-issue-when-sign-in-office-2016.md",
+      "redirect_url": "/office/troubleshoot/activation/connection-issue-when-sign-in-office-2016"
+    },
+    {
+      "source_path": "Microsoft365/admin/diagnostic-logs/collect-office-diagnostic-logs.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/collect-office-diagnostic-logs"
+    },
+    {
+      "source_path": "Microsoft365/admin/diagnostic-logs/diagnostic-log-collection-in-support-and-recovery-assistant.md",
+      "redirect_url": "/microsoft-365/troubleshoot/administration/diagnostic-log-collection-in-support-and-recovery-assistant"
+    },
+    {
+      "source_path": "Microsoft365/admin/diagnostic-logs/fiddler-trace-logs-for-mfa.md",
+      "redirect_url": "/office/troubleshoot/activation/fiddler-trace-logs-for-mfa"
+    },
+    {
+      "source_path": "Microsoft365/admin/diagnostic-logs/use-msoaid-for-authentication-issues.md",
+      "redirect_url": "/office/troubleshoot/activation/use-msoaid-for-authentication-issues"
+    },
+    {
+      "source_path": "Microsoft365/admin/group-policy/office-add-in-not-loaded.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/office-add-in-not-loaded"
+    },
+    {
+      "source_path": "Microsoft365/admin/installation/cannot-access-powershell-file-error.md",
+      "redirect_url": "/office/troubleshoot/installation/cannot-access-powershell-file-error"
+    },
+    {
+      "source_path": "Microsoft365/admin/installation/cannot-install-office-add-in.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/cannot-install-office-add-in"
+    },
+    {
+      "source_path": "Microsoft365/admin/installation/install-sara-from-intune.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/install-sara-from-intune"
+    },
+    {
+      "source_path": "Microsoft365/admin/installation/install-sara-from-network-share.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/install-sara-from-network-share"
+    },
+    {
+      "source_path": "Microsoft365/admin/installation/product-ids-supported-office-deployment-click-to-run.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/product-ids-supported-office-deployment-click-to-run"
+    },
+    {
+      "source_path": "Microsoft365/admin/licensing/disabled-sway-tile-appear.md",
+      "redirect_url": "/office/troubleshoot/sway/disabled-sway-tile-appear"
+    },
+    {
+      "source_path": "Microsoft365/admin/licensing/subscription-issue-in-office-mobile.md",
+      "redirect_url": "/office/troubleshoot/activation/subscription-issue-in-office-mobile"
+    },
+    {
+      "source_path": "Microsoft365/admin/licensing/subscription-license-renewal-fail.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/subscription-license-renewal-fail"
+    },
+    {
+      "source_path": "Microsoft365/admin/miscellaneous/issue-support-limitations.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/issue-support-limitations"
+    },
+    {
+      "source_path": "Microsoft365/admin/miscellaneous/office-365-third-party-network-devices.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/office-365-third-party-network-devices"
+    },
+    {
+      "source_path": "Microsoft365/admin/miscellaneous/web-sites-lose-ssl-certificate-bindings.md",
+      "redirect_url": "/office/troubleshoot/office-online-server/web-sites-lose-ssl-certificate-bindings"
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/office-365-users-not-signed-in-office.md",
+      "redirect_url": "/office/troubleshoot/activation/office-365-users-not-signed-in-office"
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/sign-in-to-office-2016-for-mac-fail.md",
+      "redirect_url": "/office/troubleshoot/activation/sign-in-to-office-2016-for-mac-fail"
+    },
+    {
+      "source_path": "Microsoft365/admin/updates/automatic-updates.md",
+      "redirect_url": "/office/troubleshoot/installation/automatic-updates"
+    },
+    {
+      "source_path": "Microsoft365/admin/updates/control-block-ole-com.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/control-block-ole-com"
+    },
+    {
+      "source_path": "Microsoft365/admin/updates/office-feature-updates-task-faq.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/office-feature-updates-task-faq"
+    },
+    {
+      "source_path": "Microsoft365/admin/updates/prioritize-bits-for-office-2016-updates.md",
+      "redirect_url": "/office/troubleshoot/office-suite-issues/prioritize-bits-for-office-2016-updates"
     }
   ]
 }
