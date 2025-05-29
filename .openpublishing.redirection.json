@@ -871,11 +871,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Microsoft365/admin/administration/diagnostic-log-collection-in-support-and-recovery-assistant.md",
-      "redirect_url": "/microsoft-365/troubleshoot/diagnostic-logs/diagnostic-log-collection-in-support-and-recovery-assistant",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Microsoft365/admin/administration/desktop-setup-tool-cant-download-updates.md",
       "redirect_url": "/microsoft-365/troubleshoot/updates/desktop-setup-tool-cant-download-updates",
       "redirect_document_id": true
@@ -3016,16 +3011,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Outlook/Client/deployment/cached-exchange-mode.md",
-      "redirect_url": "/outlook/troubleshoot/installation/cached-exchange-mode",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/deployment/plan-outlook-2016-deployment.md",
-      "redirect_url": "/outlook/troubleshoot/installation/plan-outlook-2016-deployment",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Outlook/Client/email-messages/url-multiple-slashes-become-single-slash.md",
       "redirect_url": "/outlook/troubleshoot/message-body/url-multiple-slashes-become-single-slash",
       "redirect_document_id": true
@@ -3038,16 +3023,6 @@
     {
       "source_path": "Outlook/Client/folders/outlook-folder-fails-displaying.md",
       "redirect_url": "/outlook/troubleshoot/performance/outlook-folder-fails-displaying",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/transport-logging/enable-transport-logging.md",
-      "redirect_url": "/outlook/troubleshoot/performance/enable-transport-logging",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/domain-management/remove-automapping-for-shared-mailbox.md",
-      "redirect_url": "/outlook/troubleshoot/profiles-and-accounts/remove-automapping-for-shared-mailbox",
       "redirect_document_id": true
     },
     {
@@ -3088,11 +3063,6 @@
     {
       "source_path": "Outlook/Client/folders/incorrect-folder-names.md",
       "redirect_url": "/outlook/troubleshoot/user-interface/incorrect-folder-names",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Outlook/Client/folders/remove-duration-retention-policy-tag.md",
-      "redirect_url": "/outlook/troubleshoot/user-interface/remove-duration-retention-policy-tag",
       "redirect_document_id": true
     },
     {
@@ -3391,11 +3361,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "Outlook/Mac/import-export/cannot-import-olm-file-into-outlook-for-windows.md",
-      "redirect_url": "/outlook/troubleshoot/import-and-export/cannot-import-olm-file-into-outlook-for-windows",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Outlook/Mac/import-export/permissions-error-when-importing-outlook-2011-identity.md",
       "redirect_url": "/outlook/troubleshoot/import-and-export/permissions-error-when-importing-outlook-2011-identity",
       "redirect_document_id": true
@@ -3448,11 +3413,6 @@
     {
       "source_path": "Exchange/ExchangeHybrid/shared-mailboxes/cannot-access-mailbox.md",
       "redirect_url": "/exchange/troubleshoot/user-and-shared-mailboxes/cannot-access-mailbox",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "Exchange/ExchangeHybrid/outlook-policy/control-pst-use.md",
-      "redirect_url": "/exchange/troubleshoot/outlook-issues/control-pst-use",
       "redirect_document_id": true
     },
     {
@@ -6605,17 +6565,142 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "Outlook/Client/data-files/by-default-shared-mail-folders-are-downloaded-in-cashed.md",
-      "redirect_url": "/outlook/troubleshoot/data-files/shared-mail-folders-are-downloaded-in-cached-exchange-mode",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "Exchange/ExchangeOnline/administration/401-access-denied-error-when-running-test-oauthconnectivity.md",
-      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/401-access-denied-error-when-running-test-oauthconnectivity",
       "redirect_document_id": false
     },
     {
       "source_path": "Exchange/ExchangeOnline/administration/azure-ad-connect-workflow.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/azure-ad-connect-workflow",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/office-365-sign-in-error-80041317-80043431.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/office-365-sign-in-error-80041317-80043431",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/user-found-error-fails-resetting-password.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/user-found-error-fails-resetting-password",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/domain-errors-in-office-365-portal.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/domain-errors-in-office-365-portal",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/domain-management/domain-removal-fails.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/domain-removal-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/problem-with-websites-security-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/problem-with-websites-security-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/connect-error-0x800488ee.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/connect-error-0x800488ee",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/unable-remove-domain-office-365.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/unable-remove-domain-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/fails-removing-domain.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/fails-removing-domain",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/remove-domain-link-unavailable.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/remove-domain-link-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/security/o365-security/access-denied-office-365-azure.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/connect-msoservice-throw-exception.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/access-management/connect-msolservice-office-365-azure.md",
+      "redirect_url": "/microsoft-365/troubleshoot/sign-In/sign-in-to-office-365-azure-intune",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/pending-state-issue-with-directory-synchronization.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/pending-state-issue-with-directory-synchronization",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/restore-deleted-user-accounts.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/restore-deleted-user-accounts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/licensing/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/ad-fs-sign-in-page-not-display.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/ad-fs-sign-in-page-not-display",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/set-up-adfs-for-single-sign-on.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/set-up-adfs-for-single-sign-on",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/administration/supportmultipledomain-switch-when-manage-sso.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/supportmultipledomain-switch-when-manage-sso",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/duplicate-attributes-prevent-dirsync.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/duplicate-attributes-prevent-dirsync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/unable-reset-user-password-sso.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/unable-reset-user-password-sso",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/sign-in/exchange-online-application-service-principal-disabled.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/exchange-online-application-service-principal-disabled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/active-directory/update-federated-domain-office-365.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/update-federated-domain-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/admin/authentication/certificate-warning-from-ad-fs.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/admin/certificate-warning-from-ad-fs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/enterprise/authentication/cant-sign-in-office-365-multiple-domain-federation.md",
+      "redirect_url": "/previous-versions/troubleshoot/microsoft-365/enterprise/cant-sign-in-office-365-multiple-domain-federation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/mailbox-recovery-in-exchange-online.md",
+      "redirect_url": "/previous-versions/troubleshoot/exchange/exchangeonline/mailbox-recovery-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Microsoft365/purview/sensitivity-labels/sensitivity-button-not-enabled-in-hybrid-environment.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement",
       "redirect_document_id": false
     }
