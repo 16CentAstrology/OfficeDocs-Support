@@ -294,6 +294,11 @@
       "source_path": "Outlook/Mac/import-and-export/cannot-import-olm-file-into-outlook-for-windows.md",
       "redirect_url": "/microsoft-365-apps/outlook/import-export/cannot-import-olm-files",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/map-classic-outlook-policies-to-new-outlook.md",
+      "redirect_url": "/microsoft-365-apps/outlook/manage/map-classic-outlook-policies-to-new-outlook",
+      "redirect_document_id": false
     }
   ]
 }
