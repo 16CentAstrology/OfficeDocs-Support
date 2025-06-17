@@ -479,6 +479,154 @@
     {
       "source_path": "Office/Client/access/ldb-file-description.md",
       "redirect_url": "/office/troubleshoot/access/lock-files-introduction"
+    },
+    {
+      "source_path": "Office/Client/access/adbigint-data-type-errors.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/access/foreachrecord-issue.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/access/how-to-loop-through-references-view-properties.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/access/linked-table-connection-failed.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/excel/jscript-not-shut-down-excel.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/infopath/disabling-code-behind-prompt-for-infopath-forms.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/infopath/infopath-2013-crashes-when-connecting-to-access-database.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/office-for-mac/o365-e3-setup-incomplete.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/office-for-mac/office-for-mac-welcome-screen.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/office-for-mac/wkresources-files-moved-to-trash.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/duplicate-service-listed.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/slow-open-adfs-sites.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/project/create-report-template.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/project/fiscal-dates-on-timescaled-view.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/project/operation-times-out-if-connect-odata.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/project/project-opens-calendar-from-different-instance-when-editing.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/project/project-publish-jobs-not-complete.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/project/removed-erp-group-user-activated.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/project/sharepoint-task-list-sync-job-fails-when-project-published.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/visio/cannot-add-visio-drawing-control.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/visio/cannot-load-visio-web-drawing.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/visio/cannot-split-connector-insert-new-shape.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/visio/text-not-displayed-in-drawing.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/visio/visio-services-not-render-diagrams.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/cannot-check-in-files-when-lan-does-not-have-internet.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/compatibility-report-about-text-queries-in-excel-online.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/how-big-was-this-months-office-proplus-update.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/sharepoint-properties-backstage-file-info.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/authentication/custom-html-login-page-not-render-correctly.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/authentication/not-render-a-custom-duo-api-multi-factor-authentication-login-page.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/diagnostic-logs/office-lens-icons-incorrectly-display.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/installation/deploy-office-online-server-to-security-hardened-drive.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/powerpivot/powerpivot-does-not-work-with-atomsvc-files.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/powerpivot/powerpivot-workbook-checked-out.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/powerpivot/third-party-powerpivot-data-refresh-tools-are-not-supported.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/powerpivot/upsize-powerpivot-2013-workbooks-to-sql-server-analysis-services.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/OfficeExperts/sway/sway-file-size-limit-error.md",
+      "redirect_url": "/previous-versions/troubleshoot/content-retirement"
     }
   ]
 }
