@@ -1,0 +1,689 @@
+{
+  "redirections": [
+    {
+      "source_path": "Teams/authentication/teams-defaults-to-domain-joined-account.md",
+      "redirect_url": "/troubleshoot/microsoftteams/authentication/teams-defaults-to-domain-joined-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/authentication/teams-stops-working-when-joining-from-edge.md",
+      "redirect_url": "/troubleshoot/microsoftteams/authentication/teams-stops-working-when-joining-from-edge",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/channels/channel-cannot-be-recreated-after-deletion.md",
+      "redirect_url": "/troubleshoot/microsoftteams/channelschannel-cannot-be-recreated-after-deletion",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/channels/logon-reenabled-user-not-see-previous-joined-teams.md",
+      "redirect_url": "/troubleshoot/microsoftteams/channelslogon-reenabled-user-not-see-previous-joined-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/contacts/unknown-user-teams.md",
+      "redirect_url": "/troubleshoot/microsoftteams/contacts/unknown-user-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/exchange-integration/external-contacts-not-in-search.md",
+      "redirect_url": "/troubleshoot/microsoftteams/exchange-integration/external-contacts-not-in-search",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/exchange-integration/teams-exchange-interaction-issue.md",
+      "redirect_url": "/troubleshoot/microsoftteams/exchange-integration/teams-exchange-interaction-issue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/files/404-error-access-onedrive-teams.md",
+      "redirect_url": "/troubleshoot/microsoftteams/files/404-error-access-onedrive-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/files/access-files-tab-errors.md",
+      "redirect_url": "/troubleshoot/microsoftteams/files/access-files-tab-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/files/cannot-share-files-in-large-chat.md",
+      "redirect_url": "/troubleshoot/microsoftteams/files/cannot-share-files-in-large-chat",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/files/cannot-upload-files-or-access-onedrive.md",
+      "redirect_url": "/troubleshoot/microsoftteams/files/cannot-upload-files-or-access-onedrive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/files/desktop-app-option-missing.md",
+      "redirect_url": "/troubleshoot/microsoftteams/files/desktop-app-option-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/files/do-not-have-access-to-this-file-teams.md",
+      "redirect_url": "/troubleshoot/microsoftteams/files/do-not-have-access-to-this-file-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/files/guests-cannot-access-files.md",
+      "redirect_url": "/troubleshoot/microsoftteams/files/guests-cannot-access-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/forms/cannot-send-poll.md",
+      "redirect_url": "/troubleshoot/microsoftteams/forms/cannot-send-poll",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/index.yml",
+      "redirect_url": "/troubleshoot/microsoftteams/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/cannot-join-cvi-pstn-meeting.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/cannot-join-cvi-pstn-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/external-participants-join-meeting-blocked.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/external-participants-join-meeting-blocked",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/external-user-shown-as-unknown.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/external-user-shown-as-unknown",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/fix-choppy-video.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/fix-choppy-video",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/issues-with-webinars.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/issues-with-webinars",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/known-issues-teams-certified-peripherals.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/known-issues-teams-certified-peripherals",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/meeting-chat-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/meeting-chat-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/new-teams-desktop-app-fail-render-video.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/new-teams-desktop-app-fail-render-video",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/resolve-teams-meeting-add-in-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/resolve-teams-meeting-add-in-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/teams-meeting-add-in-missing.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/teams-meeting-add-in-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/teams-meeting-with-shared-mailboxes.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/teams-meeting-with-shared-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/meetings/troubleshoot-meeting-recording-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/meetings/troubleshoot-meeting-recording-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/mobile/cant-see-auto-favorited-channels-in-mobile.md",
+      "redirect_url": "/troubleshoot/microsoftteams/mobile/cant-see-auto-favorited-channels-in-mobile",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/mobile/settings-teams-calls-carplay.md",
+      "redirect_url": "/troubleshoot/microsoftteams/mobile/settings-teams-calls-carplay",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/mobile/websites-with-conditional-access-dont-display.md",
+      "redirect_url": "/troubleshoot/microsoftteams/mobile/websites-with-conditional-access-dont-display",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/dial-plans/errors-managing-dial-plans.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/dial-plans/errors-managing-dial-plans",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/diagnose-direct-routing-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/diagnose-direct-routing-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/issues-with-call-transfers.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/issues-with-call-transfers",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/issues-with-inbound-calls.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/issues-with-inbound-calls",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/issues-with-lmo.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/issues-with-lmo",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/issues-with-outbound-calls.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/issues-with-outbound-calls",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-400.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-400",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-402.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-402",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-403.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-403",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-404.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-404",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-408.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-408",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-410.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-410",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-412.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-412",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-420.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-420",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-480.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-480",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-484.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-484",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-486.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-486",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-488.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-488",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-500.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-500",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-503.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-503",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes-504.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes-504",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/microsoft-sip-response-codes.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/microsoft-sip-response-codes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/direct-routing/sip-options-tls-certificate-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/direct-routing/sip-options-tls-certificate-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/phone-system/sip-gateway-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/phone-system/sip-gateway-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/provisioning/deleting-team-also-deletes-group.md",
+      "redirect_url": "/troubleshoot/microsoftteams/provisioning/deleting-team-also-deletes-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/provisioning/users-cant-create-team.md",
+      "redirect_url": "/troubleshoot/microsoftteams/provisioning/users-cant-create-team",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/sites/cannot-view-website-teams-web-client.md",
+      "redirect_url": "/troubleshoot/microsoftteams/sites/cannot-view-website-teams-web-client",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/tabs/tabs-dont-work-after-enabling-conditional-access.md",
+      "redirect_url": "/troubleshoot/microsoftteams/tabs/tabs-dont-work-after-enabling-conditional-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/tabs/teams-owner-cannot-create-planner-tab.md",
+      "redirect_url": "/troubleshoot/microsoftteams/tabs/teams-owner-cannot-create-planner-tab",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/tabs/websites-not-loaded-new-teams.md",
+      "redirect_url": "/troubleshoot/microsoftteams/tabs/websites-not-loaded-new-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/admin-self-help-diagnostics.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/admin-self-help-diagnostics",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/cannot-access-teams-premium-features.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/cannot-access-teams-premium-features",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/cannot-switch-to-teams-only-mode.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/cannot-switch-to-teams-only-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/clear-teams-cache.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/clear-teams-cache",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/couldnt-add-member-error.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/couldnt-add-member-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/disable-sharepoint-news-notifications.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/disable-sharepoint-news-notifications",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/failed-to-auto-discover-domain-error-teams-admin-center.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/failed-to-auto-discover-domain-error-teams-admin-center",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/fix-new-teams-installation-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/fix-new-teams-installation-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/following-application-instance-not-present-error.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/following-application-instance-not-present-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/include-exclude-teams-from-antivirus-dlp.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/include-exclude-teams-from-antivirus-dlp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/resolve-new-teams-launch-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/resolve-new-teams-launch-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/resolve-teams-client-crash-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/resolve-teams-client-crash-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/resolve-teams-client-launch-failures.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/resolve-teams-client-launch-failures",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/resolve-teams-client-update-failures.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/resolve-teams-client-update-failures",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/root-cause-undetermined-teams-update-failure.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/root-cause-undetermined-teams-update-failure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-administration/user-information-not-updated.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-administration/user-information-not-updated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/cvi-info-does-not-populate-in-meet-now.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-conferencing/cvi-info-does-not-populate-in-meet-now",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/give-control-doesn’t-work-sharescreen.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-conferencing/give-control-doesn’t-work-sharescreen",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/meeting-requires-skype-instead-of-teams.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-conferencing/meeting-requires-skype-instead-of-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/need-a-license-error-when-assigning-a-number.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-conferencing/need-a-license-error-when-assigning-a-number",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/organizer-cant-start-teams-meeting.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-conferencing/organizer-cant-start-teams-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/pstn-callers-shown-with-same-call-in-number.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-conferencing/pstn-callers-shown-with-same-call-in-number",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/static-conference-id-not-supported.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-conferencing/static-conference-id-not-supported",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/teams-call-requires-five-or-more-digits.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-conferencing/teams-call-requires-five-or-more-digits",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/teams-meetings-not-available.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-conferencing/teams-meetings-not-available",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-conferencing/teams-slow-video-meetings-laptops-4k.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-conferencing/teams-slow-video-meetings-laptops-4k",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-im-presence/contact-presence-status-unknown.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-im-presence/contact-presence-status-unknown",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-im-presence/deleted-messages-send-notifications-with-link.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-im-presence/deleted-messages-send-notifications-with-link",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-im-presence/issues-with-presence-in-outlook.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-im-presence/issues-with-presence-in-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-im-presence/messages-unexpectedly-deleted-retention-policy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-im-presence/messages-unexpectedly-deleted-retention-policy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-im-presence/presence-not-show-actual-status.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-im-presence/presence-not-show-actual-status",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-im-presence/teams-user-not-send-message-in-sfb.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-im-presence/teams-user-not-send-message-in-sfb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-on-linux/linux-known-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-on-linux/linux-known-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-on-mac/incorrect-presence-status-teams-for-mac.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-on-mac/incorrect-presence-status-teams-for-mac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-on-mac/teams-audio-issue-mac.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-on-mac/teams-audio-issue-mac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-on-mac/teams-notification-sound-reverts-to-default.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-on-mac/teams-notification-sound-reverts-to-default",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-on-mac/teams-sign-in-issues-after-os-upgrade.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-on-mac/teams-sign-in-issues-after-os-upgrade",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-on-windows/error-call-from-contact-card.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-on-windows/error-call-from-contact-card",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-on-windows/performance-affected-when-teams-remembered-as-game.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-on-windows/performance-affected-when-teams-remembered-as-game",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-onenote-integration/issue-access-notebook.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-onenote-integration/issue-access-notebook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/black-blank-screen.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/black-blank-screen",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/bluetooth-disabled-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/bluetooth-disabled-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/camera-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/camera-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/collect-device-logs.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/collect-device-logs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/cpu-performance-limited-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/cpu-performance-limited-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/create-support-request-teams-device-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/create-support-request-teams-device-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/default-credentials-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/default-credentials-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/disk-space-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/disk-space-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/display-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/display-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/get-support-teams-rooms-pro-management.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/get-support-teams-rooms-pro-management",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/hdmi-ingest-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/hdmi-ingest-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/meeting-app-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/meeting-app-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/microphone-speaker-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/microphone-speaker-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/monitored-offline-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/monitored-offline-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/mtr-device-cannot-fetch-calendar.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/mtr-device-cannot-fetch-calendar",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/os-edition-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/os-edition-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/signed-out-of-teams-android-devices.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/signed-out-of-teams-android-devices",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/sleep-timer-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/sleep-timer-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/teams-android-devices-conditional-access-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/teams-android-devices-conditional-access-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/teams-rooms-device-keyboard-size-reduced.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/teams-rooms-device-keyboard-size-reduced",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/teams-rooms-device-windows-update-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/teams-rooms-device-windows-update-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/teams-rooms-known-issues-android.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/teams-rooms-known-issues-android",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/teams-rooms-known-issues-windows.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/teams-rooms-known-issues-windows",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/teams-rooms-not-auto-start-after-windows-updates.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/teams-rooms-not-auto-start-after-windows-updates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/teams-rooms-resource-account-sign-in-issues.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/teams-rooms-resource-account-sign-in-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/usb-peripheral-power-drain-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/usb-peripheral-power-drain-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-rooms-and-devices/usb-selective-suspend-status-unhealthy.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-rooms-and-devices/usb-selective-suspend-status-unhealthy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-sign-in/error-missing-out-sign-in-teams.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-sign-in/error-missing-out-sign-in-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-sign-in/resolve-sign-in-errors.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-sign-in/resolve-sign-in-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-sign-in/sign-in-loop.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-sign-in/sign-in-loop",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-sign-in/someone-has-already-setup-teams.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-sign-in/someone-has-already-setup-teams",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-sign-in/symlink-or-drivemap-causes-white-screen.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-sign-in/symlink-or-drivemap-causes-white-screen",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-sign-in/teams-doesnt-automatically-update.md",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-sign-in/teams-doesnt-automatically-update",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/teams-welcome.yml",
+      "redirect_url": "/troubleshoot/microsoftteams/teams-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/third-party-programs/dell-encryption-prevents-teams-from-starting.md",
+      "redirect_url": "/troubleshoot/microsoftteams/third-party-programs/dell-encryption-prevents-teams-from-starting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Teams/third-party-programs/symantec-dlp-interferes-with-teams.md",
+      "redirect_url": "/troubleshoot/microsoftteams/third-party-programs/symantec-dlp-interferes-with-teams",
+      "redirect_document_id": false
+    }
+  ]
+}

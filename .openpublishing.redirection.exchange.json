@@ -1,0 +1,3549 @@
+{
+  "redirections": [
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/cannot-add-and-verify-domain.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-add-and-verify-domain",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/cannot-set-up-hybrid-deployment.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-set-up-hybrid-deployment",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/delay-when-outlook-retrieves-autodiscover-information.md",
+      "redirect_url": "/troubleshoot/exchange/administration/delay-when-outlook-retrieves-autodiscover-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/endpoint-connection-405-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/endpoint-connection-405-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/error-when-running-setup-prepareschema.md",
+      "redirect_url": "/troubleshoot/exchange/administration/error-when-running-setup-prepareschema",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/exchange-oauth-authentication-could-not-find-the-authorization.md",
+      "redirect_url": "/troubleshoot/exchange/administration/exchange-oauth-authentication-could-not-find-the-authorization",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/federation-certificate-with-thumbprint-not-found.md",
+      "redirect_url": "/troubleshoot/exchange/administration/federation-certificate-with-thumbprint-not-found",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/free-busy-lookups-return-hash-marks-in-hybrid.md",
+      "redirect_url": "/troubleshoot/exchange/administration/free-busy-lookups-return-hash-marks-in-hybrid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/hybrid-412-cookies-disabled-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/hybrid-412-cookies-disabled-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/mail-user-who-has-proxy-addresses-that-use-non-verified-domains-not-synced.md",
+      "redirect_url": "/troubleshoot/exchange/administration/mail-user-who-has-proxy-addresses-that-use-non-verified-domains-not-synced",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/missing-certificate-on-the-last-page-of-hybrid-configuration-wizard.md",
+      "redirect_url": "/troubleshoot/exchange/administration/missing-certificate-on-the-last-page-of-hybrid-configuration-wizard",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/mutual-authentication-could-not-be-established-error-if-testing-outlook-anywhere.md",
+      "redirect_url": "/troubleshoot/exchange/administration/mutual-authentication-could-not-be-established-error-if-testing-outlook-anywhere",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/outlook-does-not-connect-with-modern-authentication.md",
+      "redirect_url": "/troubleshoot/exchange/administration/outlook-does-not-connect-with-modern-authentication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/outlook-web-app-address-is-out-of-date-error-when-accessing-owa.md",
+      "redirect_url": "/troubleshoot/exchange/administration/outlook-web-app-address-is-out-of-date-error-when-accessing-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/primary-smtp-address-is-overwritten-by-targetaddress.md",
+      "redirect_url": "/troubleshoot/exchange/administration/primary-smtp-address-is-overwritten-by-targetaddress",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/reconnect-inactive-or-soft-deleted-mailboxes-to-ad.md",
+      "redirect_url": "/troubleshoot/exchange/administration/reconnect-inactive-or-soft-deleted-mailboxes-to-ad",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/rpc-over-http-end-of-support.md",
+      "redirect_url": "/troubleshoot/exchange/administration/rpc-over-http-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/unable-to-cast-object-of-type-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/unable-to-cast-object-of-type-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/administration/user-photos-not-synced-to-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/administration/user-photos-not-synced-to-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/550-5111-ndr-delegate-sends-update-meeting.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/550-5111-ndr-delegate-sends-update-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/cannot-accept-external-sharing-invitation-in-outlook.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-accept-external-sharing-invitation-in-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/cannot-access-freebusy-info-of-non-internet-facing-ad-site.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-access-freebusy-info-of-non-internet-facing-ad-site",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/cannot-add-conference-rooms-to-meeting-in-owa.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-add-conference-rooms-to-meeting-in-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/cannot-dismiss-outlook-calendar-reminders.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-dismiss-outlook-calendar-reminders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/cannot-display-the-folder-properties-or-could-not-be-updated-error.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-display-the-folder-properties-or-could-not-be-updated-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/cannot-view-cross-forest-calendar-data.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-view-cross-forest-calendar-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/cannot-view-freebusy-information-for-remote-user.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-view-freebusy-information-for-remote-user",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/freebusy-lookups-stop-working.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/freebusy-lookups-stop-working",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/hybird-free-busy-diagnostic.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/hybird-free-busy-diagnostic",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/only-can-see-availability-info-of-resource-when-scheduling-meeting.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/only-can-see-availability-info-of-resource-when-scheduling-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/policy-permissions-issue.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/policy-permissions-issue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/calendars/troubleshoot-freebusy-issues-in-exchange-hybrid.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/troubleshoot-freebusy-issues-in-exchange-hybrid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/cannot-receive-mail-with-new-certificate.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/cannot-receive-mail-with-new-certificate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/delivery-has-failed-and-550-5-1-1-resolver.adr.recipnotfound.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/delivery-has-failed-and-550-5-1-1-resolver.adr.recipnotfound",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/email-messages-incorrectly-quarantined.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/email-messages-incorrectly-quarantined",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/email-sent-from-edge-transport-server-appears-as-mail-from-external-contacts.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/email-sent-from-edge-transport-server-appears-as-mail-from-external-contacts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/emails-are-rejected-and-receive-ndrs.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/emails-are-rejected-and-receive-ndrs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/exchange-online-mail-flow-diagnostic.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/exchange-online-mail-flow-diagnostic",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/hybrid-messages-not-routed-through-on-premises.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/hybrid-messages-not-routed-through-on-premises",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/mail-flow-stops-event-2004.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/mail-flow-stops-event-2004",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/mails-issues-occur-after-april-15-2016.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/mails-issues-occur-after-april-15-2016",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/ndr-5-2-0-when-sending-meeting-invites.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr-5-2-0-when-sending-meeting-invites",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/email-delivery/on-premises-users-not-getting-emails-from-microsoft-365.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/on-premises-users-not-getting-emails-from-microsoft-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/exchange-hybrid-welcome.yml",
+      "redirect_url": "/troubleshoot/exchange/exchange-hybrid-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/groups-and-distribution-lists/cannot-access-office-365-groups-in-outlook.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/cannot-access-office-365-groups-in-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/groups-and-distribution-lists/cannot-manage-dg.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/cannot-manage-dg",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/groups-and-distribution-lists/cannot-manage-group-synced-from-on-premises.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/cannot-manage-group-synced-from-on-premises",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/groups-and-distribution-lists/dynamic-distribution-group-members-not-receive-emails.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/dynamic-distribution-group-members-not-receive-emails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/groups-and-distribution-lists/mail-enabled-security-group-not-hidden.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/mail-enabled-security-group-not-hidden",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/groups-and-distribution-lists/on-premises-security-groups-not-synced-to-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/on-premises-security-groups-not-synced-to-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/1007-accessdenied-or-ensure-your-system-time-is-correct-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/1007-accessdenied-or-ensure-your-system-time-is-correct-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/active-directory-operation-failed-on-domaincontroller-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/active-directory-operation-failed-on-domaincontroller-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/error-hybrid-config-wizard.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/error-hybrid-config-wizard",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/execution-failed-configure-legacy-exchange-support-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/execution-failed-configure-legacy-exchange-support-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/free-busy-sharing-issues-tls12.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/free-busy-sharing-issues-tls12",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/get-webservicesvirtualdirectory-cmdlet-execution-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/get-webservicesvirtualdirectory-cmdlet-execution-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw-errors-about-hybrid-configuration.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw-errors-about-hybrid-configuration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw-erros-about-accepted-domains.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw-erros-about-accepted-domains",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw-has-completed-but-was-not-able-to-perform-oauth.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw-has-completed-but-was-not-able-to-perform-oauth",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw-invalidsmtpdomainname-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw-invalidsmtpdomainname-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw-subtask-configure-execution-failed.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw-subtask-configure-execution-failed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw8008-not-have-client-access-server-role-installed.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw8008-not-have-client-access-server-role-installed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw8010-default-receive-connector-not-found.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw8010-default-receive-connector-not-found",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw8011-multiple-send-connectors-found.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw8011-multiple-send-connectors-found",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw8014-client-access-servers-not-properly-cleared.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw8014-client-access-servers-not-properly-cleared",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw8018-external-ip-addresses-not-cleared.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw8018-external-ip-addresses-not-cleared",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw8034-or-hcw8057-error-when-runninghybrid-configuration-wizard.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw8034-or-hcw8057-error-when-runninghybrid-configuration-wizard",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw8039-address-space-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw8039-address-space-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw8043-edge-transport-servers-not-specified.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw8043-edge-transport-servers-not-specified",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw8091-error-when-running-hybrid-configuratio-wizard.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw8091-error-when-running-hybrid-configuratio-wizard",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hcw8100-hcw8084-or-hcw8083-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hcw8100-hcw8084-or-hcw8083-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hybrid-configuration-wizard-fails-to-show-digital-certificates.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hybrid-configuration-wizard-fails-to-show-digital-certificates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hybrid-configuration-wizard-not-connect-to-office-365.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hybrid-configuration-wizard-not-connect-to-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/hybrid-domain-domain-isnt-accepted-domain-for-cloud-organization-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/hybrid-domain-domain-isnt-accepted-domain-for-cloud-organization-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/legacy-email-address-policy-not-automatically-updated.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/legacy-email-address-policy-not-automatically-updated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/new-hybrid-configuration-wizard-crashes-with-0xe0434352.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/new-hybrid-configuration-wizard-crashes-with-0xe0434352",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/no-federation-trust-is-configured-for-this-organization-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/no-federation-trust-is-configured-for-this-organization-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/object-reference-not-set-to-an-instance-of-an-object-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/object-reference-not-set-to-an-instance-of-an-object-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/proof-of-domain-ownership-has-failed-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/proof-of-domain-ownership-has-failed-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/relay-access-denied-attr36-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/relay-access-denied-attr36-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/request-failed-with-http-status-403-forbidden.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/request-failed-with-http-status-403-forbidden",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/request-was-aborted-could-not-create-ssl-tls-secure-channel.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/request-was-aborted-could-not-create-ssl-tls-secure-channel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/requiredtls-flag-should-be-set-to-true-if-tlscertificatename-is-specified-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/requiredtls-flag-should-be-set-to-true-if-tlscertificatename-is-specified-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/run-hcw-exception-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/run-hcw-exception-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/run-hybrid-configuration-wizard-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/run-hybrid-configuration-wizard-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/running-hybrid-configuration-wizard-fails.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/running-hybrid-configuration-wizard-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/same-uri-not-attached-to-different-appid-on-single-day.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/same-uri-not-attached-to-different-appid-on-single-day",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/secure-mail-certificate-on-server-is-not-bound-to-smtp-service-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/secure-mail-certificate-on-server-is-not-bound-to-smtp-service-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/sending-mailbox-server-error-running-hcw.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/sending-mailbox-server-error-running-hcw",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/ssl-certificate-could-not-be-checked.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/ssl-certificate-could-not-be-checked",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/state-of-runspace-is-not-valid-for-this-operation-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/state-of-runspace-is-not-valid-for-this-operation-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/system-management-automation-pipelinestoppedexception.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/system-management-automation-pipelinestoppedexception",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/term-get-hybridmailflowdatacenterips-is-not-recognized-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/term-get-hybridmailflowdatacenterips-is-not-recognized-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/term-get-organizationconfig-is-not-recognized-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/term-get-organizationconfig-is-not-recognized-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/the-domains-already-exist-in-another-organization-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/the-domains-already-exist-in-another-organization-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/the-underlying-connection-was-closed-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/the-underlying-connection-was-closed-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/the-wsman-client-cannot-process-the-request-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/the-wsman-client-cannot-process-the-request-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/total-number-of-explicit-and-implicit-sub-filters-exceeds-maximum-250-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/total-number-of-explicit-and-implicit-sub-filters-exceeds-maximum-250-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/unable-to-determine-the-routing-domain-for-the-cloud-org.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/unable-to-determine-the-routing-domain-for-the-cloud-org",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/user-not-assigned-to-any-management-roles.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/user-not-assigned-to-any-management-roles",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/web-services-external-url-is-not-set-on-the-on-premises-server-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/web-services-external-url-is-not-set-on-the-on-premises-server-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/hybrid-configuration-wizard-errors/winrm-client-cannot-complete-operation-with-time-specified-error.md",
+      "redirect_url": "/troubleshoot/exchange/hybrid-configuration-wizard-errors/winrm-client-cannot-complete-operation-with-time-specified-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/access-is-denied-error-when-moving-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/access-is-denied-error-when-moving-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/cannot-migrate-on-premises-primary-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/cannot-migrate-on-premises-primary-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/cannot-move-items-using-owa.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/cannot-move-items-using-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/cannot-offboard-mailboxes-to-unsupported-exchange-server-versions.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/cannot-offboard-mailboxes-to-unsupported-exchange-server-versions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/cannot-register-hybrid-agent.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/cannot-register-hybrid-agent",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/error-move-mailboxes-to-from-o365.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/error-move-mailboxes-to-from-o365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/extension-number-not-generated-error.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/extension-number-not-generated-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/hybrid-deployment-errors.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/hybrid-deployment-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/hybrid-move-fails.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/hybrid-move-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/large-mailbox-migrations-are-slow-due-to-network-latency.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/large-mailbox-migrations-are-slow-due-to-network-latency",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/mailbox-migration-reached-maximum-number.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/mailbox-migration-reached-maximum-number",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/mailbox-move-to-cloud-fail-with-error.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/mailbox-move-to-cloud-fail-with-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/migration-fails-multiple-entries-error.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/migration-fails-multiple-entries-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/migrationpermanentexception-error-when-moving-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/migrationpermanentexception-error-when-moving-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/migrationpermanentexception-when-moving-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/migrationpermanentexception-when-moving-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/offboarding-mailbox-fails-homemdb-homemta.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/offboarding-mailbox-fails-homemdb-homemta",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/operation-has-timed-out-error-when-moving-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/operation-has-timed-out-error-when-moving-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/remote-server-returned-error-403-forbidden.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/remote-server-returned-error-403-forbidden",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/user-is-already-being-moved-error.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/user-is-already-being-moved-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/move-mailboxes/you-must-specify-the-primaryonly-parameter-error.md",
+      "redirect_url": "/troubleshoot/exchange/move-mailboxes/you-must-specify-the-primaryonly-parameter-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/public-folders/cannot-access-legacy-on-premises-public-folders.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-access-legacy-on-premises-public-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/public-folders/credential-prompt-access-on-premises-public-folders.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/credential-prompt-access-on-premises-public-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/public-folders/it-is-not-possible-to-expand-the-folder-error.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/it-is-not-possible-to-expand-the-folder-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/public-folders/outlook-for-mac-unable-access-public-folders.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/outlook-for-mac-unable-access-public-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/send-emails/delegate-cannot-send-on-behalf-of-after-migration.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/delegate-cannot-send-on-behalf-of-after-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/send-emails/delegates-not-listed-correctly-in-outlook-after-migration.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/delegates-not-listed-correctly-in-outlook-after-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/send-emails/emails-show-addresses-not-display-names-in-from.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/emails-show-addresses-not-display-names-in-from",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/send-emails/microsoft-365-users-cannot-receive-out-of-office-notification.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/microsoft-365-users-cannot-receive-out-of-office-notification",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/send-emails/on-premises-users-cannot-see-mailtips.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/on-premises-users-cannot-see-mailtips",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/send-emails/out-of-office-replies-and-voting-options-appear-incorrectly.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/out-of-office-replies-and-voting-options-appear-incorrectly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/send-emails/overview-delegation-office-365-hybrid.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/overview-delegation-office-365-hybrid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/send-emails/two-onedrive-accounts-when-uploading-attachments.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/two-onedrive-accounts-when-uploading-attachments",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/user-and-shared-mailboxes/cannot-access-hidden-mailbox-in-outlook-after-migration.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/cannot-access-hidden-mailbox-in-outlook-after-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/user-and-shared-mailboxes/cannot-access-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/cannot-access-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/user-and-shared-mailboxes/cannot-add-permissions-to-user-or-room-mailbox-in-another-forest.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/cannot-add-permissions-to-user-or-room-mailbox-in-another-forest",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/user-and-shared-mailboxes/cannot-add-room-or-resource-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/cannot-add-room-or-resource-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/user-and-shared-mailboxes/litigationholdenabled-property-differs-onpremises-cloud.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/litigationholdenabled-property-differs-onpremises-cloud",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/user-and-shared-mailboxes/mailbox-exists-exo-onpremises.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/mailbox-exists-exo-onpremises",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/user-and-shared-mailboxes/shared-mailboxes-unexpectedly-converted-to-user-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/shared-mailboxes-unexpectedly-converted-to-user-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/user-and-shared-mailboxes/still-can-access-mailbox-after-moved.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/still-can-access-mailbox-after-moved",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/user-and-shared-mailboxes/users-prompted-credentials-after-adding-shared-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/users-prompted-credentials-after-adding-shared-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/access-denied-connect-powershell.md",
+      "redirect_url": "/troubleshoot/exchange/administration/access-denied-connect-powershell",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/bad-request-error-when-connecting-to-exchange-online-powershell.md",
+      "redirect_url": "/troubleshoot/exchange/administration/bad-request-error-when-connecting-to-exchange-online-powershell",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cannot-browse-groups-in-owa.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-browse-groups-in-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cannot-connect-mailbox-pop-imap-outlook.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-connect-mailbox-pop-imap-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cannot-connect-to-exchange-online-or-create-new-profiles.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-connect-to-exchange-online-or-create-new-profiles",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cannot-connect-to-security-compliance-powershell.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-connect-to-security-compliance-powershell",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cannot-disable-facebook-contact-sync-for-organization.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-disable-facebook-contact-sync-for-organization",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cannot-establish-tls-connection-to-remote-mail-server.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-establish-tls-connection-to-remote-mail-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cannot-view-freebusy-info-after-setting-organization-relationship.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-view-freebusy-info-after-setting-organization-relationship",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cannot-view-freebusy-information.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-view-freebusy-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/changes-to-msexchangehiddenfromaddresslist-not-updated-against-recipient.md",
+      "redirect_url": "/troubleshoot/exchange/administration/changes-to-msexchangehiddenfromaddresslist-not-updated-against-recipient",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/cisco-unity-duplicate-voicemails-in-mailbox-hosted-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cisco-unity-duplicate-voicemails-in-mailbox-hosted-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/convert-value-error-disabling-enable-forwarding-option.md",
+      "redirect_url": "/troubleshoot/exchange/administration/convert-value-error-disabling-enable-forwarding-option",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/create-organization-relationships-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/create-organization-relationships-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/data-in-the-command-exceeded-the-maximum-permitted-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/data-in-the-command-exceeded-the-maximum-permitted-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/description-of-the-files-folder-in-office-365.md",
+      "redirect_url": "/troubleshoot/exchange/administration/description-of-the-files-folder-in-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/eac-slow-to-display-recipients-if-powershell-transcription-is-turned-on.md",
+      "redirect_url": "/troubleshoot/exchange/administration/eac-slow-to-display-recipients-if-powershell-transcription-is-turned-on",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/enable-ummailbox-cannot-be-performed-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/enable-ummailbox-cannot-be-performed-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/event-id-1014-when-connecting-to-exchange-online-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/administration/event-id-1014-when-connecting-to-exchange-online-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/federated-users-cannot-connect-to-exchange-online-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/administration/federated-users-cannot-connect-to-exchange-online-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/get-federationinformation-cmdlet-unsecure-redirect-warning.md",
+      "redirect_url": "/troubleshoot/exchange/administration/get-federationinformation-cmdlet-unsecure-redirect-warning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/getfolder-requests-return-wrong-totalcount-values.md",
+      "redirect_url": "/troubleshoot/exchange/administration/getfolder-requests-return-wrong-totalcount-values",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/hop-count-exceeded-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/administration/hop-count-exceeded-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/how-to-change-your-user-photo.md",
+      "redirect_url": "/troubleshoot/exchange/administration/how-to-change-your-user-photo",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/how-to-create-organizational-forms-library.md",
+      "redirect_url": "/troubleshoot/exchange/administration/how-to-create-organizational-forms-library",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/how-to-disable-exchange-activesync-for-users.md",
+      "redirect_url": "/troubleshoot/exchange/administration/how-to-disable-exchange-activesync-for-users",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/how-to-use-powershell-to-grant-admin-access-to-all-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/administration/how-to-use-powershell-to-grant-admin-access-to-all-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/imported-pst-file-content-hidden-in-archive-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/administration/imported-pst-file-content-hidden-in-archive-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/incorrect-output-when-running-get-casmailbox.md",
+      "redirect_url": "/troubleshoot/exchange/administration/incorrect-output-when-running-get-casmailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/incorrect-settings.md",
+      "redirect_url": "/troubleshoot/exchange/administration/incorrect-settings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/invalidshellid-error-in-rps.md",
+      "redirect_url": "/troubleshoot/exchange/administration/invalidshellid-error-in-rps",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/items-missing-on-exchange-activesync-client.md",
+      "redirect_url": "/troubleshoot/exchange/administration/items-missing-on-exchange-activesync-client",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/mailbox-quotas-not-increased-automatically-for-qualifing-licenses.md",
+      "redirect_url": "/troubleshoot/exchange/administration/mailbox-quotas-not-increased-automatically-for-qualifing-licenses",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/mailnickname-alias-exchange-online-not-match-on-premises.md",
+      "redirect_url": "/troubleshoot/exchange/administration/mailnickname-alias-exchange-online-not-match-on-premises",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/manage-mailbox-on-premises.md",
+      "redirect_url": "/troubleshoot/exchange/administration/manage-mailbox-on-premises",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/migrate-ad-rms-to-azure.md",
+      "redirect_url": "/troubleshoot/exchange/administration/migrate-ad-rms-to-azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/mobile-device-cannot-connect-via-activesync.md",
+      "redirect_url": "/troubleshoot/exchange/administration/mobile-device-cannot-connect-via-activesync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/modern-authentication-configuration.md",
+      "redirect_url": "/troubleshoot/exchange/administration/modern-authentication-configuration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/new-address-lists-not-contains-all-recipients.md",
+      "redirect_url": "/troubleshoot/exchange/administration/new-address-lists-not-contains-all-recipients",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/object-not-match-target-type.md",
+      "redirect_url": "/troubleshoot/exchange/administration/object-not-match-target-type",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/objectclass-returns-unknown-value.md",
+      "redirect_url": "/troubleshoot/exchange/administration/objectclass-returns-unknown-value",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/office-365-users-cannot-add-new-apps-to-outlook-web-app.md",
+      "redirect_url": "/troubleshoot/exchange/administration/office-365-users-cannot-add-new-apps-to-outlook-web-app",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/outlook-cannot-connect-via-proxy-set-by-pac.md",
+      "redirect_url": "/troubleshoot/exchange/administration/outlook-cannot-connect-via-proxy-set-by-pac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/outlook-for-mac-2011-not-connect-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/administration/outlook-for-mac-2011-not-connect-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/pop-imap-auth-fails-if-x-ms-client-application-is-microsoft-exchange-popimap.md",
+      "redirect_url": "/troubleshoot/exchange/administration/pop-imap-auth-fails-if-x-ms-client-application-is-microsoft-exchange-popimap",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/public-folder-permissions-in-exchange-admin-center-show-guid-not-name.md",
+      "redirect_url": "/troubleshoot/exchange/administration/public-folder-permissions-in-exchange-admin-center-show-guid-not-name",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/recover-inactive-mailboxes-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/recover-inactive-mailboxes-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/release-messages-prompted-client-certificate.md",
+      "redirect_url": "/troubleshoot/exchange/administration/release-messages-prompted-client-certificate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/remote-mailbox-created-in-ad-ds-not-aclable.md",
+      "redirect_url": "/troubleshoot/exchange/administration/remote-mailbox-created-in-ad-ds-not-aclable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/self-help-diagnostics.md",
+      "redirect_url": "/troubleshoot/exchange/administration/self-help-diagnostics",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/send-on-behalf-for-shared-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/administration/send-on-behalf-for-shared-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/site-mailbox-retirement-faq.md",
+      "redirect_url": "/troubleshoot/exchange/administration/site-mailbox-retirement-faq",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/slow-repeated-calls-against-same-folder.md",
+      "redirect_url": "/troubleshoot/exchange/administration/slow-repeated-calls-against-same-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/the-length-of-the-property-is-too-long-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/the-length-of-the-property-is-too-long-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/too-many-proxy-addresses-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/too-many-proxy-addresses-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/toomanybaditemspermanentexception-during-migration.md",
+      "redirect_url": "/troubleshoot/exchange/administration/toomanybaditemspermanentexception-during-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/troubleshoot-windows-powershell-issues-for-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/administration/troubleshoot-windows-powershell-issues-for-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/unable-to-import-trusted-publishing-domain-from-rms-online.md",
+      "redirect_url": "/troubleshoot/exchange/administration/unable-to-import-trusted-publishing-domain-from-rms-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/update-contact-information.md",
+      "redirect_url": "/troubleshoot/exchange/administration/update-contact-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/update-of-client-access-rules-for-office-365-customers.md",
+      "redirect_url": "/troubleshoot/exchange/administration/update-of-client-access-rules-for-office-365-customers",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/validation-errors-for-mailbox-archive-guid.md",
+      "redirect_url": "/troubleshoot/exchange/administration/validation-errors-for-mailbox-archive-guid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/view-update-address-list-membership.md",
+      "redirect_url": "/troubleshoot/exchange/administration/view-update-address-list-membership",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/voice-mail-settings-missing-from-options.md",
+      "redirect_url": "/troubleshoot/exchange/administration/voice-mail-settings-missing-from-options",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/windows-mail-app-not-blocked.md",
+      "redirect_url": "/troubleshoot/exchange/administration/windows-mail-app-not-blocked",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/winrm-cannot-process-request.md",
+      "redirect_url": "/troubleshoot/exchange/administration/winrm-cannot-process-request",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/wrong-format-exchange-object-version.md",
+      "redirect_url": "/troubleshoot/exchange/administration/wrong-format-exchange-object-version",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/administration/you-dont-have-permissions-to-update-the-options-you-specified-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/you-dont-have-permissions-to-update-the-options-you-specified-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam-and-protection/cannot-send-emails-to-external-recipients.md",
+      "redirect_url": "/troubleshoot/exchange/antispam-and-protection/cannot-send-emails-to-external-recipients",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam-and-protection/cautions-against-bypassing-spam-filters.md",
+      "redirect_url": "/troubleshoot/exchange/antispam-and-protection/cautions-against-bypassing-spam-filters",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam-and-protection/recoverable-items-folder-full.md",
+      "redirect_url": "/troubleshoot/exchange/antispam-and-protection/recoverable-items-folder-full",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/antispam-and-protection/smtpsend-barelinefeedsareillegal-when-tracing-messages.md",
+      "redirect_url": "/troubleshoot/exchange/antispam-and-protection/smtpsend-barelinefeedsareillegal-when-tracing-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/activesync-not-downloading-attachments-to-calendar-items.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/activesync-not-downloading-attachments-to-calendar-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/attendees-receive-multiple-meeting-invitations.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/attendees-receive-multiple-meeting-invitations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/calendar-on-mobile-device-not-synced-to-online-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/calendar-on-mobile-device-not-synced-to-online-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/cannot-accept-meeting-invitation-for-room-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-accept-meeting-invitation-for-room-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/cannot-access-shared-calendar-for-hidden-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-access-shared-calendar-for-hidden-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/cannot-remove-items.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-remove-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/cannot-view-another-user-calendar-free-busy-information.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cannot-view-another-user-calendar-free-busy-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/cdl/analyze-calendar-diagnostic-logs.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cdl/analyze-calendar-diagnostic-logs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/cdl/get-calendar-diagnostic-logs.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cdl/get-calendar-diagnostic-logs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/cdl/get-meeting-id.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cdl/get-meeting-id",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/cdl/use-calendar-diagnostic-logs.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/cdl/use-calendar-diagnostic-logs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/conference-rooms-not-displayed.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/conference-rooms-not-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/default-calendar-not-returned-by-graph-rest-api.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/default-calendar-not-returned-by-graph-rest-api",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/delegate-cannot-accept-meeting-request-using-owa.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/delegate-cannot-accept-meeting-request-using-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/delegate-only-sees-freebusy-info-if-manager-is-in-another-forest.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/delegate-only-sees-freebusy-info-if-manager-is-in-another-forest",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/delegates-accept-meetings-automatically.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/delegates-accept-meetings-automatically",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/meeting-requests-routed-through-third-party-service-not-auto-processed.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/meeting-requests-routed-through-third-party-service-not-auto-processed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/meeting-requests-sent-to-resource-mailbox-added-to-resource-delegate-calendar.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/meeting-requests-sent-to-resource-mailbox-added-to-resource-delegate-calendar",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/no-free-busy-information-retrieved.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/no-free-busy-information-retrieved",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/not-receive-confirmation-after-booking-meeting.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/not-receive-confirmation-after-booking-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/public-folder-meetings-not-modified-in-owa.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/public-folder-meetings-not-modified-in-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/resource-doesnt-respond-to-meeting-requests-when-using-booking.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/resource-doesnt-respond-to-meeting-requests-when-using-booking",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/room-list-not-viewable-in-outlook.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/room-list-not-viewable-in-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/room-mailbox-not-process-meeting-request.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/room-mailbox-not-process-meeting-request",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/shared-calendar-in-delegate-online-archive.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/shared-calendar-in-delegate-online-archive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/store-reached-maximum-size.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/store-reached-maximum-size",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/use-resource-booking-attendant-logs.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/use-resource-booking-attendant-logs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/users-can-see-only-basic-freebusy-mailbox-information.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/users-can-see-only-basic-freebusy-mailbox-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/calendars/you-still-can-reserve-a-meeting-room-even-if-it-is-reserved.md",
+      "redirect_url": "/troubleshoot/exchange/calendars/you-still-can-reserve-a-meeting-room-even-if-it-is-reserved",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/development/pox-autodiscover-not-supported-oauth-client-credentials-grant.md",
+      "redirect_url": "/troubleshoot/exchange/development/pox-autodiscover-not-supported-oauth-client-credentials-grant",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-alias/address-not-autocompleted-or-suggested.md",
+      "redirect_url": "/troubleshoot/exchange/email-alias/address-not-autocompleted-or-suggested",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-alias/proxy-address-being-used.md",
+      "redirect_url": "/troubleshoot/exchange/email-alias/proxy-address-being-used",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-alias/remove-an-alias-from-a-contact.md",
+      "redirect_url": "/troubleshoot/exchange/email-alias/remove-an-alias-from-a-contact",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-alias/remove-an-alias-from-a-distribution-list.md",
+      "redirect_url": "/troubleshoot/exchange/email-alias/remove-an-alias-from-a-distribution-list",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-alias/remove-an-alias-from-a-group.md",
+      "redirect_url": "/troubleshoot/exchange/email-alias/remove-an-alias-from-a-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-alias/remove-an-alias-from-a-mail-enabled-security-group.md",
+      "redirect_url": "/troubleshoot/exchange/email-alias/remove-an-alias-from-a-mail-enabled-security-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-alias/remove-an-alias-from-a-shared-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/email-alias/remove-an-alias-from-a-shared-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-alias/remove-an-email-alias.md",
+      "redirect_url": "/troubleshoot/exchange/email-alias/remove-an-email-alias",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/administrative-limit-for-this-request-was-exceeded-error.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/administrative-limit-for-this-request-was-exceeded-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/autoforward-mail-exclusions-not-honored-transport-rule.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/autoforward-mail-exclusions-not-honored-transport-rule",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/cannot-validate-outbound-connector.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/cannot-validate-outbound-connector",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/configure-proofpoint-with-exchange.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/configure-proofpoint-with-exchange",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/custom-messages-replaced-by-default-system-messages.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/custom-messages-replaced-by-default-system-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/delivery-receipts-are-not-generated.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/delivery-receipts-are-not-generated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/email-delivery-issues.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/email-delivery-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/emails-not-received-for-new-domain.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/emails-not-received-for-new-domain",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/external-recipients-not-receiving-distribution-group-emails.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/external-recipients-not-receiving-distribution-group-emails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/how-to-block-message-from-being-sent-or-received.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/how-to-block-message-from-being-sent-or-received",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/imceaex-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/imceaex-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/messages-with-attachments-are-not-delivered.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/messages-with-attachments-are-not-delivered",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/550-5-6-0-approval-invalidexpiry-cannot-read-expiry-poilcy-error.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/550-5-6-0-approval-invalidexpiry-cannot-read-expiry-poilcy-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/550-x-dg-ref-header-too-long-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/550-x-dg-ref-header-too-long-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/badprimary-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/badprimary-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/cannot-send-mail-mepf.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/cannot-send-mail-mepf",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/exrecipnotfound-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/exrecipnotfound-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-450-4-4-317-untrusted-root.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-450-4-4-317-untrusted-root",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-451-4-7-500-699-asxxx-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-451-4-7-500-699-asxxx-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-4-6-through-5-4-20-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-5-4-6-through-5-4-20-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-12-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-5-7-12-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-124-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-5-7-124-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-13-or-5-7-135-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-5-7-13-or-5-7-135-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-133-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-5-7-133-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-134-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-5-7-134-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-136-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-5-7-136-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-23-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-5-7-23-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-57-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-5-7-57-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-5-7-64-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-5-7-64-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-550-4-4-7-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-550-4-4-7-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-550-5-0-350-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-550-5-0-350-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-550-5-1-0-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-550-5-1-0-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-550-5-1-1-through-5-1-20-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-550-5-1-1-through-5-1-20-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-550-5-1-10-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-550-5-1-10-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-550-5-1-20-multiple-from-addresses.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-550-5-1-20-multiple-from-addresses",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-550-5-6-11-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-550-5-6-11-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-code-550-5-7-1-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-code-550-5-7-1-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/fix-error-for-submission-quota-exceeded-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/fix-error-for-submission-quota-exceeded-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/invalid-message-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/invalid-message-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/mapiexceptionnotfound-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/mapiexceptionnotfound-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/ndr-received-send-emails-microsoft365-groups.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/ndr-received-send-emails-microsoft365-groups",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/non-delivery-reports-in-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/non-delivery-reports-in-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/recipientnotfound-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/recipientnotfound-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/relay-access-denied-smtp.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/relay-access-denied-smtp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/remote-server-returned-mailbox-busy.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/remote-server-returned-mailbox-busy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/tenantattribution-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/tenantattribution-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr/unable-to-relay-blocked-by-allow-list.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr/unable-to-relay-blocked-by-allow-list",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/ndr-when-external-users-send-email-to-microsoft-365-group.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/ndr-when-external-users-send-email-to-microsoft-365-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/office-365-notice.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/office-365-notice",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/property-length-too-long-error.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/property-length-too-long-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/send-receive-emails-socketerror.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/send-receive-emails-socketerror",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/transport-rule-not-created-because-too-large.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/transport-rule-not-created-because-too-large",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/understand-troubleshoot-oof-replies.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/understand-troubleshoot-oof-replies",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/email-delivery/wrong-office-365-region-exo.md",
+      "redirect_url": "/troubleshoot/exchange/email-delivery/wrong-office-365-region-exo",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/exchange-online-welcome.yml",
+      "redirect_url": "/troubleshoot/exchange/exchange-online-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/cannot-determine-group-type-error.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/cannot-determine-group-type-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/cannot-empty-deleted-items-folder-in-groups.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/cannot-empty-deleted-items-folder-in-groups",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/cannot-manage-hidden-group.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/cannot-manage-hidden-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/cannot-remove-members-exceeding-limit.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/cannot-remove-members-exceeding-limit",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/cannot-upgrade-distribution-lists-to-office-365-groups.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/cannot-upgrade-distribution-lists-to-office-365-groups",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/inconsistent-performance-with-contacts.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/inconsistent-performance-with-contacts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/mail-enabled-groups-not-synchronized.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/mail-enabled-groups-not-synchronized",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/mailtip-shows-wrong-number-of-recipients.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/mailtip-shows-wrong-number-of-recipients",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/microsoft-365-group-does-not-appear-in-outlook.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/microsoft-365-group-does-not-appear-in-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/no-sufficient-permissions-moving-dg.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/no-sufficient-permissions-moving-dg",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/o365-group-tasks.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/o365-group-tasks",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/prevent-users-create-manage-dg.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/prevent-users-create-manage-dg",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/groups-and-distribution-lists/problem-adding-guest-user-to-group.md",
+      "redirect_url": "/troubleshoot/exchange/groups-and-distribution-lists/problem-adding-guest-user-to-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/mobile-devices/cannot-create-mail-profile-on-ios-device-via-autodiscover.md",
+      "redirect_url": "/troubleshoot/exchange/mobile-devices/cannot-create-mail-profile-on-ios-device-via-autodiscover",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/mobile-devices/cannot-remove-mobile-device-partnership.md",
+      "redirect_url": "/troubleshoot/exchange/mobile-devices/cannot-remove-mobile-device-partnership",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/mobile-devices/duplicate-contacts-in-ios-contacts-app.md",
+      "redirect_url": "/troubleshoot/exchange/mobile-devices/duplicate-contacts-in-ios-contacts-app",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/mobile-devices/how-to-use-owa-remotely-wipe-mobile-device.md",
+      "redirect_url": "/troubleshoot/exchange/mobile-devices/how-to-use-owa-remotely-wipe-mobile-device",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/mobile-devices/issues-for-mobile-devices.md",
+      "redirect_url": "/troubleshoot/exchange/mobile-devices/issues-for-mobile-devices",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/mobile-devices/mobile-devices-not-quarantined-as-expected.md",
+      "redirect_url": "/troubleshoot/exchange/mobile-devices/mobile-devices-not-quarantined-as-expected",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/mobile-devices/outlook-app-access-end-after-june-1-if-ews-app-policies-not-set-correctly.md",
+      "redirect_url": "/troubleshoot/exchange/mobile-devices/outlook-app-access-end-after-june-1-if-ews-app-policies-not-set-correctly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/mobile-devices/some-android-devices-do-not-redirect-to-exchange-online.md",
+      "redirect_url": "/troubleshoot/exchange/mobile-devices/some-android-devices-do-not-redirect-to-exchange-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/cannot-perform-stage-migration.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/cannot-perform-stage-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/cannot-see-free-busy-information.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/cannot-see-free-busy-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/cannot-view-mailbox-folders-after-imap-migration.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/cannot-view-mailbox-folders-after-imap-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/cutover-migration-invalid-smtp-address.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/cutover-migration-invalid-smtp-address",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/different-type-of-active-directory-object-already-exists-error.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/different-type-of-active-directory-object-already-exists-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/favorites-folders-missing-after-migration.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/favorites-folders-missing-after-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/google-workspace-mailbox-migration-fail.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/google-workspace-mailbox-migration-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/googlepermanentwebexception-in-google-workspace-migration.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/googlepermanentwebexception-in-google-workspace-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/how-to-manage-maximum-concurrent-migration-batches.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/how-to-manage-maximum-concurrent-migration-batches",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/imap-mailbox-migration-fails.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/imap-mailbox-migration-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/issue-with-add-recipientpermission-cmdlet.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/issue-with-add-recipientpermission-cmdlet",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/mailbox-exceeded-maximum-number-of-large-itmes.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/mailbox-exceeded-maximum-number-of-large-itmes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/migrate-data-with-admin-center.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/migrate-data-with-admin-center",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/no-smtp-proxy-matching.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/no-smtp-proxy-matching",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/remote-mailbox-not-moved-when-move-shows-completed.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/remote-mailbox-not-moved-when-move-shows-completed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/resource-ciageoflastnotification-system-is-unhealthy-error.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/resource-ciageoflastnotification-system-is-unhealthy-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/restore-missing-folder-data-after-migration.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/restore-missing-folder-data-after-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/server-name-not-update-after-moved-new-region.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/server-name-not-update-after-moved-new-region",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/stalledduetotarget-processor-error-during-migration.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/stalledduetotarget-processor-error-during-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/storagepermanentexception-during-mailbox-migration.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/storagepermanentexception-during-mailbox-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/target-mailbox-unlock-operation-was-not-replicated-error.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/target-mailbox-unlock-operation-was-not-replicated-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/transientexception-errors-when-moving-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/transientexception-errors-when-moving-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/troubleshoot-issues-with-imap-mailbox-migration.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/troubleshoot-issues-with-imap-mailbox-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/troubleshoot-migration-issues-in-exchange-hybrid.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/troubleshoot-migration-issues-in-exchange-hybrid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/we-werent-able-to-connect-to-the-remote-server-error.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/we-werent-able-to-connect-to-the-remote-server-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/move-or-migrate-mailboxes/whencreated-date-changed.md",
+      "redirect_url": "/troubleshoot/exchange/move-or-migrate-mailboxes/whencreated-date-changed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/blank-lines-truncated-when-moved-to-pst-file.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/blank-lines-truncated-when-moved-to-pst-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/cannot-access-another-mailbox-folder.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/cannot-access-another-mailbox-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/cannot-edit-o365-kiosk-user-calendar.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/cannot-edit-o365-kiosk-user-calendar",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/cannot-find-user-in-offline-address-book.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/cannot-find-user-in-offline-address-book",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/cannot-set-up-profile-autodiscover.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/cannot-set-up-profile-autodiscover",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/cannot-view-outlook-delegates-page.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/cannot-view-outlook-delegates-page",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/connection-to-microsoft-exchange-is-unavailable-error.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/connection-to-microsoft-exchange-is-unavailable-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/crash-issues.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/crash-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/emails-sent-to-wrong-account-if-has-many-accounts.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/emails-sent-to-wrong-account-if-has-many-accounts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/encrypted-connection-unavailable.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/encrypted-connection-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/group-calendar-shows-all-user-free-busy-info.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/group-calendar-shows-all-user-free-busy-info",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/issues-when-using-autodiscover-service.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/issues-when-using-autodiscover-service",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/no-delegate-permissions-after-migration.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/no-delegate-permissions-after-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/office-365-troubleshooting-resources.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/office-365-troubleshooting-resources",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/one-or-more-users-cannot-be-added-to-the-folder-access-list-error.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/one-or-more-users-cannot-be-added-to-the-folder-access-list-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/outlook-cannot-setup-microsoft-365-account.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/outlook-cannot-setup-microsoft-365-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/outlook-client-displays-incorrect-policy.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/outlook-client-displays-incorrect-policy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/outlook-connection-issues.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/outlook-connection-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/outlook-connectivity-issues-when-spi-enabled-on-router.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/outlook-connectivity-issues-when-spi-enabled-on-router",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/outlook-not-responding-when-it-connects-to-exchange-online-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/outlook-not-responding-when-it-connects-to-exchange-online-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/resolve-inbox-rule-issues.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/resolve-inbox-rule-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/show-a-room-list-option-not-displayed-in-room-finder.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/show-a-room-list-option-not-displayed-in-room-finder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/this-message-could-not-be-sent-error-when-sending-emails.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/this-message-could-not-be-sent-error-when-sending-emails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/we-cant-show-mailtips-right-now-warning.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-issues/we-cant-show-mailtips-right-now-warning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/403-sorry-access-denied-error-when-sign-in-owa.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/403-sorry-access-denied-error-when-sign-in-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/archive-mailbox-not-visible.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/archive-mailbox-not-visible",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/cannot-create-new-message-in-owa.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/cannot-create-new-message-in-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/cannot-edit-attached-document-directly-from-message.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/cannot-edit-attached-document-directly-from-message",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/cannot-enter-text-in-emails-in-outlook-on-the-web.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/cannot-enter-text-in-emails-in-outlook-on-the-web",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/cannot-localize-the-default-folders-error.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/cannot-localize-the-default-folders-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/cannot-open-attachments.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/cannot-open-attachments",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/cannot-open-calendar-from-sharing-invitation.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/cannot-open-calendar-from-sharing-invitation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/cannot-open-documents-on-network-file-share.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/cannot-open-documents-on-network-file-share",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/cannot-save-template-in-owa.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/cannot-save-template-in-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/cannot-share-calendar-from-another-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/cannot-share-calendar-from-another-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/items-missing-search-results.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/items-missing-search-results",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/meeting-attendee-has-an-incorrect-time-zone.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/meeting-attendee-has-an-incorrect-time-zone",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/outlook-web-app-unexpectedly-opens-in-the-light-version.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/outlook-web-app-unexpectedly-opens-in-the-light-version",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/participant-must-have-email-address-and-routing-type-for-user-in-rules-error.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/participant-must-have-email-address-and-routing-type-for-user-in-rules-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/publish-calendar-option-missing-from-calendar-settings.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/publish-calendar-option-missing-from-calendar-settings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/read-receipt-incorrect-timezone.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/read-receipt-incorrect-timezone",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/shared-mailboxes-time-zone-setting.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/shared-mailboxes-time-zone-setting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/some-folders-not-visible-in-outlook-on-the-web.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/some-folders-not-visible-in-outlook-on-the-web",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/there-are-multiple-recipients-matching-the-identity-error.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/there-are-multiple-recipients-matching-the-identity-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-on-the-web-issues/this-calendar-not-available-error-when-accessing-calendar.md",
+      "redirect_url": "/troubleshoot/exchange/outlook-on-the-web-issues/this-calendar-not-available-error-when-accessing-calendar",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/add-reviewer-permission-public-folder-calendar-powershell.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/add-reviewer-permission-public-folder-calendar-powershell",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/authrequired-ndr.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/authrequired-ndr",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-access-contact-list.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-access-contact-list",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-copy-move-import-items.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-copy-move-import-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-copy-or-move-pfs.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-copy-or-move-pfs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-create-public-folder-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-create-public-folder-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-delete-items-public-folder.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-delete-items-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-delete-public-folder.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-delete-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-expand-add-public-folder.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-expand-add-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-expand-or-view-content-of-public-folder.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-expand-or-view-content-of-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-finalize-migration-batch.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-finalize-migration-batch",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-restore-deleted-outlook-form.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-restore-deleted-outlook-form",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-send-email-to-contact-list-public-folder.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-send-email-to-contact-list-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/cannot-send-emails-to-mail-enabled-public-folder.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-send-emails-to-mail-enabled-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/dataexporttransientexception-in-public-folder-migration.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/dataexporttransientexception-in-public-folder-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/duplicate-public-folder-mailbox-migration-request.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/duplicate-public-folder-mailbox-migration-request",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/error-create-migration-endpoint.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/error-create-migration-endpoint",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/error-executing-cmdlet-message-in-eac.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/error-executing-cmdlet-message-in-eac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/mailbox-not-found-local-forest-public-folder.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/mailbox-not-found-local-forest-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/mepf-sync-failures-script.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/mepf-sync-failures-script",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/migration-batch-error-too-many-public-folders.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/migration-batch-error-too-many-public-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/new-migrationendpoint-returns-error.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/new-migrationendpoint-returns-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/permissions-settings-not-propagate-eac.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/permissions-settings-not-propagate-eac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/pf-hierarchy-sync-emails.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/pf-hierarchy-sync-emails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/pf-migration-fails-sourcepfprimarymailboxguid.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/pf-migration-fails-sourcepfprimarymailboxguid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/public-folder-auto-replies-incorrect-email-address.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folder-auto-replies-incorrect-email-address",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/public-folder-migration-batch-error.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folder-migration-batch-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/public-folder-migration-errors.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folder-migration-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/public-folder-not-be-mail-enabled.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folder-not-be-mail-enabled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/public-folder-not-send-read-receipt.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folder-not-send-read-receipt",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/public-folder-permission-issues.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folder-permission-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/public-folder-size-exceeds.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folder-size-exceeds",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/public-folder-users-cannot-manage-subfolders.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folder-users-cannot-manage-subfolders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/public-folders-display-gal-clean-up.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folders-display-gal-clean-up",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/security-group-cannot-access-public-folder.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/security-group-cannot-access-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/send-emails-to-mail-enabled-public-folder-error.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/send-emails-to-mail-enabled-public-folder-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/public-folders/unable-expand-public-folder-tree.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/unable-expand-public-folder-tree",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/send-emails/error-when-connecting-to-exchange-online-via-smtp-client.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/error-when-connecting-to-exchange-online-via-smtp-client",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/send-emails/ews-not-support-access-teams-data.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/ews-not-support-access-teams-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/send-emails/how-to-specify-email-message-format.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/how-to-specify-email-message-format",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/send-emails/inline-uuencoded-attachments-garbled-unreadable.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/inline-uuencoded-attachments-garbled-unreadable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/send-emails/senders-not-receiving-out-of-office-notifications.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/senders-not-receiving-out-of-office-notifications",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/send-emails/smtp-submission-improvements.md",
+      "redirect_url": "/troubleshoot/exchange/send-emails/smtp-submission-improvements",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/blank-page-access-shared-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/blank-page-access-shared-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/cannot-access-mailbox-after-remote-mailbox-moves-to-office-365.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/cannot-access-mailbox-after-remote-mailbox-moves-to-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/cannot-connect-to-the-mailbox-error-when-running-search-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/cannot-connect-to-the-mailbox-error-when-running-search-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/cannot-remove-mailbox-permission-office-365.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/cannot-remove-mailbox-permission-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/could-not-find-database-running-cmdlets-for-different-region-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/could-not-find-database-running-cmdlets-for-different-region-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/create-and-manage-resource-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/create-and-manage-resource-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/delays-provision-mailbox-sync-changes.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/delays-provision-mailbox-sync-changes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/email-message-read-status-not-update.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/email-message-read-status-not-update",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/how-to-access-other-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/how-to-access-other-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/http-500-error-when-publishing-calendar-of-shared-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/http-500-error-when-publishing-calendar-of-shared-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/incorrect-missing-time-zone-settings.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/incorrect-missing-time-zone-settings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/increase-or-customize-mailbox-size.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/increase-or-customize-mailbox-size",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/item-count-from-get-mailboxstatistics-shows-more-than-mailboxfolderstatistics.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/item-count-from-get-mailboxstatistics-shows-more-than-mailboxfolderstatistics",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/litigation-hold-mailbox-not-turn-into-inactive.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/litigation-hold-mailbox-not-turn-into-inactive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/no-soft-deleted-mailbox-after-license-removal.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/no-soft-deleted-mailbox-after-license-removal",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/office-365-groups-not-visible-from-shared-mail.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/office-365-groups-not-visible-from-shared-mail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/on-behalf-of-reply-from-resource-delegate-to-meeting-organizer.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/on-behalf-of-reply-from-resource-delegate-to-meeting-organizer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/pop3-imap-owa-activesync-office-365.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/pop3-imap-owa-activesync-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/private-items-not-display.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/private-items-not-display",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/rest-api-is-not-yet-supported-for-this-mailbox-error.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/rest-api-is-not-yet-supported-for-this-mailbox-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/sent-mail-is-not-saved.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/sent-mail-is-not-saved",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/user-and-shared-mailboxes/set-automatic-replies.md",
+      "redirect_url": "/troubleshoot/exchange/user-and-shared-mailboxes/set-automatic-replies",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/1007-access-denied-delete-federation-trust.md",
+      "redirect_url": "/troubleshoot/exchange/administration/1007-access-denied-delete-federation-trust",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/400-bad-request-access-options-page.md",
+      "redirect_url": "/troubleshoot/exchange/administration/400-bad-request-access-options-page",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/403-forbidden-view-free-busy-information.md",
+      "redirect_url": "/troubleshoot/exchange/administration/403-forbidden-view-free-busy-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/ad-error-0x52-install-edge-role.md",
+      "redirect_url": "/troubleshoot/exchange/administration/ad-error-0x52-install-edge-role",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/add-database-copy-seeding-operation-failed.md",
+      "redirect_url": "/troubleshoot/exchange/administration/add-database-copy-seeding-operation-failed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/avoid-unsupported-integration-methods.md",
+      "redirect_url": "/troubleshoot/exchange/administration/avoid-unsupported-integration-methods",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/best-practices-analyzer-returns-no-paging-file-info.md",
+      "redirect_url": "/troubleshoot/exchange/administration/best-practices-analyzer-returns-no-paging-file-info",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/can't-manage-ex19-database-eac.md",
+      "redirect_url": "/troubleshoot/exchange/administration/can't-manage-ex19-database-eac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-access-mailbox-with-receive-as-permission.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-access-mailbox-with-receive-as-permission",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-access-owa-or-ecp-if-oauth-expired.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-access-owa-or-ecp-if-oauth-expired",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-change-distribution-group-ownership.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-change-distribution-group-ownership",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-configure-out-of-office-message-owa-ecp.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-configure-out-of-office-message-owa-ecp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-eac-add-remote-shared-mailbox-distribution-group.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-eac-add-remote-shared-mailbox-distribution-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-find-the-organizational-unit.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-find-the-organizational-unit",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-grant-delegate-permission-to-security-group.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-grant-delegate-permission-to-security-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-import-third-party-certificate.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-import-third-party-certificate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-install-exchange-cu-localized-windows.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-install-exchange-cu-localized-windows",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-remove-remote-shared-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-remove-remote-shared-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-restore-individual-database-via-backup.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-restore-individual-database-via-backup",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-restore-lun-drive.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-restore-lun-drive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-update-password-windows.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-update-password-windows",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cannot-use-eac-export-pst-file.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cannot-use-eac-export-pst-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cmdlet-parameter-combinations-not-working.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cmdlet-parameter-combinations-not-working",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cmdlets-fail-powershell-ise.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cmdlets-fail-powershell-ise",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/connecting-remote-server-failed.md",
+      "redirect_url": "/troubleshoot/exchange/administration/connecting-remote-server-failed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/could-not-load-file-or-assembly-browsing-ews-or-autodiscover.md",
+      "redirect_url": "/troubleshoot/exchange/administration/could-not-load-file-or-assembly-browsing-ews-or-autodiscover",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cross-forest-free-busy-lookup-fails.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cross-forest-free-busy-lookup-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/cross-forest-or-hybrid-free-busy-lookups-fail.md",
+      "redirect_url": "/troubleshoot/exchange/administration/cross-forest-or-hybrid-free-busy-lookups-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/dag-network-misconfigured-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/dag-network-misconfigured-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/database-switchover-causes-exassertexception.md",
+      "redirect_url": "/troubleshoot/exchange/administration/database-switchover-causes-exassertexception",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/default-anonymous-permission-cannot-restore.md",
+      "redirect_url": "/troubleshoot/exchange/administration/default-anonymous-permission-cannot-restore",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/delete-junk-email-rules-mfcmapi-exchange.md",
+      "redirect_url": "/troubleshoot/exchange/administration/delete-junk-email-rules-mfcmapi-exchange",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/disabled-options-in-resource-scheduling.md",
+      "redirect_url": "/troubleshoot/exchange/administration/disabled-options-in-resource-scheduling",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/email-received-via-eop-not-journaled.md",
+      "redirect_url": "/troubleshoot/exchange/administration/email-received-via-eop-not-journaled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/empty-storagelimitstatus-run-get-mailboxstatistics.md",
+      "redirect_url": "/troubleshoot/exchange/administration/empty-storagelimitstatus-run-get-mailboxstatistics",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/error-0x6f7-add-server-to-dag.md",
+      "redirect_url": "/troubleshoot/exchange/administration/error-0x6f7-add-server-to-dag",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/error-remove-a-mailbox-database.md",
+      "redirect_url": "/troubleshoot/exchange/administration/error-remove-a-mailbox-database",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/event-9519-error-0x80004005-mount-database.md",
+      "redirect_url": "/troubleshoot/exchange/administration/event-9519-error-0x80004005-mount-database",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/ews-app-pool-crashes.md",
+      "redirect_url": "/troubleshoot/exchange/administration/ews-app-pool-crashes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-2013-end-of-support.md",
+      "redirect_url": "/troubleshoot/exchange/administration/exchange-2013-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-cannot-mount-database-larger-than-1024-gb.md",
+      "redirect_url": "/troubleshoot/exchange/administration/exchange-cannot-mount-database-larger-than-1024-gb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-restarts-frequently-stop-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/exchange-restarts-frequently-stop-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/exchange-server-not-display-all-ou.md",
+      "redirect_url": "/troubleshoot/exchange/administration/exchange-server-not-display-all-ou",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/existing-public-folder-deployment-detected-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/existing-public-folder-deployment-detected-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/fail-to-start-ems-canot-find-path.md",
+      "redirect_url": "/troubleshoot/exchange/administration/fail-to-start-ems-canot-find-path",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/fail-to-start-exchange-management-shell-console.md",
+      "redirect_url": "/troubleshoot/exchange/administration/fail-to-start-exchange-management-shell-console",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/federation-certificate-with-thumbprint-cannot-be-found.md",
+      "redirect_url": "/troubleshoot/exchange/administration/federation-certificate-with-thumbprint-cannot-be-found",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/frontend-transport-service-terminate-run-set-servercomponentstate.md",
+      "redirect_url": "/troubleshoot/exchange/administration/frontend-transport-service-terminate-run-set-servercomponentstate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/get-virtualdirectory-run-slowly.md",
+      "redirect_url": "/troubleshoot/exchange/administration/get-virtualdirectory-run-slowly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/high-memory-usage-by-w3wp-process-of-default-app.md",
+      "redirect_url": "/troubleshoot/exchange/administration/high-memory-usage-by-w3wp-process-of-default-app",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/http-403-error-start-ems.md",
+      "redirect_url": "/troubleshoot/exchange/administration/http-403-error-start-ems",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/http-500-error-during-eac-sign-in.md",
+      "redirect_url": "/troubleshoot/exchange/administration/http-500-error-during-eac-sign-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/http-error-500-start-ems-emc.md",
+      "redirect_url": "/troubleshoot/exchange/administration/http-error-500-start-ems-emc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/hybrid-configuration-wizard-errors-organization-configuration-transfer.md",
+      "redirect_url": "/troubleshoot/exchange/administration/hybrid-configuration-wizard-errors-organization-configuration-transfer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/hybrid-freebusy-lookups-fail.md",
+      "redirect_url": "/troubleshoot/exchange/administration/hybrid-freebusy-lookups-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/incorrect-edge-transport-server-version-eac-ecp.md",
+      "redirect_url": "/troubleshoot/exchange/administration/incorrect-edge-transport-server-version-eac-ecp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/insufficient-access-rights-perform-operation.md",
+      "redirect_url": "/troubleshoot/exchange/administration/insufficient-access-rights-perform-operation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/low-disk-space-on-database-logs-drivers.md",
+      "redirect_url": "/troubleshoot/exchange/administration/low-disk-space-on-database-logs-drivers",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/mailbox-upn-samaccountname-contain-guid.md",
+      "redirect_url": "/troubleshoot/exchange/administration/mailbox-upn-samaccountname-contain-guid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/mailboxes-quarantined-databases-fail-over.md",
+      "redirect_url": "/troubleshoot/exchange/administration/mailboxes-quarantined-databases-fail-over",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/managed-availability-messages-journaled.md",
+      "redirect_url": "/troubleshoot/exchange/administration/managed-availability-messages-journaled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/managing-rbac-roles-display-warnings-or-errors.md",
+      "redirect_url": "/troubleshoot/exchange/administration/managing-rbac-roles-display-warnings-or-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/mcdb-status-is-offline-ssds-aren’t-formatted.md",
+      "redirect_url": "/troubleshoot/exchange/administration/mcdb-status-is-offline-ssds-aren’t-formatted",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/mrsproxyconfiguration-settings-not-honored.md",
+      "redirect_url": "/troubleshoot/exchange/administration/mrsproxyconfiguration-settings-not-honored",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/msexchangedsaccess-event-id-2080.md",
+      "redirect_url": "/troubleshoot/exchange/administration/msexchangedsaccess-event-id-2080",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/multipart-mixed-mime-message-format.md",
+      "redirect_url": "/troubleshoot/exchange/administration/multipart-mixed-mime-message-format",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/no-active-public-folder-mailboxes-were-found-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/no-active-public-folder-mailboxes-were-found-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/no-result-use-number-to-search-excel-attachment.md",
+      "redirect_url": "/troubleshoot/exchange/administration/no-result-use-number-to-search-excel-attachment",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/o365-link-eac-redirect-product-comparison.md",
+      "redirect_url": "/troubleshoot/exchange/administration/o365-link-eac-redirect-product-comparison",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/object-reference-not-set-to-instance-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/object-reference-not-set-to-instance-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/outlook-unable-download-offline-address-book.md",
+      "redirect_url": "/troubleshoot/exchange/administration/outlook-unable-download-offline-address-book",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/outlook-users-cannot-access-public-folders.md",
+      "redirect_url": "/troubleshoot/exchange/administration/outlook-users-cannot-access-public-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/ova-not-available-for-shared-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/administration/ova-not-available-for-shared-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/publicfoldermailboxes-dynamic-distribution-groups.md",
+      "redirect_url": "/troubleshoot/exchange/administration/publicfoldermailboxes-dynamic-distribution-groups",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/remove-mailboxdatabase-cannot-remove-health-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/administration/remove-mailboxdatabase-cannot-remove-health-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/requestor-changed-server-component.md",
+      "redirect_url": "/troubleshoot/exchange/administration/requestor-changed-server-component",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/restore-database-backup-mcdb-enable.md",
+      "redirect_url": "/troubleshoot/exchange/administration/restore-database-backup-mcdb-enable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/s-mime-email-cannot-be-viewed.md",
+      "redirect_url": "/troubleshoot/exchange/administration/s-mime-email-cannot-be-viewed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/scom-reports-unhealthy-health-sets.md",
+      "redirect_url": "/troubleshoot/exchange/administration/scom-reports-unhealthy-health-sets",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/search-mailboxauditlog-returns-aqs-parser-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/search-mailboxauditlog-returns-aqs-parser-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/sendas-permissions-not-visible-in-wizard.md",
+      "redirect_url": "/troubleshoot/exchange/administration/sendas-permissions-not-visible-in-wizard",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/setupversioninformationcorruptexception-when-opening-ems.md",
+      "redirect_url": "/troubleshoot/exchange/administration/setupversioninformationcorruptexception-when-opening-ems",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/term-new-mailbox-not-recognized-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/term-new-mailbox-not-recognized-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/test-irmconfiguration-failed-to-acquire-use-license.md",
+      "redirect_url": "/troubleshoot/exchange/administration/test-irmconfiguration-failed-to-acquire-use-license",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/test-owaconnectivity-ecpconnectivity-cmdlets-fail.md",
+      "redirect_url": "/troubleshoot/exchange/administration/test-owaconnectivity-ecpconnectivity-cmdlets-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/too-many-recipients-update-meeting-distribution-group.md",
+      "redirect_url": "/troubleshoot/exchange/administration/too-many-recipients-update-meeting-distribution-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/unable-install-add-ins-microsoft-store.md",
+      "redirect_url": "/troubleshoot/exchange/administration/unable-install-add-ins-microsoft-store",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/unable-open-ems-launchems.md",
+      "redirect_url": "/troubleshoot/exchange/administration/unable-open-ems-launchems",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/unhealthy-state-monitoring-mailboxes-deleted.md",
+      "redirect_url": "/troubleshoot/exchange/administration/unhealthy-state-monitoring-mailboxes-deleted",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/unifiedcontent-folder-fills-up-drive.md",
+      "redirect_url": "/troubleshoot/exchange/administration/unifiedcontent-folder-fills-up-drive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/unwanted-automapping-results-add-remove-mailbox-permission.md",
+      "redirect_url": "/troubleshoot/exchange/administration/unwanted-automapping-results-add-remove-mailbox-permission",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/upn-suffix-not-display-eac-ems.md",
+      "redirect_url": "/troubleshoot/exchange/administration/upn-suffix-not-display-eac-ems",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/url-invalid-format.md",
+      "redirect_url": "/troubleshoot/exchange/administration/url-invalid-format",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/vss-e-writererror-retryable-error.md",
+      "redirect_url": "/troubleshoot/exchange/administration/vss-e-writererror-retryable-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/winrm-not-process-request-ems-emc.md",
+      "redirect_url": "/troubleshoot/exchange/administration/winrm-not-process-request-ems-emc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/administration/winrm-time-out-add-mailbox-server-to-existing-dag.md",
+      "redirect_url": "/troubleshoot/exchange/administration/winrm-time-out-add-mailbox-server-to-existing-dag",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/454-4-7-0-temporary-authentication-failure.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/454-4-7-0-temporary-authentication-failure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/accessing-shared-mailboxes-fails.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/accessing-shared-mailboxes-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/activesync-clients-not-connect-sync-delay.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/activesync-clients-not-connect-sync-delay",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/add-ins-will-stop-working-outlook-on-the-web.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/add-ins-will-stop-working-outlook-on-the-web",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/attendees-meeting-update-without-changes.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/attendees-meeting-update-without-changes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/calendar-shows-organizer-name.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/calendar-shows-organizer-name",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/can't-connect-error-searching-people-owa.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/can't-connect-error-searching-people-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-access-archive-mailbox-in-outlook.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/cannot-access-archive-mailbox-in-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-access-archive-mailbox-with-full-access.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/cannot-access-archive-mailbox-with-full-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-access-calendar-outlook-web-app.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/cannot-access-calendar-outlook-web-app",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-connect-to-mailbox-via-owa.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/cannot-connect-to-mailbox-via-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-connect-to-pop3-or-imap4.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/cannot-connect-to-pop3-or-imap4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-connect-to-re-enabled-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/cannot-connect-to-re-enabled-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-create-appointment.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/cannot-create-appointment",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-open-shared-folder-owa.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/cannot-open-shared-folder-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-sign-in-or-see-wrong-interface-after-moving-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/cannot-sign-in-or-see-wrong-interface-after-moving-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/cannot-use-autodiscover-to-connect-to-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/cannot-use-autodiscover-to-connect-to-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/color-categories-not-print-outlook-on-the-web.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/color-categories-not-print-outlook-on-the-web",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/connection-to-mail-server-timed-out.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/connection-to-mail-server-timed-out",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/eas-device-is-blocked-by-abq-list.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/eas-device-is-blocked-by-abq-list",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/eas-devices-still-sync-with-disabled-account.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/eas-devices-still-sync-with-disabled-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/ecp-redirection-fails-exchange-2016-on-prem.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/ecp-redirection-fails-exchange-2016-on-prem",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/error-occur-ems-eac-owa.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/error-occur-ems-eac-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/event-1053-activesync-not-have-sufficient-permissions-to-create-container.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/event-1053-activesync-not-have-sufficient-permissions-to-create-container",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/event-1309-code-3005-cannot-access-owa-ecp.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/event-1309-code-3005-cannot-access-owa-ecp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/exchange-security-update-issues.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/exchange-security-update-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/fba-page-shows-when-accessing-owa-or-eac.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/fba-page-shows-when-accessing-owa-or-eac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/http-400-bad-request-open-user-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/http-400-bad-request-open-user-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/incorrect-sent-time-stamp.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/incorrect-sent-time-stamp",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/insecure-connection-secure-connection-unavailable-outlook-ios-android.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/insecure-connection-secure-connection-unavailable-outlook-ios-android",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/one-reply-sent-sender.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/one-reply-sent-sender",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/ost-sync-issues.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/ost-sync-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-anywhere-clients-not-connect-to-server.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/outlook-anywhere-clients-not-connect-to-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-cannot-access-legacy-public-folders.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/outlook-cannot-access-legacy-public-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-connection-issue-caused-by-rpc-encryption-requirement.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/outlook-connection-issue-caused-by-rpc-encryption-requirement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/outlook-not-connect-firewall-proxy-server.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/outlook-not-connect-firewall-proxy-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/owa-and-ecp-unavailable-users-get-security-warning.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/owa-and-ecp-unavailable-users-get-security-warning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/owa-ecp-ems-cannot-connect-after-self-signed-certificate-removed.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/owa-ecp-ems-cannot-connect-after-self-signed-certificate-removed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/owa-not-redirect-adfs-login.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/owa-not-redirect-adfs-login",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/owa-password-expiration-notification.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/owa-password-expiration-notification",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/owa-stops-working-after-update.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/owa-stops-working-after-update",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/performance-issues-connect-to-exchange.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/performance-issues-connect-to-exchange",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/repair-update-messages-triggered-by-timezonematchcheck.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/repair-update-messages-triggered-by-timezonematchcheck",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/ropfasttransfersourcecopyto-operation-fails.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/ropfasttransfersourcecopyto-operation-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/set-up-web-access.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/set-up-web-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/test-outlookconnectivity-fails.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/test-outlookconnectivity-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/troubleshoot-activesync-with-exchange-server.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/troubleshoot-activesync-with-exchange-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/user-cannot-create-new-rules-outlook-owa.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/user-cannot-create-new-rules-outlook-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/client-connectivity/you-have-exceeded-the-storage-limit-for-your-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/client-connectivity/you-have-exceeded-the-storage-limit-for-your-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/cannot-perform-multi-mailbox-search.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/cannot-perform-multi-mailbox-search",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/content-index-state-stuck-crawling-exchange-server-2010.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/content-index-state-stuck-crawling-exchange-server-2010",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/ediscovery-search-ignores-attached-mail-items.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/ediscovery-search-ignores-attached-mail-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/ediscovery-search-ignores-query-keywords.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/ediscovery-search-ignores-query-keywords",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/ediscovery-search-missing-items.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/ediscovery-search-missing-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/items-are-removed-by-mrm-2-0-unexpectedly.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/items-are-removed-by-mrm-2-0-unexpectedly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/mailbox-audit-log-searches-fail-errorinvalidserverversion.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/mailbox-audit-log-searches-fail-errorinvalidserverversion",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/mailbox-database-content-index-shows-failed.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/mailbox-database-content-index-shows-failed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/mrm-not-process-sync-issues-folder.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/mrm-not-process-sync-issues-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/noderunnersexe-stops-search-not-work.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/noderunnersexe-stops-search-not-work",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/reinstall-search-foundation.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/reinstall-search-foundation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/search-adminauditlog-mailboxauditlog-return-no-result.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/search-adminauditlog-mailboxauditlog-return-no-result",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/compliance/search-mailbox-cmdlet-fails.md",
+      "redirect_url": "/troubleshoot/exchange/compliance/search-mailbox-cmdlet-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/development/develop-apps-by-using-exchange-powershell.md",
+      "redirect_url": "/troubleshoot/exchange/development/develop-apps-by-using-exchange-powershell",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/development/mapi-apps-cannot-access-archive-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/development/mapi-apps-cannot-access-archive-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/development/public-protocols-support-limitations.md",
+      "redirect_url": "/troubleshoot/exchange/development/public-protocols-support-limitations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/distribution-list/get-distributiongroupmember-not-return-members.md",
+      "redirect_url": "/troubleshoot/exchange/distribution-list/get-distributiongroupmember-not-return-members",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/exchange-server-welcome.yml",
+      "redirect_url": "/troubleshoot/exchange/exchange-server-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/attachments-dropped-during-imail-conversion.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/attachments-dropped-during-imail-conversion",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/cannot-add-attachment-outlook-web.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/cannot-add-attachment-outlook-web",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/cannot-edit-transport-rule.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/cannot-edit-transport-rule",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/cannot-open-irm-email-dynamic-distribution-group.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/cannot-open-irm-email-dynamic-distribution-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/cannot-remove-installed-certificate.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/cannot-remove-installed-certificate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/cannot-send-email-with-full-access.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/cannot-send-email-with-full-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/cannot-send-receive-email-behind-cisco-firewall.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/cannot-send-receive-email-behind-cisco-firewall",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/cannot-send-smime-encrypted-mail-owa.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/cannot-send-smime-encrypted-mail-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/connector-remote-ip-address-limit-exceeded.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/connector-remote-ip-address-limit-exceeded",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/delivery-emails-with-pictures-delayed.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/delivery-emails-with-pictures-delayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/dns-query-failed-error-when-email-stuck-in-draft.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/dns-query-failed-error-when-email-stuck-in-draft",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/dns-query-failed.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/dns-query-failed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/edge-transport-servers-reject-messages.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/edge-transport-servers-reject-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/email-sent-to-online-appears-external.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/email-sent-to-online-appears-external",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/email-stuck-queues.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/email-stuck-queues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/emails-not-delivered-dynamic-distribution-group.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/emails-not-delivered-dynamic-distribution-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/emails-placed-in-poison-queue.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/emails-placed-in-poison-queue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/error-19738-send-large-email-outlook-mac.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/error-19738-send-large-email-outlook-mac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/event-17018-MSExchangeTransport-service-stop.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/event-17018-MSExchangeTransport-service-stop",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/event-7009-send-receive-emails.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/event-7009-send-receive-emails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/external-or-application-created-emails-cannot-be-delivered.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/external-or-application-created-emails-cannot-be-delivered",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/external-user-cannot-send-email-to-distribution-group.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/external-user-cannot-send-email-to-distribution-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/failed-to-process-message-due-to-transient-exception.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/failed-to-process-message-due-to-transient-exception",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/front-end-microsoft-exchange-transport-service-stops.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/front-end-microsoft-exchange-transport-service-stops",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/get-internet-mx-record-smtp-domain-with-nslookup.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/get-internet-mx-record-smtp-domain-with-nslookup",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/hop-count-exceeded-possible-mail-loop.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/hop-count-exceeded-possible-mail-loop",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/mail-delivery-delay-exchange.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/mail-delivery-delay-exchange",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/message-body-shown-as-attachment.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/message-body-shown-as-attachment",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/outbound-email-messages-are-not-sent.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/outbound-email-messages-are-not-sent",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/owa-cannot-attach-large-files.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/owa-cannot-attach-large-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/read-receipt-shows-incorrect-information.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/read-receipt-shows-incorrect-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/tls-negotiation-failed-with-error-nocredentials-error.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/tls-negotiation-failed-with-error-nocredentials-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/uneven-distribution-messages-basicauth-basicauthrequiretls.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/uneven-distribution-messages-basicauth-basicauthrequiretls",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/mailflow/unreadable-characters-in-subject-line.md",
+      "redirect_url": "/troubleshoot/exchange/mailflow/unreadable-characters-in-subject-line",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/ad-property-homemdb-not-writeable.md",
+      "redirect_url": "/troubleshoot/exchange/migration/ad-property-homemdb-not-writeable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/cannot-access-move-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/migration/cannot-access-move-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/cannot-move-mailbox-to-Exchange-2013-database.md",
+      "redirect_url": "/troubleshoot/exchange/migration/cannot-move-mailbox-to-Exchange-2013-database",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/cannot-replicate-public-folder-to-exchange-server.md",
+      "redirect_url": "/troubleshoot/exchange/migration/cannot-replicate-public-folder-to-exchange-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/cannot-set-folder-security-descriptor-non-canonical-acl.md",
+      "redirect_url": "/troubleshoot/exchange/migration/cannot-set-folder-security-descriptor-non-canonical-acl",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/eac-not-show-mailbox-move-request.md",
+      "redirect_url": "/troubleshoot/exchange/migration/eac-not-show-mailbox-move-request",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/error-move-mailbox-to-database-exchange-2010.md",
+      "redirect_url": "/troubleshoot/exchange/migration/error-move-mailbox-to-database-exchange-2010",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/mailboxes-stalled-during-migration.md",
+      "redirect_url": "/troubleshoot/exchange/migration/mailboxes-stalled-during-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/mapiexceptionpartialcompletion-error-new-moverequest.md",
+      "redirect_url": "/troubleshoot/exchange/migration/mapiexceptionpartialcompletion-error-new-moverequest",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/moving-migration-mailbox-fails.md",
+      "redirect_url": "/troubleshoot/exchange/migration/moving-migration-mailbox-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/msexchange-migration-workflow-not-start.md",
+      "redirect_url": "/troubleshoot/exchange/migration/msexchange-migration-workflow-not-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/new-move-request-remains-queued-status.md",
+      "redirect_url": "/troubleshoot/exchange/migration/new-move-request-remains-queued-status",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/no-free-busy-info-mailbox-move.md",
+      "redirect_url": "/troubleshoot/exchange/migration/no-free-busy-info-mailbox-move",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/public-folders-not-replicate.md",
+      "redirect_url": "/troubleshoot/exchange/migration/public-folders-not-replicate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/remote-move-migration-not-finalize.md",
+      "redirect_url": "/troubleshoot/exchange/migration/remote-move-migration-not-finalize",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/save-changes-made-item-store-migrate-mailbox.md",
+      "redirect_url": "/troubleshoot/exchange/migration/save-changes-made-item-store-migrate-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/migration/subscription-wasnt-found-for-user-error.md",
+      "redirect_url": "/troubleshoot/exchange/migration/subscription-wasnt-found-for-user-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/public-folders/cannot-create-modern-public-folders.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/cannot-create-modern-public-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/public-folders/disable-conflict-message.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/disable-conflict-message",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/public-folders/export-modernpublicfolderstatistics-script-fails.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/export-modernpublicfolderstatistics-script-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/public-folders/items-deleted-public-folder-batch-migration.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/items-deleted-public-folder-batch-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/public-folders/large-items-skipped.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/large-items-skipped",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/public-folders/migrationbatch-fails-no-public-folder-mailboxes.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/migrationbatch-fails-no-public-folder-mailboxes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/public-folders/public-folder-migration-fails.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folder-migration-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/public-folders/public-folder-permissions-for-exchange-server.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/public-folder-permissions-for-exchange-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/public-folders/troubleshoot-public-folder-replication.md",
+      "redirect_url": "/troubleshoot/exchange/public-folders/troubleshoot-public-folder-replication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/active-directory-wasnt-prepared-using-hosting-mode-error.md",
+      "redirect_url": "/troubleshoot/exchange/setup/active-directory-wasnt-prepared-using-hosting-mode-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/cannot-install-exchange-server-from-unattended-installation.md",
+      "redirect_url": "/troubleshoot/exchange/setup/cannot-install-exchange-server-from-unattended-installation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/cannot-uninstall-server-role-via-setup-exe.md",
+      "redirect_url": "/troubleshoot/exchange/setup/cannot-uninstall-server-role-via-setup-exe",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/cumulative-update-20-is-shown-not-22.md",
+      "redirect_url": "/troubleshoot/exchange/setup/cumulative-update-20-is-shown-not-22",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/edge-transport-setup-fails-domain-joined-server.md",
+      "redirect_url": "/troubleshoot/exchange/setup/edge-transport-setup-fails-domain-joined-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/error-occurred-while-configuring-search-foundation.md",
+      "redirect_url": "/troubleshoot/exchange/setup/error-occurred-while-configuring-search-foundation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/event-id-6010-after-cumulative-update-23.md",
+      "redirect_url": "/troubleshoot/exchange/setup/event-id-6010-after-cumulative-update-23",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/ex2019-setup-does-not-run-correctly-started-powershell.md",
+      "redirect_url": "/troubleshoot/exchange/setup/ex2019-setup-does-not-run-correctly-started-powershell",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/installing-exchange-2010-sp2-fails.md",
+      "redirect_url": "/troubleshoot/exchange/setup/installing-exchange-2010-sp2-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/issues-occur-if-arbitration-mailbox-not-upgraded.md",
+      "redirect_url": "/troubleshoot/exchange/setup/issues-occur-if-arbitration-mailbox-not-upgraded",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/language-pack-bundle-not-found.md",
+      "redirect_url": "/troubleshoot/exchange/setup/language-pack-bundle-not-found",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/network-path-was-not-found-error.md",
+      "redirect_url": "/troubleshoot/exchange/setup/network-path-was-not-found-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/organization-preparation-failed.md",
+      "redirect_url": "/troubleshoot/exchange/setup/organization-preparation-failed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/owa-your-request-cannot-be-completed.md",
+      "redirect_url": "/troubleshoot/exchange/setup/owa-your-request-cannot-be-completed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/process-execution-failed-with-exit-code-3.md",
+      "redirect_url": "/troubleshoot/exchange/setup/process-execution-failed-with-exit-code-3",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/pst-capture-setup-wizard-ended-prematurely.md",
+      "redirect_url": "/troubleshoot/exchange/setup/pst-capture-setup-wizard-ended-prematurely",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/queue-viewer-error-when-viewing-messages.md",
+      "redirect_url": "/troubleshoot/exchange/setup/queue-viewer-error-when-viewing-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/service-pack-upgrade-fails.md",
+      "redirect_url": "/troubleshoot/exchange/setup/service-pack-upgrade-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/setup-of-mailbox-role-fails-with-error.md",
+      "redirect_url": "/troubleshoot/exchange/setup/setup-of-mailbox-role-fails-with-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeServer/setup/version-error-in-recover-server-mode-install.md",
+      "redirect_url": "/troubleshoot/exchange/setup/version-error-in-recover-server-mode-install",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/Hub/index.yml",
+      "redirect_url": "/troubleshoot/exchange/",
+      "redirect_document_id": false
+    }
+  ]
+}
