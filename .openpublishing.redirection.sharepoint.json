@@ -1,0 +1,2044 @@
+{
+  "redirections": [
+    {
+      "source_path": "SharePoint/Hub/index.yml",
+      "redirect_url": "/troubleshoot/sharepoint/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/administration/error-accessing-onedrive-sharepoint.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/error-accessing-onedrive-sharepoint",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/lists-and-libraries/401-error-when-using-graph-api-to-access-data.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/401-error-when-using-graph-api-to-access-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/lists-and-libraries/cannot-open-onedrive-on-images-using-sysprep.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/cannot-open-onedrive-on-images-using-sysprep",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/lists-and-libraries/cant-open-online-only-file.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/cant-open-online-only-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/onedrive-welcome.yml",
+      "redirect_url": "/troubleshoot/sharepoint/onedrive-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/search/search-private-content.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/search-private-content",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/security/retention-policies-deleting-documents-after-workload-removal.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/retention-policies-deleting-documents-after-workload-removal",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/setup/onedrive-for-business-installation-fails.md",
+      "redirect_url": "/troubleshoot/sharepoint/setup/onedrive-for-business-installation-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/setup/onedrive-stopped-at-setting-up-screen.md",
+      "redirect_url": "/troubleshoot/sharepoint/setup/onedrive-stopped-at-setting-up-screen",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sharing-and-permissions/restore-onedrive-share-settings-office365.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/restore-onedrive-share-settings-office365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sharing-and-permissions/this-item-might-not-exist-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/this-item-might-not-exist-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sites/cannot-edit-files-onedrive-license-end.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/cannot-edit-files-onedrive-license-end",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/storage/check-storage-increase-eligibility.md",
+      "redirect_url": "/troubleshoot/sharepoint/storage/check-storage-increase-eligibility",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/cannot-sync-shortcut-folder.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/cannot-sync-shortcut-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/cant-add-folder-right-now.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/cant-add-folder-right-now",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/cant-sync-after-migration.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/cant-sync-after-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/copy-files-error-0x8007016a.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/copy-files-error-0x8007016a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/delete-onedrive-synced-file-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/delete-onedrive-synced-file-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/enable-co-authoring-for-onedrive-synced-file.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/enable-co-authoring-for-onedrive-synced-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/error-0x8004de40-in-onedrive.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/error-0x8004de40-in-onedrive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/folders-incorrectly-show-status-syncing.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/folders-incorrectly-show-status-syncing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/fslogix-unsupported-environment-sync-error-vm.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/fslogix-unsupported-environment-sync-error-vm",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/install-or-access-onedrive-error-0x80070005.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/install-or-access-onedrive-error-0x80070005",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/onedrive-for-business-sync-returns-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/onedrive-for-business-sync-returns-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/onedrive-local-folder-name-not-updated.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/onedrive-local-folder-name-not-updated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/sign-into-onedrive-error-0x8004de80-or-0x8004de86.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/sign-into-onedrive-error-0x8004de80-or-0x8004de86",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/sign-into-onedrive-error-0x8004de85-or-0x8004de8a.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/sign-into-onedrive-error-0x8004de85-or-0x8004de8a",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/sign-into-onedrive-error-0x8004dec5.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/sign-into-onedrive-error-0x8004dec5",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/sign-into-onedrive-error-0x8004deef.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/sign-into-onedrive-error-0x8004deef",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/sign-into-onedrive-error-0x8004def4.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/sign-into-onedrive-error-0x8004def4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/sign-into-onedrive-error-0x8004def7.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/sign-into-onedrive-error-0x8004def7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/sign-into-onedrive-error-0x8004e4d0.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/sign-into-onedrive-error-0x8004e4d0",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/sign-into-onedrive-sync-app-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/sign-into-onedrive-sync-app-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/troubleshoot-sync-issues.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/troubleshoot-sync-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/OneDrive/sync/upload-blocked-error-in-o365.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/upload-blocked-error-in-o365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/antivirus-and-intermittent-issues.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/antivirus-and-intermittent-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/call-to-excel-services-failed.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/call-to-excel-services-failed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/cannot-locate-a-server-to-load-workbook-data-model-in-powerpivot.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/cannot-locate-a-server-to-load-workbook-data-model-in-powerpivot",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/cant-open-office-files.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/cant-open-office-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/edit-document-requires-compatible-application-and-web-browser.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/edit-document-requires-compatible-application-and-web-browser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/email-notifications-sent-for-scheduled-data-refresh-failures-in-power-pivot.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/email-notifications-sent-for-scheduled-data-refresh-failures-in-power-pivot",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/error-occurred-when-loading-sandbox-cube-in-powerpivot.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/error-occurred-when-loading-sandbox-cube-in-powerpivot",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/excel-workbooks-in-xml-format-not-open.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/excel-workbooks-in-xml-format-not-open",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/files-open-in-read-only-mode.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/files-open-in-read-only-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/large-publisher-files-open-in-read-only-mode.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/large-publisher-files-open-in-read-only-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/microsoft-forms-shows-sorry-something-went-wrong.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/microsoft-forms-shows-sorry-something-went-wrong",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/multiple-alternate-access-mapping-zone.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/multiple-alternate-access-mapping-zone",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/orphaned-record-for-powerpivot-service-application-database.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/orphaned-record-for-powerpivot-service-application-database",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/powerpivot-configuration-tool-shows-user-not-farm-administrator.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/powerpivot-configuration-tool-shows-user-not-farm-administrator",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/powerpivot-performance-counter-errors.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/powerpivot-performance-counter-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/powerpivot-scheduled-data-refresh-fails.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/powerpivot-scheduled-data-refresh-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/powerpivot-shows-setauthcontext-need-to-be-run-as-sysadmin.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/powerpivot-shows-setauthcontext-need-to-be-run-as-sysadmin",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/retrieving-com-class-factory-for-component-failed.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/retrieving-com-class-factory-for-component-failed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/sorry-something-went-wrong-when-try-to-schedule-a-data-refresh.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/sorry-something-went-wrong-when-try-to-schedule-a-data-refresh",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/troubleshooting-powerpivot-gallery-snapshot.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/troubleshooting-powerpivot-gallery-snapshot",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/administration/virtual-path-maps-to-another-application-not-allowed.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/virtual-path-maps-to-another-application-not-allowed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/lists-and-libraries/files-downloaded-instead-of-opening-office-application.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/files-downloaded-instead-of-opening-office-application",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/lists-and-libraries/list-refresh-odata-data-feed.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/list-refresh-odata-data-feed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/lists-and-libraries/need-a-new-app-to-open-this-ms-visio.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/need-a-new-app-to-open-this-ms-visio",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/security/schedule-data-refresh-to-a-source-with-non-windows-authentication.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/schedule-data-refresh-to-a-source-with-non-windows-authentication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/sharepoint-experts-welcome.yml",
+      "redirect_url": "/troubleshoot/sharepoint/sharepoint-experts-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/sharing-and-permissions/credential-prompt-persistent-cookies.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/credential-prompt-persistent-cookies",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/sharing-and-permissions/login-issues-in-a-cloud-scenario.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/login-issues-in-a-cloud-scenario",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/web-parts/excel-web-access-web-part-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/excel-web-access-web-part-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/web-parts/increase-size-limit-embedded-media.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/increase-size-limit-embedded-media",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointExperts/web-parts/something-went-wrong-error-in-excel-web-parts.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/something-went-wrong-error-in-excel-web-parts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/infopath/soapserverexception-when-customizing-list-form-using-InfoPath-designer.md",
+      "redirect_url": "/troubleshoot/sharepoint/infopath/soapserverexception-when-customizing-list-form-using-InfoPath-designer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/search/hybrid-search-failures.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/hybrid-search-failures",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/search/on-premises-content-not-displayed-in-online-search.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/on-premises-content-not-displayed-in-online-search",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/search/online-content-not-displayed-in-on-premises-search.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/online-content-not-displayed-in-on-premises-search",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/sharepoint-hybrid-welcome.yml",
+      "redirect_url": "/troubleshoot/sharepoint/sharepoint-hybrid-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/workflows/fails-deleting-completed-workflow-tasks.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/fails-deleting-completed-workflow-tasks",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/workflows/fails-setting-workflow-column-value.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/fails-setting-workflow-column-value",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/workflows/irm-policies-fails-sharepoint-workflows-visible.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/irm-policies-fails-sharepoint-workflows-visible",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/workflows/workflow-platform-created-document-fails-open.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-platform-created-document-fails-open",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/workflows/workflow-reports-retrying-status.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-reports-retrying-status",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/workflows/workflow-status-suspended.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-status-suspended",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointHybrid/workflows/workflow-takes-longer.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-takes-longer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/access-denied-to-pim-user-accounts.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/access-denied-to-pim-user-accounts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/access-to-sharepoint-online-is-monitored.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/access-to-sharepoint-online-is-monitored",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/api-access-does-not-appear.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/api-access-does-not-appear",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/authentication-errors-tls12-support.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/authentication-errors-tls12-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/authentication-errors-windows7.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/authentication-errors-windows7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/authentication-issues-in-sharepoint-designer-2013.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/authentication-issues-in-sharepoint-designer-2013",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/automatic-exif-property-import-unsupported.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/automatic-exif-property-import-unsupported",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/connect-sposervice-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/connect-sposervice-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/content-type-gallery-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/content-type-gallery-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/create-default-site-term-set.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/create-default-site-term-set",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/deleting-content-type-from-hub.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/deleting-content-type-from-hub",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/domain-rename-faq.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/domain-rename-faq",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/error-404-onedrive-sharepoint.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/error-404-onedrive-sharepoint",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/error-accessing-sharepoint-onedrive.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/error-accessing-sharepoint-onedrive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/errors-connecting-to-management-shell.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/errors-connecting-to-management-shell",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/errors-when-renaming.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/errors-when-renaming",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/exclude-sites-from-retention-policy.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/exclude-sites-from-retention-policy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/information-about-uls-log-access.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/information-about-uls-log-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/NET-update-causes-azure-add-in-to-stop-working.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/NET-update-causes-azure-add-in-to-stop-working",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/out-of-storage.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/out-of-storage",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/presence-information-fails-showing.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/presence-information-fails-showing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/profile-picture-not-showing.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/profile-picture-not-showing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/promoted-link-invalid-url.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/promoted-link-invalid-url",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/sharepoint-online-inaccessible.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/sharepoint-online-inaccessible",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/sharepoint-online-powershell-command-does-not-work-correctly.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/sharepoint-online-powershell-command-does-not-work-correctly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/sync-to-outlook-tasks-link-missing.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/sync-to-outlook-tasks-link-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/team-site-creation-stops.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/team-site-creation-stops",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/temporary-adjustments-in-sharepoint-online.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/temporary-adjustments-in-sharepoint-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/third-party-tools-change-support.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/third-party-tools-change-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/troubleshoot-error-when-you-use-hybrid-picker.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/troubleshoot-error-when-you-use-hybrid-picker",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/troubleshoot-send-to-connection-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/troubleshoot-send-to-connection-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/troubleshoot-site-collection-upgrade-issue.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/troubleshoot-site-collection-upgrade-issue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/unable-to-delete-files.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/unable-to-delete-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/administration/uncompiled-audiences-are-present-in-office-365-for-enterprises.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/uncompiled-audiences-are-present-in-office-365-for-enterprises",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/apps/cannot-register-app-update-permissions.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/cannot-register-app-update-permissions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/apps/fails-opening-access-desktop-database.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/fails-opening-access-desktop-database",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/apps/fails-updating-sharepoint-app.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/fails-updating-sharepoint-app",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/apps/guest-link-fails-accessing-shared-resource.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/guest-link-fails-accessing-shared-resource",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/apps/msn-weather-service-api-retired.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/msn-weather-service-api-retired",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/apps/view-owa-page-viewer-web-part.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/view-owa-page-viewer-web-part",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/apps/windows-media-player-cannot-connect-to-server.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/windows-media-player-cannot-connect-to-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/diagnostics/sharepoint-and-onedrive-diagnostics.md",
+      "redirect_url": "/troubleshoot/sharepoint/diagnostics/sharepoint-and-onedrive-diagnostics",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/infopath/access-denied-when-opening-form-id-5566.md",
+      "redirect_url": "/troubleshoot/sharepoint/infopath/access-denied-when-opening-form-id-5566",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/infopath/click-infopath-form-mobile-view.md",
+      "redirect_url": "/troubleshoot/sharepoint/infopath/click-infopath-form-mobile-view",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/infopath/fails-connecting-infopath-form.md",
+      "redirect_url": "/troubleshoot/sharepoint/infopath/fails-connecting-infopath-form",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/infopath/fails-opening-infopath-filler-form.md",
+      "redirect_url": "/troubleshoot/sharepoint/infopath/fails-opening-infopath-filler-form",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/infopath/infopath-forms-services.md",
+      "redirect_url": "/troubleshoot/sharepoint/infopath/infopath-forms-services",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/calendar-view-list-opens-dialog-box.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/calendar-view-list-opens-dialog-box",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/cannot-check-in-multiple-items.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/cannot-check-in-multiple-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/cannot-sync-files-folders.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/cannot-sync-files-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/change-to-how-lists-are-named.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/change-to-how-lists-are-named",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/common-sync-issues.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/common-sync-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/content-organizer-not-comply-with-interval.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/content-organizer-not-comply-with-interval",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/default-column-name-still-shown.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/default-column-name-still-shown",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/deleted-teams-standard-channel-folder-deletion-fails.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/deleted-teams-standard-channel-folder-deletion-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/determine-known-folder-move-eligibility.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/determine-known-folder-move-eligibility",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/document-ids-unassigned.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/document-ids-unassigned",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/documents-not-displayed-in-web-browser-when-using-tls-1.2.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/documents-not-displayed-in-web-browser-when-using-tls-1.2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/drag-files-here-option-missing.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/drag-files-here-option-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/dragging-files-using-web-browser.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/dragging-files-using-web-browser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/edit-column-fails-displaying-edit-link.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/edit-column-fails-displaying-edit-link",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/error-create-list-excel.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/error-create-list-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/error-share-break-inheritance.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/error-share-break-inheritance",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/error-when-view-or-edit-in-browser.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/error-when-view-or-edit-in-browser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/excel-survey-does-not-have-full-functionality-when-click-new.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/excel-survey-does-not-have-full-functionality-when-click-new",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/fails-creating-calendar-overlay.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/fails-creating-calendar-overlay",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/fails-filtering-sharepoint-column.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/fails-filtering-sharepoint-column",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/fails-saving-list-as-template.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/fails-saving-list-as-template",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/file-post-processing-takes-up-to-24-hours.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/file-post-processing-takes-up-to-24-hours",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/film-reel-icon-video-content.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/film-reel-icon-video-content",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/items-exceeds-list-view-threshold.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/items-exceeds-list-view-threshold",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/library-versioning-setting-changes.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/library-versioning-setting-changes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/list-item-fails-saving-same-attachment.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/list-item-fails-saving-same-attachment",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/managed-metadata-column-fails-filtering.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/managed-metadata-column-fails-filtering",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/mds-functionality-unaffect-library.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/mds-functionality-unaffect-library",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/modern-view-compatibility-checklist.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/modern-view-compatibility-checklist",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/modified-time-shows-incorrectly.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/modified-time-shows-incorrectly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/no-email-after-mention.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/no-email-after-mention",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/o365-portal-fails-creating-documents.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/o365-portal-fails-creating-documents",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/outlook-not-sync-recurring-calendar-items.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/outlook-not-sync-recurring-calendar-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/per-location-view-settings-fail-working.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/per-location-view-settings-fail-working",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/picture-library-thumbnail-preview.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/picture-library-thumbnail-preview",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/relative-url-across-site-collection-not-supported.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/relative-url-across-site-collection-not-supported",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/simple-controls-missing.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/simple-controls-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/slow-open-with-explorer-performance.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/slow-open-with-explorer-performance",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/sync-sharepoint-list-error-0x80070005.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/sync-sharepoint-list-error-0x80070005",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/task-list-shows-000.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/task-list-shows-000",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/template-generated-list-incorrect-data.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/template-generated-list-incorrect-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/the-webpage-cannot-be-displayed-when-open-an-office-document.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/the-webpage-cannot-be-displayed-when-open-an-office-document",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/troubleshoot-issues-using-open-with-explorer.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/troubleshoot-issues-using-open-with-explorer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/troubleshoot-mapped-network-drives.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/troubleshoot-mapped-network-drives",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/upload-file-using-new-experience.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/upload-file-using-new-experience",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/lists-and-libraries/url-invalid-upload-file-to-list.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/url-invalid-upload-file-to-list",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/migration/content-manual-migration.md",
+      "redirect_url": "/troubleshoot/sharepoint/migration/content-manual-migration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/migration/service-not-available-stream-migration-tool.md",
+      "redirect_url": "/troubleshoot/sharepoint/migration/service-not-available-stream-migration-tool",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/performance/publishing-pages-take-longer-to-load.md",
+      "redirect_url": "/troubleshoot/sharepoint/performance/publishing-pages-take-longer-to-load",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/performance/sharepoint-online-performance-troubleshooter.md",
+      "redirect_url": "/troubleshoot/sharepoint/performance/sharepoint-online-performance-troubleshooter",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/search/classic-site-collection-search-usage-reports.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/classic-site-collection-search-usage-reports",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/search/content-type-icon-not-display.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/content-type-icon-not-display",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/search/items-missing-from-search-results.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/items-missing-from-search-results",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/search/near-duplicate-items-are-not-listed-in-search-results.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/near-duplicate-items-are-not-listed-in-search-results",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/search/no-search-results-from-another-language.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/no-search-results-from-another-language",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/search/search-results-dont-appear-for-group-owners.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/search-results-dont-appear-for-group-owners",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/search/search-results-missing.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/search-results-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/search/search-results-not-return.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/search-results-not-return",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/search/troubleshoot-error-when-importing-a-term-set.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/troubleshoot-error-when-importing-a-term-set",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/search/updated-results-are-not-returned-when-searching-people-properties.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/updated-results-are-not-returned-when-searching-people-properties",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/security/cross-domain-iframe-requests-are-blocked.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/cross-domain-iframe-requests-are-blocked",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/security/handling-ransomware-in-sharepoint-online.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/handling-ransomware-in-sharepoint-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/security/migrated-user-name-resolution-fails.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/migrated-user-name-resolution-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/security/problem-with-your-account.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/problem-with-your-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/security/session-has-expired.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/session-has-expired",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharepoint-online-welcome.yml",
+      "redirect_url": "/troubleshoot/sharepoint/sharepoint-online-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/access-denied-due-to-org-policies.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/access-denied-due-to-org-policies",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/access-denied-shared-folder.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/access-denied-shared-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/activating-publishing-feature-access-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/activating-publishing-feature-access-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/anonymous-users-are-prompted-for-credentials-in-library.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/anonymous-users-are-prompted-for-credentials-in-library",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/app-permission-error-update-user-profile-property.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/app-permission-error-update-user-profile-property",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/cannot-add-external-users-to-content-type.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/cannot-add-external-users-to-content-type",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/error-403-forbidden.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/error-403-forbidden",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/error-selected-user-account-does-not-exist.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/error-selected-user-account-does-not-exist",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/everyone-except-external-user-removed.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/everyone-except-external-user-removed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/everyone-group-not-receive-email-invitation.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/everyone-group-not-receive-email-invitation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/external-user-fails-accessing-shared-resource.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/external-user-fails-accessing-shared-resource",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/fails-retrieving-teams-group-owner.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/fails-retrieving-teams-group-owner",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/fix-site-user-id-mismatch.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/fix-site-user-id-mismatch",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/issue-when-you-click-new-site-on-followed-sites-page.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/issue-when-you-click-new-site-on-followed-sites-page",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/managing-secure-store-service-app-permissions.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/managing-secure-store-service-app-permissions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/no-verification-code-to-access-shared-secure-link.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/no-verification-code-to-access-shared-secure-link",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/people-picker-fails-finding-users.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/people-picker-fails-finding-users",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/request-access-to-resource.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/request-access-to-resource",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/request-approval-failed.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/request-approval-failed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/responsestatusnotok-sharing-sharepoint-onedrive-site.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/responsestatusnotok-sharing-sharepoint-onedrive-site",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/rest-mouse-pointer-on-user-name.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/rest-mouse-pointer-on-user-name",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/share-file-unable-reach-server.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/share-file-unable-reach-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/shared-with-column-users-no-access.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/shared-with-column-users-no-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/sharing-email-not-delivered.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/sharing-email-not-delivered",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/sharing-options-grayed-out-when-sharing-from-SharePoint-Online-or-OneDrive.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/sharing-options-grayed-out-when-sharing-from-SharePoint-Online-or-OneDrive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/ssl-certificate-authentication.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/ssl-certificate-authentication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/troubleshoot-error-when-tries-to-access-center.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/troubleshoot-error-when-tries-to-access-center",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sharing-and-permissions/unable-to-complete-request.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/unable-to-complete-request",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/announcement-tiles-not-supported.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/announcement-tiles-not-supported",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/calendar-overlay-unsupported.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/calendar-overlay-unsupported",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/cannot-access-sites-by-using-a-domain.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/cannot-access-sites-by-using-a-domain",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/cannot-delete-sites-protected-by-microsoft365-backup.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/cannot-delete-sites-protected-by-microsoft365-backup",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/cannot-find-specified-web-given-url.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/cannot-find-specified-web-given-url",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/cannot-permanently-delete-site.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/cannot-permanently-delete-site",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/cant-schedule-publish.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/cant-schedule-publish",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/change-default-language-site-collection.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/change-default-language-site-collection",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/compliance-policy-blocking-site-deletion.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/compliance-policy-blocking-site-deletion",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/customizations-revert-to-default-settings.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/customizations-revert-to-default-settings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/do-not-have-an-e-mail-address-when-create-an-alert.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/do-not-have-an-e-mail-address-when-create-an-alert",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/err-invalid-response-accessing-sharepoint-site.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/err-invalid-response-accessing-sharepoint-site",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/error-when-changing-o365-site-logo.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/error-when-changing-o365-site-logo",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/fails-saving-site-as-template.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/fails-saving-site-as-template",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/header-field-too-long-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/header-field-too-long-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/new-navigation-link-save-site-as-template.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/new-navigation-link-save-site-as-template",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/no-alert-notifications.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/no-alert-notifications",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/notification-email-not-received.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/notification-email-not-received",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/office-365-top-navigation-bar-displays-either-sites-or-newsfeed.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/office-365-top-navigation-bar-displays-either-sites-or-newsfeed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/page-blocked-violates-acceptable-use-policy.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/page-blocked-violates-acceptable-use-policy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/public-websites-be-discontinued.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/public-websites-be-discontinued",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/requested-operation-not-supported.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/requested-operation-not-supported",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/rich-text-fields-fails-responding.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/rich-text-fields-fails-responding",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/save-site-as-template.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/save-site-as-template",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/site-is-read-only.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/site-is-read-only",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/site-names-cant-contain-reserved-word.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/site-names-cant-contain-reserved-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/site-reached-metadata-limit.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/site-reached-metadata-limit",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/top-navigation-bar-not-use-site-theme.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/top-navigation-bar-not-use-site-theme",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/troubleshooting-guide-for-sites-stopped-at-provisioning.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/troubleshooting-guide-for-sites-stopped-at-provisioning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/unable-to-delete-site.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/unable-to-delete-site",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sites/url-that-resides-under-root-site-collection-is-broken.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/url-that-resides-under-root-site-collection-is-broken",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/sync/synced-file-moved-to-recycle-bin.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/synced-file-moved-to-recycle-bin",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/video/cant-view-embedded-video.md",
+      "redirect_url": "/troubleshoot/sharepoint/video/cant-view-embedded-video",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/web-parts/aspx-page-not-display-content.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/aspx-page-not-display-content",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/web-parts/change-summary-link-web-part.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/change-summary-link-web-part",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/web-parts/fails-displaying-web-part-including-xslt-code.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/fails-displaying-web-part-including-xslt-code",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/web-parts/list-view-web-part-not-filter-values.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/list-view-web-part-not-filter-values",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/web-parts/non-cdn-enabled-picture-library-slideshow-web-part-no-longer-switches-automatically-to-new-images.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/non-cdn-enabled-picture-library-slideshow-web-part-no-longer-switches-automatically-to-new-images",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/web-parts/something-went-wrong-error-configuring-spfx-component.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/something-went-wrong-error-configuring-spfx-component",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/web-parts/unable-to-create-view-alerts.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/unable-to-create-view-alerts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/web-parts/unable-to-drag-drop-web-parts.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/unable-to-drag-drop-web-parts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/web-parts/wspr-viewer-web-part-unsupported.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/wspr-viewer-web-part-unsupported",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/access-denied-when-approve-workflow-task.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/access-denied-when-approve-workflow-task",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/configured-workflow-fails-running.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/configured-workflow-fails-running",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/connecting-site-workflow-problems.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/connecting-site-workflow-problems",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/copied-workflow-linked-to-source-workflow.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/copied-workflow-linked-to-source-workflow",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/error-reported-in-sharepoint-2010-workflow-status.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/error-reported-in-sharepoint-2010-workflow-status",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/gather-workflow-data.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/gather-workflow-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/item-pending-status.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/item-pending-status",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/nintex-workflow-fails-to-start.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/nintex-workflow-fails-to-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/outlook-fails-responding-sharepoint-workflow.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/outlook-fails-responding-sharepoint-workflow",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/publishing-approval-workflow-fails-starting.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/publishing-approval-workflow-fails-starting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/reload-the-page.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/reload-the-page",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/replace-list-item-permission-fail.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/replace-list-item-permission-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/workflow-contains-blank-values.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-contains-blank-values",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/workflow-http-unauthorized.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-http-unauthorized",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/workflow-lookup-fails-executing.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-lookup-fails-executing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/workflow-platform-created-word-fails-opening.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-platform-created-word-fails-opening",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/workflow-update-list-item-fail.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-update-list-item-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointOnline/workflows/workflow-using-impersonation-step-fails-completed.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-using-impersonation-step-fails-completed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/800703fa-Illegal-operation-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/800703fa-Illegal-operation-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/active-user-not-imported-through-ad-import.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/active-user-not-imported-through-ad-import",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/administration-tool-stopped-working-during-a-slipstream-installation.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/administration-tool-stopped-working-during-a-slipstream-installation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/administrative-timer-jobs-not-run-after-upgrad.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/administrative-timer-jobs-not-run-after-upgrad",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/cannot-start-the-user-profile-synchronization-service.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/cannot-start-the-user-profile-synchronization-service",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/change-sandbox-solution.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/change-sandbox-solution",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/compatibility-level-change.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/compatibility-level-change",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/configure-excel-services-kerberos.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/configure-excel-services-kerberos",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/delete-temporary-permanent-data.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/delete-temporary-permanent-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/error-configuring-powerpivot-service-with-oracle-data-source-sharepoint-server-2013.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/error-configuring-powerpivot-service-with-oracle-data-source-sharepoint-server-2013",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/function-disabled-in-safe-mode.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/function-disabled-in-safe-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/how-to-change-the-database-in-farms.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/how-to-change-the-database-in-farms",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/how-to-disable-webdav-use.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/how-to-disable-webdav-use",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/hybrid-picker-prerequisite-check-fail-in-consuming-farm.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/hybrid-picker-prerequisite-check-fail-in-consuming-farm",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/manually-update-dst-sharepoint-server.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/manually-update-dst-sharepoint-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/nullreferenceexception-for-configuration-wizard.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/nullreferenceexception-for-configuration-wizard",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/provider-hosted-add-ins-stop-working-and-http-401-error-after-configure-farm-hybrid-features.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/provider-hosted-add-ins-stop-working-and-http-401-error-after-configure-farm-hybrid-features",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/requested-registry-access-not-allowed-error-sharepoint-2013-OOB-workflow-creation.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/requested-registry-access-not-allowed-error-sharepoint-2013-OOB-workflow-creation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/sharepoint-installs-obsolete-sql-server-product.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/sharepoint-installs-obsolete-sql-server-product",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/sharepoint-on-premises-2019-information.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/sharepoint-on-premises-2019-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/sql-collation-supportability-for-sharepoint-databases.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/sql-collation-supportability-for-sharepoint-databases",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/sql-database-compatibility-for-sharepoint-installation.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/sql-database-compatibility-for-sharepoint-installation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/system-center-2016-operations-manager-apm-agent-causing-heap-corruption.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/system-center-2016-operations-manager-apm-agent-causing-heap-corruption",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/total-size-shows-full-size-file-version.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/total-size-shows-full-size-file-version",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/unsupported-and-supported-sharepoint-database-changes.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/unsupported-and-supported-sharepoint-database-changes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/upgrade-available-status-in-new-farm.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/upgrade-available-status-in-new-farm",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/use-spquery-to-query-a-list.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/use-spquery-to-query-a-list",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/user-profile-service-application-not-function.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/user-profile-service-application-not-function",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/users-display-name-incorrect-on-mysite.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/users-display-name-incorrect-on-mysite",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/administration/windows-server-2012-r2-support-sharepoint-2013-sp1.md",
+      "redirect_url": "/troubleshoot/sharepoint/administration/windows-server-2012-r2-support-sharepoint-2013-sp1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/apps/cannot-start-an-application-service.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/cannot-start-an-application-service",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/apps/installing-appfabric-updates.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/installing-appfabric-updates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/apps/projects-with-field-elements-cannot-redeploy.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/projects-with-field-elements-cannot-redeploy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/apps/running-access-reports-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/running-access-reports-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/apps/system.argumentexception-exception-when-sign-out-of-web-application.md",
+      "redirect_url": "/troubleshoot/sharepoint/apps/system.argumentexception-exception-when-sign-out-of-web-application",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/designer/object-moved-when-connecting-sharepoint-site.md",
+      "redirect_url": "/troubleshoot/sharepoint/designer/object-moved-when-connecting-sharepoint-site",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/designer/switch-sharepoint-designer-user-account.md",
+      "redirect_url": "/troubleshoot/sharepoint/designer/switch-sharepoint-designer-user-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/infopath/columns-published-from-infopath-fields-recreated.md",
+      "redirect_url": "/troubleshoot/sharepoint/infopath/columns-published-from-infopath-fields-recreated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/infopath/forms-timeout-or-take-a-long-time-to-open.md",
+      "redirect_url": "/troubleshoot/sharepoint/infopath/forms-timeout-or-take-a-long-time-to-open",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/infopath/invalid-from-template.md",
+      "redirect_url": "/troubleshoot/sharepoint/infopath/invalid-from-template",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/infopath/schema-validation-found-non-datatype-errors.md",
+      "redirect_url": "/troubleshoot/sharepoint/infopath/schema-validation-found-non-datatype-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/installation-and-setup/certain-installation-scenarios-are-not-supported.md",
+      "redirect_url": "/troubleshoot/sharepoint/installation-and-setup/certain-installation-scenarios-are-not-supported",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/installation-and-setup/error-2711-install-rbs-for-sql-server.md",
+      "redirect_url": "/troubleshoot/sharepoint/installation-and-setup/error-2711-install-rbs-for-sql-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/installation-and-setup/how-to-block-onedrive-from-being-advertised-after-install-office-2016.md",
+      "redirect_url": "/troubleshoot/sharepoint/installation-and-setup/how-to-block-onedrive-from-being-advertised-after-install-office-2016",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/installation-and-setup/setup-error-if-.net-framework-4.6-is-installed.md",
+      "redirect_url": "/troubleshoot/sharepoint/installation-and-setup/setup-error-if-.net-framework-4.6-is-installed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/installation-and-setup/sharepoint-server-setup-fails.md",
+      "redirect_url": "/troubleshoot/sharepoint/installation-and-setup/sharepoint-server-setup-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/installation-and-setup/upgrade-windows-with-sharepoint.md",
+      "redirect_url": "/troubleshoot/sharepoint/installation-and-setup/upgrade-windows-with-sharepoint",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/attachment-is-missing-in-email-message-to-library.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/attachment-is-missing-in-email-message-to-library",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/cannot-edit-list-in-datasheet-view.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/cannot-edit-list-in-datasheet-view",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/cannot-locate-server-to-load-workbook-data-model.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/cannot-locate-server-to-load-workbook-data-model",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/cannot-open-file-using-office-online-server.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/cannot-open-file-using-office-online-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/cant-open-files-from-sharepoint-on-ipad.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/cant-open-files-from-sharepoint-on-ipad",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/cant-open-sp-documents-from-chrome.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/cant-open-sp-documents-from-chrome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/cant-save-file-in-document-library.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/cant-save-file-in-document-library",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/feature-id-not-assigned-when-saving-a-list-as-template.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/feature-id-not-assigned-when-saving-a-list-as-template",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/ifilter-alternative-to-the-native-pdf-parser.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/ifilter-alternative-to-the-native-pdf-parser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/import-spreadsheet-app-error-an-unexpected-error-has-occurred-2147352567.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/import-spreadsheet-app-error-an-unexpected-error-has-occurred-2147352567",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/message-bar-is-missing-when-open-office-documents-via-link-from-library.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/message-bar-is-missing-when-open-office-documents-via-link-from-library",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/modified-date-site-contents-not-accurate.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/modified-date-site-contents-not-accurate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/problems-open-files-from-sharepoint.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/problems-open-files-from-sharepoint",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/property-does-not-exist-or-is-used-in-manner-inconsistent-with-schema-settings.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/property-does-not-exist-or-is-used-in-manner-inconsistent-with-schema-settings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/request-timed-out-when-upload-large-file-to-library.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/request-timed-out-when-upload-large-file-to-library",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/sharepoint-explorer-view-option-not-available.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/sharepoint-explorer-view-option-not-available",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/shows-empty-wfpub-library.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/shows-empty-wfpub-library",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/slide-library-toolbar-not-available.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/slide-library-toolbar-not-available",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/upload-multiple-documents-option-not-available.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/upload-multiple-documents-option-not-available",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/lists-and-libraries/visio-graphics-service-application-pool-not-recycled.md",
+      "redirect_url": "/troubleshoot/sharepoint/lists-and-libraries/visio-graphics-service-application-pool-not-recycled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/people-picker/no-exact-match-found-error-in-trusted-forest.md",
+      "redirect_url": "/troubleshoot/sharepoint/people-picker/no-exact-match-found-error-in-trusted-forest",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/people-picker/stops-resolving-other-domain-users.md",
+      "redirect_url": "/troubleshoot/sharepoint/people-picker/stops-resolving-other-domain-users",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/performance/event-id-4769-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/performance/event-id-4769-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/performance/outdated-database-statistics.md",
+      "redirect_url": "/troubleshoot/sharepoint/performance/outdated-database-statistics",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/powershell/missing-argument-for-parameter-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/powershell/missing-argument-for-parameter-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/records-management/automatically-declaring-items-causes-duplicates.md",
+      "redirect_url": "/troubleshoot/sharepoint/records-management/automatically-declaring-items-causes-duplicates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/search/contractfilter-error-when-querying-from-the-non-default-zone.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/contractfilter-error-when-querying-from-the-non-default-zone",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/search/crawler-has-insufficient-permissions.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/crawler-has-insufficient-permissions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/search/crawler-ignores-directives-for-user-agent.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/crawler-ignores-directives-for-user-agent",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/search/incomplete-search-results-for-choice-type-columns-with-multiple-values.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/incomplete-search-results-for-choice-type-columns-with-multiple-values",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/search/item-not-crawled-when-crawl-sites.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/item-not-crawled-when-crawl-sites",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/search/parser-server-failed-to-start.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/parser-server-failed-to-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/search/privilege-not-exist-service-account-configuration.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/privilege-not-exist-service-account-configuration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/search/search-box-removed-from-suite-nav.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/search-box-removed-from-suite-nav",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/search/search-errors-windows-server-2019.md",
+      "redirect_url": "/troubleshoot/sharepoint/search/search-errors-windows-server-2019",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/security/401-unauthorized-error-when-using-oauth-and-saml-claims.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/401-unauthorized-error-when-using-oauth-and-saml-claims",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/security/access-to-the-path-is-denied-during-logon.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/access-to-the-path-is-denied-during-logon",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/security/configuration-to-support-kerberos-aes-encryption.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/configuration-to-support-kerberos-aes-encryption",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/security/configure-sql-server-reporting-services.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/configure-sql-server-reporting-services",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/security/event-id-8306-and-cannot-activate-security-token-service-application.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/event-id-8306-and-cannot-activate-security-token-service-application",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/security/how-to-recreate-the-local-trusted-root-authority.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/how-to-recreate-the-local-trusted-root-authority",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/security/update-conflict-when-modify-or-delete-alternate-access-mapping.md",
+      "redirect_url": "/troubleshoot/sharepoint/security/update-conflict-when-modify-or-delete-alternate-access-mapping",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sharepoint-server-welcome.yml",
+      "redirect_url": "/troubleshoot/sharepoint/sharepoint-server-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sharing-and-permissions/access-denied-when-send-an-email-to-groups.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/access-denied-when-send-an-email-to-groups",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sharing-and-permissions/anonymous-users-cannot-open-xlsx-files-from-a-document-library.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/anonymous-users-cannot-open-xlsx-files-from-a-document-library",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sharing-and-permissions/identity-and-permission-issues-in-two-way-domain-trust.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/identity-and-permission-issues-in-two-way-domain-trust",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sharing-and-permissions/invitation-to-list-works-for-one-user.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/invitation-to-list-works-for-one-user",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sharing-and-permissions/picker-field-embedded-does-not-show-add-people.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/picker-field-embedded-does-not-show-add-people",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sharing-and-permissions/receive-credentials-prompting.md",
+      "redirect_url": "/troubleshoot/sharepoint/sharing-and-permissions/receive-credentials-prompting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/blank-screen-when-you-log-on-sites.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/blank-screen-when-you-log-on-sites",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/cannot-display-sharepoint-pages-in-iframe.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/cannot-display-sharepoint-pages-in-iframe",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/cant-connect-workspace-to-site.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/cant-connect-workspace-to-site",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/cant-start-groove-or-sharepoint.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/cant-start-groove-or-sharepoint",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/customize-application-pages-in-layouts-folder.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/customize-application-pages-in-layouts-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/enable-scripts-and-reload-page-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/enable-scripts-and-reload-page-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/not-support-subsite-export-import-with-publishing-templates.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/not-support-subsite-export-import-with-publishing-templates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/page-not-use-valid-page-lauout.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/page-not-use-valid-page-lauout",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/sharepoint-site-certificate-security-warning.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/sharepoint-site-certificate-security-warning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/site-slowness-because-of-sts-certificate-crl-checking.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/site-slowness-because-of-sts-certificate-crl-checking",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/something-went-wrong-when-access-site.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/something-went-wrong-when-access-site",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/unavailable-sync-to-sharepoint-workspace.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/unavailable-sync-to-sharepoint-workspace",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/using-pageparserpath-directive.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/using-pageparserpath-directive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sites/workspace-groove-detected-another-device.md",
+      "redirect_url": "/troubleshoot/sharepoint/sites/workspace-groove-detected-another-device",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sync/event-id-5553-and-failure-during-site-sync.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/event-id-5553-and-failure-during-site-sync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/sync/sharepoint-workspace-not-sync-with-online.md",
+      "redirect_url": "/troubleshoot/sharepoint/sync/sharepoint-workspace-not-sync-with-online",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/web-parts/loading-behavior-no-longer-available.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/loading-behavior-no-longer-available",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/web-parts/organization-browser-web-part-does-not-render-for-windows-claims-users.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/organization-browser-web-part-does-not-render-for-windows-claims-users",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/web-parts/sorry-something-went-wrong-error-on-site-page-with-pages-library-web-part.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/sorry-something-went-wrong-error-on-site-page-with-pages-library-web-part",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/web-parts/web-part-controls-do-not-work-after-sites-are-migrated.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/web-part-controls-do-not-work-after-sites-are-migrated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/web-parts/web-part-refresh-in-sharepoint-foundation-2010.md",
+      "redirect_url": "/troubleshoot/sharepoint/web-parts/web-part-refresh-in-sharepoint-foundation-2010",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/workflows/access-denied-error-sharepoint-2010-when-workflow-sends-email-to-group.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/access-denied-error-sharepoint-2010-when-workflow-sends-email-to-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/workflows/response-returned-did-not-come-from-workflow-manager-error.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/response-returned-did-not-come-from-workflow-manager-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/workflows/specified-runas-account-is-invalid.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/specified-runas-account-is-invalid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/workflows/unable-to-create-or-edit-sharepoint-2013-workflow-sharepoint-designer.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/unable-to-create-or-edit-sharepoint-2013-workflow-sharepoint-designer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/workflows/upgrade-sharepoint-through-workflow-manager.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/upgrade-sharepoint-through-workflow-manager",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/workflows/workflow-cannot-send-email-to-group.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-cannot-send-email-to-group",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SharePoint/SharePointServer/workflows/workflow-timer-job-is-stuck-at-pausing.md",
+      "redirect_url": "/troubleshoot/sharepoint/workflows/workflow-timer-job-is-stuck-at-pausing",
+      "redirect_document_id": false
+    }
+  ]
+}

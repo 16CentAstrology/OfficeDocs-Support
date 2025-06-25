@@ -1,0 +1,149 @@
+{
+  "redirections": [
+    {
+      "source_path": "Viva/Connections/cant-find-app-in-teams-admin-center.md",
+      "redirect_url": "/troubleshoot/viva/Connections/cant-find-app-in-teams-admin-center",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Connections/viva-connections-welcome.yml",
+      "redirect_url": "/troubleshoot/viva/Connections/viva-connections-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Engage/error-select-the-viva-engage-tile-in-microsoft-365.md",
+      "redirect_url": "/troubleshoot/viva/Engage/error-select-the-viva-engage-tile-in-microsoft-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Engage/help-users-log-in-to-viva-engage-on-android-devices.md",
+      "redirect_url": "/troubleshoot/viva/Engage/help-users-log-in-to-viva-engage-on-android-devices",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Engage/troubleshoot-native-mode.md",
+      "redirect_url": "/troubleshoot/viva/Engage/troubleshoot-native-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Engage/viva-engage-welcome.yml",
+      "redirect_url": "/troubleshoot/viva/Engage/viva-engage-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/access/manager-access-issues.md",
+      "redirect_url": "/troubleshoot/viva/Glint/access/manager-access-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/contact-support/get-support-viva-glint.md",
+      "redirect_url": "/troubleshoot/viva/Glint/contact-support/get-support-viva-glint",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/data-file-upload/data-file-upload-warnings-errors.md",
+      "redirect_url": "/troubleshoot/viva/Glint/data-file-upload/data-file-upload-warnings-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/data-file-upload/fix-employee-id-updates-errors-warnings.md",
+      "redirect_url": "/troubleshoot/viva/Glint/data-file-upload/fix-employee-id-updates-errors-warnings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/data-file-upload/fix-upload-attributes-errors.md",
+      "redirect_url": "/troubleshoot/viva/Glint/data-file-upload/fix-upload-attributes-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/data-file-upload/fix-upload-derivation-errors.md",
+      "redirect_url": "/troubleshoot/viva/Glint/data-file-upload/fix-upload-derivation-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/data-file-upload/fix-upload-duplicate-data-warnings.md",
+      "redirect_url": "/troubleshoot/viva/Glint/data-file-upload/fix-upload-duplicate-data-warnings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/data-file-upload/fix-upload-invalid-unexpected-values-warnings.md",
+      "redirect_url": "/troubleshoot/viva/Glint/data-file-upload/fix-upload-invalid-unexpected-values-warnings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/data-file-upload/fix-upload-manager-hierarchy-warnings.md",
+      "redirect_url": "/troubleshoot/viva/Glint/data-file-upload/fix-upload-manager-hierarchy-warnings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/historical-import/import-error-duplicate-entry.md",
+      "redirect_url": "/troubleshoot/viva/Glint/historical-import/import-error-duplicate-entry",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/historical-import/import-error-exception-date-overlap.md",
+      "redirect_url": "/troubleshoot/viva/Glint/historical-import/import-error-exception-date-overlap",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/historical-import/import-error-missing-required-field.md",
+      "redirect_url": "/troubleshoot/viva/Glint/historical-import/import-error-missing-required-field",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/historical-import/import-error-user-is-not-in-client.md",
+      "redirect_url": "/troubleshoot/viva/Glint/historical-import/import-error-user-is-not-in-client",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/provisioning-and-licensing/tenant-provisioning-licensing-errors.md",
+      "redirect_url": "/troubleshoot/viva/Glint/provisioning-and-licensing/tenant-provisioning-licensing-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Glint/viva-glint-welcome.yml",
+      "redirect_url": "/troubleshoot/viva/Glint/viva-glint-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/index.yml",
+      "redirect_url": "/troubleshoot/viva/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Insights/viva-insights-errors.md",
+      "redirect_url": "/troubleshoot/viva/Insights/viva-insights-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Insights/viva-insights-welcome.yml",
+      "redirect_url": "/troubleshoot/viva/Insights/viva-insights-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Learning/viva-learning-welcome.yml",
+      "redirect_url": "/troubleshoot/viva/Learning/viva-learning-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Pulse/fix-setup-error-messages.md",
+      "redirect_url": "/troubleshoot/viva/Pulse/fix-setup-error-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Pulse/viva-pulse-welcome.yml",
+      "redirect_url": "/troubleshoot/viva/Pulse/viva-pulse-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Viva-suite-administration/viva-self-help-diagnostics.md",
+      "redirect_url": "/troubleshoot/viva/Viva-suite-administration/viva-self-help-diagnostics",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Viva/Viva-suite-administration/viva-suite-administration-welcome.yml",
+      "redirect_url": "/troubleshoot/viva/Viva-suite-administration/viva-suite-administration-welcome",
+      "redirect_document_id": false
+    }
+  ]
+}

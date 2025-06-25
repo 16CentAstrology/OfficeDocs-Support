@@ -627,6 +627,2016 @@
     {
       "source_path": "Office/OfficeExperts/sway/sway-file-size-limit-error.md",
       "redirect_url": "/previous-versions/troubleshoot/content-retirement"
+    },
+    {
+      "source_path": "Office/Client/access/access-crashes-updating-linked-list.md",
+      "redirect_url": "/troubleshoot/office/access/access-crashes-updating-linked-list",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/access-database-digital-signature-invalidated.md",
+      "redirect_url": "/troubleshoot/office/access/access-database-digital-signature-invalidated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/access-freezes-when-open-linked-table.md",
+      "redirect_url": "/troubleshoot/office/access/access-freezes-when-open-linked-table",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/access-linked-table-deleted.md",
+      "redirect_url": "/troubleshoot/office/access/access-linked-table-deleted",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/access-linked-table-return-deleted.md",
+      "redirect_url": "/troubleshoot/office/access/access-linked-table-return-deleted",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/ambiguous-name-detected.md",
+      "redirect_url": "/troubleshoot/office/access/ambiguous-name-detected",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/automate-selected-printer-for-report.md",
+      "redirect_url": "/troubleshoot/office/access/automate-selected-printer-for-report",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/build-dynamic-query-from-search-form.md",
+      "redirect_url": "/troubleshoot/office/access/build-dynamic-query-from-search-form",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/calculate-age-in-months-years.md",
+      "redirect_url": "/troubleshoot/office/access/calculate-age-in-months-years",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/cannot-add-delete-records-ado.md",
+      "redirect_url": "/troubleshoot/office/access/cannot-add-delete-records-ado",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/cannot-use-odbc-or-oledb.md",
+      "redirect_url": "/troubleshoot/office/access/cannot-use-odbc-or-oledb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/cant-update-database-or-object-error.md",
+      "redirect_url": "/troubleshoot/office/access/cant-update-database-or-object-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/cdec-function-error.md",
+      "redirect_url": "/troubleshoot/office/access/cdec-function-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/change-dates-by-functions-operators.md",
+      "redirect_url": "/troubleshoot/office/access/change-dates-by-functions-operators",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/clipboard-data-damaged.md",
+      "redirect_url": "/troubleshoot/office/access/clipboard-data-damaged",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/database-connection-error.md",
+      "redirect_url": "/troubleshoot/office/access/database-connection-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/database-contain-missing-reference.md",
+      "redirect_url": "/troubleshoot/office/access/database-contain-missing-reference",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/database-normalization-description.md",
+      "redirect_url": "/troubleshoot/office/access/database-normalization-description",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/database-or-object-is-read-only.md",
+      "redirect_url": "/troubleshoot/office/access/database-or-object-is-read-only",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/database-previous-version.md",
+      "redirect_url": "/troubleshoot/office/access/database-previous-version",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/database-requires-newer-access.md",
+      "redirect_url": "/troubleshoot/office/access/database-requires-newer-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/decimal-value-rounded-up-down-integer.md",
+      "redirect_url": "/troubleshoot/office/access/decimal-value-rounded-up-down-integer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/define-table-relationships.md",
+      "redirect_url": "/troubleshoot/office/access/define-table-relationships",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/deploy-dacpac-access-web-app-package.md",
+      "redirect_url": "/troubleshoot/office/access/deploy-dacpac-access-web-app-package",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-compiling-module-running-procedure.md",
+      "redirect_url": "/troubleshoot/office/access/error-compiling-module-running-procedure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-double-clicking-database.md",
+      "redirect_url": "/troubleshoot/office/access/error-double-clicking-database",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-inserting-table-record-autonumber.md",
+      "redirect_url": "/troubleshoot/office/access/error-inserting-table-record-autonumber",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-launching-access.md",
+      "redirect_url": "/troubleshoot/office/access/error-launching-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-opening-database.md",
+      "redirect_url": "/troubleshoot/office/access/error-opening-database",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-opening-sql-linked-table.md",
+      "redirect_url": "/troubleshoot/office/access/error-opening-sql-linked-table",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-query-against-linked-sharepoint-view.md",
+      "redirect_url": "/troubleshoot/office/access/error-query-against-linked-sharepoint-view",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-reference-linked-table.md",
+      "redirect_url": "/troubleshoot/office/access/error-reference-linked-table",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-running-macro.md",
+      "redirect_url": "/troubleshoot/office/access/error-running-macro",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-saving-database.md",
+      "redirect_url": "/troubleshoot/office/access/error-saving-database",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-using-special-characters.md",
+      "redirect_url": "/troubleshoot/office/access/error-using-special-characters",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/error-when-perform-operation-on-table.md",
+      "redirect_url": "/troubleshoot/office/access/error-when-perform-operation-on-table",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/errors-publishing-exporting.md",
+      "redirect_url": "/troubleshoot/office/access/errors-publishing-exporting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/errors-updating-query-form-data.md",
+      "redirect_url": "/troubleshoot/office/access/errors-updating-query-form-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/expressions-to-count-yes-no-other-reponses.md",
+      "redirect_url": "/troubleshoot/office/access/expressions-to-count-yes-no-other-reponses",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/file-sharing-lock-count-exceeded.md",
+      "redirect_url": "/troubleshoot/office/access/file-sharing-lock-count-exceeded",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/floating-calculations-info.md",
+      "redirect_url": "/troubleshoot/office/access/floating-calculations-info",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/functions-return-wrong-week-number.md",
+      "redirect_url": "/troubleshoot/office/access/functions-return-wrong-week-number",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/hide-combo-box-drop-down-arrow.md",
+      "redirect_url": "/troubleshoot/office/access/hide-combo-box-drop-down-arrow",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/how-to-change-query-properties.md",
+      "redirect_url": "/troubleshoot/office/access/how-to-change-query-properties",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/how-to-parse-city-state-zip-to-separate-values.md",
+      "redirect_url": "/troubleshoot/office/access/how-to-parse-city-state-zip-to-separate-values",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/id-field-increment-by-one.md",
+      "redirect_url": "/troubleshoot/office/access/id-field-increment-by-one",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/incorrect-current-version-registry-key.md",
+      "redirect_url": "/troubleshoot/office/access/incorrect-current-version-registry-key",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/invalid-teradata-token.md",
+      "redirect_url": "/troubleshoot/office/access/invalid-teradata-token",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/jet-odbc-driver-available-32-bit-version.md",
+      "redirect_url": "/troubleshoot/office/access/jet-odbc-driver-available-32-bit-version",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/library-unregistered-runtime-error.md",
+      "redirect_url": "/troubleshoot/office/access/library-unregistered-runtime-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/linked-table-data-truncated.md",
+      "redirect_url": "/troubleshoot/office/access/linked-table-data-truncated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/load-access-web-app-in-ie.md",
+      "redirect_url": "/troubleshoot/office/access/load-access-web-app-in-ie",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/lock-files-introduction.md",
+      "redirect_url": "/troubleshoot/office/access/lock-files-introduction",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/long-integer-numbers-converted-double-data-type.md",
+      "redirect_url": "/troubleshoot/office/access/long-integer-numbers-converted-double-data-type",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/odbc-administrator-crashes.md",
+      "redirect_url": "/troubleshoot/office/access/odbc-administrator-crashes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/optimize-odbc-data-sources.md",
+      "redirect_url": "/troubleshoot/office/access/optimize-odbc-data-sources",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/print-preview-error.md",
+      "redirect_url": "/troubleshoot/office/access/print-preview-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/query-must-have-at-least-one-destination-field.md",
+      "redirect_url": "/troubleshoot/office/access/query-must-have-at-least-one-destination-field",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/reserved-words.md",
+      "redirect_url": "/troubleshoot/office/access/reserved-words",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/resolve-reference-issues.md",
+      "redirect_url": "/troubleshoot/office/access/resolve-reference-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/retrieve-sharepoint-list-in-access.md",
+      "redirect_url": "/troubleshoot/office/access/retrieve-sharepoint-list-in-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/running-wizard-error-loading-dll.md",
+      "redirect_url": "/troubleshoot/office/access/running-wizard-error-loading-dll",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/save-password-checkbox-unavailable.md",
+      "redirect_url": "/troubleshoot/office/access/save-password-checkbox-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/saving-changes-require-exclusive-lock.md",
+      "redirect_url": "/troubleshoot/office/access/saving-changes-require-exclusive-lock",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/stop-responding-when-create-mde-accde-ade-files.md",
+      "redirect_url": "/troubleshoot/office/access/stop-responding-when-create-mde-accde-ade-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/store-calculate-compare-datetime-data.md",
+      "redirect_url": "/troubleshoot/office/access/store-calculate-compare-datetime-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/string-data-right-truncation.md",
+      "redirect_url": "/troubleshoot/office/access/string-data-right-truncation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/switchboard-manager-option-disappears.md",
+      "redirect_url": "/troubleshoot/office/access/switchboard-manager-option-disappears",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/text-box-control-information-incorrectly.md",
+      "redirect_url": "/troubleshoot/office/access/text-box-control-information-incorrectly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/too-many-fields-defined-error.md",
+      "redirect_url": "/troubleshoot/office/access/too-many-fields-defined-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/use-query-form-qbf-technique.md",
+      "redirect_url": "/troubleshoot/office/access/use-query-form-qbf-technique",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/user-defined-function-fail-displayed.md",
+      "redirect_url": "/troubleshoot/office/access/user-defined-function-fail-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/access/your-network-access-was-interrupted-error.md",
+      "redirect_url": "/troubleshoot/office/access/your-network-access-was-interrupted-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/0xcaa70007-and-0xcaa80000.md",
+      "redirect_url": "/troubleshoot/office/activation/0xcaa70007-and-0xcaa80000",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/aadsts9002313-invalid-request.md",
+      "redirect_url": "/troubleshoot/office/activation/aadsts9002313-invalid-request",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/account-doesnt-exist.md",
+      "redirect_url": "/troubleshoot/office/activation/account-doesnt-exist",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/account-not-associated-with-office.md",
+      "redirect_url": "/troubleshoot/office/activation/account-not-associated-with-office",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/account-or-subscription-errors.md",
+      "redirect_url": "/troubleshoot/office/activation/account-or-subscription-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/activate-with-product-key.md",
+      "redirect_url": "/troubleshoot/office/activation/activate-with-product-key",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/activation-error-0x80070005.md",
+      "redirect_url": "/troubleshoot/office/activation/activation-error-0x80070005",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/activation-error-0xcaa50021.md",
+      "redirect_url": "/troubleshoot/office/activation/activation-error-0xcaa50021",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/activation-limits.md",
+      "redirect_url": "/troubleshoot/office/activation/activation-limits",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/activation-usage-report-issues.md",
+      "redirect_url": "/troubleshoot/office/activation/activation-usage-report-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/another-account-already-signed-in.md",
+      "redirect_url": "/troubleshoot/office/activation/another-account-already-signed-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/cannot-sign-in-microsoft-365-desktop-apps.md",
+      "redirect_url": "/troubleshoot/office/activation/cannot-sign-in-microsoft-365-desktop-apps",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/cant-be-used-to-activate.md",
+      "redirect_url": "/troubleshoot/office/activation/cant-be-used-to-activate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/connection-issue-when-sign-in-office-2016.md",
+      "redirect_url": "/troubleshoot/office/activation/connection-issue-when-sign-in-office-2016",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/device-based-licensing.md",
+      "redirect_url": "/troubleshoot/office/activation/device-based-licensing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/disabling-adal-wam-not-recommended.md",
+      "redirect_url": "/troubleshoot/office/activation/disabling-adal-wam-not-recommended",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/doesnt-allow-editing-on-mac.md",
+      "redirect_url": "/troubleshoot/office/activation/doesnt-allow-editing-on-mac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/error-80070520-sign-in-microsoft-365-apps.md",
+      "redirect_url": "/troubleshoot/office/activation/error-80070520-sign-in-microsoft-365-apps",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/errors-activating-on-older-windows.md",
+      "redirect_url": "/troubleshoot/office/activation/errors-activating-on-older-windows",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/fiddler-trace-logs-for-mfa.md",
+      "redirect_url": "/troubleshoot/office/activation/fiddler-trace-logs-for-mfa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/issue-when-activate-office-365-proplus.md",
+      "redirect_url": "/troubleshoot/office/activation/issue-when-activate-office-365-proplus",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/issue-when-activate-office-from-office-365.md",
+      "redirect_url": "/troubleshoot/office/activation/issue-when-activate-office-from-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/license-issue-when-start-office-application.md",
+      "redirect_url": "/troubleshoot/office/activation/license-issue-when-start-office-application",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/license-not-assigned.md",
+      "redirect_url": "/troubleshoot/office/activation/license-not-assigned",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/mac-unknown-error.md",
+      "redirect_url": "/troubleshoot/office/activation/mac-unknown-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/network-connection-issues.md",
+      "redirect_url": "/troubleshoot/office/activation/network-connection-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/office-365-users-not-signed-in-office.md",
+      "redirect_url": "/troubleshoot/office/activation/office-365-users-not-signed-in-office",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/office-activation-process-issues.md",
+      "redirect_url": "/troubleshoot/office/activation/office-activation-process-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/problem-with-your-account.md",
+      "redirect_url": "/troubleshoot/office/activation/problem-with-your-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/product-deactivated.md",
+      "redirect_url": "/troubleshoot/office/activation/product-deactivated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/run-into-a-problem.md",
+      "redirect_url": "/troubleshoot/office/activation/run-into-a-problem",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/shared-computer-activation.md",
+      "redirect_url": "/troubleshoot/office/activation/shared-computer-activation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/sign-in-issues.md",
+      "redirect_url": "/troubleshoot/office/activation/sign-in-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/sign-in-to-office-2016-for-mac-fail.md",
+      "redirect_url": "/troubleshoot/office/activation/sign-in-to-office-2016-for-mac-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/subscription-expired.md",
+      "redirect_url": "/troubleshoot/office/activation/subscription-expired",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/subscription-issue-in-office-mobile.md",
+      "redirect_url": "/troubleshoot/office/activation/subscription-issue-in-office-mobile",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/temporary-server-issues.md",
+      "redirect_url": "/troubleshoot/office/activation/temporary-server-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/tpm-malfunctioned.md",
+      "redirect_url": "/troubleshoot/office/activation/tpm-malfunctioned",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/unlicensed-product-error.md",
+      "redirect_url": "/troubleshoot/office/activation/unlicensed-product-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/use-msoaid-for-authentication-issues.md",
+      "redirect_url": "/troubleshoot/office/activation/use-msoaid-for-authentication-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/activation/your-organization-disabled-this-device.md",
+      "redirect_url": "/troubleshoot/office/activation/your-organization-disabled-this-device",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/copilot/copilot-missing-disabled-not-work-correctly.md",
+      "redirect_url": "/troubleshoot/office/copilot/copilot-missing-disabled-not-work-correctly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/add-ins-command-bars-removed.md",
+      "redirect_url": "/troubleshoot/office/excel/add-ins-command-bars-removed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/available-resources-errors.md",
+      "redirect_url": "/troubleshoot/office/excel/available-resources-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/blank-pages-unexpectedly-printed.md",
+      "redirect_url": "/troubleshoot/office/excel/blank-pages-unexpectedly-printed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/cannot-export-to-excel.md",
+      "redirect_url": "/troubleshoot/office/excel/cannot-export-to-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/cannot-modify-odata-connection.md",
+      "redirect_url": "/troubleshoot/office/excel/cannot-modify-odata-connection",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/cannot-paste-attributes.md",
+      "redirect_url": "/troubleshoot/office/excel/cannot-paste-attributes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/cant-use-object-linking-and-embedding-error.md",
+      "redirect_url": "/troubleshoot/office/excel/cant-use-object-linking-and-embedding-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/clean-workbook-less-memory.md",
+      "redirect_url": "/troubleshoot/office/excel/clean-workbook-less-memory",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/command-cannot-be-used-on-selections.md",
+      "redirect_url": "/troubleshoot/office/excel/command-cannot-be-used-on-selections",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/control-startup-message.md",
+      "redirect_url": "/troubleshoot/office/excel/control-startup-message",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/copy-formulas-over-large-area.md",
+      "redirect_url": "/troubleshoot/office/excel/copy-formulas-over-large-area",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/create-dynamic-defined-range.md",
+      "redirect_url": "/troubleshoot/office/excel/create-dynamic-defined-range",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/current-mode-of-calculation.md",
+      "redirect_url": "/troubleshoot/office/excel/current-mode-of-calculation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/custom-function-calculate-wrong-value.md",
+      "redirect_url": "/troubleshoot/office/excel/custom-function-calculate-wrong-value",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/defined-names-to-update-chart-range.md",
+      "redirect_url": "/troubleshoot/office/excel/defined-names-to-update-chart-range",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/determine-a-leap-year.md",
+      "redirect_url": "/troubleshoot/office/excel/determine-a-leap-year",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/digital-signatures-code-signing.md",
+      "redirect_url": "/troubleshoot/office/excel/digital-signatures-code-signing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/document-contains-invalid-signatures-error.md",
+      "redirect_url": "/troubleshoot/office/excel/document-contains-invalid-signatures-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/dsum-and-dcount-not-work-with-pivottables.md",
+      "redirect_url": "/troubleshoot/office/excel/dsum-and-dcount-not-work-with-pivottables",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/error-sort-a-range-merged-cell.md",
+      "redirect_url": "/troubleshoot/office/excel/error-sort-a-range-merged-cell",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/error-when-send-commands-in-excel.md",
+      "redirect_url": "/troubleshoot/office/excel/error-when-send-commands-in-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/excel-cannot-complete-task-with-available.md",
+      "redirect_url": "/troubleshoot/office/excel/excel-cannot-complete-task-with-available",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/excel-data-not-retain-formatting-mail-merge.md",
+      "redirect_url": "/troubleshoot/office/excel/excel-data-not-retain-formatting-mail-merge",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/excel-opens-blank.md",
+      "redirect_url": "/troubleshoot/office/excel/excel-opens-blank",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/export-text-file-with-comma-quote.md",
+      "redirect_url": "/troubleshoot/office/excel/export-text-file-with-comma-quote",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/external-links-calculated-open-workbook-earlier-version-excel.md",
+      "redirect_url": "/troubleshoot/office/excel/external-links-calculated-open-workbook-earlier-version-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/fails-accessing-excel-through-odbc.md",
+      "redirect_url": "/troubleshoot/office/excel/fails-accessing-excel-through-odbc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/fails-starting-excel-mac.md",
+      "redirect_url": "/troubleshoot/office/excel/fails-starting-excel-mac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/files-open-automatically.md",
+      "redirect_url": "/troubleshoot/office/excel/files-open-automatically",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/first-sheet-name-displays-different-language.md",
+      "redirect_url": "/troubleshoot/office/excel/first-sheet-name-displays-different-language",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/floating-point-arithmetic-inaccurate-result.md",
+      "redirect_url": "/troubleshoot/office/excel/floating-point-arithmetic-inaccurate-result",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/force-excel-to-open-new-instance.md",
+      "redirect_url": "/troubleshoot/office/excel/force-excel-to-open-new-instance",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/format-cells-settings.md",
+      "redirect_url": "/troubleshoot/office/excel/format-cells-settings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/formula-errors.md",
+      "redirect_url": "/troubleshoot/office/excel/formula-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/formula-returns-value-error.md",
+      "redirect_url": "/troubleshoot/office/excel/formula-returns-value-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/heavy-excel-workloads-run-slowly-multisession.md",
+      "redirect_url": "/troubleshoot/office/excel/heavy-excel-workloads-run-slowly-multisession",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/hide-sheet-and-use-xlveryhidden.md",
+      "redirect_url": "/troubleshoot/office/excel/hide-sheet-and-use-xlveryhidden",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/inaccurate-chart-trendline-formula.md",
+      "redirect_url": "/troubleshoot/office/excel/inaccurate-chart-trendline-formula",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/index-outside-bounds-of-array-error.md",
+      "redirect_url": "/troubleshoot/office/excel/index-outside-bounds-of-array-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/issue-when-save-excel-workbooks.md",
+      "redirect_url": "/troubleshoot/office/excel/issue-when-save-excel-workbooks",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/laa-capability-change.md",
+      "redirect_url": "/troubleshoot/office/excel/laa-capability-change",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/last-digits-changed-to-zeros.md",
+      "redirect_url": "/troubleshoot/office/excel/last-digits-changed-to-zeros",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/link-visio-drawing-to-a-specific-region.md",
+      "redirect_url": "/troubleshoot/office/excel/link-visio-drawing-to-a-specific-region",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/logical-and-or-in-sum-if.md",
+      "redirect_url": "/troubleshoot/office/excel/logical-and-or-in-sum-if",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/long-numbers-incorrectly-in-excel.md",
+      "redirect_url": "/troubleshoot/office/excel/long-numbers-incorrectly-in-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/loop-through-data-using-macro.md",
+      "redirect_url": "/troubleshoot/office/excel/loop-through-data-using-macro",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/macro-insert-delete-rows-columns.md",
+      "redirect_url": "/troubleshoot/office/excel/macro-insert-delete-rows-columns",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/memory-usage-32-bit-edition-of-excel.md",
+      "redirect_url": "/troubleshoot/office/excel/memory-usage-32-bit-edition-of-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/mentions-not-resolve-user-information.md",
+      "redirect_url": "/troubleshoot/office/excel/mentions-not-resolve-user-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/network-mapped-drive-hyperlinks-unc.md",
+      "redirect_url": "/troubleshoot/office/excel/network-mapped-drive-hyperlinks-unc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/numeric-columns-and-rows.md",
+      "redirect_url": "/troubleshoot/office/excel/numeric-columns-and-rows",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/object-model-calls-fails-workbookopen-event.md",
+      "redirect_url": "/troubleshoot/office/excel/object-model-calls-fails-workbookopen-event",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/parts-of-excel-turn-white-or-gray.md",
+      "redirect_url": "/troubleshoot/office/excel/parts-of-excel-turn-white-or-gray",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/paste-special-missing-or-not-working.md",
+      "redirect_url": "/troubleshoot/office/excel/paste-special-missing-or-not-working",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/percentage-format-changes-numeric.md",
+      "redirect_url": "/troubleshoot/office/excel/percentage-format-changes-numeric",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/prn-file-limited-to-240-characters.md",
+      "redirect_url": "/troubleshoot/office/excel/prn-file-limited-to-240-characters",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/quitting-process-continues-running.md",
+      "redirect_url": "/troubleshoot/office/excel/quitting-process-continues-running",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/saved-property-determine-workbook-is-changed.md",
+      "redirect_url": "/troubleshoot/office/excel/saved-property-determine-workbook-is-changed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/security-settings.md",
+      "redirect_url": "/troubleshoot/office/excel/security-settings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/statistical-functions-differences.md",
+      "redirect_url": "/troubleshoot/office/excel/statistical-functions-differences",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/statistical-functions-growth.md",
+      "redirect_url": "/troubleshoot/office/excel/statistical-functions-growth",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/statistical-functions-rsq.md",
+      "redirect_url": "/troubleshoot/office/excel/statistical-functions-rsq",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/too-many-different-cell-formats-in-excel.md",
+      "redirect_url": "/troubleshoot/office/excel/too-many-different-cell-formats-in-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/transfer-data-to-excel-from-vb.md",
+      "redirect_url": "/troubleshoot/office/excel/transfer-data-to-excel-from-vb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/trendline-equation-coefficient-digits.md",
+      "redirect_url": "/troubleshoot/office/excel/trendline-equation-coefficient-digits",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/turn-off-function-argument-tooltips.md",
+      "redirect_url": "/troubleshoot/office/excel/turn-off-function-argument-tooltips",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/two-digit-year-numbers.md",
+      "redirect_url": "/troubleshoot/office/excel/two-digit-year-numbers",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/update-external-links.md",
+      "redirect_url": "/troubleshoot/office/excel/update-external-links",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/vba-writes-to-cells-slowly.md",
+      "redirect_url": "/troubleshoot/office/excel/vba-writes-to-cells-slowly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/worksheet-recalculation-sumif-formula.md",
+      "redirect_url": "/troubleshoot/office/excel/worksheet-recalculation-sumif-formula",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/excel/wrongly-assumes-1900-is-leap-year.md",
+      "redirect_url": "/troubleshoot/office/excel/wrongly-assumes-1900-is-leap-year",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/forms/resolve-file-upload-errors-microsoft-forms.md",
+      "redirect_url": "/troubleshoot/office/forms/resolve-file-upload-errors-microsoft-forms",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/access-denied-error-when-starting-third-party-apps.md",
+      "redirect_url": "/troubleshoot/office/installation/access-denied-error-when-starting-third-party-apps",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/automatic-updates.md",
+      "redirect_url": "/troubleshoot/office/installation/automatic-updates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/cannot-access-powershell-file-error.md",
+      "redirect_url": "/troubleshoot/office/installation/cannot-access-powershell-file-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/error-1935-when-install-office-2010.md",
+      "redirect_url": "/troubleshoot/office/installation/error-1935-when-install-office-2010",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/error-code-30010-45-or-30088-26.md",
+      "redirect_url": "/troubleshoot/office/installation/error-code-30010-45-or-30088-26",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/error-run-office-setup-program.md",
+      "redirect_url": "/troubleshoot/office/installation/error-run-office-setup-program",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/forceupgrade-forcedowngrade-removed-odt-config.md",
+      "redirect_url": "/troubleshoot/office/installation/forceupgrade-forcedowngrade-removed-odt-config",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/how-to-download-office-install-not-in-vlsc.md",
+      "redirect_url": "/troubleshoot/office/installation/how-to-download-office-install-not-in-vlsc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/install-and-activate-office-2013.md",
+      "redirect_url": "/troubleshoot/office/installation/install-and-activate-office-2013",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/office-setup-issues.md",
+      "redirect_url": "/troubleshoot/office/installation/office-setup-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/prioritize-bits-for-office-2016-updates.md",
+      "redirect_url": "/troubleshoot/office/installation/prioritize-bits-for-office-2016-updates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/installation/use-sara-to-collect-install-info.md",
+      "redirect_url": "/troubleshoot/office/installation/use-sara-to-collect-install-info",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/loop/loop-workspace-unexpectedly-stored-in-sharepoint-online-site.md",
+      "redirect_url": "/troubleshoot/office/loop/loop-workspace-unexpectedly-stored-in-sharepoint-online-site",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/mobile/prevent-office-add-in-work-account.md",
+      "redirect_url": "/troubleshoot/office/mobile/prevent-office-add-in-work-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-client-welcome.yml",
+      "redirect_url": "/troubleshoot/office/office-client-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-for-mac/excel-mac-error-application-quit-unexpectedly.md",
+      "redirect_url": "/troubleshoot/office/office-for-mac/excel-mac-error-application-quit-unexpectedly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-for-mac/office-2016-for-mac-64-bit-upgrade.md",
+      "redirect_url": "/troubleshoot/office/office-for-mac/office-2016-for-mac-64-bit-upgrade",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-for-mac/office-for-mac-issues-macos-10-7.md",
+      "redirect_url": "/troubleshoot/office/office-for-mac/office-for-mac-issues-macos-10-7",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-for-mac/office-for-mac-prompted-for-authentication.md",
+      "redirect_url": "/troubleshoot/office/office-for-mac/office-for-mac-prompted-for-authentication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-for-mac/powerpoint-mac-closes-unexpectedly.md",
+      "redirect_url": "/troubleshoot/office/office-for-mac/powerpoint-mac-closes-unexpectedly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-online-server/web-sites-lose-ssl-certificate-bindings.md",
+      "redirect_url": "/troubleshoot/office/office-online-server/web-sites-lose-ssl-certificate-bindings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/64-bit-cant-install-with-click-to-run.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/64-bit-cant-install-with-click-to-run",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/another-account-already-signed-in.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/another-account-already-signed-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/apps-for-office-not-start.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/apps-for-office-not-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/background-task-activation-spurious.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/background-task-activation-spurious",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cannot-access-sharepoint-online-place.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/cannot-access-sharepoint-online-place",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cannot-guarantee-complete-repair-corrupted-files.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/cannot-guarantee-complete-repair-corrupted-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cannot-install-64-bit-office-with-32-bit.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/cannot-install-64-bit-office-with-32-bit",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cannot-install-office-add-in.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/cannot-install-office-add-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cannot-locate-server-when-click-hyperlink.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/cannot-locate-server-when-click-hyperlink",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cannot-open-add-in-from-localhost.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/cannot-open-add-in-from-localhost",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/cant-create-dsn-for-office-system-driver.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/cant-create-dsn-for-office-system-driver",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/click-hyperlink-to-sso-website.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/click-hyperlink-to-sso-website",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/click-to-run-app-repair-process.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/click-to-run-app-repair-process",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/click-to-run-office-on-terminal-server.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/click-to-run-office-on-terminal-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/collect-office-diagnostic-logs.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/collect-office-diagnostic-logs",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/compile-error-procedure-too-large.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/compile-error-procedure-too-large",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/control-block-ole-com.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/control-block-ole-com",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/document-information-panel-deprecate.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/document-information-panel-deprecate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/enable-collaboration.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/enable-collaboration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/enable-disable-hyperlink-warning.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/enable-disable-hyperlink-warning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/error-open-document.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/error-open-document",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/error-open-word-excel.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/error-open-word-excel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/error-when-uninstall-office.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/error-when-uninstall-office",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/fails-accessing-page-connected-access-database.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/fails-accessing-page-connected-access-database",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/fails-embedding-adobe-opentype-font.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/fails-embedding-adobe-opentype-font",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/fails-opening-long-folder-name-files.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/fails-opening-long-folder-name-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/file-cannot-be-saved.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/file-cannot-be-saved",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/file-not-found-when-open-file-from-unc.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/file-not-found-when-open-file-from-unc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/files-fail-to-open.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/files-fail-to-open",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/getobject-createobject-behavior.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/getobject-createobject-behavior",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/install-sara-from-intune.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/install-sara-from-intune",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/install-sara-from-network-share.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/install-sara-from-network-share",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/invalid-product-key-or-license-mismatch-error.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/invalid-product-key-or-license-mismatch-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/issue-support-limitations.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/issue-support-limitations",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/issue-when-edit-equation-in-office.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/issue-when-edit-equation-in-office",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/manage-office-program-templates.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/manage-office-program-templates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/microsoft-program-cannot-be-opened.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/microsoft-program-cannot-be-opened",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/missing-fonts-opening-documents.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/missing-fonts-opening-documents",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/mobile-viewing-pdf-files.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/mobile-viewing-pdf-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/no-default-mail-client-error.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/no-default-mail-client-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/no-file-previews-file-explorer-switching-to-32-bit.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/no-file-previews-file-explorer-switching-to-32-bit",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/numbering-scheme-for-product-guid.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/numbering-scheme-for-product-guid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/numbering-scheme-product-code-guids.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/numbering-scheme-product-code-guids",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-365-activates-skype.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-365-activates-skype",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-365-third-party-network-devices.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-365-third-party-network-devices",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-add-in-not-loaded.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-add-in-not-loaded",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-applications-crash-when-open-irm-doc.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-applications-crash-when-open-irm-doc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-docuemnt-image-quality-loss.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-docuemnt-image-quality-loss",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-end-user-license-agreement.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-end-user-license-agreement",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-feature-updates-task-faq.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-feature-updates-task-faq",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-file-fails-validation.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-file-fails-validation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-install-error-1401-1402-1406.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-install-error-1401-1402-1406",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-not-entitled-on-device.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-not-entitled-on-device",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-not-start-safe-mode-windows.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-not-start-safe-mode-windows",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-opens-outdated-files.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-opens-outdated-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/office-stops-responding.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/office-stops-responding",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/product-ids-supported-office-deployment-click-to-run.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/product-ids-supported-office-deployment-click-to-run",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/saving-file-to-network-server-slow.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/saving-file-to-network-server-slow",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/set-default-font.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/set-default-font",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/subscription-license-renewal-fail.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/subscription-license-renewal-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/this-file-cant-be-previewed.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/this-file-cant-be-previewed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/updates-provided-for-nonexistent-office.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/updates-provided-for-nonexistent-office",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/use-multiple-versions-of-office.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/use-multiple-versions-of-office",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/user-not-seeing-add-ins.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/user-not-seeing-add-ins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/username-contains-special-character.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/username-contains-special-character",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/view-error-signatures.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/view-error-signatures",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/web-page-missing-file-error.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/web-page-missing-file-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/windows-cannot-access-device.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/windows-cannot-access-device",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/office-suite-issues/your-system-is-low-on-virtual-memory.md",
+      "redirect_url": "/troubleshoot/office/office-suite-issues/your-system-is-low-on-virtual-memory",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/onenote/couldnt-start-onenote-the-last-time-error.md",
+      "redirect_url": "/troubleshoot/office/onenote/couldnt-start-onenote-the-last-time-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/onenote/error-sync-notebook.md",
+      "redirect_url": "/troubleshoot/office/onenote/error-sync-notebook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/onenote/notebook-offline-location.md",
+      "redirect_url": "/troubleshoot/office/onenote/notebook-offline-location",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/onenote/onenote-error-content-not-yet-available.md",
+      "redirect_url": "/troubleshoot/office/onenote/onenote-error-content-not-yet-available",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/onenote/send-to-onenote-and-meeting-notes-buttons-not-working.md",
+      "redirect_url": "/troubleshoot/office/onenote/send-to-onenote-and-meeting-notes-buttons-not-working",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/onenote/temp-change-onenote-file-size-download.md",
+      "redirect_url": "/troubleshoot/office/onenote/temp-change-onenote-file-size-download",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/performance/office-applications-not-responding.md",
+      "redirect_url": "/troubleshoot/office/performance/office-applications-not-responding",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/performance/office-slow-or-stop-responding.md",
+      "redirect_url": "/troubleshoot/office/performance/office-slow-or-stop-responding",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/planner/guests-cannot-comment-assigned-tasks.md",
+      "redirect_url": "/troubleshoot/office/planner/guests-cannot-comment-assigned-tasks",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/cannot-edit-video-or-audio.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/cannot-edit-video-or-audio",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/cannot-use-videos-as-slide-backgrounds.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/cannot-use-videos-as-slide-backgrounds",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/change-export-slide-resolution.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/change-export-slide-resolution",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/damaged-presentation.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/damaged-presentation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/fails-starting-powerpoint-mac.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/fails-starting-powerpoint-mac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/files-not-rendering-office-online-server-after-security-update.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/files-not-rendering-office-online-server-after-security-update",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/fonts-not-embedded.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/fonts-not-embedded",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/not-enought-printer-memory-available.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/not-enought-printer-memory-available",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/office-opens-blank-from-sharepoint.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/office-opens-blank-from-sharepoint",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/powerpoint-fails-loading-add-in.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/powerpoint-fails-loading-add-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/powerpoint-stops-responding.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/powerpoint-stops-responding",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/save-presentation-as-webpage-unavailable.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/save-presentation-as-webpage-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/slide-transition-sounds-missing.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/slide-transition-sounds-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/powerpoint/viewing-presentation-fails.md",
+      "redirect_url": "/troubleshoot/office/powerpoint/viewing-presentation-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/cant-save-to-global.mpt-error.md",
+      "redirect_url": "/troubleshoot/office/project/cant-save-to-global.mpt-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/circular-relationship-error-when-indenting-task.md",
+      "redirect_url": "/troubleshoot/office/project/circular-relationship-error-when-indenting-task",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/custom-toolbarribbon-available-to-all-users.md",
+      "redirect_url": "/troubleshoot/office/project/custom-toolbarribbon-available-to-all-users",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/definition-of-project-constraints.md",
+      "redirect_url": "/troubleshoot/office/project/definition-of-project-constraints",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/error-when-access-pwa.md",
+      "redirect_url": "/troubleshoot/office/project/error-when-access-pwa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/error-when-add-edit-resource.md",
+      "redirect_url": "/troubleshoot/office/project/error-when-add-edit-resource",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/error-when-click-on-project-links.md",
+      "redirect_url": "/troubleshoot/office/project/error-when-click-on-project-links",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/gantt-chart-usage-view-print-issues.md",
+      "redirect_url": "/troubleshoot/office/project/gantt-chart-usage-view-print-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/import-task-outline-structure.md",
+      "redirect_url": "/troubleshoot/office/project/import-task-outline-structure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/print-gantt-chart-view-without-table.md",
+      "redirect_url": "/troubleshoot/office/project/print-gantt-chart-view-without-table",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/progress-bars-not-drawn-for-tasks.md",
+      "redirect_url": "/troubleshoot/office/project/progress-bars-not-drawn-for-tasks",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/remove-leading-split-in-task.md",
+      "redirect_url": "/troubleshoot/office/project/remove-leading-split-in-task",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/resource-plan-fte-calculate-unexpected.md",
+      "redirect_url": "/troubleshoot/office/project/resource-plan-fte-calculate-unexpected",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/running-macro-automatically-when-starting.md",
+      "redirect_url": "/troubleshoot/office/project/running-macro-automatically-when-starting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/sync-with-tasks-from-project.md",
+      "redirect_url": "/troubleshoot/office/project/sync-with-tasks-from-project",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/project/tasks-not-scheduled.md",
+      "redirect_url": "/troubleshoot/office/project/tasks-not-scheduled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/settings/clear-most-recently-used-file.md",
+      "redirect_url": "/troubleshoot/office/settings/clear-most-recently-used-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/settings/file-blocked-in-office.md",
+      "redirect_url": "/troubleshoot/office/settings/file-blocked-in-office",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/settings/how-to-securely-open-office-documents-that-have-dde-fields.md",
+      "redirect_url": "/troubleshoot/office/settings/how-to-securely-open-office-documents-that-have-dde-fields",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/settings/how-to-use-problem-steps-recorder.md",
+      "redirect_url": "/troubleshoot/office/settings/how-to-use-problem-steps-recorder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/settings/office-display-issues.md",
+      "redirect_url": "/troubleshoot/office/settings/office-display-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/sway/disabled-sway-tile-appear.md",
+      "redirect_url": "/troubleshoot/office/sway/disabled-sway-tile-appear",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/third-party-add-ins/converter-sspdfcg-x64.cnv.md",
+      "redirect_url": "/troubleshoot/office/third-party-add-ins/converter-sspdfcg-x64.cnv",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/third-party-add-ins/incompatibilities-between-office-and-adobe.md",
+      "redirect_url": "/troubleshoot/office/third-party-add-ins/incompatibilities-between-office-and-adobe",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/third-party-add-ins/office-crash-with-sendtobluetooth.md",
+      "redirect_url": "/troubleshoot/office/third-party-add-ins/office-crash-with-sendtobluetooth",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/third-party-add-ins/third-party-installed-font-fails-appearing.md",
+      "redirect_url": "/troubleshoot/office/third-party-add-ins/third-party-installed-font-fails-appearing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/visio/cant-change-text-or-shape-fill-color.md",
+      "redirect_url": "/troubleshoot/office/visio/cant-change-text-or-shape-fill-color",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/visio/create-flexible-organization-charts-visio.md",
+      "redirect_url": "/troubleshoot/office/visio/create-flexible-organization-charts-visio",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/visio/data-graphics-not-displayed.md",
+      "redirect_url": "/troubleshoot/office/visio/data-graphics-not-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/visio/file-blocked-by-registry-policy.md",
+      "redirect_url": "/troubleshoot/office/visio/file-blocked-by-registry-policy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/visio/fit-to-drawing-command-not-work.md",
+      "redirect_url": "/troubleshoot/office/visio/fit-to-drawing-command-not-work",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/visio/not-a-valid-win32-application-error.md",
+      "redirect_url": "/troubleshoot/office/visio/not-a-valid-win32-application-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/visio/open-visio-files-in-visio-web-access.md",
+      "redirect_url": "/troubleshoot/office/visio/open-visio-files-in-visio-web-access",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/visio/search-for-shapes-use-windows-search.md",
+      "redirect_url": "/troubleshoot/office/visio/search-for-shapes-use-windows-search",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/visio/troubleshoot-damaged-drawings.md",
+      "redirect_url": "/troubleshoot/office/visio/troubleshoot-damaged-drawings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/autoexec-autoopen-macros-word.md",
+      "redirect_url": "/troubleshoot/office/word/autoexec-autoopen-macros-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/cant-use-mouse-draw-selection-rectangle.md",
+      "redirect_url": "/troubleshoot/office/word/cant-use-mouse-draw-selection-rectangle",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/configure-search-engine-in-word.md",
+      "redirect_url": "/troubleshoot/office/word/configure-search-engine-in-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/connector-not-move-with-shapes.md",
+      "redirect_url": "/troubleshoot/office/word/connector-not-move-with-shapes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/corrupt-global-template-causes-errors-automating-word.md",
+      "redirect_url": "/troubleshoot/office/word/corrupt-global-template-causes-errors-automating-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/create-toc-entries-no-page-number.md",
+      "redirect_url": "/troubleshoot/office/word/create-toc-entries-no-page-number",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/cross-reference-links-update.md",
+      "redirect_url": "/troubleshoot/office/word/cross-reference-links-update",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/custom-xml-elements-not-supported.md",
+      "redirect_url": "/troubleshoot/office/word/custom-xml-elements-not-supported",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/damaged-documents-in-word.md",
+      "redirect_url": "/troubleshoot/office/word/damaged-documents-in-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/document-building-blocks-missing.md",
+      "redirect_url": "/troubleshoot/office/word/document-building-blocks-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/embedded-doc-with-activex-control-flickers.md",
+      "redirect_url": "/troubleshoot/office/word/embedded-doc-with-activex-control-flickers",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/end-tag-error-when-open-docx.md",
+      "redirect_url": "/troubleshoot/office/word/end-tag-error-when-open-docx",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/fails-clear-embed-linguistic-data-check-box.md",
+      "redirect_url": "/troubleshoot/office/word/fails-clear-embed-linguistic-data-check-box",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/file-larger-than-512-megabytes.md",
+      "redirect_url": "/troubleshoot/office/word/file-larger-than-512-megabytes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/headers-footers-remain-after-remove-sensitivity-label.md",
+      "redirect_url": "/troubleshoot/office/word/headers-footers-remain-after-remove-sensitivity-label",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/image-dpi-change-after-print-to-pdf.md",
+      "redirect_url": "/troubleshoot/office/word/image-dpi-change-after-print-to-pdf",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/image-part-relationship-rld8-not-found-error-microsoft-word.md",
+      "redirect_url": "/troubleshoot/office/word/image-part-relationship-rld8-not-found-error-microsoft-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/issues-when-start-or-use-word.md",
+      "redirect_url": "/troubleshoot/office/word/issues-when-start-or-use-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/mail-merge-error.md",
+      "redirect_url": "/troubleshoot/office/word/mail-merge-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/merge-word-documents.md",
+      "redirect_url": "/troubleshoot/office/word/merge-word-documents",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/not-recognize-misspelled-words-in-word.md",
+      "redirect_url": "/troubleshoot/office/word/not-recognize-misspelled-words-in-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/object-not-appear-in-word-2010.md",
+      "redirect_url": "/troubleshoot/office/word/object-not-appear-in-word-2010",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/operating-parameter-limitation.md",
+      "redirect_url": "/troubleshoot/office/word/operating-parameter-limitation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/performance-issue-on-autorecover-location.md",
+      "redirect_url": "/troubleshoot/office/word/performance-issue-on-autorecover-location",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/printer-fonts-in-word.md",
+      "redirect_url": "/troubleshoot/office/word/printer-fonts-in-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/recover-lost-unsaved-corrupted-document.md",
+      "redirect_url": "/troubleshoot/office/word/recover-lost-unsaved-corrupted-document",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/reset-options-and-settings-in-word.md",
+      "redirect_url": "/troubleshoot/office/word/reset-options-and-settings-in-word",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/save-as-dialog-box-appears-two-times.md",
+      "redirect_url": "/troubleshoot/office/word/save-as-dialog-box-appears-two-times",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/save-changes-to-global-template.md",
+      "redirect_url": "/troubleshoot/office/word/save-changes-to-global-template",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/spell-checker-not-check-form-field-text.md",
+      "redirect_url": "/troubleshoot/office/word/spell-checker-not-check-form-field-text",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/spelling-grammar-checker-underline-color.md",
+      "redirect_url": "/troubleshoot/office/word/spelling-grammar-checker-underline-color",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/track-changes-disabled.md",
+      "redirect_url": "/troubleshoot/office/word/track-changes-disabled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Client/word/word-stops-responding.md",
+      "redirect_url": "/troubleshoot/office/word/word-stops-responding",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/Hub/index.yml",
+      "redirect_url": "/troubleshoot/office/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/activation/activate-office-2010-kms-host-via-phone-activation.md",
+      "redirect_url": "/troubleshoot/office/activation/activate-office-2010-kms-host-via-phone-activation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/activation/discover-remove-unauthorized-office-windows-kms-hosts.md",
+      "redirect_url": "/troubleshoot/office/activation/discover-remove-unauthorized-office-windows-kms-hosts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/activation/reset-office-365-proplus-activation-state.md",
+      "redirect_url": "/troubleshoot/office/activation/reset-office-365-proplus-activation-state",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/0xc004f038-computer-not-activate.md",
+      "redirect_url": "/troubleshoot/office/administration/0xc004f038-computer-not-activate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/cant-open-files-most-recently-used-list.md",
+      "redirect_url": "/troubleshoot/office/administration/cant-open-files-most-recently-used-list",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/configuration-for-office-online-server-authentication-with-external-users.md",
+      "redirect_url": "/troubleshoot/office/administration/configuration-for-office-online-server-authentication-with-external-users",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/errors-when-access-documents-in-office-online-server.md",
+      "redirect_url": "/troubleshoot/office/administration/errors-when-access-documents-in-office-online-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/how-to-determine-build-version-of-office-online-server.md",
+      "redirect_url": "/troubleshoot/office/administration/how-to-determine-build-version-of-office-online-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/manage-office-2013-first-run-screens.md",
+      "redirect_url": "/troubleshoot/office/administration/manage-office-2013-first-run-screens",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/office-online-limitations-and-features-with-information-rights-management.md",
+      "redirect_url": "/troubleshoot/office/administration/office-online-limitations-and-features-with-information-rights-management",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/office-viewers-or-web-apps-shows-this-page-cannot-be-displayed.md",
+      "redirect_url": "/troubleshoot/office/administration/office-viewers-or-web-apps-shows-this-page-cannot-be-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/office-web-apps-and-vmware.md",
+      "redirect_url": "/troubleshoot/office/administration/office-web-apps-and-vmware",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/rebuild-an-office-web-apps-2013-farm-easily.md",
+      "redirect_url": "/troubleshoot/office/administration/rebuild-an-office-web-apps-2013-farm-easily",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/test-viewing-documents-by-using-office-online-server-viewer.md",
+      "redirect_url": "/troubleshoot/office/administration/test-viewing-documents-by-using-office-online-server-viewer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/use-custom-fonts-with-office-online-server.md",
+      "redirect_url": "/troubleshoot/office/administration/use-custom-fonts-with-office-online-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/administration/workbook-contains-external-data-connections.md",
+      "redirect_url": "/troubleshoot/office/administration/workbook-contains-external-data-connections",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/diagnostic-logs/how-to-enable-office-365-proplus-uls-logging.md",
+      "redirect_url": "/troubleshoot/office/diagnostic-logs/how-to-enable-office-365-proplus-uls-logging",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/excel/cannot-access-directory-error-in-excel-2016.md",
+      "redirect_url": "/troubleshoot/office/excel/cannot-access-directory-error-in-excel-2016",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/excel/create-add-in-to-calculate-bmi.md",
+      "redirect_url": "/troubleshoot/office/excel/create-add-in-to-calculate-bmi",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/excel/excel-online-external-users-cannot-refresh-data-connections.md",
+      "redirect_url": "/troubleshoot/office/excel/excel-online-external-users-cannot-refresh-data-connections",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/excel/excel-online-refresh-fails-project-online-using-timebyday.md",
+      "redirect_url": "/troubleshoot/office/excel/excel-online-refresh-fails-project-online-using-timebyday",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/excel/excel-online-refreshing-data-to-a-sql-azure-database.md",
+      "redirect_url": "/troubleshoot/office/excel/excel-online-refreshing-data-to-a-sql-azure-database",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/excel/request-too-long-opening-excel-workbook.md",
+      "redirect_url": "/troubleshoot/office/excel/request-too-long-opening-excel-workbook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/excel/use-macro-rename-sheet.md",
+      "redirect_url": "/troubleshoot/office/excel/use-macro-rename-sheet",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/excel/workbook-currently-open-by-256-users-error.md",
+      "redirect_url": "/troubleshoot/office/excel/workbook-currently-open-by-256-users-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/installation/automate-uninstall-office-update.md",
+      "redirect_url": "/troubleshoot/office/installation/automate-uninstall-office-update",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/installation/guidance-on-installing-a-second-kms-host-for-office.md",
+      "redirect_url": "/troubleshoot/office/installation/guidance-on-installing-a-second-kms-host-for-office",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/installation/troubleshooting-office-installation-failures.md",
+      "redirect_url": "/troubleshoot/office/installation/troubleshooting-office-installation-failures",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/microsoft-forms/forms-response-columns-out-of-order.md",
+      "redirect_url": "/troubleshoot/office/microsoft-forms/forms-response-columns-out-of-order",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/microsoft-forms/no-email-notifications-for-responses-to-group-forms.md",
+      "redirect_url": "/troubleshoot/office/microsoft-forms/no-email-notifications-for-responses-to-group-forms",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/office-experts-welcome.yml",
+      "redirect_url": "/troubleshoot/office/office-experts-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/powerpivot/powerpivot-data-model-does-not-refresh.md",
+      "redirect_url": "/troubleshoot/office/powerpivot/powerpivot-data-model-does-not-refresh",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Office/OfficeExperts/word/force-word-document-to-open-in-edit-mode.md",
+      "redirect_url": "/troubleshoot/office/word/force-word-document-to-open-in-edit-mode",
+      "redirect_document_id": false
     }
   ]
 }
