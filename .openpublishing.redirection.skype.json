@@ -1,0 +1,604 @@
+{
+  "redirections": [
+    {
+      "source_path": "SkypeforBusiness/Hub/index.yml",
+      "redirect_url": "/troubleshoot/skypeforbusiness/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeExperts/performance-issues/sfb-memory-usage.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/performance-issues/sfb-memory-usage",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeExperts/quality-of-service/qos-config-and-best-practice-guide.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/quality-of-service/qos-config-and-best-practice-guide",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeExperts/skype-experts-welcome.yml",
+      "redirect_url": "/troubleshoot/skypeforbusiness/skype-experts-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-conferencing/cant-connect-to-sfb-remote-powershell.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-conferencing/cant-connect-to-sfb-remote-powershell",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-conferencing/there-is-a-duplicate-key-sequence.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-conferencing/there-is-a-duplicate-key-sequence",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-exchange-integration/allowadalfornonlyncIndependentofLync-setting.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-exchange-integration/allowadalfornonlyncIndependentofLync-setting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-exchange-integration/repeatedly-prompted-for-credentials.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-exchange-integration/repeatedly-prompted-for-credentials",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-im-presence/sfb-online-users-cant-im.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-im-presence/sfb-online-users-cant-im",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-meetings/present-content-on-premises-meeting.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-meetings/present-content-on-premises-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-move-sfb-online/cannot-move-users-from-different-ad-domain.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-move-sfb-online/cannot-move-users-from-different-ad-domain",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-move-sfb-online/hostedmigration-fault-error-506.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-move-sfb-online/hostedmigration-fault-error-506",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-move-sfb-online/move-csuser--hostedmigration-fault.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-move-sfb-online/move-csuser--hostedmigration-fault",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-move-sfb-online/move-csuser-hostedmigration-fault-507.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-move-sfb-online/move-csuser-hostedmigration-fault-507",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-move-sfb-online/sfb-is-not-installed-office-365.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-move-sfb-online/sfb-is-not-installed-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-phone-system/incoming-call-fails-cloud-connector.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-phone-system/incoming-call-fails-cloud-connector",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-phone-system/issue-configure-call-queue.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-phone-system/issue-configure-call-queue",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-phone-system/phone-contact-number-not-updated.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-phone-system/phone-contact-number-not-updated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-phone-system/voicemails-not-delivered.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-phone-system/voicemails-not-delivered",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/hybrid-sign-in/sso-no-longer-works.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/hybrid-sign-in/sso-no-longer-works",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeHybrid/skype-hybrid-welcome.yml",
+      "redirect_url": "/troubleshoot/skypeforbusiness/skype-hybrid-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeOnline/sfbonline-end-of-support.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/sfbonline-end-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-conferencing/cannot-connect-conferencing-modalities.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-conferencing/cannot-connect-conferencing-modalities",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-conferencing/cannot-upload-presentation.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-conferencing/cannot-upload-presentation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-conferencing/cant-do-video-call.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-conferencing/cant-do-video-call",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-conferencing/conference-operation-fail.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-conferencing/conference-operation-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-conferencing/conferencing-feature-fails-for-mandatory-user.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-conferencing/conferencing-feature-fails-for-mandatory-user",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-conferencing/enable-conferencing-add-in-for-outlook.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-conferencing/enable-conferencing-add-in-for-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-conferencing/peer-to-peer-desktop-sharing-issues.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-conferencing/peer-to-peer-desktop-sharing-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-conferencing/sfb-play-dial-tone-teams-call.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-conferencing/sfb-play-dial-tone-teams-call",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-conferencing/virtual-keyboard-disappears.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-conferencing/virtual-keyboard-disappears",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/access-edge-services-cannot-negotiate-tls.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/access-edge-services-cannot-negotiate-tls",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/added-as-delegate-notice.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/added-as-delegate-notice",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/available-supportability-lync-2010.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/available-supportability-lync-2010",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/bugcheck-0x133-edge-server.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/bugcheck-0x133-edge-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/cannot-perform-cms-failover.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/cannot-perform-cms-failover",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/cannot-start-front-end-server.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/cannot-start-front-end-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/census-data-collected.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/census-data-collected",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/central-management-store-replication-failures.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/central-management-store-replication-failures",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/check-version-of-skype-for-business-2016.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/check-version-of-skype-for-business-2016",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/collect-log-files.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/collect-log-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/disable-automatic-gain-control.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/disable-automatic-gain-control",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/disable-contextual-tips.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/disable-contextual-tips",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/enable-csadforest-command-fails.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/enable-csadforest-command-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/error-with-install-csdatabase.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/error-with-install-csdatabase",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/event-32263-0xc3e93c2f-front-end.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/event-32263-0xc3e93c2f-front-end",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/event-32402-61045-front-end.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/event-32402-61045-front-end",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/front-end-services-not-start.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/front-end-services-not-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/how-to-use-configuration-information.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/how-to-use-configuration-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/issue-attempt-move-or-enable-user-command.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/issue-attempt-move-or-enable-user-command",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/issue-file-store-share-unsupported.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/issue-file-store-share-unsupported",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/lync-server-2013-access-edge-service-not-start.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/lync-server-2013-access-edge-service-not-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/lync-server-certificate-expiration.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/lync-server-certificate-expiration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/lyncbackupservice-exe-crashes-with-pool-pairing.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/lyncbackupservice-exe-crashes-with-pool-pairing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/move-csuser-move-cslegacyuser-fail.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/move-csuser-move-cslegacyuser-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/not-responding-receive-toast-notification.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/not-responding-receive-toast-notification",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/remote-powershell-cmdlets-not-working.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/remote-powershell-cmdlets-not-working",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/skype-for-business-2016-freeze-malwarebytes.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/skype-for-business-2016-freeze-malwarebytes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/test-csfederatedpart-fail.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/test-csfederatedpart-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/ucwa-mobility-web-service-not-accept-connections.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/ucwa-mobility-web-service-not-accept-connections",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-configuration/windows-fabric-front-end-services-not-start.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-configuration/windows-fabric-front-end-services-not-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-contacts/contact-card-maximum-followers-reached.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-contacts/contact-card-maximum-followers-reached",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-contacts/contact-card-not-display-phone-number.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-contacts/contact-card-not-display-phone-number",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-contacts/contacts-telephone-numbers-missing.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-contacts/contacts-telephone-numbers-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-contacts/duplicated-working-numbers-for-contacts.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-contacts/duplicated-working-numbers-for-contacts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-contacts/no-delegation-relationship.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-contacts/no-delegation-relationship",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-contacts/not-find-organizational-chart-error.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-contacts/not-find-organizational-chart-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-exchange-integration/mapi-unavailable.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-exchange-integration/mapi-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-exchange-integration/sfb-and-exchange-integration-fails.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-exchange-integration/sfb-and-exchange-integration-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-im-presence/blank-conversation-window.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-im-presence/blank-conversation-window",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-im-presence/chat-history-not-show-conversation-window.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-im-presence/chat-history-not-show-conversation-window",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-im-presence/emoticons-and-emojis-converted-to-text.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-im-presence/emoticons-and-emojis-converted-to-text",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-im-presence/presence-privacy-mode-update-presence-status.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-im-presence/presence-privacy-mode-update-presence-status",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-install-or-uninstall/clean-uninstallation.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-install-or-uninstall/clean-uninstallation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-install-or-uninstall/error-when-install-lync-server.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-install-or-uninstall/error-when-install-lync-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-install-or-uninstall/get-vm-not-recognized-during-install-cloud-connector.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-install-or-uninstall/get-vm-not-recognized-during-install-cloud-connector",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-install-or-uninstall/lync-2010-msi-installation-not-complete.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-install-or-uninstall/lync-2010-msi-installation-not-complete",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-install-or-uninstall/setup-lync-server-wizard-returns-warning.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-install-or-uninstall/setup-lync-server-wizard-returns-warning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-install-or-uninstall/title-bar-displays-lync.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-install-or-uninstall/title-bar-displays-lync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/cannot-connect-you-to-this-meeting.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/cannot-connect-you-to-this-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/cannot-use-lync-meeting-add-in.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/cannot-use-lync-meeting-add-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/cant-join-meeting-on-ios-10-later.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/cant-join-meeting-on-ios-10-later",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/cant-join-meeting-on-ios-9-2.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/cant-join-meeting-on-ios-9-2",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/desktop-sharing-black-screen-macos-high-sierra.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/desktop-sharing-black-screen-macos-high-sierra",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/enable-online-meeting-add-in-for-lync-2010.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/enable-online-meeting-add-in-for-lync-2010",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/issue-join-meeting-broadcast.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/issue-join-meeting-broadcast",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/join-meeting-sip-address-has-apostrophe.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/join-meeting-sip-address-has-apostrophe",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/meeting-conversation-windows-disappers.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/meeting-conversation-windows-disappers",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/meeting-invitations-not-sent-from-outlook.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/meeting-invitations-not-sent-from-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/slow-meeting-refresh-non-vbss-client.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/slow-meeting-refresh-non-vbss-client",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-meetings/video-missing-meeting-recording.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-meetings/video-missing-meeting-recording",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-mobile-devices/im-content-not-appear-notification.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-mobile-devices/im-content-not-appear-notification",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-mobile-devices/issues-for-android.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-mobile-devices/issues-for-android",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-mobile-devices/lync-2013-iphone-features-missing-ios-client.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-mobile-devices/lync-2013-iphone-features-missing-ios-client",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-mobile-devices/lync-support-android-smartphone.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-mobile-devices/lync-support-android-smartphone",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-phone-system/blind-transfer-fails.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-phone-system/blind-transfer-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-phone-system/call-to-response-group-agent-fails.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-phone-system/call-to-response-group-agent-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-phone-system/call-to-subscriber-access-auto-attendan-fail.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-phone-system/call-to-subscriber-access-auto-attendan-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-phone-system/calls-to-um-auto-attendant-fail.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-phone-system/calls-to-um-auto-attendant-fail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-phone-system/country-code-automatically-added-to-calls.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-phone-system/country-code-automatically-added-to-calls",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-phone-system/disable-callkit-integration.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-phone-system/disable-callkit-integration",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-phone-system/event-id-1649-tls-failure.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-phone-system/event-id-1649-tls-failure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-phone-system/new-features-in-firmware-update.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-phone-system/new-features-in-firmware-update",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-phone-system/one-way-audio-after-PSTN-call-hold.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-phone-system/one-way-audio-after-PSTN-call-hold",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-phone-system/voice-settings-intermittently-reset.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-phone-system/voice-settings-intermittently-reset",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/authentication-fails-pin-sign-in.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/authentication-fails-pin-sign-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/cannot-sign-in-limited-functionality-mode.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/cannot-sign-in-limited-functionality-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/cannot-sign-in-mobile-client.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/cannot-sign-in-mobile-client",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/cannot-verify-the-server-is-trusted.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/cannot-verify-the-server-is-trusted",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/click-to-join-fails.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/click-to-join-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/client-not-start-click-meeting-link.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/client-not-start-click-meeting-link",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/create-join-meeting-sign-in-error.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/create-join-meeting-sign-in-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/form-region-cannot-be-open-outlook.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/form-region-cannot-be-open-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/issues-mobile-client-for-android.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/issues-mobile-client-for-android",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/newly-created-users-cant-sign-in.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/newly-created-users-cant-sign-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/registry-settings-overwritten-when-sign-in.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/registry-settings-overwritten-when-sign-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/sidebyside-event-id-35-logged.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/sidebyside-event-id-35-logged",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/unable-to-sign-in-to-sfb.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/unable-to-sign-in-to-sfb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/server-sign-in/you-cant-sign-in-with-this-version-of-lync.md",
+      "redirect_url": "/troubleshoot/skypeforbusiness/server-sign-in/you-cant-sign-in-with-this-version-of-lync",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "SkypeforBusiness/SkypeServer/skype-server-welcome.yml",
+      "redirect_url": "/troubleshoot/skypeforbusiness/skype-server-welcome",
+      "redirect_document_id": false
+    }
+  ]
+}

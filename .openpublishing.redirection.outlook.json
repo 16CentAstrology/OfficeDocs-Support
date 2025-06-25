@@ -1,0 +1,1664 @@
+{
+  "redirections": [
+    {
+      "source_path": "Outlook/Client/deployment/cached-exchange-mode.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/cached-exchange-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/deployment/plan-outlook-2016-deployment.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/plan-outlook-deployment",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/transport-logging/enable-transport-logging.md",
+      "redirect_url": "/microsoft-365-apps/outlook/performance/enable-transport-logging",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/domain-management/remove-automapping-for-shared-mailbox.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/remove-automapping-for-shared-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/folders/remove-duration-retention-policy-tag.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/remove-duration-info-in-retention-policy-tag",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/import-export/cannot-import-olm-file-into-outlook-for-windows.md",
+      "redirect_url": "/microsoft-365-apps/outlook/import-export/cannot-import-olm-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeHybrid/outlook-policy/control-pst-use.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/control-pst-use",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/by-default-shared-mail-folders-are-downloaded-in-cashed.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/shared-mail-folders-in-cached-exchange-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Exchange/ExchangeOnline/outlook-issues/control-pst-use.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/control-pst-use",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/how-to-force-outlook-to-resolve-proxy-addresses-and-custom-properties.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/force-outlook-to-resolve-proxy-addresses",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/configure-room-finder-rooms-workspaces.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/configure-room-finder-rooms-workspaces",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-open-shared-calendar.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/open-shared-calendar",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-share-calendar-and-contacts.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/share-calendar-and-contacts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/how-to-use-internet-freebusy-feature.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/use-internet-free-busy-feature",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/open-teams-meetings-in-desktop-app.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/open-teams-meetings-in-desktop-app",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/room-finder.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/room-finder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/time-zones-that-do-not-observe-daylight-saving-time.md",
+      "redirect_url": "/microsoft-365-apps/outlook/calendaring/time-zones-without-dst",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/how-to-suppress-autodiscover-redirect-warning.md",
+      "redirect_url": "/microsoft-365-apps/outlook/connectivity/suppress-autodiscover-redirect-warning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/suppress-autodiscover-mismatch-warning.md",
+      "redirect_url": "/microsoft-365-apps/outlook/connectivity/suppress-autodiscover-mismatch-warning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/how-to-hide-columns-in-address-book.md",
+      "redirect_url": "/microsoft-365-apps/outlook/contacts/hide-columns-in-address-book",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/information-about-the-outlook-autocomplete-list.md",
+      "redirect_url": "/microsoft-365-apps/outlook/contacts/outlook-autocomplete-list",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/shared-mail-folders-are-downloaded-in-cached-exchange-mode.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/shared-mail-folders-in-cached-exchange-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/how-to-change-the-folder-where-emails-and-attachments-saved.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/change-the-default-save-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/how-to-disable-the-background-save-feature.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/disable-background-save-feature",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/inbox-repair-tool-scanpst-exe-run-multiple-passes.md",
+      "redirect_url": "/microsoft-365-apps/outlook/data-files/scanpst-exe-runs-multiple-passes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/deployment/how-to-manage-outlook-social-connector-via-group-policy.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/manage-outlook-social-connector",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/how-to-emulate-the-out-of-office-assistant-in-micr.md",
+      "redirect_url": "/microsoft-365-apps/outlook/email-management/emulate-out-of-office-assistant",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/how-to-remove-duplicate-folders-when-connected-to-exchange-mailbox.md",
+      "redirect_url": "/microsoft-365-apps/outlook/email-management/remove-duplicate-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/shareable-links-functionality-in-outlook.md",
+      "redirect_url": "/microsoft-365-apps/outlook/email-management/shareable-links-functionality",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/cached-exchange-mode.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/cached-exchange-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/how-to-remove-get-and-set-up-outlook-mobile-app-on-my-phone-option.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/remove-get-and-set-up-outlook-mobile-app-option",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/plan-outlook-2016-deployment.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/plan-outlook-deployment",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/embed-playback-videos-in-outlook-and-loop.md",
+      "redirect_url": "/microsoft-365-apps/outlook/message-body/embed-playback-videos-in-outlook-and-loop",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/record-videos-in-outlook-and-loop.md",
+      "redirect_url": "/microsoft-365-apps/outlook/message-body/record-videos-in-outlook-and-loop",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/view-emails-and-web-links-in-browser.md",
+      "redirect_url": "/microsoft-365-apps/outlook/message-body/view-emails-and-web-links-in-browser",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/enable-transport-logging.md",
+      "redirect_url": "/microsoft-365-apps/outlook/performance/enable-transport-logging",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/event-log-entries-for-add-in-load-time.md",
+      "redirect_url": "/microsoft-365-apps/outlook/performance/log-entries-for-add-ins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/using-process-explorer-to-list-dlls-running-under-outlook-exe.md",
+      "redirect_url": "/microsoft-365-apps/outlook/performance/dlls-running-under-process-exe",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/add-shared-mailbox-as-additional-account.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/add-shared-mailbox-as-additional-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/how-to-control-autodiscover-via-group-policy.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/control-autodiscover-via-group-policy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/let-zeroconfigexchange-automatically-create-first-profile.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/zeroconfigexchange",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/remove-automapping-for-shared-mailbox.md",
+      "redirect_url": "/microsoft-365-apps/outlook/profiles-and-accounts/remove-automapping-for-shared-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/how-to-block-additional-attachment-file-name-extensions.md",
+      "redirect_url": "/microsoft-365-apps/outlook/security/block-additional-attachment-file-name-extensions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/information-about-email-security-settings.md",
+      "redirect_url": "/microsoft-365-apps/outlook/security/email-security-settings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/prevent-delegate-access-to-irm-protected-messages.md",
+      "redirect_url": "/microsoft-365-apps/outlook/security/prevent-delegate-access-to-irm-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/synchronization-monitor-improvements.md",
+      "redirect_url": "/microsoft-365-apps/outlook/configuration/sync-monitor-improvements",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-delete-default-outlook-folders.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/cannot-delete-default-outlook-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/customization-options-for-outlook-today-view.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/customize-outlook-today-view",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/how-time-zone-normalization-works-in-outlook.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/time-zone-normalization",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/how-to-configure-default-message-class-for-new-items.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/configure-default-message-class-for-new-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/how-to-determine-where-to-publish-custom-outlook-forms.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/publish-custom-outlook-form",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/mapi-is-the-only-way-to-change-profiles.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/mapi-to-change-profiles",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/navigate-to-public-folders-in-new-outlook.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/public-folders-in-new-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/outlook-object-model-unsuitable-to-run-in-windows-service.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/oom-unsuitable-in-windows-service",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/remove-duration-retention-policy-tag.md",
+      "redirect_url": "/microsoft-365-apps/outlook/user-interface/remove-duration-info-in-retention-policy-tag",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/authentication/manage-the-google-sign-in-prompt-in-outlook-2016.md",
+      "redirect_url": "/microsoft-365-apps/outlook/authentication/manage-google-sign-in-prompt",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/connectivity/how-to-suppress-microsoft-365-autodiscover-redirect-warning.md",
+      "redirect_url": "/microsoft-365-apps/outlook/authentication/suppress-autodiscover-redirect-warning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/diagnostic-logging/how-to-enable-logging-in-outlook-for-mac.md",
+      "redirect_url": "/microsoft-365-apps/outlook/diagnostic-logging/enable-logging",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/import-and-export/cannot-import-olm-file-into-outlook-for-windows.md",
+      "redirect_url": "/microsoft-365-apps/outlook/import-export/cannot-import-olm-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/installation/map-classic-outlook-policies-to-new-outlook.md",
+      "redirect_url": "/microsoft-365-apps/outlook/manage/map-classic-outlook-policies-to-new-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/blocked-smart-card-pin-using-outlook.md",
+      "redirect_url": "/troubleshoot/outlook/authentication/blocked-smart-card-pin-using-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/continually-prompts-password-office-365.md",
+      "redirect_url": "/troubleshoot/outlook/authentication/continually-prompts-password-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/expose-permissions-issue-with-mapi-oauth-tokens.md",
+      "redirect_url": "/troubleshoot/outlook/authentication/expose-permissions-issue-with-mapi-oauth-tokens",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/outlook-prompt-password-modern-authentication-enabled.md",
+      "redirect_url": "/troubleshoot/outlook/authentication/outlook-prompt-password-modern-authentication-enabled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/outlook-prompt-password-when-use-mapi-over-http.md",
+      "redirect_url": "/troubleshoot/outlook/authentication/outlook-prompt-password-when-use-mapi-over-http",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/outlook-prompts-credentials.md",
+      "redirect_url": "/troubleshoot/outlook/authentication/outlook-prompts-credentials",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/outlook-prompts-for-credentials-if-using-wan.md",
+      "redirect_url": "/troubleshoot/outlook/authentication/outlook-prompts-for-credentials-if-using-wan",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/outlook-shows-disconnected-after-enabling-modern-authentication.md",
+      "redirect_url": "/troubleshoot/outlook/authentication/outlook-shows-disconnected-after-enabling-modern-authentication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/password-prompt-at-every-start-or-cannot-create-profile.md",
+      "redirect_url": "/troubleshoot/outlook/authentication/password-prompt-at-every-start-or-cannot-create-profile",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/authentication/repeated-status-codes-401-200-mapi-over-http.md",
+      "redirect_url": "/troubleshoot/outlook/authentication/repeated-status-codes-401-200-mapi-over-http",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/additional-time-zone-shows-one-hour-offset-on-dst.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/additional-time-zone-shows-one-hour-offset-on-dst",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/attached-outlook-items-not-retained.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/attached-outlook-items-not-retained",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/calendar-checking-tool-for-outlook.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/calendar-checking-tool-for-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/calendar-permissions-differences-in-different-versions-of-outlook.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/calendar-permissions-differences-in-different-versions-of-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/cannot-add-an-internet-calendar.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/cannot-add-an-internet-calendar",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/cannot-delete-calendar-items.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/cannot-delete-calendar-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/cannot-globally-disable-birthday-calendar.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/cannot-globally-disable-birthday-calendar",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/cannot-receive-requests-of-tentative-meeting-or-responses.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/cannot-receive-requests-of-tentative-meeting-or-responses",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/cannot-send-response-to-meeting-request.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/cannot-send-response-to-meeting-request",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/cannot-view-free-busy-information.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/cannot-view-free-busy-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/delegate-receives-multiple-or-duplicate-meeting-requests.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/delegate-receives-multiple-or-duplicate-meeting-requests",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/error-occurs-when-sending-sharing-invitation.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/error-occurs-when-sending-sharing-invitation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/errors-when-configure-free-busy-or-delegate-information.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/errors-when-configure-free-busy-or-delegate-information",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/expiration-date-and-time-for-the-message-have-passed-error.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/expiration-date-and-time-for-the-message-have-passed-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/from-field-in-meeting-request-not-list-all-accounts.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/from-field-in-meeting-request-not-list-all-accounts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/hashed-lines-shown-in-scheduling-assistant.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/hashed-lines-shown-in-scheduling-assistant",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/incorrect-holidays-in-hol-files.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/incorrect-holidays-in-hol-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/manager-cannot-respond-to-meeting-invite.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/manager-cannot-respond-to-meeting-invite",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/managers-team-calendar-not-shown.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/managers-team-calendar-not-shown",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/meeting-tracking-tab-not-updated.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/meeting-tracking-tab-not-updated",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/no-available-rooms-for-meeting-outside-working-hours.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/no-available-rooms-for-meeting-outside-working-hours",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/no-meeting-reminder-for-google-calendar-invites.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/no-meeting-reminder-for-google-calendar-invites",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/operation-cannot-be-performed-error.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/operation-cannot-be-performed-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/organizers-meeting-outdated-after-delegate-sends-update.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/organizers-meeting-outdated-after-delegate-sends-update",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/outlook-calendar-displays-working-hours-as-grey.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/outlook-calendar-displays-working-hours-as-grey",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/outlook-not-showing-more-than-12-months-of-free-busy-data.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/outlook-not-showing-more-than-12-months-of-free-busy-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/outlook-or-owa-not-shows-full-details-of-private-appointments.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/outlook-or-owa-not-shows-full-details-of-private-appointments",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/outlook-room-finder-not-show-conference-room.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/outlook-room-finder-not-show-conference-room",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/Resolve-free-busy-errors.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/Resolve-free-busy-errors",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/room-finder-is-not-available-shared-calendars-outlook.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/room-finder-is-not-available-shared-calendars-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/send-updates-prompt-not-displayed.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/send-updates-prompt-not-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/calendaring/specific-users-not-receive-meeting-requests.md",
+      "redirect_url": "/troubleshoot/outlook/calendaring/specific-users-not-receive-meeting-requests",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/connection-issues-mapi-disabled.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/connection-issues-mapi-disabled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/description-of-the-connection-status-dialog-box.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/description-of-the-connection-status-dialog-box",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/error-when-outlook-uses-rpc-https-connect-server.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/error-when-outlook-uses-rpc-https-connect-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/event-27-mapisentmail-error-send-attachments.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/event-27-mapisentmail-error-send-attachments",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/outlook-cannot-connect-to-exchange-certificate-validation.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/outlook-cannot-connect-to-exchange-certificate-validation",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/outlook-cannot-signin-activate.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/outlook-cannot-signin-activate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/outlook-displays-disconnected-in-status.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/outlook-displays-disconnected-in-status",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/outlook-not-connect-exchange-use-mapi-over-http.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/outlook-not-connect-exchange-use-mapi-over-http",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/outlook-repeatedly-disconnects-and-reconnects.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/outlook-repeatedly-disconnects-and-reconnects",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/outlook-send-receive-errors-http-0-http-404-http-500.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/outlook-send-receive-errors-http-0-http-404-http-500",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/outlook-shows-disconnected-if-ipv6-is-enabled.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/outlook-shows-disconnected-if-ipv6-is-enabled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/connectivity/proxy-server-causes-issues-with-freebusy-oof-mailtips.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/proxy-server-causes-issues-with-freebusy-oof-mailtips",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/0x8007007a-whendownloading-offline-address-book.md",
+      "redirect_url": "/troubleshoot/outlook/contacts/0x8007007a-whendownloading-offline-address-book",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/autocomplete-not-working-correctly-in-outlook-2010.md",
+      "redirect_url": "/troubleshoot/outlook/contacts/autocomplete-not-working-correctly-in-outlook-2010",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/cannot-create-contact-groups-eas-account.md",
+      "redirect_url": "/troubleshoot/outlook/contacts/cannot-create-contact-groups-eas-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/cannot-expand-nested-contact-groups-unknown-shown.md",
+      "redirect_url": "/troubleshoot/outlook/contacts/cannot-expand-nested-contact-groups-unknown-shown",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/contact-card-cannot-be-changed-by-group-policy-or-oct.md",
+      "redirect_url": "/troubleshoot/outlook/contacts/contact-card-cannot-be-changed-by-group-policy-or-oct",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/contact-card-not-showing-user-details-or-presence.md",
+      "redirect_url": "/troubleshoot/outlook/contacts/contact-card-not-showing-user-details-or-presence",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/contacts-folder-empty-and-contacts-are-in-different-folder.md",
+      "redirect_url": "/troubleshoot/outlook/contacts/contacts-folder-empty-and-contacts-are-in-different-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/error-0x80070057-no-offline-address-book-download.md",
+      "redirect_url": "/troubleshoot/outlook/contacts/error-0x80070057-no-offline-address-book-download",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/contacts/the-address-list-cannot-be-displayed-error.md",
+      "redirect_url": "/troubleshoot/outlook/contacts/the-address-list-cannot-be-displayed-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/cannot-add-pst-or-ost-file-on-non-local-drive.md",
+      "redirect_url": "/troubleshoot/outlook/data-files/cannot-add-pst-or-ost-file-on-non-local-drive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/cannot-change-the-location-of-ost-file.md",
+      "redirect_url": "/troubleshoot/outlook/data-files/cannot-change-the-location-of-ost-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/delete-corrupted-public-folder-rule.md",
+      "redirect_url": "/troubleshoot/outlook/data-files/delete-corrupted-public-folder-rule",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/error-0x8000ffff-adding-data-file-in-mail-applet.md",
+      "redirect_url": "/troubleshoot/outlook/data-files/error-0x8000ffff-adding-data-file-in-mail-applet",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/errors-have-been-detected-in-.ost-file.md",
+      "redirect_url": "/troubleshoot/outlook/data-files/errors-have-been-detected-in-.ost-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/fewer-emails-in-shared-mailboxes-or-public-folders.md",
+      "redirect_url": "/troubleshoot/outlook/data-files/fewer-emails-in-shared-mailboxes-or-public-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/how-to-repair-personal-folder-file.md",
+      "redirect_url": "/troubleshoot/outlook/data-files/how-to-repair-personal-folder-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/http-version-of-offline-address-book-fails-to-download.md",
+      "redirect_url": "/troubleshoot/outlook/data-files/http-version-of-offline-address-book-fails-to-download",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/incorrect-search-results-for-search-bar-date-filter.md",
+      "redirect_url": "/troubleshoot/outlook/data-files/incorrect-search-results-for-search-bar-date-filter",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/data-files/limits-using-pst-files-over-lan-wan.md",
+      "redirect_url": "/troubleshoot/outlook/data-files/limits-using-pst-files-over-lan-wan",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/deployment/cannot-publish-form.md",
+      "redirect_url": "/troubleshoot/outlook/deployment/cannot-publish-form",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/deployment/macros-in-this-project-disabled-outlook.md",
+      "redirect_url": "/troubleshoot/outlook/deployment/macros-in-this-project-disabled-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/deployment/manage-distribute-outlook-vba-project.md",
+      "redirect_url": "/troubleshoot/outlook/deployment/manage-distribute-outlook-vba-project",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/deployment/policy-template-deploys-disablecrossaccountcopy-as-reg-expand-sz.md",
+      "redirect_url": "/troubleshoot/outlook/deployment/policy-template-deploys-disablecrossaccountcopy-as-reg-expand-sz",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/deployment/resolve-deployment-issues.md",
+      "redirect_url": "/troubleshoot/outlook/deployment/resolve-deployment-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/deployment/settings-unexpectedly-change-deleting-group-policy-settings.md",
+      "redirect_url": "/troubleshoot/outlook/deployment/settings-unexpectedly-change-deleting-group-policy-settings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/create-modify-client-only-rule-with-error.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/create-modify-client-only-rule-with-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/deleted-items-go-to-wrong-folder.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/deleted-items-go-to-wrong-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/email-remains-in-the-outbox-when-you-use-the-deleg.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/email-remains-in-the-outbox-when-you-use-the-deleg",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/email-sent-are-not-saved-to-sent-items-folder.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/email-sent-are-not-saved-to-sent-items-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/emails-not-automatically-sent-or-received-at-startup.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/emails-not-automatically-sent-or-received-at-startup",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/emails-remain-in-outbox-deferred-delivery-rule.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/emails-remain-in-outbox-deferred-delivery-rule",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/emails-that-you-forward-not-saved-in-sent-items.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/emails-that-you-forward-not-saved-in-sent-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/inbox-rule-does-not-appear-in-outlook-client.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/inbox-rule-does-not-appear-in-outlook-client",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/items-disappear-not-visible-outlook-folder.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/items-disappear-not-visible-outlook-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/messages-move-from-inbox-to-renamed-folder.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/messages-move-from-inbox-to-renamed-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/rules-not-be-uploaded-to-exchange-server.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/rules-not-be-uploaded-to-exchange-server",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/email-management/unintentional-emails-received.md",
+      "redirect_url": "/troubleshoot/outlook/email-management/unintentional-emails-received",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/Installation/cached-exchange-mode-sync-setting-incorrectly-shown-in-gpmc.md",
+      "redirect_url": "/troubleshoot/outlook/Installation/cached-exchange-mode-sync-setting-incorrectly-shown-in-gpmc",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/Installation/cannot-use-group-policy-to-disable-items.md",
+      "redirect_url": "/troubleshoot/outlook/Installation/cannot-use-group-policy-to-disable-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/Installation/disablepst-and-pstdisablegrow-policies-are-ignored.md",
+      "redirect_url": "/troubleshoot/outlook/Installation/disablepst-and-pstdisablegrow-policies-are-ignored",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/Installation/installing-calendar-printing-assistant-fails.md",
+      "redirect_url": "/troubleshoot/outlook/Installation/installing-calendar-printing-assistant-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/Installation/outlook-is-unable-to-start-in-windows-7-or-8.md",
+      "redirect_url": "/troubleshoot/outlook/Installation/outlook-is-unable-to-start-in-windows-7-or-8",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/Installation/resolve-installation-issues.md",
+      "redirect_url": "/troubleshoot/outlook/Installation/resolve-installation-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/Installation/upgrade-errors-office-2016.md",
+      "redirect_url": "/troubleshoot/outlook/Installation/upgrade-errors-office-2016",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/junk-email/junk-emails-are-permanently-deleted.md",
+      "redirect_url": "/troubleshoot/outlook/junk-email/junk-emails-are-permanently-deleted",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/junk-email/new-emails-automatically-move-to-junk-folder.md",
+      "redirect_url": "/troubleshoot/outlook/junk-email/new-emails-automatically-move-to-junk-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/junk-email/outlook-error-over-junk-emial-list-limit.md",
+      "redirect_url": "/troubleshoot/outlook/junk-email/outlook-error-over-junk-emial-list-limit",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/accept-decline-buttons-missing-in-task-request.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/accept-decline-buttons-missing-in-task-request",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/actionable-message-in-reading-pane-not-refreshed.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/actionable-message-in-reading-pane-not-refreshed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/actionable-messages-render-incorrectly.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/actionable-messages-render-incorrectly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/attachment-does-not-appear-in-plain-text-message.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/attachment-does-not-appear-in-plain-text-message",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/attachment-size-exceeds-the-allowable-limit-error.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/attachment-size-exceeds-the-allowable-limit-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/how-tnef-affects-email-messages.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/how-tnef-affects-email-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/https-linked-images-in-html-emails-show-red-x.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/https-linked-images-in-html-emails-show-red-x",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/hyperlinks-not-working-in-outlook.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/hyperlinks-not-working-in-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/line-breaks-are-removed-in-posts-made-in-plain-text.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/line-breaks-are-removed-in-posts-made-in-plain-text",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/no-subject-content-in-automatically-email.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/no-subject-content-in-automatically-email",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/specified-message-identity-is-invalid-error-when-opening-delivery-reports.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/specified-message-identity-is-invalid-error-when-opening-delivery-reports",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/strange-characters-display-message-body.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/strange-characters-display-message-body",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/the-linked-image-cannot-be-displayed-error.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/the-linked-image-cannot-be-displayed-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/message-body/url-multiple-slashes-become-single-slash.md",
+      "redirect_url": "/troubleshoot/outlook/message-body/url-multiple-slashes-become-single-slash",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/outlook-client-welcome.yml",
+      "redirect_url": "/troubleshoot/outlook/outlook-client-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/add-ins-are-user-re-enabled-after-being-disabled.md",
+      "redirect_url": "/troubleshoot/outlook/performance/add-ins-are-user-re-enabled-after-being-disabled",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/an-ole-registration-error-occurred-message.md",
+      "redirect_url": "/troubleshoot/outlook/performance/an-ole-registration-error-occurred-message",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/application-pauses-if-you-have-large-data-file.md",
+      "redirect_url": "/troubleshoot/outlook/performance/application-pauses-if-you-have-large-data-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/cannot-open-word-documents-or-excel-spreadsheets.md",
+      "redirect_url": "/troubleshoot/outlook/performance/cannot-open-word-documents-or-excel-spreadsheets",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/cannot-preview-msg-files-in-windows-file-explorer.md",
+      "redirect_url": "/troubleshoot/outlook/performance/cannot-preview-msg-files-in-windows-file-explorer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/cannot-start-outlook-in-cached-mode-or-create-profile.md",
+      "redirect_url": "/troubleshoot/outlook/performance/cannot-start-outlook-in-cached-mode-or-create-profile",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/enable-and-collect-logs-for-profile-creation-issues.md",
+      "redirect_url": "/troubleshoot/outlook/performance/enable-and-collect-logs-for-profile-creation-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/error-when-copying-msg-with-many-attachments-or-recipients.md",
+      "redirect_url": "/troubleshoot/outlook/performance/error-when-copying-msg-with-many-attachments-or-recipients",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/erroritemnotfound-when-office-add-ins-make-rest-calls.md",
+      "redirect_url": "/troubleshoot/outlook/performance/erroritemnotfound-when-office-add-ins-make-rest-calls",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/how-to-scan-outlook-by-using-microsoft-support-and-recovery-assistant.md",
+      "redirect_url": "/troubleshoot/outlook/performance/how-to-scan-outlook-by-using-microsoft-support-and-recovery-assistant",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/information-about-outlook-sniffer-functionality.md",
+      "redirect_url": "/troubleshoot/outlook/performance/information-about-outlook-sniffer-functionality",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-2016-crash-event-1000.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-2016-crash-event-1000",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-2016-hangs-at-processing.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-2016-hangs-at-processing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-could-not-create-the-work-file-error-when-starting.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-could-not-create-the-work-file-error-when-starting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-crashes-and-returns-event-id-1000-crash-signatures.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-crashes-and-returns-event-id-1000-crash-signatures",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-crashes-when-creating-a-new-profile.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-crashes-when-creating-a-new-profile",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-exe-log-file-in-temp-folder-consumes-too-much-space.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-exe-log-file-in-temp-folder-consumes-too-much-space",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-folder-fails-displaying.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-folder-fails-displaying",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-hangs-with-junk-email-reporting-add-in-and-large-archive.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-hangs-with-junk-email-reporting-add-in-and-large-archive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-may-be-slower-to-resolve-names.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-may-be-slower-to-resolve-names",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-not-responding-error-or-outlook-freezes.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-not-responding-error-or-outlook-freezes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-performance-is-slow-in-office-365.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-performance-is-slow-in-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-shutdown-slowly-if-using-requireshutdownnotification.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-shutdown-slowly-if-using-requireshutdownnotification",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/outlook-support-diagnostic.md",
+      "redirect_url": "/troubleshoot/outlook/performance/outlook-support-diagnostic",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/performance-issues-if-too-many-items-or-folders.md",
+      "redirect_url": "/troubleshoot/outlook/performance/performance-issues-if-too-many-items-or-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/performance-issues-if-uselowpriorityconfiguration-is-0.md",
+      "redirect_url": "/troubleshoot/outlook/performance/performance-issues-if-uselowpriorityconfiguration-is-0",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/possible-stability-issues-in-citrix-enviconment-with-appsense.md",
+      "redirect_url": "/troubleshoot/outlook/performance/possible-stability-issues-in-citrix-enviconment-with-appsense",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/slow-performance-if-having-many-shared-folder-or-mailboxes-open.md",
+      "redirect_url": "/troubleshoot/outlook/performance/slow-performance-if-having-many-shared-folder-or-mailboxes-open",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/terminated-in-error-found-in-sync-issues-log-files.md",
+      "redirect_url": "/troubleshoot/outlook/performance/terminated-in-error-found-in-sync-issues-log-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/performance/time-limit-logging-reached-error-outlook-2016.md",
+      "redirect_url": "/troubleshoot/outlook/performance/time-limit-logging-reached-error-outlook-2016",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/0x800ccc80-error-when-sending-mail-from-outlook.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/0x800ccc80-error-when-sending-mail-from-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/additional-rss-feeds-appear.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/additional-rss-feeds-appear",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/cannot-connect-web-service-not-working-migrated-to-office-365.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/cannot-connect-web-service-not-working-migrated-to-office-365",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/error-when-subscribing-to-rss-feed-that-needs-authentication.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/error-when-subscribing-to-rss-feed-that-needs-authentication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/event-1098-and-cannot-create-new-profiles.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/event-1098-and-cannot-create-new-profiles",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/focused-inbox-disappears-switch-folder.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/focused-inbox-disappears-switch-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/full-access-mailbox-not-automapped-outlook-profile.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/full-access-mailbox-not-automapped-outlook-profile",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/issues-that-occur-when-adding-multiple-exchange-accounts.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/issues-that-occur-when-adding-multiple-exchange-accounts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/metered-connection-warning.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/metered-connection-warning",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/operation-failed-send-email-outlook.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/operation-failed-send-email-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/outlook-cannot-use-activesync-connect-exchange.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/outlook-cannot-use-activesync-connect-exchange",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/outlook-crashes-when-sending-emails.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/outlook-crashes-when-sending-emails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/outlook-displays-error-message-on-first-start.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/outlook-displays-error-message-on-first-start",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/profiles-and-accounts/you-ll-need-a-new-app-to-open-this-osf-roaming-16.md",
+      "redirect_url": "/troubleshoot/outlook/profiles-and-accounts/you-ll-need-a-new-app-to-open-this-osf-roaming-16",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/a-program-is-trying-to-send-an-email-message-on-your-behalf.md",
+      "redirect_url": "/troubleshoot/outlook/security/a-program-is-trying-to-send-an-email-message-on-your-behalf",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/can't-display-dlp-policytip.md",
+      "redirect_url": "/troubleshoot/outlook/security/can't-display-dlp-policytip",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/dlp-policy-tips-for-pdf-attachments-not-displayed.md",
+      "redirect_url": "/troubleshoot/outlook/security/dlp-policy-tips-for-pdf-attachments-not-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/error-when-decrypting-message-via-3des-certificate.md",
+      "redirect_url": "/troubleshoot/outlook/security/error-when-decrypting-message-via-3des-certificate",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/external-recipient-can't-open-encrypted-email.md",
+      "redirect_url": "/troubleshoot/outlook/security/external-recipient-can't-open-encrypted-email",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/no-shortcut-menu-command-to-add-senders-domain-to-blocked.md",
+      "redirect_url": "/troubleshoot/outlook/security/no-shortcut-menu-command-to-add-senders-domain-to-blocked",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/outlook-trust-center-shows-antivirus-status-as-unavailable.md",
+      "redirect_url": "/troubleshoot/outlook/security/outlook-trust-center-shows-antivirus-status-as-unavailable",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/outlook-warning-dialog-when-sending-smime-messages.md",
+      "redirect_url": "/troubleshoot/outlook/security/outlook-warning-dialog-when-sending-smime-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/personal-policy-tag-not-work-correctly.md",
+      "redirect_url": "/troubleshoot/outlook/security/personal-policy-tag-not-work-correctly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/security/results-for-advanced-diagnostic-indicate-offline-scan-was-forced.md",
+      "redirect_url": "/troubleshoot/outlook/security/results-for-advanced-diagnostic-indicate-offline-scan-was-forced",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/delete-nonexistent-messages.md",
+      "redirect_url": "/troubleshoot/outlook/synchronization/delete-nonexistent-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/email-stays-in-outbox-until-manually-send-or-receive.md",
+      "redirect_url": "/troubleshoot/outlook/synchronization/email-stays-in-outbox-until-manually-send-or-receive",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/error-0x8004010f-when-sending-or-receiving-emails.md",
+      "redirect_url": "/troubleshoot/outlook/synchronization/error-0x8004010f-when-sending-or-receiving-emails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/Groups-dont-synchronize.md",
+      "redirect_url": "/troubleshoot/outlook/synchronization/Groups-dont-synchronize",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/offline-item-count-for-folder-differs-from-server-count.md",
+      "redirect_url": "/troubleshoot/outlook/synchronization/offline-item-count-for-folder-differs-from-server-count",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/status-bar-never-shows-more-than-3-99-gb.md",
+      "redirect_url": "/troubleshoot/outlook/synchronization/status-bar-never-shows-more-than-3-99-gb",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/synchronization-fails-after-mailbox-items-changed.md",
+      "redirect_url": "/troubleshoot/outlook/synchronization/synchronization-fails-after-mailbox-items-changed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/synchronization-issue-between-outlook-owa.md",
+      "redirect_url": "/troubleshoot/outlook/synchronization/synchronization-issue-between-outlook-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/synchronization/synchronization-issues-occur-in-outlook-owa.md",
+      "redirect_url": "/troubleshoot/outlook/synchronization/synchronization-issues-occur-in-outlook-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/apps-for-outlook-app-does-not-load-data.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/apps-for-outlook-app-does-not-load-data",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/attachment-saving-scenarios-do-not-work-as-expected.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/attachment-saving-scenarios-do-not-work-as-expected",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/calling-openmsgstore-opens-archive-mailbox.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/calling-openmsgstore-opens-archive-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/can't-search-additional-mailbox.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/can't-search-additional-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-assign-color-categories-for-imap-accounts.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/cannot-assign-color-categories-for-imap-accounts",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-edit-message-subject.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/cannot-edit-message-subject",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-open-attachments-by-double-clicking.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/cannot-open-attachments-by-double-clicking",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-preview-office-documents-in-outlook.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/cannot-preview-office-documents-in-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-recover-deleted-items-from-non-mail-public-folder.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/cannot-recover-deleted-items-from-non-mail-public-folder",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-save-conversation-history-or-show-voice-mail.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/cannot-save-conversation-history-or-show-voice-mail",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-see-contact-photos.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/cannot-see-contact-photos",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/cannot-undo-changes-if-marking-all-messages-as-read.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/cannot-undo-changes-if-marking-all-messages-as-read",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/click-here-to-view-more-on-microsoft-exchange-hyperlink-is-missing.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/click-here-to-view-more-on-microsoft-exchange-hyperlink-is-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/compact-navigation-options-not-saved.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/compact-navigation-options-not-saved",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/conversation-history-folder-is-missing.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/conversation-history-folder-is-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/default-folder-is-missing.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/default-folder-is-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/default-office-addin-icon-displayed-outlook-ribbon.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/default-office-addin-icon-displayed-outlook-ribbon",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/deleted-recipients-still-appear.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/deleted-recipients-still-appear",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/email-not-be-delivered-scheduled-time.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/email-not-be-delivered-scheduled-time",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/emails-not-show-in-cached-mode-inbox-after-synchronized.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/emails-not-show-in-cached-mode-inbox-after-synchronized",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/encrypted-restricted-message-shared-mailbox.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/encrypted-restricted-message-shared-mailbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/event-4096-is-logged-if-warmup-set-for-vsto-add-ins.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/event-4096-is-logged-if-warmup-set-for-vsto-add-ins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/formatting-lost-when-editing-the-htmlbody-property.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/formatting-lost-when-editing-the-htmlbody-property",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/graphics-file-attachment-grows-larger-in-recipient-email.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/graphics-file-attachment-grows-larger-in-recipient-email",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/incomplete-search-results-occur-if-pdf-ifilter-installed.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/incomplete-search-results-occur-if-pdf-ifilter-installed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/incorrect-folder-names.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/incorrect-folder-names",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/items-placed-in-root-folder-seem-to-be-lost.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/items-placed-in-root-folder-seem-to-be-lost",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/mailbox-quota-information-not-displayed.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/mailbox-quota-information-not-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/messages-occur-when-connecting-to-office-365-email-account.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/messages-occur-when-connecting-to-office-365-email-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/missing-registry-information-causes-problems-with-object-model.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/missing-registry-information-causes-problems-with-object-model",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/no-desktop-alerts-(toast-notifications)-if-missing-start-menu-shortcut.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/no-desktop-alerts-(toast-notifications)-if-missing-start-menu-shortcut",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/no-search-results-or-content-shown-in-public-folder-favorites.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/no-search-results-or-content-shown-in-public-folder-favorites",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/notes-area-on-printed-calendar-not-containing-outlook-notes.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/notes-area-on-printed-calendar-not-containing-outlook-notes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/office-add-ins-not-displayed-correctly.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/office-add-ins-not-displayed-correctly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/onenote-buttons-are-missing.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/onenote-buttons-are-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/only-subset-items-synchronized.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/only-subset-items-synchronized",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/only-two-excel-attachments-can-open.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/only-two-excel-attachments-can-open",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/openshareditem-holds-file-handle-on-signed-msg-files.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/openshareditem-holds-file-handle-on-signed-msg-files",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/out-of-office-feature-not-working-correctly.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/out-of-office-feature-not-working-correctly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/outlook-application-icon-missing-from-windows-taskbar.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/outlook-application-icon-missing-from-windows-taskbar",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/outlook-imap-account-cannot-download-messages.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/outlook-imap-account-cannot-download-messages",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/outlook-quick-steps-issues.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/outlook-quick-steps-issues",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/outlook-search-folders-issue-online-mode.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/outlook-search-folders-issue-online-mode",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/personmetadata-items.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/personmetadata-items",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/presence-icons-do-not-show-in-outlook.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/presence-icons-do-not-show-in-outlook",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/reminders-in-outlook-do-not-show.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/reminders-in-outlook-do-not-show",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/search-folders-created-in-outlook-do-not-appear-in-owa.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/search-folders-created-in-outlook-do-not-appear-in-owa",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/search-results-are-incorrect-due-to--missing-mapiph-dll.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/search-results-are-incorrect-due-to--missing-mapiph-dll",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/search-results-displayed-without-message-preview-text.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/search-results-displayed-without-message-preview-text",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/send-button-missing-delayed-delivery-email-outbox.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/send-button-missing-delayed-delivery-email-outbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/sending-email-by-template-fails.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/sending-email-by-template-fails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/shrink-to-fit-not-available-for-printing-emails.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/shrink-to-fit-not-available-for-printing-emails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/skype-meeting-control-is-not-displayed.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/skype-meeting-control-is-not-displayed",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/smtp-address-in-users-profile-not-change.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/smtp-address-in-users-profile-not-change",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/some-instant-messaging-client-features-not-available.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/some-instant-messaging-client-features-not-available",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/stale-mapiobject-causes-outlook-crashes.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/stale-mapiobject-causes-outlook-crashes",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/weather-bar-and-weather-settings-are-missing.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/weather-bar-and-weather-settings-are-missing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/windows-search-service-setting-results-in-no-matches-found.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/windows-search-service-setting-results-in-no-matches-found",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Client/user-interface/wpf-webbrowser-control-content-not-display-correctly.md",
+      "redirect_url": "/troubleshoot/outlook/user-interface/wpf-webbrowser-control-content-not-display-correctly",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Hub/index.yml",
+      "redirect_url": "/troubleshoot/outlook/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/attachments/you-cannot-save-this-document-with-extension-jpg-error.md",
+      "redirect_url": "/troubleshoot/outlook/attachments/you-cannot-save-this-document-with-extension-jpg-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/access-denied-change-shared-calendar-permissions.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/access-denied-change-shared-calendar-permissions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/cannot-accept-new-meeting-time-proposals.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/cannot-accept-new-meeting-time-proposals",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/cannot-move-meetings-between-calendars.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/cannot-move-meetings-between-calendars",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/cannot-open-a-shared-calendar-in-outlook-2016.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/cannot-open-a-shared-calendar-in-outlook-2016",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/cannot-open-another-calendar-with-freebusy-permission.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/cannot-open-another-calendar-with-freebusy-permission",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/cannot-open-shared-calendar.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/cannot-open-shared-calendar",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/cannot-propose-a-new-time-for-a-meeting.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/cannot-propose-a-new-time-for-a-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/cannot-save-meeting-as-draft-in-outlook-for-mac.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/cannot-save-meeting-as-draft-in-outlook-for-mac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/meetings-incorrectly-display-utc-timezone.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/meetings-incorrectly-display-utc-timezone",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/no-meeting-reminders-for-delegates.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/no-meeting-reminders-for-delegates",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/shared-calendar-shows-private-event-details.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/shared-calendar-shows-private-event-details",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/calendars/you-do-not-have-permission-error.md",
+      "redirect_url": "/troubleshoot/outlook/calendars/you-do-not-have-permission-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/connectivity/outlook-2016-for-mac-crashes-using-proxy-auto-configuration-file.md",
+      "redirect_url": "/troubleshoot/outlook/connectivity/outlook-2016-for-mac-crashes-using-proxy-auto-configuration-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/delegation/could-not-get-delegate-information-from-the-server-error.md",
+      "redirect_url": "/troubleshoot/outlook/delegation/could-not-get-delegate-information-from-the-server-error",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/delegation/delegate-permanently-deletes-emails-from-manager-inbox.md",
+      "redirect_url": "/troubleshoot/outlook/delegation/delegate-permanently-deletes-emails-from-manager-inbox",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/email-messages/font-size-may-differ-from-original-email.md",
+      "redirect_url": "/troubleshoot/outlook/email-messages/font-size-may-differ-from-original-email",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/files-and-folders/outlook-2016-for-mac-freezes-on-email-folders.md",
+      "redirect_url": "/troubleshoot/outlook/files-and-folders/outlook-2016-for-mac-freezes-on-email-folders",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/import-and-export/cannot-import-ansi-pst-file.md",
+      "redirect_url": "/troubleshoot/outlook/import-and-export/cannot-import-ansi-pst-file",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/import-and-export/permissions-error-when-importing-outlook-2011-identity.md",
+      "redirect_url": "/troubleshoot/outlook/import-and-export/permissions-error-when-importing-outlook-2011-identity",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/installation/outlook-2016-for-mac-crashes-immediately-after-startup.md",
+      "redirect_url": "/troubleshoot/outlook/installation/outlook-2016-for-mac-crashes-immediately-after-startup",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/installation/outlook-for-mac-is-a-locally-cached-email-client.md",
+      "redirect_url": "/troubleshoot/outlook/installation/outlook-for-mac-is-a-locally-cached-email-client",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/outlook-mac-welcome.yml",
+      "redirect_url": "/troubleshoot/outlook/outlook-mac-welcome",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/search/cannot-open-email-from-sportlight-search-results.md",
+      "redirect_url": "/troubleshoot/outlook/search/cannot-open-email-from-sportlight-search-results",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/send-receive-emails/email-stuck-in-outbox-outlook-2016-mac.md",
+      "redirect_url": "/troubleshoot/outlook/send-receive-emails/email-stuck-in-outbox-outlook-2016-mac",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/send-receive-emails/outlook-mac-security-groups-cannot-send-emails.md",
+      "redirect_url": "/troubleshoot/outlook/send-receive-emails/outlook-mac-security-groups-cannot-send-emails",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/send-receive-emails/prompted-for-credentials-modern-authentication.md",
+      "redirect_url": "/troubleshoot/outlook/send-receive-emails/prompted-for-credentials-modern-authentication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mac/sign-in/repeated-prompts-authentication.md",
+      "redirect_url": "/troubleshoot/outlook/sign-in/repeated-prompts-authentication",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mobile/add-ins/cannot-save-to-onenote.md",
+      "redirect_url": "/troubleshoot/outlook/add-ins/cannot-save-to-onenote",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mobile/exchange-activesync/invitations-forwarded-by-attendee-for-existing-meeting.md",
+      "redirect_url": "/troubleshoot/outlook/exchange-activesync/invitations-forwarded-by-attendee-for-existing-meeting",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mobile/exchange-connectivity/activesync-v12.0-out-of-support.md",
+      "redirect_url": "/troubleshoot/outlook/exchange-connectivity/activesync-v12.0-out-of-support",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mobile/exchange-connectivity/outlook-for-ios-and-android-with-abq-rules-are-quarantined.md",
+      "redirect_url": "/troubleshoot/outlook/exchange-connectivity/outlook-for-ios-and-android-with-abq-rules-are-quarantined",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "Outlook/Mobile/outlook-mobile-welcome.yml",
+      "redirect_url": "/troubleshoot/outlook/outlook-mobile-welcome",
+      "redirect_document_id": false
+    }
+  ]
+}
