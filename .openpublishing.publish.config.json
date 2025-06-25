@@ -169,14 +169,14 @@
   "contribution_branch_mappings": {},
   "need_generate_pdf_url_template": true,
   "redirection_files": [
-	".openpublishing.redirection.exchange.json",
+    ".openpublishing.redirection.exchange.json",
     ".openpublishing.redirection.json",
-	".openpublishing.redirection.microsoft365.json",
-	".openpublishing.redirection.office.json",
-	".openpublishing.redirection.outlook.json",
-	".openpublishing.redirection.sharepoint.json",
-	".openpublishing.redirection.skype.json",
+    ".openpublishing.redirection.microsoft365.json",
+    ".openpublishing.redirection.office.json",
+    ".openpublishing.redirection.outlook.json",
+    ".openpublishing.redirection.sharepoint.json",
+    ".openpublishing.redirection.skype.json",
     ".openpublishing.redirection.teams.json",
-	".openpublishing.redirection.viva.json"
+    ".openpublishing.redirection.viva.json"
   ]
 }

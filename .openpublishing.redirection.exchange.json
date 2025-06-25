@@ -2637,7 +2637,7 @@
     },
     {
       "source_path": "Exchange/ExchangeServer/administration/mcdb-status-is-offline-ssds-aren’t-formatted.md",
-      "redirect_url": "/troubleshoot/exchange/administration/mcdb-status-is-offline-ssds-aren’t-formatted",
+      "redirect_url": "/troubleshoot/exchange/administration/mcdb-status-is-offline-ssds-arent-formatted",
       "redirect_document_id": false
     },
     {
